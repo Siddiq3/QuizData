@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A)=22, n(B)=21, n(A\u2229B)=8, find n(A\u222aB).",
+      "correct_answer": "35",
+      "incorrect_answers": [
+        "43",
+        "33",
+        "37"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "For n(A)=22 and n(A\u2229B)=8, n(A\u2212B) equals:",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "8",
+        "30",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=45 and n(A\u222aB)=35, then n((A\u222aB)') is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "35",
+        "12",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of elements in power set of a set with 4 elements is:",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "8",
+        "32",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of proper subsets of a set with 4 elements is:",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "16",
+        "4",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of subsets containing a particular fixed element in a 4-element set is:",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "16",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If A and B are disjoint, n(A)=10, n(B)=7. Then n(A\u222aB)=",
+      "correct_answer": "17",
+      "incorrect_answers": [
+        "70",
+        "3",
+        "-3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A\u222aB)=35 and n(A\u2229B)=8, elements in exactly one of A or B are:",
+      "correct_answer": "27",
+      "incorrect_answers": [
+        "35",
+        "8",
+        "28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Given n(A)=15, n(B)=11, n(A\u2229B)=5, find n(B\u2212A).",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "10",
+        "16",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=45 and n(A)=22, then n(A') is:",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "22",
+        "25",
+        "45"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A)=24, n(B)=24, n(A\u2229B)=9, find n(A\u222aB).",
+      "correct_answer": "39",
+      "incorrect_answers": [
+        "48",
+        "37",
+        "41"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "For n(A)=24 and n(A\u2229B)=9, n(A\u2212B) equals:",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "9",
+        "33",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=50 and n(A\u222aB)=39, then n((A\u222aB)') is:",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "39",
+        "13",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of elements in power set of a set with 5 elements is:",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "10",
+        "16",
+        "64"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of proper subsets of a set with 5 elements is:",
+      "correct_answer": "31",
+      "incorrect_answers": [
+        "32",
+        "5",
+        "30"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of subsets containing a particular fixed element in a 5-element set is:",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "32",
+        "5",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If A and B are disjoint, n(A)=11, n(B)=8. Then n(A\u222aB)=",
+      "correct_answer": "19",
+      "incorrect_answers": [
+        "88",
+        "3",
+        "-3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A\u222aB)=39 and n(A\u2229B)=9, elements in exactly one of A or B are:",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "39",
+        "9",
+        "31"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Given n(A)=16, n(B)=12, n(A\u2229B)=6, find n(B\u2212A).",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "10",
+        "18",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=50 and n(A)=24, then n(A') is:",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "24",
+        "28",
+        "50"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A)=26, n(B)=27, n(A\u2229B)=10, find n(A\u222aB).",
+      "correct_answer": "43",
+      "incorrect_answers": [
+        "53",
+        "41",
+        "45"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "For n(A)=26 and n(A\u2229B)=10, n(A\u2212B) equals:",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "10",
+        "36",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=55 and n(A\u222aB)=43, then n((A\u222aB)') is:",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "43",
+        "14",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of elements in power set of a set with 6 elements is:",
+      "correct_answer": "64",
+      "incorrect_answers": [
+        "12",
+        "32",
+        "128"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of proper subsets of a set with 6 elements is:",
+      "correct_answer": "63",
+      "incorrect_answers": [
+        "64",
+        "6",
+        "62"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of subsets containing a particular fixed element in a 6-element set is:",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "64",
+        "6",
+        "31"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If A and B are disjoint, n(A)=12, n(B)=9. Then n(A\u222aB)=",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "108",
+        "3",
+        "-3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A\u222aB)=43 and n(A\u2229B)=10, elements in exactly one of A or B are:",
+      "correct_answer": "33",
+      "incorrect_answers": [
+        "43",
+        "10",
+        "34"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Given n(A)=17, n(B)=13, n(A\u2229B)=7, find n(B\u2212A).",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "10",
+        "20",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=55 and n(A)=26, then n(A') is:",
+      "correct_answer": "29",
+      "incorrect_answers": [
+        "26",
+        "31",
+        "55"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A)=28, n(B)=30, n(A\u2229B)=11, find n(A\u222aB).",
+      "correct_answer": "47",
+      "incorrect_answers": [
+        "58",
+        "45",
+        "49"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "For n(A)=28 and n(A\u2229B)=11, n(A\u2212B) equals:",
+      "correct_answer": "17",
+      "incorrect_answers": [
+        "11",
+        "39",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=60 and n(A\u222aB)=47, then n((A\u222aB)') is:",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "47",
+        "15",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of elements in power set of a set with 7 elements is:",
+      "correct_answer": "128",
+      "incorrect_answers": [
+        "14",
+        "64",
+        "256"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of proper subsets of a set with 7 elements is:",
+      "correct_answer": "127",
+      "incorrect_answers": [
+        "128",
+        "7",
+        "126"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of subsets containing a particular fixed element in a 7-element set is:",
+      "correct_answer": "64",
+      "incorrect_answers": [
+        "128",
+        "7",
+        "63"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If A and B are disjoint, n(A)=13, n(B)=10. Then n(A\u222aB)=",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "130",
+        "3",
+        "-3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A\u222aB)=47 and n(A\u2229B)=11, elements in exactly one of A or B are:",
+      "correct_answer": "36",
+      "incorrect_answers": [
+        "47",
+        "11",
+        "37"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Given n(A)=18, n(B)=14, n(A\u2229B)=8, find n(B\u2212A).",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "10",
+        "22",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=60 and n(A)=28, then n(A') is:",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "28",
+        "34",
+        "60"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A)=30, n(B)=33, n(A\u2229B)=12, find n(A\u222aB).",
+      "correct_answer": "51",
+      "incorrect_answers": [
+        "63",
+        "49",
+        "53"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "For n(A)=30 and n(A\u2229B)=12, n(A\u2212B) equals:",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "12",
+        "42",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=65 and n(A\u222aB)=51, then n((A\u222aB)') is:",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "51",
+        "16",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of elements in power set of a set with 8 elements is:",
+      "correct_answer": "256",
+      "incorrect_answers": [
+        "16",
+        "128",
+        "512"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of proper subsets of a set with 8 elements is:",
+      "correct_answer": "255",
+      "incorrect_answers": [
+        "256",
+        "8",
+        "254"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Number of subsets containing a particular fixed element in a 8-element set is:",
+      "correct_answer": "128",
+      "incorrect_answers": [
+        "256",
+        "8",
+        "127"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If A and B are disjoint, n(A)=14, n(B)=11. Then n(A\u222aB)=",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "154",
+        "3",
+        "-3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(A\u222aB)=51 and n(A\u2229B)=12, elements in exactly one of A or B are:",
+      "correct_answer": "39",
+      "incorrect_answers": [
+        "51",
+        "12",
+        "40"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "Given n(A)=19, n(B)=15, n(A\u2229B)=9, find n(B\u2212A).",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "10",
+        "24",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "If n(U)=65 and n(A)=30, then n(A') is:",
+      "correct_answer": "35",
+      "incorrect_answers": [
+        "30",
+        "37",
+        "65"
+      ]
+    }
+  ]
+}

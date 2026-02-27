@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Two similar triangles have corresponding side ratio 2:1. Their area ratio is:",
+      "correct_answer": "4:1",
+      "incorrect_answers": [
+        "2:1",
+        "3:1",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Areas of two similar triangles are 9 and 36. Ratio of corresponding sides is:",
+      "correct_answer": "3:6",
+      "incorrect_answers": [
+        "9:36",
+        "6:3",
+        "9:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Perimeters of two similar triangles are 9 cm and 15 cm. Ratio of corresponding sides is:",
+      "correct_answer": "9:15",
+      "incorrect_answers": [
+        "15:9",
+        "135:1",
+        "-6:15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In \u0394ABC, D lies on AB and E on AC with DE || BC. If AB=9, AD=5, AC=11, then AE=",
+      "correct_answer": "6.11",
+      "incorrect_answers": [
+        "7.11",
+        "5.11",
+        "4.89"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If two similar triangles have one pair of sides 7 cm and 21 cm, then side corresponding to 6 cm is:",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "9",
+        "12",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Altitudes of two similar triangles are 4 cm and 7 cm. Ratio of corresponding sides is:",
+      "correct_answer": "4:7",
+      "incorrect_answers": [
+        "16:49",
+        "7:4",
+        "11:7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If scale factor from triangle A to B is 3, perimeter of A is 12 cm. Perimeter of B is:",
+      "correct_answer": "36",
+      "incorrect_answers": [
+        "15",
+        "24",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If AB/PQ = BC/QR = 3/5 in similar triangles, then AC/PR is:",
+      "correct_answer": "3/5",
+      "incorrect_answers": [
+        "5/3",
+        "8/5",
+        "3/8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In triangle set 1, criterion with two proportional sides and included equal angle is:",
+      "correct_answer": "SAS similarity",
+      "incorrect_answers": [
+        "SSS congruence",
+        "RHS congruence",
+        "AAA congruence"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If all corresponding angles of two triangles in set 1 are equal, they are:",
+      "correct_answer": "Similar",
+      "incorrect_answers": [
+        "Congruent only",
+        "Not related",
+        "Perpendicular"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Two similar triangles have corresponding side ratio 3:1. Their area ratio is:",
+      "correct_answer": "9:1",
+      "incorrect_answers": [
+        "3:1",
+        "6:1",
+        "4:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Areas of two similar triangles are 16 and 49. Ratio of corresponding sides is:",
+      "correct_answer": "4:7",
+      "incorrect_answers": [
+        "16:49",
+        "7:4",
+        "11:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Perimeters of two similar triangles are 12 cm and 20 cm. Ratio of corresponding sides is:",
+      "correct_answer": "12:20",
+      "incorrect_answers": [
+        "20:12",
+        "240:1",
+        "-8:20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In \u0394ABC, D lies on AB and E on AC with DE || BC. If AB=10, AD=6, AC=12, then AE=",
+      "correct_answer": "7.2",
+      "incorrect_answers": [
+        "8.2",
+        "6.2",
+        "4.8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If two similar triangles have one pair of sides 8 cm and 32 cm, then side corresponding to 7 cm is:",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "11",
+        "21",
+        "1.75"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Altitudes of two similar triangles are 5 cm and 8 cm. Ratio of corresponding sides is:",
+      "correct_answer": "5:8",
+      "incorrect_answers": [
+        "25:64",
+        "8:5",
+        "13:8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If scale factor from triangle A to B is 4, perimeter of A is 12 cm. Perimeter of B is:",
+      "correct_answer": "48",
+      "incorrect_answers": [
+        "16",
+        "36",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If AB/PQ = BC/QR = 4/6 in similar triangles, then AC/PR is:",
+      "correct_answer": "4/6",
+      "incorrect_answers": [
+        "6/4",
+        "10/6",
+        "4/10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In triangle set 2, criterion with two proportional sides and included equal angle is:",
+      "correct_answer": "SAS similarity",
+      "incorrect_answers": [
+        "SSS congruence",
+        "RHS congruence",
+        "AAA congruence"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If all corresponding angles of two triangles in set 2 are equal, they are:",
+      "correct_answer": "Similar",
+      "incorrect_answers": [
+        "Congruent only",
+        "Not related",
+        "Perpendicular"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Two similar triangles have corresponding side ratio 4:1. Their area ratio is:",
+      "correct_answer": "16:1",
+      "incorrect_answers": [
+        "4:1",
+        "8:1",
+        "5:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Areas of two similar triangles are 25 and 64. Ratio of corresponding sides is:",
+      "correct_answer": "5:8",
+      "incorrect_answers": [
+        "25:64",
+        "8:5",
+        "13:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Perimeters of two similar triangles are 15 cm and 25 cm. Ratio of corresponding sides is:",
+      "correct_answer": "15:25",
+      "incorrect_answers": [
+        "25:15",
+        "375:1",
+        "-10:25"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In \u0394ABC, D lies on AB and E on AC with DE || BC. If AB=11, AD=7, AC=13, then AE=",
+      "correct_answer": "8.27",
+      "incorrect_answers": [
+        "9.27",
+        "7.27",
+        "4.73"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If two similar triangles have one pair of sides 9 cm and 45 cm, then side corresponding to 8 cm is:",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "13",
+        "32",
+        "1.6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Altitudes of two similar triangles are 6 cm and 9 cm. Ratio of corresponding sides is:",
+      "correct_answer": "6:9",
+      "incorrect_answers": [
+        "36:81",
+        "9:6",
+        "15:9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If scale factor from triangle A to B is 5, perimeter of A is 12 cm. Perimeter of B is:",
+      "correct_answer": "60",
+      "incorrect_answers": [
+        "17",
+        "48",
+        "2.4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If AB/PQ = BC/QR = 5/7 in similar triangles, then AC/PR is:",
+      "correct_answer": "5/7",
+      "incorrect_answers": [
+        "7/5",
+        "12/7",
+        "5/12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In triangle set 3, criterion with two proportional sides and included equal angle is:",
+      "correct_answer": "SAS similarity",
+      "incorrect_answers": [
+        "SSS congruence",
+        "RHS congruence",
+        "AAA congruence"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If all corresponding angles of two triangles in set 3 are equal, they are:",
+      "correct_answer": "Similar",
+      "incorrect_answers": [
+        "Congruent only",
+        "Not related",
+        "Perpendicular"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Two similar triangles have corresponding side ratio 5:1. Their area ratio is:",
+      "correct_answer": "25:1",
+      "incorrect_answers": [
+        "5:1",
+        "10:1",
+        "6:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Areas of two similar triangles are 36 and 81. Ratio of corresponding sides is:",
+      "correct_answer": "6:9",
+      "incorrect_answers": [
+        "36:81",
+        "9:6",
+        "15:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Perimeters of two similar triangles are 18 cm and 30 cm. Ratio of corresponding sides is:",
+      "correct_answer": "18:30",
+      "incorrect_answers": [
+        "30:18",
+        "540:1",
+        "-12:30"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In \u0394ABC, D lies on AB and E on AC with DE || BC. If AB=12, AD=8, AC=14, then AE=",
+      "correct_answer": "9.33",
+      "incorrect_answers": [
+        "10.33",
+        "8.33",
+        "4.67"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If two similar triangles have one pair of sides 10 cm and 60 cm, then side corresponding to 9 cm is:",
+      "correct_answer": "54",
+      "incorrect_answers": [
+        "15",
+        "45",
+        "1.5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Altitudes of two similar triangles are 7 cm and 10 cm. Ratio of corresponding sides is:",
+      "correct_answer": "7:10",
+      "incorrect_answers": [
+        "49:100",
+        "10:7",
+        "17:10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If scale factor from triangle A to B is 6, perimeter of A is 12 cm. Perimeter of B is:",
+      "correct_answer": "72",
+      "incorrect_answers": [
+        "18",
+        "60",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If AB/PQ = BC/QR = 6/8 in similar triangles, then AC/PR is:",
+      "correct_answer": "6/8",
+      "incorrect_answers": [
+        "8/6",
+        "14/8",
+        "6/14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In triangle set 4, criterion with two proportional sides and included equal angle is:",
+      "correct_answer": "SAS similarity",
+      "incorrect_answers": [
+        "SSS congruence",
+        "RHS congruence",
+        "AAA congruence"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If all corresponding angles of two triangles in set 4 are equal, they are:",
+      "correct_answer": "Similar",
+      "incorrect_answers": [
+        "Congruent only",
+        "Not related",
+        "Perpendicular"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Two similar triangles have corresponding side ratio 6:1. Their area ratio is:",
+      "correct_answer": "36:1",
+      "incorrect_answers": [
+        "6:1",
+        "12:1",
+        "7:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Areas of two similar triangles are 49 and 100. Ratio of corresponding sides is:",
+      "correct_answer": "7:10",
+      "incorrect_answers": [
+        "49:100",
+        "10:7",
+        "17:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Perimeters of two similar triangles are 21 cm and 35 cm. Ratio of corresponding sides is:",
+      "correct_answer": "21:35",
+      "incorrect_answers": [
+        "35:21",
+        "735:1",
+        "-14:35"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In \u0394ABC, D lies on AB and E on AC with DE || BC. If AB=13, AD=9, AC=15, then AE=",
+      "correct_answer": "10.38",
+      "incorrect_answers": [
+        "11.38",
+        "9.38",
+        "4.62"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If two similar triangles have one pair of sides 11 cm and 77 cm, then side corresponding to 10 cm is:",
+      "correct_answer": "70",
+      "incorrect_answers": [
+        "17",
+        "60",
+        "1.43"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "Altitudes of two similar triangles are 8 cm and 11 cm. Ratio of corresponding sides is:",
+      "correct_answer": "8:11",
+      "incorrect_answers": [
+        "64:121",
+        "11:8",
+        "19:11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If scale factor from triangle A to B is 7, perimeter of A is 12 cm. Perimeter of B is:",
+      "correct_answer": "84",
+      "incorrect_answers": [
+        "19",
+        "72",
+        "1.71"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If AB/PQ = BC/QR = 7/9 in similar triangles, then AC/PR is:",
+      "correct_answer": "7/9",
+      "incorrect_answers": [
+        "9/7",
+        "16/9",
+        "7/16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "In triangle set 5, criterion with two proportional sides and included equal angle is:",
+      "correct_answer": "SAS similarity",
+      "incorrect_answers": [
+        "SSS congruence",
+        "RHS congruence",
+        "AAA congruence"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "question": "If all corresponding angles of two triangles in set 5 are equal, they are:",
+      "correct_answer": "Similar",
+      "incorrect_answers": [
+        "Congruent only",
+        "Not related",
+        "Perpendicular"
+      ]
+    }
+  ]
+}

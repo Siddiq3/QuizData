@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Find the 7th term of AP: 3, 6, 9, ...",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "18",
+        "24",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Common difference of AP 3, 6, 9, ... is:",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "4",
+        "2",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of first 9 terms of AP with a=3, d=3 is:",
+      "correct_answer": "135",
+      "incorrect_answers": [
+        "132",
+        "138",
+        "27"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In AP with a=3, d=3, 18 is which term?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "5",
+        "7",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "One arithmetic mean between 5 and 17 is:",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "12",
+        "22",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of terms from term 3 to term 7 in AP with a=3, d=3 is:",
+      "correct_answer": "75",
+      "incorrect_answers": [
+        "72",
+        "78",
+        "77"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If nth term is 30, n=10, d=3, then first term a is:",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "6",
+        "0",
+        "30"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If a=3, d=3, then S_6 equals:",
+      "correct_answer": "63",
+      "incorrect_answers": [
+        "66",
+        "60",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Is 19.5 a term of AP with a=3, d=3?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Only when n is even",
+        "Cannot say"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Average of first and 7th term in AP (a=3, d=3) is:",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "24",
+        "9",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Find the 8th term of AP: 5, 9, 13, ...",
+      "correct_answer": "33",
+      "incorrect_answers": [
+        "29",
+        "37",
+        "40"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Common difference of AP 5, 9, 13, ... is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "3",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of first 10 terms of AP with a=5, d=4 is:",
+      "correct_answer": "230",
+      "incorrect_answers": [
+        "226",
+        "234",
+        "50"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In AP with a=5, d=4, 29 is which term?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "6",
+        "8",
+        "29"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "One arithmetic mean between 6 and 18 is:",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "24",
+        "13",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of terms from term 4 to term 8 in AP with a=5, d=4 is:",
+      "correct_answer": "125",
+      "incorrect_answers": [
+        "121",
+        "129",
+        "127"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If nth term is 45, n=11, d=4, then first term a is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "9",
+        "1",
+        "45"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If a=5, d=4, then S_7 equals:",
+      "correct_answer": "119",
+      "incorrect_answers": [
+        "123",
+        "115",
+        "35"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Is 31 a term of AP with a=5, d=4?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Only when n is even",
+        "Cannot say"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Average of first and 8th term in AP (a=5, d=4) is:",
+      "correct_answer": "19",
+      "incorrect_answers": [
+        "38",
+        "14",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Find the 9th term of AP: 7, 12, 17, ...",
+      "correct_answer": "47",
+      "incorrect_answers": [
+        "42",
+        "52",
+        "63"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Common difference of AP 7, 12, 17, ... is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "6",
+        "4",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of first 11 terms of AP with a=7, d=5 is:",
+      "correct_answer": "352",
+      "incorrect_answers": [
+        "347",
+        "357",
+        "77"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In AP with a=7, d=5, 42 is which term?",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "7",
+        "9",
+        "42"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "One arithmetic mean between 7 and 19 is:",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "12",
+        "26",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of terms from term 5 to term 9 in AP with a=7, d=5 is:",
+      "correct_answer": "185",
+      "incorrect_answers": [
+        "180",
+        "190",
+        "187"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If nth term is 62, n=12, d=5, then first term a is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "12",
+        "2",
+        "62"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If a=7, d=5, then S_8 equals:",
+      "correct_answer": "196",
+      "incorrect_answers": [
+        "201",
+        "191",
+        "56"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Is 44.5 a term of AP with a=7, d=5?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Only when n is even",
+        "Cannot say"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Average of first and 9th term in AP (a=7, d=5) is:",
+      "correct_answer": "27",
+      "incorrect_answers": [
+        "54",
+        "20",
+        "28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Find the 10th term of AP: 9, 15, 21, ...",
+      "correct_answer": "63",
+      "incorrect_answers": [
+        "57",
+        "69",
+        "90"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Common difference of AP 9, 15, 21, ... is:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "7",
+        "5",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of first 12 terms of AP with a=9, d=6 is:",
+      "correct_answer": "504",
+      "incorrect_answers": [
+        "498",
+        "510",
+        "108"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In AP with a=9, d=6, 57 is which term?",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "8",
+        "10",
+        "57"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "One arithmetic mean between 8 and 20 is:",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "12",
+        "28",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of terms from term 6 to term 10 in AP with a=9, d=6 is:",
+      "correct_answer": "255",
+      "incorrect_answers": [
+        "249",
+        "261",
+        "257"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If nth term is 81, n=13, d=6, then first term a is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "15",
+        "3",
+        "81"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If a=9, d=6, then S_9 equals:",
+      "correct_answer": "297",
+      "incorrect_answers": [
+        "303",
+        "291",
+        "81"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Is 60 a term of AP with a=9, d=6?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Only when n is even",
+        "Cannot say"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Average of first and 10th term in AP (a=9, d=6) is:",
+      "correct_answer": "36",
+      "incorrect_answers": [
+        "72",
+        "27",
+        "37"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Find the 11th term of AP: 11, 18, 25, ...",
+      "correct_answer": "81",
+      "incorrect_answers": [
+        "74",
+        "88",
+        "121"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Common difference of AP 11, 18, 25, ... is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "6",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of first 13 terms of AP with a=11, d=7 is:",
+      "correct_answer": "689",
+      "incorrect_answers": [
+        "682",
+        "696",
+        "143"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In AP with a=11, d=7, 74 is which term?",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "9",
+        "11",
+        "74"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "One arithmetic mean between 9 and 21 is:",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "12",
+        "30",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Sum of terms from term 7 to term 11 in AP with a=11, d=7 is:",
+      "correct_answer": "335",
+      "incorrect_answers": [
+        "328",
+        "342",
+        "337"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If nth term is 102, n=14, d=7, then first term a is:",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "18",
+        "4",
+        "102"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "If a=11, d=7, then S_10 equals:",
+      "correct_answer": "425",
+      "incorrect_answers": [
+        "432",
+        "418",
+        "110"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Is 77.5 a term of AP with a=11, d=7?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Only when n is even",
+        "Cannot say"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "Average of first and 11th term in AP (a=11, d=7) is:",
+      "correct_answer": "46",
+      "incorrect_answers": [
+        "92",
+        "35",
+        "47"
+      ]
+    }
+  ]
+}

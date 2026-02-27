@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 12 m from a tower, angle of elevation is 45\u00b0. Height is:",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "14",
+        "10",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 14 m away, angle of elevation is 30\u00b0. Tower height is:",
+      "correct_answer": "8.08",
+      "incorrect_answers": [
+        "24.25",
+        "14",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 10 m away, angle of elevation is 60\u00b0. Tower height is:",
+      "correct_answer": "17.32",
+      "incorrect_answers": [
+        "5.77",
+        "10",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A pole of height 7 m casts a shadow when sun elevation is 60\u00b0. Shadow length is:",
+      "correct_answer": "4.04",
+      "incorrect_answers": [
+        "12.12",
+        "7",
+        "3.5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If building height is 16 m and angle of elevation is 45\u00b0, horizontal distance is:",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "19",
+        "13",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If a tree is 11 m high and angle of elevation is 30\u00b0, distance from point to foot is:",
+      "correct_answer": "19.05",
+      "incorrect_answers": [
+        "6.35",
+        "11",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "Angle of depression from top of a 22 m lighthouse to a ship is 60\u00b0. Distance from foot is:",
+      "correct_answer": "12.7",
+      "incorrect_answers": [
+        "38.11",
+        "22",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A vertical object casts shadow 6 m when sun elevation is 45\u00b0. Height is:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "7",
+        "5",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "In application set 1, correct relation between height h and distance d is:",
+      "correct_answer": "tan\u03b8 = h/d",
+      "incorrect_answers": [
+        "sin\u03b8 = d/h",
+        "cos\u03b8 = h/d",
+        "tan\u03b8 = d/h"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If angle of elevation is 60\u00b0 and adjacent side is a in set 1, opposite side is:",
+      "correct_answer": "a*sqrt(3)",
+      "incorrect_answers": [
+        "a/sqrt(3)",
+        "a",
+        "2a"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 14 m from a tower, angle of elevation is 45\u00b0. Height is:",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "16",
+        "12",
+        "28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 16 m away, angle of elevation is 30\u00b0. Tower height is:",
+      "correct_answer": "9.24",
+      "incorrect_answers": [
+        "27.71",
+        "16",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 12 m away, angle of elevation is 60\u00b0. Tower height is:",
+      "correct_answer": "20.78",
+      "incorrect_answers": [
+        "6.93",
+        "12",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A pole of height 8 m casts a shadow when sun elevation is 60\u00b0. Shadow length is:",
+      "correct_answer": "4.62",
+      "incorrect_answers": [
+        "13.86",
+        "8",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If building height is 18 m and angle of elevation is 45\u00b0, horizontal distance is:",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "21",
+        "15",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If a tree is 12 m high and angle of elevation is 30\u00b0, distance from point to foot is:",
+      "correct_answer": "20.78",
+      "incorrect_answers": [
+        "6.93",
+        "12",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "Angle of depression from top of a 24 m lighthouse to a ship is 60\u00b0. Distance from foot is:",
+      "correct_answer": "13.86",
+      "incorrect_answers": [
+        "41.57",
+        "24",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A vertical object casts shadow 7 m when sun elevation is 45\u00b0. Height is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "6",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "In application set 2, correct relation between height h and distance d is:",
+      "correct_answer": "tan\u03b8 = h/d",
+      "incorrect_answers": [
+        "sin\u03b8 = d/h",
+        "cos\u03b8 = h/d",
+        "tan\u03b8 = d/h"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If angle of elevation is 60\u00b0 and adjacent side is a in set 2, opposite side is:",
+      "correct_answer": "a*sqrt(3)",
+      "incorrect_answers": [
+        "a/sqrt(3)",
+        "a",
+        "2a"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 16 m from a tower, angle of elevation is 45\u00b0. Height is:",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "18",
+        "14",
+        "32"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 18 m away, angle of elevation is 30\u00b0. Tower height is:",
+      "correct_answer": "10.39",
+      "incorrect_answers": [
+        "31.18",
+        "18",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 14 m away, angle of elevation is 60\u00b0. Tower height is:",
+      "correct_answer": "24.25",
+      "incorrect_answers": [
+        "8.08",
+        "14",
+        "28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A pole of height 9 m casts a shadow when sun elevation is 60\u00b0. Shadow length is:",
+      "correct_answer": "5.2",
+      "incorrect_answers": [
+        "15.59",
+        "9",
+        "4.5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If building height is 20 m and angle of elevation is 45\u00b0, horizontal distance is:",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "23",
+        "17",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If a tree is 13 m high and angle of elevation is 30\u00b0, distance from point to foot is:",
+      "correct_answer": "22.52",
+      "incorrect_answers": [
+        "7.51",
+        "13",
+        "26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "Angle of depression from top of a 26 m lighthouse to a ship is 60\u00b0. Distance from foot is:",
+      "correct_answer": "15.01",
+      "incorrect_answers": [
+        "45.03",
+        "26",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A vertical object casts shadow 8 m when sun elevation is 45\u00b0. Height is:",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "9",
+        "7",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "In application set 3, correct relation between height h and distance d is:",
+      "correct_answer": "tan\u03b8 = h/d",
+      "incorrect_answers": [
+        "sin\u03b8 = d/h",
+        "cos\u03b8 = h/d",
+        "tan\u03b8 = d/h"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If angle of elevation is 60\u00b0 and adjacent side is a in set 3, opposite side is:",
+      "correct_answer": "a*sqrt(3)",
+      "incorrect_answers": [
+        "a/sqrt(3)",
+        "a",
+        "2a"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 18 m from a tower, angle of elevation is 45\u00b0. Height is:",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "20",
+        "16",
+        "36"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 20 m away, angle of elevation is 30\u00b0. Tower height is:",
+      "correct_answer": "11.55",
+      "incorrect_answers": [
+        "34.64",
+        "20",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 16 m away, angle of elevation is 60\u00b0. Tower height is:",
+      "correct_answer": "27.71",
+      "incorrect_answers": [
+        "9.24",
+        "16",
+        "32"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A pole of height 10 m casts a shadow when sun elevation is 60\u00b0. Shadow length is:",
+      "correct_answer": "5.77",
+      "incorrect_answers": [
+        "17.32",
+        "10",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If building height is 22 m and angle of elevation is 45\u00b0, horizontal distance is:",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "25",
+        "19",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If a tree is 14 m high and angle of elevation is 30\u00b0, distance from point to foot is:",
+      "correct_answer": "24.25",
+      "incorrect_answers": [
+        "8.08",
+        "14",
+        "28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "Angle of depression from top of a 28 m lighthouse to a ship is 60\u00b0. Distance from foot is:",
+      "correct_answer": "16.17",
+      "incorrect_answers": [
+        "48.5",
+        "28",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A vertical object casts shadow 9 m when sun elevation is 45\u00b0. Height is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "In application set 4, correct relation between height h and distance d is:",
+      "correct_answer": "tan\u03b8 = h/d",
+      "incorrect_answers": [
+        "sin\u03b8 = d/h",
+        "cos\u03b8 = h/d",
+        "tan\u03b8 = d/h"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If angle of elevation is 60\u00b0 and adjacent side is a in set 4, opposite side is:",
+      "correct_answer": "a*sqrt(3)",
+      "incorrect_answers": [
+        "a/sqrt(3)",
+        "a",
+        "2a"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 20 m from a tower, angle of elevation is 45\u00b0. Height is:",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "22",
+        "18",
+        "40"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 22 m away, angle of elevation is 30\u00b0. Tower height is:",
+      "correct_answer": "12.7",
+      "incorrect_answers": [
+        "38.11",
+        "22",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "From a point 18 m away, angle of elevation is 60\u00b0. Tower height is:",
+      "correct_answer": "31.18",
+      "incorrect_answers": [
+        "10.39",
+        "18",
+        "36"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A pole of height 11 m casts a shadow when sun elevation is 60\u00b0. Shadow length is:",
+      "correct_answer": "6.35",
+      "incorrect_answers": [
+        "19.05",
+        "11",
+        "5.5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If building height is 24 m and angle of elevation is 45\u00b0, horizontal distance is:",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "27",
+        "21",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If a tree is 15 m high and angle of elevation is 30\u00b0, distance from point to foot is:",
+      "correct_answer": "25.98",
+      "incorrect_answers": [
+        "8.66",
+        "15",
+        "30"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "Angle of depression from top of a 30 m lighthouse to a ship is 60\u00b0. Distance from foot is:",
+      "correct_answer": "17.32",
+      "incorrect_answers": [
+        "51.96",
+        "30",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "A vertical object casts shadow 10 m when sun elevation is 45\u00b0. Height is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "11",
+        "9",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "In application set 5, correct relation between height h and distance d is:",
+      "correct_answer": "tan\u03b8 = h/d",
+      "incorrect_answers": [
+        "sin\u03b8 = d/h",
+        "cos\u03b8 = h/d",
+        "tan\u03b8 = d/h"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "question": "If angle of elevation is 60\u00b0 and adjacent side is a in set 5, opposite side is:",
+      "correct_answer": "a*sqrt(3)",
+      "incorrect_answers": [
+        "a/sqrt(3)",
+        "a",
+        "2a"
+      ]
+    }
+  ]
+}

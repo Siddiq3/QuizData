@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 12 and 21.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "4",
+        "7",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 12 and 21.",
+      "correct_answer": "84",
+      "incorrect_answers": [
+        "81",
+        "87",
+        "252"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "The decimal expansion of 13/8 is:",
+      "correct_answer": "Terminating",
+      "incorrect_answers": [
+        "Non-terminating recurring",
+        "Non-terminating non-recurring",
+        "Irrational"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the remainder when 111 is divided by 12.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "4",
+        "2",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Two numbers have HCF 3 and LCM 84. If one number is 12, find the other number.",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "24",
+        "18",
+        "25"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Which among these is irrational: sqrt(2), 2, 4, 2.0 ?",
+      "correct_answer": "sqrt(2)",
+      "incorrect_answers": [
+        "2",
+        "4",
+        "2.0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "What is the highest power of 2 that divides 48?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Compute HCF(15, 23) + LCM(15, 23).",
+      "correct_answer": "346",
+      "incorrect_answers": [
+        "344",
+        "348",
+        "347"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Convert recurring decimal 0.(3) into a fraction.",
+      "correct_answer": "1/3",
+      "incorrect_answers": [
+        "1/9",
+        "2/9",
+        "5/3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Given gcd(5, 7) = 1, find gcd(10, 14).",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 20 and 32.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "8",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 20 and 32.",
+      "correct_answer": "160",
+      "incorrect_answers": [
+        "156",
+        "164",
+        "640"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "The decimal expansion of 13/20 is:",
+      "correct_answer": "Terminating",
+      "incorrect_answers": [
+        "Non-terminating recurring",
+        "Non-terminating non-recurring",
+        "Irrational"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the remainder when 122 is divided by 13.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "6",
+        "4",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Two numbers have HCF 4 and LCM 160. If one number is 20, find the other number.",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "36",
+        "28",
+        "37"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Which among these is irrational: sqrt(3), 3, 9, 3.0 ?",
+      "correct_answer": "sqrt(3)",
+      "incorrect_answers": [
+        "3",
+        "9",
+        "3.0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "What is the highest power of 2 that divides 72?",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Compute HCF(16, 25) + LCM(16, 25).",
+      "correct_answer": "401",
+      "incorrect_answers": [
+        "399",
+        "403",
+        "402"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Convert recurring decimal 0.(6) into a fraction.",
+      "correct_answer": "2/3",
+      "incorrect_answers": [
+        "1/9",
+        "2/9",
+        "5/3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Given gcd(7, 9) = 1, find gcd(21, 27).",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "1",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 35 and 45.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "7",
+        "9",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 35 and 45.",
+      "correct_answer": "315",
+      "incorrect_answers": [
+        "310",
+        "320",
+        "1575"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "The decimal expansion of 13/25 is:",
+      "correct_answer": "Terminating",
+      "incorrect_answers": [
+        "Non-terminating recurring",
+        "Non-terminating non-recurring",
+        "Irrational"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the remainder when 133 is divided by 14.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "6",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Two numbers have HCF 5 and LCM 315. If one number is 35, find the other number.",
+      "correct_answer": "45",
+      "incorrect_answers": [
+        "50",
+        "40",
+        "52"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Which among these is irrational: sqrt(5), 5, 25, 5.0 ?",
+      "correct_answer": "sqrt(5)",
+      "incorrect_answers": [
+        "5",
+        "25",
+        "5.0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "What is the highest power of 2 that divides 96?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "4",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Compute HCF(17, 27) + LCM(17, 27).",
+      "correct_answer": "460",
+      "incorrect_answers": [
+        "458",
+        "462",
+        "461"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Convert recurring decimal 0.(9) into a fraction.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "1/9",
+        "2/9",
+        "5/3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Given gcd(9, 11) = 1, find gcd(36, 44).",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "1",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 48 and 66.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "11",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 48 and 66.",
+      "correct_answer": "528",
+      "incorrect_answers": [
+        "522",
+        "534",
+        "3168"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "The decimal expansion of 13/18 is:",
+      "correct_answer": "Non-terminating recurring",
+      "incorrect_answers": [
+        "Terminating",
+        "Non-terminating non-recurring",
+        "Irrational"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the remainder when 144 is divided by 15.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Two numbers have HCF 6 and LCM 528. If one number is 48, find the other number.",
+      "correct_answer": "66",
+      "incorrect_answers": [
+        "72",
+        "60",
+        "74"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Which among these is irrational: sqrt(6), 6, 36, 6.0 ?",
+      "correct_answer": "sqrt(6)",
+      "incorrect_answers": [
+        "6",
+        "36",
+        "6.0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "What is the highest power of 2 that divides 160?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "4",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Compute HCF(18, 29) + LCM(18, 29).",
+      "correct_answer": "523",
+      "incorrect_answers": [
+        "521",
+        "525",
+        "524"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Convert recurring decimal 0.(12) into a fraction.",
+      "correct_answer": "4/3",
+      "incorrect_answers": [
+        "1/9",
+        "2/9",
+        "5/3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Given gcd(11, 13) = 1, find gcd(55, 65).",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "1",
+        "10",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 63 and 91.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "9",
+        "13",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 63 and 91.",
+      "correct_answer": "819",
+      "incorrect_answers": [
+        "812",
+        "826",
+        "5733"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "The decimal expansion of 13/45 is:",
+      "correct_answer": "Non-terminating recurring",
+      "incorrect_answers": [
+        "Terminating",
+        "Non-terminating non-recurring",
+        "Irrational"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the remainder when 155 is divided by 16.",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "12",
+        "10",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Two numbers have HCF 7 and LCM 819. If one number is 63, find the other number.",
+      "correct_answer": "91",
+      "incorrect_answers": [
+        "98",
+        "84",
+        "100"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Which among these is irrational: sqrt(7), 7, 49, 7.0 ?",
+      "correct_answer": "sqrt(7)",
+      "incorrect_answers": [
+        "7",
+        "49",
+        "7.0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "What is the highest power of 2 that divides 224?",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "4",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Compute HCF(19, 31) + LCM(19, 31).",
+      "correct_answer": "590",
+      "incorrect_answers": [
+        "588",
+        "592",
+        "591"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Convert recurring decimal 0.(27) into a fraction.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "1/9",
+        "2/9",
+        "5/3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Given gcd(13, 15) = 1, find gcd(78, 90).",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "1",
+        "12",
+        "13"
+      ]
+    }
+  ]
+}

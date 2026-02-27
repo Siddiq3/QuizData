@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x)=x^2+3x+3, find p(2).",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "10",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when p(x)=x^2+3x+3 is divided by (x\u22123) is:",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "15",
+        "9",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+3x+3, sum of zeroes is:",
+      "correct_answer": "-3",
+      "incorrect_answers": [
+        "3",
+        "-2",
+        "-4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+3x+3, product of zeroes is:",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "-3",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "A quadratic polynomial with zeroes 2 and 5 is:",
+      "correct_answer": "x^2-7x+10",
+      "incorrect_answers": [
+        "x^2+7x+10",
+        "x^2-10x+7",
+        "x^2+10x-7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Is (x\u22123) a factor of x^2\u22126x+1?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Cannot decide",
+        "Only for x=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Degree of polynomial (x^3)*(x^4) is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "3",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Sum of zeroes of a quadratic polynomial is 7. If one zero is 3, the other is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "7",
+        "3",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "If sum of zeroes is 7 and product is 6, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "37",
+      "incorrect_answers": [
+        "49",
+        "12",
+        "39"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when x^3\u22123x is divided by (x\u22124) is:",
+      "correct_answer": "52",
+      "incorrect_answers": [
+        "4",
+        "61",
+        "76"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x)=x^2+5x+4, find p(3).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "18",
+        "13",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when p(x)=x^2+5x+4 is divided by (x\u22124) is:",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "25",
+        "13",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+5x+4, sum of zeroes is:",
+      "correct_answer": "-5",
+      "incorrect_answers": [
+        "5",
+        "4",
+        "-4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+5x+4, product of zeroes is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "-4",
+        "-5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "A quadratic polynomial with zeroes 3 and 6 is:",
+      "correct_answer": "x^2-9x+18",
+      "incorrect_answers": [
+        "x^2+9x+18",
+        "x^2-18x+9",
+        "x^2+18x-9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Is (x\u22124) a factor of x^2\u22128x+2?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Cannot decide",
+        "Only for x=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Degree of polynomial (x^4)*(x^5) is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "4",
+        "5",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Sum of zeroes of a quadratic polynomial is 8. If one zero is 4, the other is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "8",
+        "12",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "If sum of zeroes is 8 and product is 7, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "50",
+      "incorrect_answers": [
+        "64",
+        "14",
+        "52"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when x^3\u22125x is divided by (x\u22125) is:",
+      "correct_answer": "100",
+      "incorrect_answers": [
+        "0",
+        "120",
+        "150"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x)=x^2+7x+5, find p(4).",
+      "correct_answer": "49",
+      "incorrect_answers": [
+        "28",
+        "21",
+        "33"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when p(x)=x^2+7x+5 is divided by (x\u22125) is:",
+      "correct_answer": "65",
+      "incorrect_answers": [
+        "37",
+        "17",
+        "30"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+7x+5, sum of zeroes is:",
+      "correct_answer": "-7",
+      "incorrect_answers": [
+        "7",
+        "5",
+        "-5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+7x+5, product of zeroes is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "7",
+        "-5",
+        "-7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "A quadratic polynomial with zeroes 4 and 7 is:",
+      "correct_answer": "x^2-11x+28",
+      "incorrect_answers": [
+        "x^2+11x+28",
+        "x^2-28x+11",
+        "x^2+28x-11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Is (x\u22125) a factor of x^2\u221210x+3?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Cannot decide",
+        "Only for x=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Degree of polynomial (x^5)*(x^6) is:",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "5",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Sum of zeroes of a quadratic polynomial is 9. If one zero is 5, the other is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "9",
+        "5",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "If sum of zeroes is 9 and product is 8, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "65",
+      "incorrect_answers": [
+        "81",
+        "16",
+        "67"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when x^3\u22127x is divided by (x\u22126) is:",
+      "correct_answer": "174",
+      "incorrect_answers": [
+        "-6",
+        "209",
+        "258"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x)=x^2+9x+6, find p(5).",
+      "correct_answer": "76",
+      "incorrect_answers": [
+        "40",
+        "31",
+        "51"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when p(x)=x^2+9x+6 is divided by (x\u22126) is:",
+      "correct_answer": "96",
+      "incorrect_answers": [
+        "51",
+        "21",
+        "42"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+9x+6, sum of zeroes is:",
+      "correct_answer": "-9",
+      "incorrect_answers": [
+        "9",
+        "6",
+        "-6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+9x+6, product of zeroes is:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "9",
+        "-6",
+        "-9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "A quadratic polynomial with zeroes 5 and 8 is:",
+      "correct_answer": "x^2-13x+40",
+      "incorrect_answers": [
+        "x^2+13x+40",
+        "x^2-40x+13",
+        "x^2+40x-13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Is (x\u22126) a factor of x^2\u221212x+4?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Cannot decide",
+        "Only for x=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Degree of polynomial (x^6)*(x^7) is:",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "6",
+        "7",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Sum of zeroes of a quadratic polynomial is 10. If one zero is 6, the other is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "10",
+        "6",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "If sum of zeroes is 10 and product is 9, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "82",
+      "incorrect_answers": [
+        "100",
+        "18",
+        "84"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when x^3\u22129x is divided by (x\u22127) is:",
+      "correct_answer": "280",
+      "incorrect_answers": [
+        "-14",
+        "334",
+        "406"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x)=x^2+11x+7, find p(6).",
+      "correct_answer": "109",
+      "incorrect_answers": [
+        "54",
+        "43",
+        "73"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when p(x)=x^2+11x+7 is divided by (x\u22127) is:",
+      "correct_answer": "133",
+      "incorrect_answers": [
+        "67",
+        "25",
+        "56"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+11x+7, sum of zeroes is:",
+      "correct_answer": "-11",
+      "incorrect_answers": [
+        "11",
+        "7",
+        "-7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For polynomial x^2+11x+7, product of zeroes is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "11",
+        "-7",
+        "-11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "A quadratic polynomial with zeroes 6 and 9 is:",
+      "correct_answer": "x^2-15x+54",
+      "incorrect_answers": [
+        "x^2+15x+54",
+        "x^2-54x+15",
+        "x^2+54x-15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Is (x\u22127) a factor of x^2\u221214x+5?",
+      "correct_answer": "No",
+      "incorrect_answers": [
+        "Yes",
+        "Cannot decide",
+        "Only for x=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Degree of polynomial (x^7)*(x^8) is:",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "7",
+        "8",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Sum of zeroes of a quadratic polynomial is 11. If one zero is 7, the other is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "11",
+        "7",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "If sum of zeroes is 11 and product is 10, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "101",
+      "incorrect_answers": [
+        "121",
+        "20",
+        "103"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "Remainder when x^3\u221211x is divided by (x\u22128) is:",
+      "correct_answer": "424",
+      "incorrect_answers": [
+        "-24",
+        "501",
+        "600"
+      ]
+    }
+  ]
+}

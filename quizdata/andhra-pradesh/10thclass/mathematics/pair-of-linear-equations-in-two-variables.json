@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 3x + 1y = 10 and 1x + 5y = 22. Value of x is:",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "4",
+        "3",
+        "1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 3x + 1y = 10 and 1x + 5y = 22. Value of y is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "2",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 3x + 1y = 10 and 1x + 5y = 22, x+y equals:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "-2",
+        "2",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 3x + 1y = 10 and 1x + 5y = 22, 2x\u2212y equals:",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "6",
+        "-2",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 3x+6y=9 and 6x+12y=18 have:",
+      "correct_answer": "Infinitely many solutions",
+      "incorrect_answers": [
+        "No solution",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 3x+6y=9 and 6x+12y=19 have:",
+      "correct_answer": "No solution",
+      "incorrect_answers": [
+        "Infinitely many solutions",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 3x+1y=10 and 1x+5y=22, determinant a1b2\u2212a2b1 is:",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "16",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Two numbers have sum 13 and difference 5. Larger number is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "13",
+        "5",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.26, 3 pens and 2 pencils cost Rs.29. Cost of one pen is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "4",
+        "8",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.26, 3 pens and 2 pencils cost Rs.29. Cost of one pencil is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "7",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 4x + 1y = 17 and 1x + 6y = 33. Value of x is:",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "5",
+        "4",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 4x + 1y = 17 and 1x + 6y = 33. Value of y is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "3",
+        "6",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 4x + 1y = 17 and 1x + 6y = 33, x+y equals:",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "-2",
+        "2",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 4x + 1y = 17 and 1x + 6y = 33, 2x\u2212y equals:",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "7",
+        "-2",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 4x+8y=12 and 8x+16y=24 have:",
+      "correct_answer": "Infinitely many solutions",
+      "incorrect_answers": [
+        "No solution",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 4x+8y=12 and 8x+16y=25 have:",
+      "correct_answer": "No solution",
+      "incorrect_answers": [
+        "Infinitely many solutions",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 4x+1y=17 and 1x+6y=33, determinant a1b2\u2212a2b1 is:",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "25",
+        "5",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Two numbers have sum 14 and difference 6. Larger number is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "14",
+        "6",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.31, 3 pens and 2 pencils cost Rs.34. Cost of one pen is:",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "5",
+        "9",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.31, 3 pens and 2 pencils cost Rs.34. Cost of one pencil is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "8",
+        "6",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 5x + 1y = 26 and 1x + 7y = 46. Value of x is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "6",
+        "5",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 5x + 1y = 26 and 1x + 7y = 46. Value of y is:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "4",
+        "7",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 5x + 1y = 26 and 1x + 7y = 46, x+y equals:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "-2",
+        "2",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 5x + 1y = 26 and 1x + 7y = 46, 2x\u2212y equals:",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "8",
+        "-2",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 5x+10y=15 and 10x+20y=30 have:",
+      "correct_answer": "Infinitely many solutions",
+      "incorrect_answers": [
+        "No solution",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 5x+10y=15 and 10x+20y=31 have:",
+      "correct_answer": "No solution",
+      "incorrect_answers": [
+        "Infinitely many solutions",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 5x+1y=26 and 1x+7y=46, determinant a1b2\u2212a2b1 is:",
+      "correct_answer": "34",
+      "incorrect_answers": [
+        "36",
+        "6",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Two numbers have sum 15 and difference 7. Larger number is:",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "15",
+        "7",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.36, 3 pens and 2 pencils cost Rs.39. Cost of one pen is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "6",
+        "10",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.36, 3 pens and 2 pencils cost Rs.39. Cost of one pencil is:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "9",
+        "7",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 6x + 1y = 37 and 1x + 8y = 61. Value of x is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "7",
+        "6",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 6x + 1y = 37 and 1x + 8y = 61. Value of y is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "5",
+        "8",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 6x + 1y = 37 and 1x + 8y = 61, x+y equals:",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "-2",
+        "2",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 6x + 1y = 37 and 1x + 8y = 61, 2x\u2212y equals:",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "9",
+        "-2",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 6x+12y=18 and 12x+24y=36 have:",
+      "correct_answer": "Infinitely many solutions",
+      "incorrect_answers": [
+        "No solution",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 6x+12y=18 and 12x+24y=37 have:",
+      "correct_answer": "No solution",
+      "incorrect_answers": [
+        "Infinitely many solutions",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 6x+1y=37 and 1x+8y=61, determinant a1b2\u2212a2b1 is:",
+      "correct_answer": "47",
+      "incorrect_answers": [
+        "49",
+        "7",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Two numbers have sum 16 and difference 8. Larger number is:",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "16",
+        "8",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.41, 3 pens and 2 pencils cost Rs.44. Cost of one pen is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "7",
+        "11",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.41, 3 pens and 2 pencils cost Rs.44. Cost of one pencil is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 7x + 1y = 50 and 1x + 9y = 78. Value of x is:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "7",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve 7x + 1y = 50 and 1x + 9y = 78. Value of y is:",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "6",
+        "9",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 7x + 1y = 50 and 1x + 9y = 78, x+y equals:",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "-2",
+        "2",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 7x + 1y = 50 and 1x + 9y = 78, 2x\u2212y equals:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "10",
+        "-2",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 7x+14y=21 and 14x+28y=42 have:",
+      "correct_answer": "Infinitely many solutions",
+      "incorrect_answers": [
+        "No solution",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Equations 7x+14y=21 and 14x+28y=43 have:",
+      "correct_answer": "No solution",
+      "incorrect_answers": [
+        "Infinitely many solutions",
+        "Unique solution",
+        "Two solutions"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "For equations 7x+1y=50 and 1x+9y=78, determinant a1b2\u2212a2b1 is:",
+      "correct_answer": "62",
+      "incorrect_answers": [
+        "64",
+        "8",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Two numbers have sum 17 and difference 9. Larger number is:",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "17",
+        "9",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.46, 3 pens and 2 pencils cost Rs.49. Cost of one pen is:",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "8",
+        "12",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "2 pens and 3 pencils cost Rs.46, 3 pens and 2 pencils cost Rs.49. Cost of one pencil is:",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "11",
+        "9",
+        "7"
+      ]
+    }
+  ]
+}

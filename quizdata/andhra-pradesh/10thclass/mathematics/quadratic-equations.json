@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "One root of x^2\u22127x+10=0 is:",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "6",
+        "4",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Sum of roots of x^2\u22127x+10=0 is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "10",
+        "-7",
+        "-10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Product of roots of x^2\u22127x+10=0 is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "7",
+        "-10",
+        "-7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Discriminant of x^2+6x+9=0 is:",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "4",
+        "-4",
+        "36"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Nature of roots of x^2+6x+9=0 is:",
+      "correct_answer": "Real and equal",
+      "incorrect_answers": [
+        "Real and distinct",
+        "Imaginary",
+        "Not defined"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Quadratic equation having roots 2 and 5 is:",
+      "correct_answer": "x^2-7x+10=0",
+      "incorrect_answers": [
+        "x^2+7x+10=0",
+        "x^2-10x+7=0",
+        "x^2+10x-7=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If x^2+2(4)x+k=0 has equal roots, then k =",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "8",
+        "4",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If one root is 3 and product of roots is 18, other root is:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "3",
+        "18",
+        "4.5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots are \u03b1,\u03b2 of x^2\u22127x+10=0, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "29",
+      "incorrect_answers": [
+        "49",
+        "20",
+        "69"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "For equation x^2\u22127x+10=0, larger root is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "2",
+        "7",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "One root of x^2\u22129x+18=0 is:",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "7",
+        "5",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Sum of roots of x^2\u22129x+18=0 is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "18",
+        "-9",
+        "-18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Product of roots of x^2\u22129x+18=0 is:",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "9",
+        "-18",
+        "-9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Discriminant of x^2+8x+16=0 is:",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "4",
+        "-4",
+        "64"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Nature of roots of x^2+8x+16=0 is:",
+      "correct_answer": "Real and equal",
+      "incorrect_answers": [
+        "Real and distinct",
+        "Imaginary",
+        "Not defined"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Quadratic equation having roots 3 and 6 is:",
+      "correct_answer": "x^2-9x+18=0",
+      "incorrect_answers": [
+        "x^2+9x+18=0",
+        "x^2-18x+9=0",
+        "x^2+18x-9=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If x^2+2(5)x+k=0 has equal roots, then k =",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "10",
+        "5",
+        "26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If one root is 4 and product of roots is 28, other root is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "4",
+        "28",
+        "5.6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots are \u03b1,\u03b2 of x^2\u22129x+18=0, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "45",
+      "incorrect_answers": [
+        "81",
+        "36",
+        "117"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "For equation x^2\u22129x+18=0, larger root is:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "3",
+        "9",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "One root of x^2\u221211x+28=0 is:",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "8",
+        "6",
+        "28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Sum of roots of x^2\u221211x+28=0 is:",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "28",
+        "-11",
+        "-28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Product of roots of x^2\u221211x+28=0 is:",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "11",
+        "-28",
+        "-11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Discriminant of x^2+10x+25=0 is:",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "4",
+        "-4",
+        "100"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Nature of roots of x^2+10x+25=0 is:",
+      "correct_answer": "Real and equal",
+      "incorrect_answers": [
+        "Real and distinct",
+        "Imaginary",
+        "Not defined"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Quadratic equation having roots 4 and 7 is:",
+      "correct_answer": "x^2-11x+28=0",
+      "incorrect_answers": [
+        "x^2+11x+28=0",
+        "x^2-28x+11=0",
+        "x^2+28x-11=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If x^2+2(6)x+k=0 has equal roots, then k =",
+      "correct_answer": "36",
+      "incorrect_answers": [
+        "12",
+        "6",
+        "37"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If one root is 5 and product of roots is 40, other root is:",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "5",
+        "40",
+        "6.67"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots are \u03b1,\u03b2 of x^2\u221211x+28=0, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "65",
+      "incorrect_answers": [
+        "121",
+        "56",
+        "177"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "For equation x^2\u221211x+28=0, larger root is:",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "4",
+        "11",
+        "28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "One root of x^2\u221213x+40=0 is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "9",
+        "7",
+        "40"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Sum of roots of x^2\u221213x+40=0 is:",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "40",
+        "-13",
+        "-40"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Product of roots of x^2\u221213x+40=0 is:",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "13",
+        "-40",
+        "-13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Discriminant of x^2+12x+36=0 is:",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "4",
+        "-4",
+        "144"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Nature of roots of x^2+12x+36=0 is:",
+      "correct_answer": "Real and equal",
+      "incorrect_answers": [
+        "Real and distinct",
+        "Imaginary",
+        "Not defined"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Quadratic equation having roots 5 and 8 is:",
+      "correct_answer": "x^2-13x+40=0",
+      "incorrect_answers": [
+        "x^2+13x+40=0",
+        "x^2-40x+13=0",
+        "x^2+40x-13=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If x^2+2(7)x+k=0 has equal roots, then k =",
+      "correct_answer": "49",
+      "incorrect_answers": [
+        "14",
+        "7",
+        "50"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If one root is 6 and product of roots is 54, other root is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "6",
+        "54",
+        "7.71"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots are \u03b1,\u03b2 of x^2\u221213x+40=0, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "89",
+      "incorrect_answers": [
+        "169",
+        "80",
+        "249"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "For equation x^2\u221213x+40=0, larger root is:",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "5",
+        "13",
+        "40"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "One root of x^2\u221215x+54=0 is:",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "54"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Sum of roots of x^2\u221215x+54=0 is:",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "54",
+        "-15",
+        "-54"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Product of roots of x^2\u221215x+54=0 is:",
+      "correct_answer": "54",
+      "incorrect_answers": [
+        "15",
+        "-54",
+        "-15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Discriminant of x^2+14x+49=0 is:",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "4",
+        "-4",
+        "196"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Nature of roots of x^2+14x+49=0 is:",
+      "correct_answer": "Real and equal",
+      "incorrect_answers": [
+        "Real and distinct",
+        "Imaginary",
+        "Not defined"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "Quadratic equation having roots 6 and 9 is:",
+      "correct_answer": "x^2-15x+54=0",
+      "incorrect_answers": [
+        "x^2+15x+54=0",
+        "x^2-54x+15=0",
+        "x^2+54x-15=0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If x^2+2(8)x+k=0 has equal roots, then k =",
+      "correct_answer": "64",
+      "incorrect_answers": [
+        "16",
+        "8",
+        "65"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If one root is 7 and product of roots is 70, other root is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "7",
+        "70",
+        "8.75"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots are \u03b1,\u03b2 of x^2\u221215x+54=0, then \u03b1\u00b2+\u03b2\u00b2 equals:",
+      "correct_answer": "117",
+      "incorrect_answers": [
+        "225",
+        "108",
+        "333"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "For equation x^2\u221215x+54=0, larger root is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "6",
+        "15",
+        "54"
+      ]
+    }
+  ]
+}

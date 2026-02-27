@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [3, 5, 7, 9, 11].",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "6",
+        "35"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [2, 4, 6, 8, 10].",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "4",
+        "8",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [3, 5, 7, 9].",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "5",
+        "7",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mode of data [1, 2, 2, 3, 2, 4].",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For x=[1, 2, 3, 4] with frequencies [2, 3, 4, 5], mean is:",
+      "correct_answer": "2.86",
+      "incorrect_answers": [
+        "40",
+        "2.67",
+        "3.08"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "If mean of [2, 4, x, 8, 10] is 6, find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "7",
+        "5",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find range of data [4, 10, 6, 13, 8].",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Class mark of class interval 10-20 is:",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "10",
+        "20",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [3, 6, 4, 2], modal class is:",
+      "correct_answer": "10-20",
+      "incorrect_answers": [
+        "20-30",
+        "30-40",
+        "0-10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For frequencies [3, 6, 4, 2], cumulative frequency of the last class is:",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "13",
+        "6",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [4, 6, 8, 10, 12].",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "9",
+        "7",
+        "40"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [3, 5, 7, 9, 11].",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "5",
+        "9",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [4, 6, 8, 10].",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "6",
+        "8",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mode of data [2, 3, 3, 4, 3, 5].",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For x=[1, 2, 3, 4] with frequencies [3, 4, 5, 6], mean is:",
+      "correct_answer": "2.78",
+      "incorrect_answers": [
+        "50",
+        "2.63",
+        "2.94"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "If mean of [2, 4, x, 8, 10] is 6.2, find x.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "6",
+        "6.2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find range of data [5, 11, 7, 14, 9].",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Class mark of class interval 20-30 is:",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "20",
+        "30",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [4, 7, 5, 3], modal class is:",
+      "correct_answer": "10-20",
+      "incorrect_answers": [
+        "20-30",
+        "30-40",
+        "0-10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For frequencies [4, 7, 5, 3], cumulative frequency of the last class is:",
+      "correct_answer": "19",
+      "incorrect_answers": [
+        "16",
+        "7",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [5, 7, 9, 11, 13].",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "45"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [4, 6, 8, 10, 12].",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "6",
+        "10",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [5, 7, 9, 11].",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "7",
+        "9",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mode of data [3, 4, 4, 5, 4, 6].",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "3",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For x=[1, 2, 3, 4] with frequencies [4, 5, 6, 7], mean is:",
+      "correct_answer": "2.73",
+      "incorrect_answers": [
+        "60",
+        "2.61",
+        "2.86"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "If mean of [2, 4, x, 8, 10] is 6.4, find x.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "9",
+        "7",
+        "6.4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find range of data [6, 12, 8, 15, 10].",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Class mark of class interval 30-40 is:",
+      "correct_answer": "35",
+      "incorrect_answers": [
+        "30",
+        "40",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [5, 8, 6, 4], modal class is:",
+      "correct_answer": "10-20",
+      "incorrect_answers": [
+        "20-30",
+        "30-40",
+        "0-10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For frequencies [5, 8, 6, 4], cumulative frequency of the last class is:",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "19",
+        "8",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [6, 8, 10, 12, 14].",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "11",
+        "9",
+        "50"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [5, 7, 9, 11, 13].",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "7",
+        "11",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [6, 8, 10, 12].",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "8",
+        "10",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mode of data [4, 5, 5, 6, 5, 7].",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "4",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For x=[1, 2, 3, 4] with frequencies [5, 6, 7, 8], mean is:",
+      "correct_answer": "2.69",
+      "incorrect_answers": [
+        "70",
+        "2.59",
+        "2.8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "If mean of [2, 4, x, 8, 10] is 6.6, find x.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "6.6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find range of data [7, 13, 9, 16, 11].",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Class mark of class interval 40-50 is:",
+      "correct_answer": "45",
+      "incorrect_answers": [
+        "40",
+        "50",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [6, 9, 7, 5], modal class is:",
+      "correct_answer": "10-20",
+      "incorrect_answers": [
+        "20-30",
+        "30-40",
+        "0-10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For frequencies [6, 9, 7, 5], cumulative frequency of the last class is:",
+      "correct_answer": "27",
+      "incorrect_answers": [
+        "22",
+        "9",
+        "26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 9, 11, 13, 15].",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "12",
+        "10",
+        "55"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [6, 8, 10, 12, 14].",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "8",
+        "12",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find median of data [7, 9, 11, 13].",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "9",
+        "11",
+        "None of these"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mode of data [5, 6, 6, 7, 6, 8].",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "5",
+        "7",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For x=[1, 2, 3, 4] with frequencies [6, 7, 8, 9], mean is:",
+      "correct_answer": "2.67",
+      "incorrect_answers": [
+        "80",
+        "2.58",
+        "2.76"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "If mean of [2, 4, x, 8, 10] is 6.8, find x.",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "11",
+        "9",
+        "6.8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find range of data [8, 14, 10, 17, 12].",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "10",
+        "8",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Class mark of class interval 50-60 is:",
+      "correct_answer": "55",
+      "incorrect_answers": [
+        "50",
+        "60",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [7, 10, 8, 6], modal class is:",
+      "correct_answer": "10-20",
+      "incorrect_answers": [
+        "20-30",
+        "30-40",
+        "0-10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "For frequencies [7, 10, 8, 6], cumulative frequency of the last class is:",
+      "correct_answer": "31",
+      "incorrect_answers": [
+        "25",
+        "10",
+        "30"
+      ]
+    }
+  ]
+}
