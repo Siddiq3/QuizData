@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", which concept best matches: a social system where men hold primary power in family and institutions?",
+      "correct_answer": "Patriarchy",
+      "incorrect_answers": [
+        "Sexual Division of Labour",
+        "Communalism",
+        "Secularism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "A case described as \"women face unequal access to education property and decision making spaces\" is the best example of:",
+      "correct_answer": "Patriarchy",
+      "incorrect_answers": [
+        "Communalism",
+        "Secularism",
+        "Sexual Division of Labour"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", the term \"Patriarchy\" is most closely associated with:",
+      "correct_answer": "A social system where men hold primary power in family and institutions",
+      "incorrect_answers": [
+        "Allocation of work by gender often undervaluing unpaid care activities",
+        "Politics based on religious identity that treats communities as opposed interests",
+        "State principle of equal treatment of all religions without official bias"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "The immediate policy focus of \"Patriarchy\" is usually:",
+      "correct_answer": "Structural gender inequality across public and private spheres",
+      "incorrect_answers": [
+        "Constitutional protection of religious freedom and equality",
+        "Erosion of civic unity and democratic trust",
+        "Economic invisibility of women work contribution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "If an examiner asks for a concept linked to \"structural gender inequality across public and private spheres\", the most accurate answer is:",
+      "correct_answer": "Patriarchy",
+      "incorrect_answers": [
+        "Secularism",
+        "Sexual Division of Labour",
+        "Communalism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which term correctly completes this statement: A social system where men hold primary power in family and institutions.",
+      "correct_answer": "Patriarchy",
+      "incorrect_answers": [
+        "Communalism",
+        "Sexual Division of Labour",
+        "Secularism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
+      "correct_answer": "Patriarchy - structural gender inequality across public and private spheres",
+      "incorrect_answers": [
+        "Sexual Division of Labour - structural gender inequality across public and private spheres",
+        "Patriarchy - erosion of civic unity and democratic trust",
+        "Secularism - economic invisibility of women work contribution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which of the following is a valid application of \"Patriarchy\"?",
+      "correct_answer": "Women face unequal access to education property and decision making spaces",
+      "incorrect_answers": [
+        "Paid work is treated as male domain while domestic care is seen as female duty",
+        "Electoral mobilisation frames citizens primarily through religious antagonism",
+        "Laws and institutions avoid privileging one faith over others"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", which concept best matches: allocation of work by gender often undervaluing unpaid care activities?",
+      "correct_answer": "Sexual Division of Labour",
+      "incorrect_answers": [
+        "Communalism",
+        "Secularism",
+        "Caste Hierarchy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "A case described as \"paid work is treated as male domain while domestic care is seen as female duty\" is the best example of:",
+      "correct_answer": "Sexual Division of Labour",
+      "incorrect_answers": [
+        "Secularism",
+        "Caste Hierarchy",
+        "Communalism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", the term \"Sexual Division of Labour\" is most closely associated with:",
+      "correct_answer": "Allocation of work by gender often undervaluing unpaid care activities",
+      "incorrect_answers": [
+        "Politics based on religious identity that treats communities as opposed interests",
+        "State principle of equal treatment of all religions without official bias",
+        "Graded social stratification linked historically to birth based status and exclusion"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "The immediate policy focus of \"Sexual Division of Labour\" is usually:",
+      "correct_answer": "Economic invisibility of women work contribution",
+      "incorrect_answers": [
+        "Persistent inequality requiring political and legal correction",
+        "Constitutional protection of religious freedom and equality",
+        "Erosion of civic unity and democratic trust"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "If an examiner asks for a concept linked to \"economic invisibility of women work contribution\", the most accurate answer is:",
+      "correct_answer": "Sexual Division of Labour",
+      "incorrect_answers": [
+        "Caste Hierarchy",
+        "Communalism",
+        "Secularism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which term correctly completes this statement: Allocation of work by gender often undervaluing unpaid care activities.",
+      "correct_answer": "Sexual Division of Labour",
+      "incorrect_answers": [
+        "Secularism",
+        "Communalism",
+        "Caste Hierarchy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
+      "correct_answer": "Sexual Division of Labour - economic invisibility of women work contribution",
+      "incorrect_answers": [
+        "Communalism - economic invisibility of women work contribution",
+        "Sexual Division of Labour - constitutional protection of religious freedom and equality",
+        "Caste Hierarchy - erosion of civic unity and democratic trust"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which of the following is a valid application of \"Sexual Division of Labour\"?",
+      "correct_answer": "Paid work is treated as male domain while domestic care is seen as female duty",
+      "incorrect_answers": [
+        "Electoral mobilisation frames citizens primarily through religious antagonism",
+        "Laws and institutions avoid privileging one faith over others",
+        "Social discrimination restricts mobility and dignity of lower caste groups"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", which concept best matches: politics based on religious identity that treats communities as opposed interests?",
+      "correct_answer": "Communalism",
+      "incorrect_answers": [
+        "Secularism",
+        "Caste Hierarchy",
+        "Affirmative Action"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "A case described as \"electoral mobilisation frames citizens primarily through religious antagonism\" is the best example of:",
+      "correct_answer": "Communalism",
+      "incorrect_answers": [
+        "Caste Hierarchy",
+        "Affirmative Action",
+        "Secularism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", the term \"Communalism\" is most closely associated with:",
+      "correct_answer": "Politics based on religious identity that treats communities as opposed interests",
+      "incorrect_answers": [
+        "State principle of equal treatment of all religions without official bias",
+        "Graded social stratification linked historically to birth based status and exclusion",
+        "Policy of reservations and support measures for historically marginalised groups"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "The immediate policy focus of \"Communalism\" is usually:",
+      "correct_answer": "Erosion of civic unity and democratic trust",
+      "incorrect_answers": [
+        "Corrective inclusion in institutions of opportunity",
+        "Persistent inequality requiring political and legal correction",
+        "Constitutional protection of religious freedom and equality"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "If an examiner asks for a concept linked to \"erosion of civic unity and democratic trust\", the most accurate answer is:",
+      "correct_answer": "Communalism",
+      "incorrect_answers": [
+        "Affirmative Action",
+        "Secularism",
+        "Caste Hierarchy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which term correctly completes this statement: Politics based on religious identity that treats communities as opposed interests.",
+      "correct_answer": "Communalism",
+      "incorrect_answers": [
+        "Caste Hierarchy",
+        "Secularism",
+        "Affirmative Action"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
+      "correct_answer": "Communalism - erosion of civic unity and democratic trust",
+      "incorrect_answers": [
+        "Secularism - erosion of civic unity and democratic trust",
+        "Communalism - persistent inequality requiring political and legal correction",
+        "Affirmative Action - constitutional protection of religious freedom and equality"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which of the following is a valid application of \"Communalism\"?",
+      "correct_answer": "Electoral mobilisation frames citizens primarily through religious antagonism",
+      "incorrect_answers": [
+        "Laws and institutions avoid privileging one faith over others",
+        "Social discrimination restricts mobility and dignity of lower caste groups",
+        "Educational seats and public jobs are reserved to improve representation equity"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", which concept best matches: state principle of equal treatment of all religions without official bias?",
+      "correct_answer": "Secularism",
+      "incorrect_answers": [
+        "Caste Hierarchy",
+        "Affirmative Action",
+        "Patriarchy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "A case described as \"laws and institutions avoid privileging one faith over others\" is the best example of:",
+      "correct_answer": "Secularism",
+      "incorrect_answers": [
+        "Affirmative Action",
+        "Patriarchy",
+        "Caste Hierarchy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", the term \"Secularism\" is most closely associated with:",
+      "correct_answer": "State principle of equal treatment of all religions without official bias",
+      "incorrect_answers": [
+        "Graded social stratification linked historically to birth based status and exclusion",
+        "Policy of reservations and support measures for historically marginalised groups",
+        "A social system where men hold primary power in family and institutions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "The immediate policy focus of \"Secularism\" is usually:",
+      "correct_answer": "Constitutional protection of religious freedom and equality",
+      "incorrect_answers": [
+        "Structural gender inequality across public and private spheres",
+        "Corrective inclusion in institutions of opportunity",
+        "Persistent inequality requiring political and legal correction"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "If an examiner asks for a concept linked to \"constitutional protection of religious freedom and equality\", the most accurate answer is:",
+      "correct_answer": "Secularism",
+      "incorrect_answers": [
+        "Patriarchy",
+        "Caste Hierarchy",
+        "Affirmative Action"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which term correctly completes this statement: State principle of equal treatment of all religions without official bias.",
+      "correct_answer": "Secularism",
+      "incorrect_answers": [
+        "Affirmative Action",
+        "Caste Hierarchy",
+        "Patriarchy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
+      "correct_answer": "Secularism - constitutional protection of religious freedom and equality",
+      "incorrect_answers": [
+        "Caste Hierarchy - constitutional protection of religious freedom and equality",
+        "Secularism - corrective inclusion in institutions of opportunity",
+        "Patriarchy - persistent inequality requiring political and legal correction"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which of the following is a valid application of \"Secularism\"?",
+      "correct_answer": "Laws and institutions avoid privileging one faith over others",
+      "incorrect_answers": [
+        "Social discrimination restricts mobility and dignity of lower caste groups",
+        "Educational seats and public jobs are reserved to improve representation equity",
+        "Women face unequal access to education property and decision making spaces"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", which concept best matches: graded social stratification linked historically to birth based status and exclusion?",
+      "correct_answer": "Caste Hierarchy",
+      "incorrect_answers": [
+        "Affirmative Action",
+        "Patriarchy",
+        "Sexual Division of Labour"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "A case described as \"social discrimination restricts mobility and dignity of lower caste groups\" is the best example of:",
+      "correct_answer": "Caste Hierarchy",
+      "incorrect_answers": [
+        "Patriarchy",
+        "Sexual Division of Labour",
+        "Affirmative Action"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", the term \"Caste Hierarchy\" is most closely associated with:",
+      "correct_answer": "Graded social stratification linked historically to birth based status and exclusion",
+      "incorrect_answers": [
+        "Policy of reservations and support measures for historically marginalised groups",
+        "A social system where men hold primary power in family and institutions",
+        "Allocation of work by gender often undervaluing unpaid care activities"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "The immediate policy focus of \"Caste Hierarchy\" is usually:",
+      "correct_answer": "Persistent inequality requiring political and legal correction",
+      "incorrect_answers": [
+        "Economic invisibility of women work contribution",
+        "Structural gender inequality across public and private spheres",
+        "Corrective inclusion in institutions of opportunity"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "If an examiner asks for a concept linked to \"persistent inequality requiring political and legal correction\", the most accurate answer is:",
+      "correct_answer": "Caste Hierarchy",
+      "incorrect_answers": [
+        "Sexual Division of Labour",
+        "Affirmative Action",
+        "Patriarchy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which term correctly completes this statement: Graded social stratification linked historically to birth based status and exclusion.",
+      "correct_answer": "Caste Hierarchy",
+      "incorrect_answers": [
+        "Patriarchy",
+        "Affirmative Action",
+        "Sexual Division of Labour"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
+      "correct_answer": "Caste Hierarchy - persistent inequality requiring political and legal correction",
+      "incorrect_answers": [
+        "Affirmative Action - persistent inequality requiring political and legal correction",
+        "Caste Hierarchy - structural gender inequality across public and private spheres",
+        "Sexual Division of Labour - corrective inclusion in institutions of opportunity"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which of the following is a valid application of \"Caste Hierarchy\"?",
+      "correct_answer": "Social discrimination restricts mobility and dignity of lower caste groups",
+      "incorrect_answers": [
+        "Educational seats and public jobs are reserved to improve representation equity",
+        "Women face unequal access to education property and decision making spaces",
+        "Paid work is treated as male domain while domestic care is seen as female duty"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", which concept best matches: policy of reservations and support measures for historically marginalised groups?",
+      "correct_answer": "Affirmative Action",
+      "incorrect_answers": [
+        "Patriarchy",
+        "Sexual Division of Labour",
+        "Communalism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "A case described as \"educational seats and public jobs are reserved to improve representation equity\" is the best example of:",
+      "correct_answer": "Affirmative Action",
+      "incorrect_answers": [
+        "Sexual Division of Labour",
+        "Communalism",
+        "Patriarchy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "In \"Gender, Religion and Caste\", the term \"Affirmative Action\" is most closely associated with:",
+      "correct_answer": "Policy of reservations and support measures for historically marginalised groups",
+      "incorrect_answers": [
+        "A social system where men hold primary power in family and institutions",
+        "Allocation of work by gender often undervaluing unpaid care activities",
+        "Politics based on religious identity that treats communities as opposed interests"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "The immediate policy focus of \"Affirmative Action\" is usually:",
+      "correct_answer": "Corrective inclusion in institutions of opportunity",
+      "incorrect_answers": [
+        "Erosion of civic unity and democratic trust",
+        "Economic invisibility of women work contribution",
+        "Structural gender inequality across public and private spheres"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "If an examiner asks for a concept linked to \"corrective inclusion in institutions of opportunity\", the most accurate answer is:",
+      "correct_answer": "Affirmative Action",
+      "incorrect_answers": [
+        "Communalism",
+        "Patriarchy",
+        "Sexual Division of Labour"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which term correctly completes this statement: Policy of reservations and support measures for historically marginalised groups.",
+      "correct_answer": "Affirmative Action",
+      "incorrect_answers": [
+        "Sexual Division of Labour",
+        "Patriarchy",
+        "Communalism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
+      "correct_answer": "Affirmative Action - corrective inclusion in institutions of opportunity",
+      "incorrect_answers": [
+        "Patriarchy - corrective inclusion in institutions of opportunity",
+        "Affirmative Action - economic invisibility of women work contribution",
+        "Communalism - structural gender inequality across public and private spheres"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which of the following is a valid application of \"Affirmative Action\"?",
+      "correct_answer": "Educational seats and public jobs are reserved to improve representation equity",
+      "incorrect_answers": [
+        "Women face unequal access to education property and decision making spaces",
+        "Paid work is treated as male domain while domestic care is seen as female duty",
+        "Electoral mobilisation frames citizens primarily through religious antagonism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "Which outcome is most closely associated with greater political participation of women?",
+      "correct_answer": "Policy attention to welfare services and everyday social needs tends to increase",
+      "incorrect_answers": [
+        "Religion based voting blocs disappear immediately",
+        "All wage gaps close automatically in one cycle",
+        "Caste inequalities become legally irrelevant overnight"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender, Religion and Caste",
+      "question": "When communal politics intensifies, democratic debate is often replaced by",
+      "correct_answer": "identity polarisation and suspicion between social groups",
+      "incorrect_answers": [
+        "issue based bargaining over development indicators only",
+        "stronger local economic cooperation networks",
+        "uniform support for constitutional secularism"
+      ]
+    }
+  ]
+}

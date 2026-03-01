@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", which concept best matches: rural household based production for wider markets before factory dominance?",
+      "correct_answer": "Proto Industrialisation",
+      "incorrect_answers": [
+        "Factory System",
+        "Spinning Jenny",
+        "Guild Restrictions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "A case described as \"merchants supply raw materials to peasant families who spin and weave at home\" is the best example of:",
+      "correct_answer": "Proto Industrialisation",
+      "incorrect_answers": [
+        "Spinning Jenny",
+        "Guild Restrictions",
+        "Factory System"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", the term \"Proto Industrialisation\" is most closely associated with:",
+      "correct_answer": "Rural household based production for wider markets before factory dominance",
+      "incorrect_answers": [
+        "Centralised mechanised production under one roof with wage labour",
+        "An innovation that allowed one worker to spin multiple spindles at once",
+        "Regulatory controls by artisan guilds limiting entry and production methods"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "The immediate policy focus of \"Proto Industrialisation\" is usually:",
+      "correct_answer": "Commercial expansion beyond guild controlled urban crafts",
+      "incorrect_answers": [
+        "Delayed transition to open competitive manufacturing",
+        "Major productivity gains in cotton processing",
+        "Higher output with tighter labour discipline"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "If an examiner asks for a concept linked to \"commercial expansion beyond guild controlled urban crafts\", the most accurate answer is:",
+      "correct_answer": "Proto Industrialisation",
+      "incorrect_answers": [
+        "Guild Restrictions",
+        "Factory System",
+        "Spinning Jenny"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which term correctly completes this statement: Rural household based production for wider markets before factory dominance.",
+      "correct_answer": "Proto Industrialisation",
+      "incorrect_answers": [
+        "Spinning Jenny",
+        "Factory System",
+        "Guild Restrictions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Choose the correctly matched pair from \"The Age of Industrialisation\".",
+      "correct_answer": "Proto Industrialisation - commercial expansion beyond guild controlled urban crafts",
+      "incorrect_answers": [
+        "Factory System - commercial expansion beyond guild controlled urban crafts",
+        "Proto Industrialisation - major productivity gains in cotton processing",
+        "Guild Restrictions - higher output with tighter labour discipline"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which of the following is a valid application of \"Proto Industrialisation\"?",
+      "correct_answer": "Merchants supply raw materials to peasant families who spin and weave at home",
+      "incorrect_answers": [
+        "Workers operate power driven machines according to timed shifts",
+        "Textile yarn production becomes faster due to multi spindle mechanisation",
+        "New entrepreneurs struggle to enter trades dominated by hereditary masters"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", which concept best matches: centralised mechanised production under one roof with wage labour?",
+      "correct_answer": "Factory System",
+      "incorrect_answers": [
+        "Spinning Jenny",
+        "Guild Restrictions",
+        "Luddite Protest"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "A case described as \"workers operate power driven machines according to timed shifts\" is the best example of:",
+      "correct_answer": "Factory System",
+      "incorrect_answers": [
+        "Guild Restrictions",
+        "Luddite Protest",
+        "Spinning Jenny"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", the term \"Factory System\" is most closely associated with:",
+      "correct_answer": "Centralised mechanised production under one roof with wage labour",
+      "incorrect_answers": [
+        "An innovation that allowed one worker to spin multiple spindles at once",
+        "Regulatory controls by artisan guilds limiting entry and production methods",
+        "Early nineteenth century worker resistance to machines that threatened livelihoods"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "The immediate policy focus of \"Factory System\" is usually:",
+      "correct_answer": "Higher output with tighter labour discipline",
+      "incorrect_answers": [
+        "Conflict over technological change and labour security",
+        "Delayed transition to open competitive manufacturing",
+        "Major productivity gains in cotton processing"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "If an examiner asks for a concept linked to \"higher output with tighter labour discipline\", the most accurate answer is:",
+      "correct_answer": "Factory System",
+      "incorrect_answers": [
+        "Luddite Protest",
+        "Spinning Jenny",
+        "Guild Restrictions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which term correctly completes this statement: Centralised mechanised production under one roof with wage labour.",
+      "correct_answer": "Factory System",
+      "incorrect_answers": [
+        "Guild Restrictions",
+        "Spinning Jenny",
+        "Luddite Protest"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Choose the correctly matched pair from \"The Age of Industrialisation\".",
+      "correct_answer": "Factory System - higher output with tighter labour discipline",
+      "incorrect_answers": [
+        "Spinning Jenny - higher output with tighter labour discipline",
+        "Factory System - delayed transition to open competitive manufacturing",
+        "Luddite Protest - major productivity gains in cotton processing"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which of the following is a valid application of \"Factory System\"?",
+      "correct_answer": "Workers operate power driven machines according to timed shifts",
+      "incorrect_answers": [
+        "Textile yarn production becomes faster due to multi spindle mechanisation",
+        "New entrepreneurs struggle to enter trades dominated by hereditary masters",
+        "Textile workers attack mechanised frames after wage cuts and job loss"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", which concept best matches: an innovation that allowed one worker to spin multiple spindles at once?",
+      "correct_answer": "Spinning Jenny",
+      "incorrect_answers": [
+        "Guild Restrictions",
+        "Luddite Protest",
+        "Industrial Bourgeoisie"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "A case described as \"textile yarn production becomes faster due to multi spindle mechanisation\" is the best example of:",
+      "correct_answer": "Spinning Jenny",
+      "incorrect_answers": [
+        "Luddite Protest",
+        "Industrial Bourgeoisie",
+        "Guild Restrictions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", the term \"Spinning Jenny\" is most closely associated with:",
+      "correct_answer": "An innovation that allowed one worker to spin multiple spindles at once",
+      "incorrect_answers": [
+        "Regulatory controls by artisan guilds limiting entry and production methods",
+        "Early nineteenth century worker resistance to machines that threatened livelihoods",
+        "The capitalist class that invested in factories finance and expanding markets"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "The immediate policy focus of \"Spinning Jenny\" is usually:",
+      "correct_answer": "Major productivity gains in cotton processing",
+      "incorrect_answers": [
+        "Emergence of powerful business elites in modern economies",
+        "Conflict over technological change and labour security",
+        "Delayed transition to open competitive manufacturing"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "If an examiner asks for a concept linked to \"major productivity gains in cotton processing\", the most accurate answer is:",
+      "correct_answer": "Spinning Jenny",
+      "incorrect_answers": [
+        "Industrial Bourgeoisie",
+        "Guild Restrictions",
+        "Luddite Protest"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which term correctly completes this statement: An innovation that allowed one worker to spin multiple spindles at once.",
+      "correct_answer": "Spinning Jenny",
+      "incorrect_answers": [
+        "Luddite Protest",
+        "Guild Restrictions",
+        "Industrial Bourgeoisie"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Choose the correctly matched pair from \"The Age of Industrialisation\".",
+      "correct_answer": "Spinning Jenny - major productivity gains in cotton processing",
+      "incorrect_answers": [
+        "Guild Restrictions - major productivity gains in cotton processing",
+        "Spinning Jenny - conflict over technological change and labour security",
+        "Industrial Bourgeoisie - delayed transition to open competitive manufacturing"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which of the following is a valid application of \"Spinning Jenny\"?",
+      "correct_answer": "Textile yarn production becomes faster due to multi spindle mechanisation",
+      "incorrect_answers": [
+        "New entrepreneurs struggle to enter trades dominated by hereditary masters",
+        "Textile workers attack mechanised frames after wage cuts and job loss",
+        "Owners accumulate profits and influence through industrial enterprise"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", which concept best matches: regulatory controls by artisan guilds limiting entry and production methods?",
+      "correct_answer": "Guild Restrictions",
+      "incorrect_answers": [
+        "Luddite Protest",
+        "Industrial Bourgeoisie",
+        "Proto Industrialisation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "A case described as \"new entrepreneurs struggle to enter trades dominated by hereditary masters\" is the best example of:",
+      "correct_answer": "Guild Restrictions",
+      "incorrect_answers": [
+        "Industrial Bourgeoisie",
+        "Proto Industrialisation",
+        "Luddite Protest"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", the term \"Guild Restrictions\" is most closely associated with:",
+      "correct_answer": "Regulatory controls by artisan guilds limiting entry and production methods",
+      "incorrect_answers": [
+        "Early nineteenth century worker resistance to machines that threatened livelihoods",
+        "The capitalist class that invested in factories finance and expanding markets",
+        "Rural household based production for wider markets before factory dominance"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "The immediate policy focus of \"Guild Restrictions\" is usually:",
+      "correct_answer": "Delayed transition to open competitive manufacturing",
+      "incorrect_answers": [
+        "Commercial expansion beyond guild controlled urban crafts",
+        "Emergence of powerful business elites in modern economies",
+        "Conflict over technological change and labour security"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "If an examiner asks for a concept linked to \"delayed transition to open competitive manufacturing\", the most accurate answer is:",
+      "correct_answer": "Guild Restrictions",
+      "incorrect_answers": [
+        "Proto Industrialisation",
+        "Luddite Protest",
+        "Industrial Bourgeoisie"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which term correctly completes this statement: Regulatory controls by artisan guilds limiting entry and production methods.",
+      "correct_answer": "Guild Restrictions",
+      "incorrect_answers": [
+        "Industrial Bourgeoisie",
+        "Luddite Protest",
+        "Proto Industrialisation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Choose the correctly matched pair from \"The Age of Industrialisation\".",
+      "correct_answer": "Guild Restrictions - delayed transition to open competitive manufacturing",
+      "incorrect_answers": [
+        "Luddite Protest - delayed transition to open competitive manufacturing",
+        "Guild Restrictions - emergence of powerful business elites in modern economies",
+        "Proto Industrialisation - conflict over technological change and labour security"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which of the following is a valid application of \"Guild Restrictions\"?",
+      "correct_answer": "New entrepreneurs struggle to enter trades dominated by hereditary masters",
+      "incorrect_answers": [
+        "Textile workers attack mechanised frames after wage cuts and job loss",
+        "Owners accumulate profits and influence through industrial enterprise",
+        "Merchants supply raw materials to peasant families who spin and weave at home"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", which concept best matches: early nineteenth century worker resistance to machines that threatened livelihoods?",
+      "correct_answer": "Luddite Protest",
+      "incorrect_answers": [
+        "Industrial Bourgeoisie",
+        "Proto Industrialisation",
+        "Factory System"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "A case described as \"textile workers attack mechanised frames after wage cuts and job loss\" is the best example of:",
+      "correct_answer": "Luddite Protest",
+      "incorrect_answers": [
+        "Proto Industrialisation",
+        "Factory System",
+        "Industrial Bourgeoisie"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", the term \"Luddite Protest\" is most closely associated with:",
+      "correct_answer": "Early nineteenth century worker resistance to machines that threatened livelihoods",
+      "incorrect_answers": [
+        "The capitalist class that invested in factories finance and expanding markets",
+        "Rural household based production for wider markets before factory dominance",
+        "Centralised mechanised production under one roof with wage labour"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "The immediate policy focus of \"Luddite Protest\" is usually:",
+      "correct_answer": "Conflict over technological change and labour security",
+      "incorrect_answers": [
+        "Higher output with tighter labour discipline",
+        "Commercial expansion beyond guild controlled urban crafts",
+        "Emergence of powerful business elites in modern economies"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "If an examiner asks for a concept linked to \"conflict over technological change and labour security\", the most accurate answer is:",
+      "correct_answer": "Luddite Protest",
+      "incorrect_answers": [
+        "Factory System",
+        "Industrial Bourgeoisie",
+        "Proto Industrialisation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which term correctly completes this statement: Early nineteenth century worker resistance to machines that threatened livelihoods.",
+      "correct_answer": "Luddite Protest",
+      "incorrect_answers": [
+        "Proto Industrialisation",
+        "Industrial Bourgeoisie",
+        "Factory System"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Choose the correctly matched pair from \"The Age of Industrialisation\".",
+      "correct_answer": "Luddite Protest - conflict over technological change and labour security",
+      "incorrect_answers": [
+        "Industrial Bourgeoisie - conflict over technological change and labour security",
+        "Luddite Protest - commercial expansion beyond guild controlled urban crafts",
+        "Factory System - emergence of powerful business elites in modern economies"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which of the following is a valid application of \"Luddite Protest\"?",
+      "correct_answer": "Textile workers attack mechanised frames after wage cuts and job loss",
+      "incorrect_answers": [
+        "Owners accumulate profits and influence through industrial enterprise",
+        "Merchants supply raw materials to peasant families who spin and weave at home",
+        "Workers operate power driven machines according to timed shifts"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", which concept best matches: the capitalist class that invested in factories finance and expanding markets?",
+      "correct_answer": "Industrial Bourgeoisie",
+      "incorrect_answers": [
+        "Proto Industrialisation",
+        "Factory System",
+        "Spinning Jenny"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "A case described as \"owners accumulate profits and influence through industrial enterprise\" is the best example of:",
+      "correct_answer": "Industrial Bourgeoisie",
+      "incorrect_answers": [
+        "Factory System",
+        "Spinning Jenny",
+        "Proto Industrialisation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "In \"The Age of Industrialisation\", the term \"Industrial Bourgeoisie\" is most closely associated with:",
+      "correct_answer": "The capitalist class that invested in factories finance and expanding markets",
+      "incorrect_answers": [
+        "Rural household based production for wider markets before factory dominance",
+        "Centralised mechanised production under one roof with wage labour",
+        "An innovation that allowed one worker to spin multiple spindles at once"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "The immediate policy focus of \"Industrial Bourgeoisie\" is usually:",
+      "correct_answer": "Emergence of powerful business elites in modern economies",
+      "incorrect_answers": [
+        "Major productivity gains in cotton processing",
+        "Higher output with tighter labour discipline",
+        "Commercial expansion beyond guild controlled urban crafts"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "If an examiner asks for a concept linked to \"emergence of powerful business elites in modern economies\", the most accurate answer is:",
+      "correct_answer": "Industrial Bourgeoisie",
+      "incorrect_answers": [
+        "Spinning Jenny",
+        "Proto Industrialisation",
+        "Factory System"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which term correctly completes this statement: The capitalist class that invested in factories finance and expanding markets.",
+      "correct_answer": "Industrial Bourgeoisie",
+      "incorrect_answers": [
+        "Factory System",
+        "Proto Industrialisation",
+        "Spinning Jenny"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Choose the correctly matched pair from \"The Age of Industrialisation\".",
+      "correct_answer": "Industrial Bourgeoisie - emergence of powerful business elites in modern economies",
+      "incorrect_answers": [
+        "Proto Industrialisation - emergence of powerful business elites in modern economies",
+        "Industrial Bourgeoisie - higher output with tighter labour discipline",
+        "Spinning Jenny - commercial expansion beyond guild controlled urban crafts"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Which of the following is a valid application of \"Industrial Bourgeoisie\"?",
+      "correct_answer": "Owners accumulate profits and influence through industrial enterprise",
+      "incorrect_answers": [
+        "Merchants supply raw materials to peasant families who spin and weave at home",
+        "Workers operate power driven machines according to timed shifts",
+        "Textile yarn production becomes faster due to multi spindle mechanisation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "Why did hand production continue alongside mechanised factories in the nineteenth century?",
+      "correct_answer": "Demand diversity and seasonal labour conditions sustained small scale producers",
+      "incorrect_answers": [
+        "Machines were legally banned in cities",
+        "Factories produced only agricultural tools",
+        "Industrial capital was unavailable in Britain"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "The Age of Industrialisation",
+      "question": "What made Manchester symbolic in industrial history?",
+      "correct_answer": "It became a major cotton textile hub linked to global raw material and export networks",
+      "incorrect_answers": [
+        "It led Europe in shipbuilding after 1850",
+        "It was a purely agrarian market town",
+        "It functioned mainly as a royal military base"
+      ]
+    }
+  ]
+}

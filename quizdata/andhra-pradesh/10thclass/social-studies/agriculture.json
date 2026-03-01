@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which concept best matches: small holding farming with high labour input and multiple cropping pressure?",
+      "correct_answer": "Intensive Subsistence Farming",
+      "incorrect_answers": [
+        "Commercial Farming",
+        "Cropping Season",
+        "Green Revolution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "A case described as \"densely populated regions cultivate tiny plots intensively to meet family food demand\" is the best example of:",
+      "correct_answer": "Intensive Subsistence Farming",
+      "incorrect_answers": [
+        "Cropping Season",
+        "Green Revolution",
+        "Commercial Farming"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", the term \"Intensive Subsistence Farming\" is most closely associated with:",
+      "correct_answer": "Small holding farming with high labour input and multiple cropping pressure",
+      "incorrect_answers": [
+        "Market oriented farming using capital intensive inputs and modern technology",
+        "Agricultural calendar division into kharif rabi and zaid cycles",
+        "High yielding varieties backed by irrigation fertilisers and institutional support"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "The immediate policy focus of \"Intensive Subsistence Farming\" is usually:",
+      "correct_answer": "High land use intensity with limited marketable surplus",
+      "incorrect_answers": [
+        "Food grain growth with regional disparity concerns",
+        "Season specific production planning",
+        "Higher output geared to profit and market chains"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "If an examiner asks for a concept linked to \"high land use intensity with limited marketable surplus\", the most accurate answer is:",
+      "correct_answer": "Intensive Subsistence Farming",
+      "incorrect_answers": [
+        "Green Revolution",
+        "Commercial Farming",
+        "Cropping Season"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which term correctly completes this statement: Small holding farming with high labour input and multiple cropping pressure.",
+      "correct_answer": "Intensive Subsistence Farming",
+      "incorrect_answers": [
+        "Cropping Season",
+        "Commercial Farming",
+        "Green Revolution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Choose the correctly matched pair from \"Agriculture\".",
+      "correct_answer": "Intensive Subsistence Farming - high land use intensity with limited marketable surplus",
+      "incorrect_answers": [
+        "Commercial Farming - high land use intensity with limited marketable surplus",
+        "Intensive Subsistence Farming - season specific production planning",
+        "Green Revolution - higher output geared to profit and market chains"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which of the following is a valid application of \"Intensive Subsistence Farming\"?",
+      "correct_answer": "Densely populated regions cultivate tiny plots intensively to meet family food demand",
+      "incorrect_answers": [
+        "Large farms rely on mechanisation seeds fertilisers and contract marketing",
+        "Crop choice shifts with monsoon onset winter moisture and short summer windows",
+        "Wheat and rice yields rise sharply in regions with assured input infrastructure"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which concept best matches: market oriented farming using capital intensive inputs and modern technology?",
+      "correct_answer": "Commercial Farming",
+      "incorrect_answers": [
+        "Cropping Season",
+        "Green Revolution",
+        "Minimum Support Price"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "A case described as \"large farms rely on mechanisation seeds fertilisers and contract marketing\" is the best example of:",
+      "correct_answer": "Commercial Farming",
+      "incorrect_answers": [
+        "Green Revolution",
+        "Minimum Support Price",
+        "Cropping Season"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", the term \"Commercial Farming\" is most closely associated with:",
+      "correct_answer": "Market oriented farming using capital intensive inputs and modern technology",
+      "incorrect_answers": [
+        "Agricultural calendar division into kharif rabi and zaid cycles",
+        "High yielding varieties backed by irrigation fertilisers and institutional support",
+        "A pre announced procurement price to protect farmers from sharp price falls"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "The immediate policy focus of \"Commercial Farming\" is usually:",
+      "correct_answer": "Higher output geared to profit and market chains",
+      "incorrect_answers": [
+        "Income stabilisation for selected crop producers",
+        "Food grain growth with regional disparity concerns",
+        "Season specific production planning"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "If an examiner asks for a concept linked to \"higher output geared to profit and market chains\", the most accurate answer is:",
+      "correct_answer": "Commercial Farming",
+      "incorrect_answers": [
+        "Minimum Support Price",
+        "Cropping Season",
+        "Green Revolution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which term correctly completes this statement: Market oriented farming using capital intensive inputs and modern technology.",
+      "correct_answer": "Commercial Farming",
+      "incorrect_answers": [
+        "Green Revolution",
+        "Cropping Season",
+        "Minimum Support Price"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Choose the correctly matched pair from \"Agriculture\".",
+      "correct_answer": "Commercial Farming - higher output geared to profit and market chains",
+      "incorrect_answers": [
+        "Cropping Season - higher output geared to profit and market chains",
+        "Commercial Farming - food grain growth with regional disparity concerns",
+        "Minimum Support Price - season specific production planning"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which of the following is a valid application of \"Commercial Farming\"?",
+      "correct_answer": "Large farms rely on mechanisation seeds fertilisers and contract marketing",
+      "incorrect_answers": [
+        "Crop choice shifts with monsoon onset winter moisture and short summer windows",
+        "Wheat and rice yields rise sharply in regions with assured input infrastructure",
+        "Government agencies purchase grains when market prices drop below assurance levels"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which concept best matches: agricultural calendar division into kharif rabi and zaid cycles?",
+      "correct_answer": "Cropping Season",
+      "incorrect_answers": [
+        "Green Revolution",
+        "Minimum Support Price",
+        "Institutional Credit"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "A case described as \"crop choice shifts with monsoon onset winter moisture and short summer windows\" is the best example of:",
+      "correct_answer": "Cropping Season",
+      "incorrect_answers": [
+        "Minimum Support Price",
+        "Institutional Credit",
+        "Green Revolution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", the term \"Cropping Season\" is most closely associated with:",
+      "correct_answer": "Agricultural calendar division into kharif rabi and zaid cycles",
+      "incorrect_answers": [
+        "High yielding varieties backed by irrigation fertilisers and institutional support",
+        "A pre announced procurement price to protect farmers from sharp price falls",
+        "Formal farm loans through banks cooperatives and regulated financial channels"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "The immediate policy focus of \"Cropping Season\" is usually:",
+      "correct_answer": "Season specific production planning",
+      "incorrect_answers": [
+        "Reduced dependence on high cost moneylenders",
+        "Income stabilisation for selected crop producers",
+        "Food grain growth with regional disparity concerns"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "If an examiner asks for a concept linked to \"season specific production planning\", the most accurate answer is:",
+      "correct_answer": "Cropping Season",
+      "incorrect_answers": [
+        "Institutional Credit",
+        "Green Revolution",
+        "Minimum Support Price"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which term correctly completes this statement: Agricultural calendar division into kharif rabi and zaid cycles.",
+      "correct_answer": "Cropping Season",
+      "incorrect_answers": [
+        "Minimum Support Price",
+        "Green Revolution",
+        "Institutional Credit"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Choose the correctly matched pair from \"Agriculture\".",
+      "correct_answer": "Cropping Season - season specific production planning",
+      "incorrect_answers": [
+        "Green Revolution - season specific production planning",
+        "Cropping Season - income stabilisation for selected crop producers",
+        "Institutional Credit - food grain growth with regional disparity concerns"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which of the following is a valid application of \"Cropping Season\"?",
+      "correct_answer": "Crop choice shifts with monsoon onset winter moisture and short summer windows",
+      "incorrect_answers": [
+        "Wheat and rice yields rise sharply in regions with assured input infrastructure",
+        "Government agencies purchase grains when market prices drop below assurance levels",
+        "Farmers finance seeds irrigation and machinery through low interest formal borrowing"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which concept best matches: high yielding varieties backed by irrigation fertilisers and institutional support?",
+      "correct_answer": "Green Revolution",
+      "incorrect_answers": [
+        "Minimum Support Price",
+        "Institutional Credit",
+        "Intensive Subsistence Farming"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "A case described as \"wheat and rice yields rise sharply in regions with assured input infrastructure\" is the best example of:",
+      "correct_answer": "Green Revolution",
+      "incorrect_answers": [
+        "Institutional Credit",
+        "Intensive Subsistence Farming",
+        "Minimum Support Price"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", the term \"Green Revolution\" is most closely associated with:",
+      "correct_answer": "High yielding varieties backed by irrigation fertilisers and institutional support",
+      "incorrect_answers": [
+        "A pre announced procurement price to protect farmers from sharp price falls",
+        "Formal farm loans through banks cooperatives and regulated financial channels",
+        "Small holding farming with high labour input and multiple cropping pressure"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "The immediate policy focus of \"Green Revolution\" is usually:",
+      "correct_answer": "Food grain growth with regional disparity concerns",
+      "incorrect_answers": [
+        "High land use intensity with limited marketable surplus",
+        "Reduced dependence on high cost moneylenders",
+        "Income stabilisation for selected crop producers"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "If an examiner asks for a concept linked to \"food grain growth with regional disparity concerns\", the most accurate answer is:",
+      "correct_answer": "Green Revolution",
+      "incorrect_answers": [
+        "Intensive Subsistence Farming",
+        "Minimum Support Price",
+        "Institutional Credit"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which term correctly completes this statement: High yielding varieties backed by irrigation fertilisers and institutional support.",
+      "correct_answer": "Green Revolution",
+      "incorrect_answers": [
+        "Institutional Credit",
+        "Minimum Support Price",
+        "Intensive Subsistence Farming"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Choose the correctly matched pair from \"Agriculture\".",
+      "correct_answer": "Green Revolution - food grain growth with regional disparity concerns",
+      "incorrect_answers": [
+        "Minimum Support Price - food grain growth with regional disparity concerns",
+        "Green Revolution - reduced dependence on high cost moneylenders",
+        "Intensive Subsistence Farming - income stabilisation for selected crop producers"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which of the following is a valid application of \"Green Revolution\"?",
+      "correct_answer": "Wheat and rice yields rise sharply in regions with assured input infrastructure",
+      "incorrect_answers": [
+        "Government agencies purchase grains when market prices drop below assurance levels",
+        "Farmers finance seeds irrigation and machinery through low interest formal borrowing",
+        "Densely populated regions cultivate tiny plots intensively to meet family food demand"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which concept best matches: a pre announced procurement price to protect farmers from sharp price falls?",
+      "correct_answer": "Minimum Support Price",
+      "incorrect_answers": [
+        "Institutional Credit",
+        "Intensive Subsistence Farming",
+        "Commercial Farming"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "A case described as \"government agencies purchase grains when market prices drop below assurance levels\" is the best example of:",
+      "correct_answer": "Minimum Support Price",
+      "incorrect_answers": [
+        "Intensive Subsistence Farming",
+        "Commercial Farming",
+        "Institutional Credit"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", the term \"Minimum Support Price\" is most closely associated with:",
+      "correct_answer": "A pre announced procurement price to protect farmers from sharp price falls",
+      "incorrect_answers": [
+        "Formal farm loans through banks cooperatives and regulated financial channels",
+        "Small holding farming with high labour input and multiple cropping pressure",
+        "Market oriented farming using capital intensive inputs and modern technology"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "The immediate policy focus of \"Minimum Support Price\" is usually:",
+      "correct_answer": "Income stabilisation for selected crop producers",
+      "incorrect_answers": [
+        "Higher output geared to profit and market chains",
+        "High land use intensity with limited marketable surplus",
+        "Reduced dependence on high cost moneylenders"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "If an examiner asks for a concept linked to \"income stabilisation for selected crop producers\", the most accurate answer is:",
+      "correct_answer": "Minimum Support Price",
+      "incorrect_answers": [
+        "Commercial Farming",
+        "Institutional Credit",
+        "Intensive Subsistence Farming"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which term correctly completes this statement: A pre announced procurement price to protect farmers from sharp price falls.",
+      "correct_answer": "Minimum Support Price",
+      "incorrect_answers": [
+        "Intensive Subsistence Farming",
+        "Institutional Credit",
+        "Commercial Farming"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Choose the correctly matched pair from \"Agriculture\".",
+      "correct_answer": "Minimum Support Price - income stabilisation for selected crop producers",
+      "incorrect_answers": [
+        "Institutional Credit - income stabilisation for selected crop producers",
+        "Minimum Support Price - high land use intensity with limited marketable surplus",
+        "Commercial Farming - reduced dependence on high cost moneylenders"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which of the following is a valid application of \"Minimum Support Price\"?",
+      "correct_answer": "Government agencies purchase grains when market prices drop below assurance levels",
+      "incorrect_answers": [
+        "Farmers finance seeds irrigation and machinery through low interest formal borrowing",
+        "Densely populated regions cultivate tiny plots intensively to meet family food demand",
+        "Large farms rely on mechanisation seeds fertilisers and contract marketing"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which concept best matches: formal farm loans through banks cooperatives and regulated financial channels?",
+      "correct_answer": "Institutional Credit",
+      "incorrect_answers": [
+        "Intensive Subsistence Farming",
+        "Commercial Farming",
+        "Cropping Season"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "A case described as \"farmers finance seeds irrigation and machinery through low interest formal borrowing\" is the best example of:",
+      "correct_answer": "Institutional Credit",
+      "incorrect_answers": [
+        "Commercial Farming",
+        "Cropping Season",
+        "Intensive Subsistence Farming"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", the term \"Institutional Credit\" is most closely associated with:",
+      "correct_answer": "Formal farm loans through banks cooperatives and regulated financial channels",
+      "incorrect_answers": [
+        "Small holding farming with high labour input and multiple cropping pressure",
+        "Market oriented farming using capital intensive inputs and modern technology",
+        "Agricultural calendar division into kharif rabi and zaid cycles"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "The immediate policy focus of \"Institutional Credit\" is usually:",
+      "correct_answer": "Reduced dependence on high cost moneylenders",
+      "incorrect_answers": [
+        "Season specific production planning",
+        "Higher output geared to profit and market chains",
+        "High land use intensity with limited marketable surplus"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "If an examiner asks for a concept linked to \"reduced dependence on high cost moneylenders\", the most accurate answer is:",
+      "correct_answer": "Institutional Credit",
+      "incorrect_answers": [
+        "Cropping Season",
+        "Intensive Subsistence Farming",
+        "Commercial Farming"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which term correctly completes this statement: Formal farm loans through banks cooperatives and regulated financial channels.",
+      "correct_answer": "Institutional Credit",
+      "incorrect_answers": [
+        "Commercial Farming",
+        "Intensive Subsistence Farming",
+        "Cropping Season"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Choose the correctly matched pair from \"Agriculture\".",
+      "correct_answer": "Institutional Credit - reduced dependence on high cost moneylenders",
+      "incorrect_answers": [
+        "Intensive Subsistence Farming - reduced dependence on high cost moneylenders",
+        "Institutional Credit - higher output geared to profit and market chains",
+        "Cropping Season - high land use intensity with limited marketable surplus"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Which of the following is a valid application of \"Institutional Credit\"?",
+      "correct_answer": "Farmers finance seeds irrigation and machinery through low interest formal borrowing",
+      "incorrect_answers": [
+        "Densely populated regions cultivate tiny plots intensively to meet family food demand",
+        "Large farms rely on mechanisation seeds fertilisers and contract marketing",
+        "Crop choice shifts with monsoon onset winter moisture and short summer windows"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "Plantation agriculture differs from subsistence farming mainly because plantations are",
+      "correct_answer": "large estates focused on single cash crops for market processing chains",
+      "incorrect_answers": [
+        "small holdings producing only food grains",
+        "rainfed systems with no hired labour",
+        "collective commons without private management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "A major challenge of input intensive agriculture is that it can",
+      "correct_answer": "degrade soil and groundwater when chemicals and extraction are excessive",
+      "incorrect_answers": [
+        "eliminate all pest outbreaks permanently",
+        "remove need for crop rotation",
+        "avoid regional inequality in productivity"
+      ]
+    }
+  ]
+}

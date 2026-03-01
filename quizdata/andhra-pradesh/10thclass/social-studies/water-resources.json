@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which concept best matches: large infrastructure integrating irrigation power flood control and water supply functions?",
+      "correct_answer": "Multipurpose River Project",
+      "incorrect_answers": [
+        "Rainwater Harvesting",
+        "Watershed Management",
+        "Groundwater Depletion"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "A case described as \"a dam network supports canals electricity and seasonal flood management\" is the best example of:",
+      "correct_answer": "Multipurpose River Project",
+      "incorrect_answers": [
+        "Watershed Management",
+        "Groundwater Depletion",
+        "Rainwater Harvesting"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", the term \"Multipurpose River Project\" is most closely associated with:",
+      "correct_answer": "Large infrastructure integrating irrigation power flood control and water supply functions",
+      "incorrect_answers": [
+        "Collection and storage of rainwater for recharge and local consumption",
+        "Integrated treatment of land and water within a drainage basin",
+        "Decline of aquifer levels due to extraction exceeding recharge"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "The immediate policy focus of \"Multipurpose River Project\" is usually:",
+      "correct_answer": "Multi sectoral water control and allocation",
+      "incorrect_answers": [
+        "Rising irrigation costs and long term water stress",
+        "Soil conservation with sustained water availability",
+        "Improved local water security and groundwater replenishment"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "If an examiner asks for a concept linked to \"multi sectoral water control and allocation\", the most accurate answer is:",
+      "correct_answer": "Multipurpose River Project",
+      "incorrect_answers": [
+        "Groundwater Depletion",
+        "Rainwater Harvesting",
+        "Watershed Management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which term correctly completes this statement: Large infrastructure integrating irrigation power flood control and water supply functions.",
+      "correct_answer": "Multipurpose River Project",
+      "incorrect_answers": [
+        "Watershed Management",
+        "Rainwater Harvesting",
+        "Groundwater Depletion"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Choose the correctly matched pair from \"Water Resources\".",
+      "correct_answer": "Multipurpose River Project - multi sectoral water control and allocation",
+      "incorrect_answers": [
+        "Rainwater Harvesting - multi sectoral water control and allocation",
+        "Multipurpose River Project - soil conservation with sustained water availability",
+        "Groundwater Depletion - improved local water security and groundwater replenishment"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which of the following is a valid application of \"Multipurpose River Project\"?",
+      "correct_answer": "A dam network supports canals electricity and seasonal flood management",
+      "incorrect_answers": [
+        "Rooftop systems channel monsoon water into storage tanks and recharge pits",
+        "Check dams contour bunding and vegetation reduce runoff in a catchment",
+        "Intensive tube well irrigation lowers water tables year after year"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which concept best matches: collection and storage of rainwater for recharge and local consumption?",
+      "correct_answer": "Rainwater Harvesting",
+      "incorrect_answers": [
+        "Watershed Management",
+        "Groundwater Depletion",
+        "Interstate Water Dispute"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "A case described as \"rooftop systems channel monsoon water into storage tanks and recharge pits\" is the best example of:",
+      "correct_answer": "Rainwater Harvesting",
+      "incorrect_answers": [
+        "Groundwater Depletion",
+        "Interstate Water Dispute",
+        "Watershed Management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", the term \"Rainwater Harvesting\" is most closely associated with:",
+      "correct_answer": "Collection and storage of rainwater for recharge and local consumption",
+      "incorrect_answers": [
+        "Integrated treatment of land and water within a drainage basin",
+        "Decline of aquifer levels due to extraction exceeding recharge",
+        "Conflict among states over allocation and control of shared river waters"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "The immediate policy focus of \"Rainwater Harvesting\" is usually:",
+      "correct_answer": "Improved local water security and groundwater replenishment",
+      "incorrect_answers": [
+        "Legal and political contest over river governance",
+        "Rising irrigation costs and long term water stress",
+        "Soil conservation with sustained water availability"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "If an examiner asks for a concept linked to \"improved local water security and groundwater replenishment\", the most accurate answer is:",
+      "correct_answer": "Rainwater Harvesting",
+      "incorrect_answers": [
+        "Interstate Water Dispute",
+        "Watershed Management",
+        "Groundwater Depletion"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which term correctly completes this statement: Collection and storage of rainwater for recharge and local consumption.",
+      "correct_answer": "Rainwater Harvesting",
+      "incorrect_answers": [
+        "Groundwater Depletion",
+        "Watershed Management",
+        "Interstate Water Dispute"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Choose the correctly matched pair from \"Water Resources\".",
+      "correct_answer": "Rainwater Harvesting - improved local water security and groundwater replenishment",
+      "incorrect_answers": [
+        "Watershed Management - improved local water security and groundwater replenishment",
+        "Rainwater Harvesting - rising irrigation costs and long term water stress",
+        "Interstate Water Dispute - soil conservation with sustained water availability"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which of the following is a valid application of \"Rainwater Harvesting\"?",
+      "correct_answer": "Rooftop systems channel monsoon water into storage tanks and recharge pits",
+      "incorrect_answers": [
+        "Check dams contour bunding and vegetation reduce runoff in a catchment",
+        "Intensive tube well irrigation lowers water tables year after year",
+        "Upstream storage decisions reduce downstream seasonal flows"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which concept best matches: integrated treatment of land and water within a drainage basin?",
+      "correct_answer": "Watershed Management",
+      "incorrect_answers": [
+        "Groundwater Depletion",
+        "Interstate Water Dispute",
+        "Dam Induced Displacement"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "A case described as \"check dams contour bunding and vegetation reduce runoff in a catchment\" is the best example of:",
+      "correct_answer": "Watershed Management",
+      "incorrect_answers": [
+        "Interstate Water Dispute",
+        "Dam Induced Displacement",
+        "Groundwater Depletion"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", the term \"Watershed Management\" is most closely associated with:",
+      "correct_answer": "Integrated treatment of land and water within a drainage basin",
+      "incorrect_answers": [
+        "Decline of aquifer levels due to extraction exceeding recharge",
+        "Conflict among states over allocation and control of shared river waters",
+        "Forced relocation of people due to submergence from reservoir projects"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "The immediate policy focus of \"Watershed Management\" is usually:",
+      "correct_answer": "Soil conservation with sustained water availability",
+      "incorrect_answers": [
+        "Social justice and rehabilitation challenges in water planning",
+        "Legal and political contest over river governance",
+        "Rising irrigation costs and long term water stress"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "If an examiner asks for a concept linked to \"soil conservation with sustained water availability\", the most accurate answer is:",
+      "correct_answer": "Watershed Management",
+      "incorrect_answers": [
+        "Dam Induced Displacement",
+        "Groundwater Depletion",
+        "Interstate Water Dispute"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which term correctly completes this statement: Integrated treatment of land and water within a drainage basin.",
+      "correct_answer": "Watershed Management",
+      "incorrect_answers": [
+        "Interstate Water Dispute",
+        "Groundwater Depletion",
+        "Dam Induced Displacement"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Choose the correctly matched pair from \"Water Resources\".",
+      "correct_answer": "Watershed Management - soil conservation with sustained water availability",
+      "incorrect_answers": [
+        "Groundwater Depletion - soil conservation with sustained water availability",
+        "Watershed Management - legal and political contest over river governance",
+        "Dam Induced Displacement - rising irrigation costs and long term water stress"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which of the following is a valid application of \"Watershed Management\"?",
+      "correct_answer": "Check dams contour bunding and vegetation reduce runoff in a catchment",
+      "incorrect_answers": [
+        "Intensive tube well irrigation lowers water tables year after year",
+        "Upstream storage decisions reduce downstream seasonal flows",
+        "Villages lose land and livelihoods after reservoir expansion"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which concept best matches: decline of aquifer levels due to extraction exceeding recharge?",
+      "correct_answer": "Groundwater Depletion",
+      "incorrect_answers": [
+        "Interstate Water Dispute",
+        "Dam Induced Displacement",
+        "Multipurpose River Project"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "A case described as \"intensive tube well irrigation lowers water tables year after year\" is the best example of:",
+      "correct_answer": "Groundwater Depletion",
+      "incorrect_answers": [
+        "Dam Induced Displacement",
+        "Multipurpose River Project",
+        "Interstate Water Dispute"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", the term \"Groundwater Depletion\" is most closely associated with:",
+      "correct_answer": "Decline of aquifer levels due to extraction exceeding recharge",
+      "incorrect_answers": [
+        "Conflict among states over allocation and control of shared river waters",
+        "Forced relocation of people due to submergence from reservoir projects",
+        "Large infrastructure integrating irrigation power flood control and water supply functions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "The immediate policy focus of \"Groundwater Depletion\" is usually:",
+      "correct_answer": "Rising irrigation costs and long term water stress",
+      "incorrect_answers": [
+        "Multi sectoral water control and allocation",
+        "Social justice and rehabilitation challenges in water planning",
+        "Legal and political contest over river governance"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "If an examiner asks for a concept linked to \"rising irrigation costs and long term water stress\", the most accurate answer is:",
+      "correct_answer": "Groundwater Depletion",
+      "incorrect_answers": [
+        "Multipurpose River Project",
+        "Interstate Water Dispute",
+        "Dam Induced Displacement"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which term correctly completes this statement: Decline of aquifer levels due to extraction exceeding recharge.",
+      "correct_answer": "Groundwater Depletion",
+      "incorrect_answers": [
+        "Dam Induced Displacement",
+        "Interstate Water Dispute",
+        "Multipurpose River Project"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Choose the correctly matched pair from \"Water Resources\".",
+      "correct_answer": "Groundwater Depletion - rising irrigation costs and long term water stress",
+      "incorrect_answers": [
+        "Interstate Water Dispute - rising irrigation costs and long term water stress",
+        "Groundwater Depletion - social justice and rehabilitation challenges in water planning",
+        "Multipurpose River Project - legal and political contest over river governance"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which of the following is a valid application of \"Groundwater Depletion\"?",
+      "correct_answer": "Intensive tube well irrigation lowers water tables year after year",
+      "incorrect_answers": [
+        "Upstream storage decisions reduce downstream seasonal flows",
+        "Villages lose land and livelihoods after reservoir expansion",
+        "A dam network supports canals electricity and seasonal flood management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which concept best matches: conflict among states over allocation and control of shared river waters?",
+      "correct_answer": "Interstate Water Dispute",
+      "incorrect_answers": [
+        "Dam Induced Displacement",
+        "Multipurpose River Project",
+        "Rainwater Harvesting"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "A case described as \"upstream storage decisions reduce downstream seasonal flows\" is the best example of:",
+      "correct_answer": "Interstate Water Dispute",
+      "incorrect_answers": [
+        "Multipurpose River Project",
+        "Rainwater Harvesting",
+        "Dam Induced Displacement"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", the term \"Interstate Water Dispute\" is most closely associated with:",
+      "correct_answer": "Conflict among states over allocation and control of shared river waters",
+      "incorrect_answers": [
+        "Forced relocation of people due to submergence from reservoir projects",
+        "Large infrastructure integrating irrigation power flood control and water supply functions",
+        "Collection and storage of rainwater for recharge and local consumption"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "The immediate policy focus of \"Interstate Water Dispute\" is usually:",
+      "correct_answer": "Legal and political contest over river governance",
+      "incorrect_answers": [
+        "Improved local water security and groundwater replenishment",
+        "Multi sectoral water control and allocation",
+        "Social justice and rehabilitation challenges in water planning"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "If an examiner asks for a concept linked to \"legal and political contest over river governance\", the most accurate answer is:",
+      "correct_answer": "Interstate Water Dispute",
+      "incorrect_answers": [
+        "Rainwater Harvesting",
+        "Dam Induced Displacement",
+        "Multipurpose River Project"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which term correctly completes this statement: Conflict among states over allocation and control of shared river waters.",
+      "correct_answer": "Interstate Water Dispute",
+      "incorrect_answers": [
+        "Multipurpose River Project",
+        "Dam Induced Displacement",
+        "Rainwater Harvesting"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Choose the correctly matched pair from \"Water Resources\".",
+      "correct_answer": "Interstate Water Dispute - legal and political contest over river governance",
+      "incorrect_answers": [
+        "Dam Induced Displacement - legal and political contest over river governance",
+        "Interstate Water Dispute - multi sectoral water control and allocation",
+        "Rainwater Harvesting - social justice and rehabilitation challenges in water planning"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which of the following is a valid application of \"Interstate Water Dispute\"?",
+      "correct_answer": "Upstream storage decisions reduce downstream seasonal flows",
+      "incorrect_answers": [
+        "Villages lose land and livelihoods after reservoir expansion",
+        "A dam network supports canals electricity and seasonal flood management",
+        "Rooftop systems channel monsoon water into storage tanks and recharge pits"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which concept best matches: forced relocation of people due to submergence from reservoir projects?",
+      "correct_answer": "Dam Induced Displacement",
+      "incorrect_answers": [
+        "Multipurpose River Project",
+        "Rainwater Harvesting",
+        "Watershed Management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "A case described as \"villages lose land and livelihoods after reservoir expansion\" is the best example of:",
+      "correct_answer": "Dam Induced Displacement",
+      "incorrect_answers": [
+        "Rainwater Harvesting",
+        "Watershed Management",
+        "Multipurpose River Project"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", the term \"Dam Induced Displacement\" is most closely associated with:",
+      "correct_answer": "Forced relocation of people due to submergence from reservoir projects",
+      "incorrect_answers": [
+        "Large infrastructure integrating irrigation power flood control and water supply functions",
+        "Collection and storage of rainwater for recharge and local consumption",
+        "Integrated treatment of land and water within a drainage basin"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "The immediate policy focus of \"Dam Induced Displacement\" is usually:",
+      "correct_answer": "Social justice and rehabilitation challenges in water planning",
+      "incorrect_answers": [
+        "Soil conservation with sustained water availability",
+        "Improved local water security and groundwater replenishment",
+        "Multi sectoral water control and allocation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "If an examiner asks for a concept linked to \"social justice and rehabilitation challenges in water planning\", the most accurate answer is:",
+      "correct_answer": "Dam Induced Displacement",
+      "incorrect_answers": [
+        "Watershed Management",
+        "Multipurpose River Project",
+        "Rainwater Harvesting"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which term correctly completes this statement: Forced relocation of people due to submergence from reservoir projects.",
+      "correct_answer": "Dam Induced Displacement",
+      "incorrect_answers": [
+        "Rainwater Harvesting",
+        "Multipurpose River Project",
+        "Watershed Management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Choose the correctly matched pair from \"Water Resources\".",
+      "correct_answer": "Dam Induced Displacement - social justice and rehabilitation challenges in water planning",
+      "incorrect_answers": [
+        "Multipurpose River Project - social justice and rehabilitation challenges in water planning",
+        "Dam Induced Displacement - improved local water security and groundwater replenishment",
+        "Watershed Management - multi sectoral water control and allocation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Which of the following is a valid application of \"Dam Induced Displacement\"?",
+      "correct_answer": "Villages lose land and livelihoods after reservoir expansion",
+      "incorrect_answers": [
+        "A dam network supports canals electricity and seasonal flood management",
+        "Rooftop systems channel monsoon water into storage tanks and recharge pits",
+        "Check dams contour bunding and vegetation reduce runoff in a catchment"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "What is a major argument made by critics of large dams?",
+      "correct_answer": "Social and ecological costs can outweigh aggregate benefits without fair rehabilitation",
+      "incorrect_answers": [
+        "Dams cannot generate hydroelectricity",
+        "Large dams eliminate all evaporation losses",
+        "Canal networks never require maintenance"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "Traditional tank systems are especially effective in peninsular India because they",
+      "correct_answer": "capture seasonal runoff in hard rock regions with variable rainfall",
+      "incorrect_answers": [
+        "depend on perennial glacier melt",
+        "replace all groundwater sources",
+        "work only in alluvial floodplains"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", which concept best matches: contest among parties to win public support and control policy direction?",
+      "correct_answer": "Partisan Competition",
+      "incorrect_answers": [
+        "National Party",
+        "Regional Party",
+        "Coalition Government"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "A case described as \"parties present competing manifestos and candidates in elections\" is the best example of:",
+      "correct_answer": "Partisan Competition",
+      "incorrect_answers": [
+        "Regional Party",
+        "Coalition Government",
+        "National Party"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", the term \"Partisan Competition\" is most closely associated with:",
+      "correct_answer": "Contest among parties to win public support and control policy direction",
+      "incorrect_answers": [
+        "Party with broad geographic presence and vote share across multiple states",
+        "Party primarily rooted in specific state or regional social interests",
+        "Government formed by alliance of multiple parties without single party majority"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "The immediate policy focus of \"Partisan Competition\" is usually:",
+      "correct_answer": "Choice based accountability in representative democracy",
+      "incorrect_answers": [
+        "Shared executive power through negotiated consensus",
+        "Articulation of subnational aspirations",
+        "Integration of national issues in electoral politics"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "If an examiner asks for a concept linked to \"choice based accountability in representative democracy\", the most accurate answer is:",
+      "correct_answer": "Partisan Competition",
+      "incorrect_answers": [
+        "Coalition Government",
+        "National Party",
+        "Regional Party"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which term correctly completes this statement: Contest among parties to win public support and control policy direction.",
+      "correct_answer": "Partisan Competition",
+      "incorrect_answers": [
+        "Regional Party",
+        "National Party",
+        "Coalition Government"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Choose the correctly matched pair from \"Political Parties\".",
+      "correct_answer": "Partisan Competition - choice based accountability in representative democracy",
+      "incorrect_answers": [
+        "National Party - choice based accountability in representative democracy",
+        "Partisan Competition - articulation of subnational aspirations",
+        "Coalition Government - integration of national issues in electoral politics"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which of the following is a valid application of \"Partisan Competition\"?",
+      "correct_answer": "Parties present competing manifestos and candidates in elections",
+      "incorrect_answers": [
+        "Organisation contests parliamentary elections with nation wide policy agenda",
+        "Political platform focuses on linguistic cultural or local development demands",
+        "Post election bargaining creates a common minimum programme among partners"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", which concept best matches: party with broad geographic presence and vote share across multiple states?",
+      "correct_answer": "National Party",
+      "incorrect_answers": [
+        "Regional Party",
+        "Coalition Government",
+        "Anti Defection Law"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "A case described as \"organisation contests parliamentary elections with nation wide policy agenda\" is the best example of:",
+      "correct_answer": "National Party",
+      "incorrect_answers": [
+        "Coalition Government",
+        "Anti Defection Law",
+        "Regional Party"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", the term \"National Party\" is most closely associated with:",
+      "correct_answer": "Party with broad geographic presence and vote share across multiple states",
+      "incorrect_answers": [
+        "Party primarily rooted in specific state or regional social interests",
+        "Government formed by alliance of multiple parties without single party majority",
+        "Legal provision disqualifying elected members who switch parties opportunistically"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "The immediate policy focus of \"National Party\" is usually:",
+      "correct_answer": "Integration of national issues in electoral politics",
+      "incorrect_answers": [
+        "Greater stability against frequent political floor crossing",
+        "Shared executive power through negotiated consensus",
+        "Articulation of subnational aspirations"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "If an examiner asks for a concept linked to \"integration of national issues in electoral politics\", the most accurate answer is:",
+      "correct_answer": "National Party",
+      "incorrect_answers": [
+        "Anti Defection Law",
+        "Regional Party",
+        "Coalition Government"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which term correctly completes this statement: Party with broad geographic presence and vote share across multiple states.",
+      "correct_answer": "National Party",
+      "incorrect_answers": [
+        "Coalition Government",
+        "Regional Party",
+        "Anti Defection Law"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Choose the correctly matched pair from \"Political Parties\".",
+      "correct_answer": "National Party - integration of national issues in electoral politics",
+      "incorrect_answers": [
+        "Regional Party - integration of national issues in electoral politics",
+        "National Party - shared executive power through negotiated consensus",
+        "Anti Defection Law - articulation of subnational aspirations"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which of the following is a valid application of \"National Party\"?",
+      "correct_answer": "Organisation contests parliamentary elections with nation wide policy agenda",
+      "incorrect_answers": [
+        "Political platform focuses on linguistic cultural or local development demands",
+        "Post election bargaining creates a common minimum programme among partners",
+        "Legislators lose seats after violating party whip in specified votes"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", which concept best matches: party primarily rooted in specific state or regional social interests?",
+      "correct_answer": "Regional Party",
+      "incorrect_answers": [
+        "Coalition Government",
+        "Anti Defection Law",
+        "Internal Party Democracy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "A case described as \"political platform focuses on linguistic cultural or local development demands\" is the best example of:",
+      "correct_answer": "Regional Party",
+      "incorrect_answers": [
+        "Anti Defection Law",
+        "Internal Party Democracy",
+        "Coalition Government"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", the term \"Regional Party\" is most closely associated with:",
+      "correct_answer": "Party primarily rooted in specific state or regional social interests",
+      "incorrect_answers": [
+        "Government formed by alliance of multiple parties without single party majority",
+        "Legal provision disqualifying elected members who switch parties opportunistically",
+        "Practice of transparent leadership selection and decision making within parties"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "The immediate policy focus of \"Regional Party\" is usually:",
+      "correct_answer": "Articulation of subnational aspirations",
+      "incorrect_answers": [
+        "Improved party accountability and representativeness",
+        "Greater stability against frequent political floor crossing",
+        "Shared executive power through negotiated consensus"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "If an examiner asks for a concept linked to \"articulation of subnational aspirations\", the most accurate answer is:",
+      "correct_answer": "Regional Party",
+      "incorrect_answers": [
+        "Internal Party Democracy",
+        "Coalition Government",
+        "Anti Defection Law"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which term correctly completes this statement: Party primarily rooted in specific state or regional social interests.",
+      "correct_answer": "Regional Party",
+      "incorrect_answers": [
+        "Anti Defection Law",
+        "Coalition Government",
+        "Internal Party Democracy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Choose the correctly matched pair from \"Political Parties\".",
+      "correct_answer": "Regional Party - articulation of subnational aspirations",
+      "incorrect_answers": [
+        "Coalition Government - articulation of subnational aspirations",
+        "Regional Party - greater stability against frequent political floor crossing",
+        "Internal Party Democracy - shared executive power through negotiated consensus"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which of the following is a valid application of \"Regional Party\"?",
+      "correct_answer": "Political platform focuses on linguistic cultural or local development demands",
+      "incorrect_answers": [
+        "Post election bargaining creates a common minimum programme among partners",
+        "Legislators lose seats after violating party whip in specified votes",
+        "Candidate selection follows institutional rules instead of closed patron networks"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", which concept best matches: government formed by alliance of multiple parties without single party majority?",
+      "correct_answer": "Coalition Government",
+      "incorrect_answers": [
+        "Anti Defection Law",
+        "Internal Party Democracy",
+        "Partisan Competition"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "A case described as \"post election bargaining creates a common minimum programme among partners\" is the best example of:",
+      "correct_answer": "Coalition Government",
+      "incorrect_answers": [
+        "Internal Party Democracy",
+        "Partisan Competition",
+        "Anti Defection Law"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", the term \"Coalition Government\" is most closely associated with:",
+      "correct_answer": "Government formed by alliance of multiple parties without single party majority",
+      "incorrect_answers": [
+        "Legal provision disqualifying elected members who switch parties opportunistically",
+        "Practice of transparent leadership selection and decision making within parties",
+        "Contest among parties to win public support and control policy direction"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "The immediate policy focus of \"Coalition Government\" is usually:",
+      "correct_answer": "Shared executive power through negotiated consensus",
+      "incorrect_answers": [
+        "Choice based accountability in representative democracy",
+        "Improved party accountability and representativeness",
+        "Greater stability against frequent political floor crossing"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "If an examiner asks for a concept linked to \"shared executive power through negotiated consensus\", the most accurate answer is:",
+      "correct_answer": "Coalition Government",
+      "incorrect_answers": [
+        "Partisan Competition",
+        "Anti Defection Law",
+        "Internal Party Democracy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which term correctly completes this statement: Government formed by alliance of multiple parties without single party majority.",
+      "correct_answer": "Coalition Government",
+      "incorrect_answers": [
+        "Internal Party Democracy",
+        "Anti Defection Law",
+        "Partisan Competition"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Choose the correctly matched pair from \"Political Parties\".",
+      "correct_answer": "Coalition Government - shared executive power through negotiated consensus",
+      "incorrect_answers": [
+        "Anti Defection Law - shared executive power through negotiated consensus",
+        "Coalition Government - improved party accountability and representativeness",
+        "Partisan Competition - greater stability against frequent political floor crossing"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which of the following is a valid application of \"Coalition Government\"?",
+      "correct_answer": "Post election bargaining creates a common minimum programme among partners",
+      "incorrect_answers": [
+        "Legislators lose seats after violating party whip in specified votes",
+        "Candidate selection follows institutional rules instead of closed patron networks",
+        "Parties present competing manifestos and candidates in elections"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", which concept best matches: legal provision disqualifying elected members who switch parties opportunistically?",
+      "correct_answer": "Anti Defection Law",
+      "incorrect_answers": [
+        "Internal Party Democracy",
+        "Partisan Competition",
+        "National Party"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "A case described as \"legislators lose seats after violating party whip in specified votes\" is the best example of:",
+      "correct_answer": "Anti Defection Law",
+      "incorrect_answers": [
+        "Partisan Competition",
+        "National Party",
+        "Internal Party Democracy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", the term \"Anti Defection Law\" is most closely associated with:",
+      "correct_answer": "Legal provision disqualifying elected members who switch parties opportunistically",
+      "incorrect_answers": [
+        "Practice of transparent leadership selection and decision making within parties",
+        "Contest among parties to win public support and control policy direction",
+        "Party with broad geographic presence and vote share across multiple states"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "The immediate policy focus of \"Anti Defection Law\" is usually:",
+      "correct_answer": "Greater stability against frequent political floor crossing",
+      "incorrect_answers": [
+        "Integration of national issues in electoral politics",
+        "Choice based accountability in representative democracy",
+        "Improved party accountability and representativeness"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "If an examiner asks for a concept linked to \"greater stability against frequent political floor crossing\", the most accurate answer is:",
+      "correct_answer": "Anti Defection Law",
+      "incorrect_answers": [
+        "National Party",
+        "Internal Party Democracy",
+        "Partisan Competition"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which term correctly completes this statement: Legal provision disqualifying elected members who switch parties opportunistically.",
+      "correct_answer": "Anti Defection Law",
+      "incorrect_answers": [
+        "Partisan Competition",
+        "Internal Party Democracy",
+        "National Party"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Choose the correctly matched pair from \"Political Parties\".",
+      "correct_answer": "Anti Defection Law - greater stability against frequent political floor crossing",
+      "incorrect_answers": [
+        "Internal Party Democracy - greater stability against frequent political floor crossing",
+        "Anti Defection Law - choice based accountability in representative democracy",
+        "National Party - improved party accountability and representativeness"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which of the following is a valid application of \"Anti Defection Law\"?",
+      "correct_answer": "Legislators lose seats after violating party whip in specified votes",
+      "incorrect_answers": [
+        "Candidate selection follows institutional rules instead of closed patron networks",
+        "Parties present competing manifestos and candidates in elections",
+        "Organisation contests parliamentary elections with nation wide policy agenda"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", which concept best matches: practice of transparent leadership selection and decision making within parties?",
+      "correct_answer": "Internal Party Democracy",
+      "incorrect_answers": [
+        "Partisan Competition",
+        "National Party",
+        "Regional Party"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "A case described as \"candidate selection follows institutional rules instead of closed patron networks\" is the best example of:",
+      "correct_answer": "Internal Party Democracy",
+      "incorrect_answers": [
+        "National Party",
+        "Regional Party",
+        "Partisan Competition"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "In \"Political Parties\", the term \"Internal Party Democracy\" is most closely associated with:",
+      "correct_answer": "Practice of transparent leadership selection and decision making within parties",
+      "incorrect_answers": [
+        "Contest among parties to win public support and control policy direction",
+        "Party with broad geographic presence and vote share across multiple states",
+        "Party primarily rooted in specific state or regional social interests"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "The immediate policy focus of \"Internal Party Democracy\" is usually:",
+      "correct_answer": "Improved party accountability and representativeness",
+      "incorrect_answers": [
+        "Articulation of subnational aspirations",
+        "Integration of national issues in electoral politics",
+        "Choice based accountability in representative democracy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "If an examiner asks for a concept linked to \"improved party accountability and representativeness\", the most accurate answer is:",
+      "correct_answer": "Internal Party Democracy",
+      "incorrect_answers": [
+        "Regional Party",
+        "Partisan Competition",
+        "National Party"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which term correctly completes this statement: Practice of transparent leadership selection and decision making within parties.",
+      "correct_answer": "Internal Party Democracy",
+      "incorrect_answers": [
+        "National Party",
+        "Partisan Competition",
+        "Regional Party"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Choose the correctly matched pair from \"Political Parties\".",
+      "correct_answer": "Internal Party Democracy - improved party accountability and representativeness",
+      "incorrect_answers": [
+        "Partisan Competition - improved party accountability and representativeness",
+        "Internal Party Democracy - integration of national issues in electoral politics",
+        "Regional Party - choice based accountability in representative democracy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Which of the following is a valid application of \"Internal Party Democracy\"?",
+      "correct_answer": "Candidate selection follows institutional rules instead of closed patron networks",
+      "incorrect_answers": [
+        "Parties present competing manifestos and candidates in elections",
+        "Organisation contests parliamentary elections with nation wide policy agenda",
+        "Political platform focuses on linguistic cultural or local development demands"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "A major challenge in party politics is dynastic succession because it can",
+      "correct_answer": "reduce internal merit based leadership competition",
+      "incorrect_answers": [
+        "strengthen policy transparency by default",
+        "replace coalition bargaining with direct democracy",
+        "guarantee higher voter turnout in every election"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Political Parties",
+      "question": "Election symbols in India are especially important for",
+      "correct_answer": "enabling voter identification in a highly diverse and multilingual electorate",
+      "incorrect_answers": [
+        "deciding tax rates across states",
+        "registering private companies under law",
+        "allocating seats in the judiciary"
+      ]
+    }
+  ]
+}

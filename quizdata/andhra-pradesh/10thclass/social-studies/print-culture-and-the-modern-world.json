@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", which concept best matches: a movable type printing technology that enabled rapid multiplication of texts?",
+      "correct_answer": "Gutenberg Press",
+      "incorrect_answers": [
+        "Chapbooks",
+        "Vernacular Print",
+        "Print Censorship"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "A case described as \"books that once required hand copying are reproduced in large numbers\" is the best example of:",
+      "correct_answer": "Gutenberg Press",
+      "incorrect_answers": [
+        "Vernacular Print",
+        "Print Censorship",
+        "Chapbooks"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", the term \"Gutenberg Press\" is most closely associated with:",
+      "correct_answer": "A movable type printing technology that enabled rapid multiplication of texts",
+      "incorrect_answers": [
+        "Cheap small books sold to common readers in early modern europe",
+        "Publication in local languages rather than classical or court languages",
+        "State attempts to control publication through licensing bans and prior approval"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "The immediate policy focus of \"Gutenberg Press\" is usually:",
+      "correct_answer": "Dramatic fall in cost and rise in circulation of printed material",
+      "incorrect_answers": [
+        "Ongoing conflict between authority and free expression",
+        "Broader linguistic access to political and religious ideas",
+        "Expansion of reading beyond elite circles"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "If an examiner asks for a concept linked to \"dramatic fall in cost and rise in circulation of printed material\", the most accurate answer is:",
+      "correct_answer": "Gutenberg Press",
+      "incorrect_answers": [
+        "Print Censorship",
+        "Chapbooks",
+        "Vernacular Print"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which term correctly completes this statement: A movable type printing technology that enabled rapid multiplication of texts.",
+      "correct_answer": "Gutenberg Press",
+      "incorrect_answers": [
+        "Vernacular Print",
+        "Chapbooks",
+        "Print Censorship"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Choose the correctly matched pair from \"Print Culture and the Modern World\".",
+      "correct_answer": "Gutenberg Press - dramatic fall in cost and rise in circulation of printed material",
+      "incorrect_answers": [
+        "Chapbooks - dramatic fall in cost and rise in circulation of printed material",
+        "Gutenberg Press - broader linguistic access to political and religious ideas",
+        "Print Censorship - expansion of reading beyond elite circles"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which of the following is a valid application of \"Gutenberg Press\"?",
+      "correct_answer": "Books that once required hand copying are reproduced in large numbers",
+      "incorrect_answers": [
+        "Street vendors sell low cost illustrated texts to workers and peasants",
+        "Pamphlets appear in regional languages and reach first generation readers",
+        "Officials prosecute editors for publishing anti colonial criticism"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", which concept best matches: cheap small books sold to common readers in early modern Europe?",
+      "correct_answer": "Chapbooks",
+      "incorrect_answers": [
+        "Vernacular Print",
+        "Print Censorship",
+        "Public Sphere"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "A case described as \"street vendors sell low cost illustrated texts to workers and peasants\" is the best example of:",
+      "correct_answer": "Chapbooks",
+      "incorrect_answers": [
+        "Print Censorship",
+        "Public Sphere",
+        "Vernacular Print"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", the term \"Chapbooks\" is most closely associated with:",
+      "correct_answer": "Cheap small books sold to common readers in early modern europe",
+      "incorrect_answers": [
+        "Publication in local languages rather than classical or court languages",
+        "State attempts to control publication through licensing bans and prior approval",
+        "A domain where citizens debate ideas through newspapers journals and associations"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "The immediate policy focus of \"Chapbooks\" is usually:",
+      "correct_answer": "Expansion of reading beyond elite circles",
+      "incorrect_answers": [
+        "Formation of informed opinion and civic participation",
+        "Ongoing conflict between authority and free expression",
+        "Broader linguistic access to political and religious ideas"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "If an examiner asks for a concept linked to \"expansion of reading beyond elite circles\", the most accurate answer is:",
+      "correct_answer": "Chapbooks",
+      "incorrect_answers": [
+        "Public Sphere",
+        "Vernacular Print",
+        "Print Censorship"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which term correctly completes this statement: Cheap small books sold to common readers in early modern europe.",
+      "correct_answer": "Chapbooks",
+      "incorrect_answers": [
+        "Print Censorship",
+        "Vernacular Print",
+        "Public Sphere"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Choose the correctly matched pair from \"Print Culture and the Modern World\".",
+      "correct_answer": "Chapbooks - expansion of reading beyond elite circles",
+      "incorrect_answers": [
+        "Vernacular Print - expansion of reading beyond elite circles",
+        "Chapbooks - ongoing conflict between authority and free expression",
+        "Public Sphere - broader linguistic access to political and religious ideas"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which of the following is a valid application of \"Chapbooks\"?",
+      "correct_answer": "Street vendors sell low cost illustrated texts to workers and peasants",
+      "incorrect_answers": [
+        "Pamphlets appear in regional languages and reach first generation readers",
+        "Officials prosecute editors for publishing anti colonial criticism",
+        "Readers discuss reforms and policy through letters essays and meetings"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", which concept best matches: publication in local languages rather than classical or court languages?",
+      "correct_answer": "Vernacular Print",
+      "incorrect_answers": [
+        "Print Censorship",
+        "Public Sphere",
+        "Print and Reform"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "A case described as \"pamphlets appear in regional languages and reach first generation readers\" is the best example of:",
+      "correct_answer": "Vernacular Print",
+      "incorrect_answers": [
+        "Public Sphere",
+        "Print and Reform",
+        "Print Censorship"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", the term \"Vernacular Print\" is most closely associated with:",
+      "correct_answer": "Publication in local languages rather than classical or court languages",
+      "incorrect_answers": [
+        "State attempts to control publication through licensing bans and prior approval",
+        "A domain where citizens debate ideas through newspapers journals and associations",
+        "Use of printed texts to spread social religious and political reform agendas"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "The immediate policy focus of \"Vernacular Print\" is usually:",
+      "correct_answer": "Broader linguistic access to political and religious ideas",
+      "incorrect_answers": [
+        "Mobilisation for social transformation through literacy networks",
+        "Formation of informed opinion and civic participation",
+        "Ongoing conflict between authority and free expression"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "If an examiner asks for a concept linked to \"broader linguistic access to political and religious ideas\", the most accurate answer is:",
+      "correct_answer": "Vernacular Print",
+      "incorrect_answers": [
+        "Print and Reform",
+        "Print Censorship",
+        "Public Sphere"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which term correctly completes this statement: Publication in local languages rather than classical or court languages.",
+      "correct_answer": "Vernacular Print",
+      "incorrect_answers": [
+        "Public Sphere",
+        "Print Censorship",
+        "Print and Reform"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Choose the correctly matched pair from \"Print Culture and the Modern World\".",
+      "correct_answer": "Vernacular Print - broader linguistic access to political and religious ideas",
+      "incorrect_answers": [
+        "Print Censorship - broader linguistic access to political and religious ideas",
+        "Vernacular Print - formation of informed opinion and civic participation",
+        "Print and Reform - ongoing conflict between authority and free expression"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which of the following is a valid application of \"Vernacular Print\"?",
+      "correct_answer": "Pamphlets appear in regional languages and reach first generation readers",
+      "incorrect_answers": [
+        "Officials prosecute editors for publishing anti colonial criticism",
+        "Readers discuss reforms and policy through letters essays and meetings",
+        "Reformers publish tracts against oppressive customs and discriminatory practices"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", which concept best matches: state attempts to control publication through licensing bans and prior approval?",
+      "correct_answer": "Print Censorship",
+      "incorrect_answers": [
+        "Public Sphere",
+        "Print and Reform",
+        "Gutenberg Press"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "A case described as \"officials prosecute editors for publishing anti colonial criticism\" is the best example of:",
+      "correct_answer": "Print Censorship",
+      "incorrect_answers": [
+        "Print and Reform",
+        "Gutenberg Press",
+        "Public Sphere"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", the term \"Print Censorship\" is most closely associated with:",
+      "correct_answer": "State attempts to control publication through licensing bans and prior approval",
+      "incorrect_answers": [
+        "A domain where citizens debate ideas through newspapers journals and associations",
+        "Use of printed texts to spread social religious and political reform agendas",
+        "A movable type printing technology that enabled rapid multiplication of texts"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "The immediate policy focus of \"Print Censorship\" is usually:",
+      "correct_answer": "Ongoing conflict between authority and free expression",
+      "incorrect_answers": [
+        "Dramatic fall in cost and rise in circulation of printed material",
+        "Mobilisation for social transformation through literacy networks",
+        "Formation of informed opinion and civic participation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "If an examiner asks for a concept linked to \"ongoing conflict between authority and free expression\", the most accurate answer is:",
+      "correct_answer": "Print Censorship",
+      "incorrect_answers": [
+        "Gutenberg Press",
+        "Public Sphere",
+        "Print and Reform"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which term correctly completes this statement: State attempts to control publication through licensing bans and prior approval.",
+      "correct_answer": "Print Censorship",
+      "incorrect_answers": [
+        "Print and Reform",
+        "Public Sphere",
+        "Gutenberg Press"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Choose the correctly matched pair from \"Print Culture and the Modern World\".",
+      "correct_answer": "Print Censorship - ongoing conflict between authority and free expression",
+      "incorrect_answers": [
+        "Public Sphere - ongoing conflict between authority and free expression",
+        "Print Censorship - mobilisation for social transformation through literacy networks",
+        "Gutenberg Press - formation of informed opinion and civic participation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which of the following is a valid application of \"Print Censorship\"?",
+      "correct_answer": "Officials prosecute editors for publishing anti colonial criticism",
+      "incorrect_answers": [
+        "Readers discuss reforms and policy through letters essays and meetings",
+        "Reformers publish tracts against oppressive customs and discriminatory practices",
+        "Books that once required hand copying are reproduced in large numbers"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", which concept best matches: a domain where citizens debate ideas through newspapers journals and associations?",
+      "correct_answer": "Public Sphere",
+      "incorrect_answers": [
+        "Print and Reform",
+        "Gutenberg Press",
+        "Chapbooks"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "A case described as \"readers discuss reforms and policy through letters essays and meetings\" is the best example of:",
+      "correct_answer": "Public Sphere",
+      "incorrect_answers": [
+        "Gutenberg Press",
+        "Chapbooks",
+        "Print and Reform"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", the term \"Public Sphere\" is most closely associated with:",
+      "correct_answer": "A domain where citizens debate ideas through newspapers journals and associations",
+      "incorrect_answers": [
+        "Use of printed texts to spread social religious and political reform agendas",
+        "A movable type printing technology that enabled rapid multiplication of texts",
+        "Cheap small books sold to common readers in early modern europe"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "The immediate policy focus of \"Public Sphere\" is usually:",
+      "correct_answer": "Formation of informed opinion and civic participation",
+      "incorrect_answers": [
+        "Expansion of reading beyond elite circles",
+        "Dramatic fall in cost and rise in circulation of printed material",
+        "Mobilisation for social transformation through literacy networks"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "If an examiner asks for a concept linked to \"formation of informed opinion and civic participation\", the most accurate answer is:",
+      "correct_answer": "Public Sphere",
+      "incorrect_answers": [
+        "Chapbooks",
+        "Print and Reform",
+        "Gutenberg Press"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which term correctly completes this statement: A domain where citizens debate ideas through newspapers journals and associations.",
+      "correct_answer": "Public Sphere",
+      "incorrect_answers": [
+        "Gutenberg Press",
+        "Print and Reform",
+        "Chapbooks"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Choose the correctly matched pair from \"Print Culture and the Modern World\".",
+      "correct_answer": "Public Sphere - formation of informed opinion and civic participation",
+      "incorrect_answers": [
+        "Print and Reform - formation of informed opinion and civic participation",
+        "Public Sphere - dramatic fall in cost and rise in circulation of printed material",
+        "Chapbooks - mobilisation for social transformation through literacy networks"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which of the following is a valid application of \"Public Sphere\"?",
+      "correct_answer": "Readers discuss reforms and policy through letters essays and meetings",
+      "incorrect_answers": [
+        "Reformers publish tracts against oppressive customs and discriminatory practices",
+        "Books that once required hand copying are reproduced in large numbers",
+        "Street vendors sell low cost illustrated texts to workers and peasants"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", which concept best matches: use of printed texts to spread social religious and political reform agendas?",
+      "correct_answer": "Print and Reform",
+      "incorrect_answers": [
+        "Gutenberg Press",
+        "Chapbooks",
+        "Vernacular Print"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "A case described as \"reformers publish tracts against oppressive customs and discriminatory practices\" is the best example of:",
+      "correct_answer": "Print and Reform",
+      "incorrect_answers": [
+        "Chapbooks",
+        "Vernacular Print",
+        "Gutenberg Press"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "In \"Print Culture and the Modern World\", the term \"Print and Reform\" is most closely associated with:",
+      "correct_answer": "Use of printed texts to spread social religious and political reform agendas",
+      "incorrect_answers": [
+        "A movable type printing technology that enabled rapid multiplication of texts",
+        "Cheap small books sold to common readers in early modern europe",
+        "Publication in local languages rather than classical or court languages"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "The immediate policy focus of \"Print and Reform\" is usually:",
+      "correct_answer": "Mobilisation for social transformation through literacy networks",
+      "incorrect_answers": [
+        "Broader linguistic access to political and religious ideas",
+        "Expansion of reading beyond elite circles",
+        "Dramatic fall in cost and rise in circulation of printed material"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "If an examiner asks for a concept linked to \"mobilisation for social transformation through literacy networks\", the most accurate answer is:",
+      "correct_answer": "Print and Reform",
+      "incorrect_answers": [
+        "Vernacular Print",
+        "Gutenberg Press",
+        "Chapbooks"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which term correctly completes this statement: Use of printed texts to spread social religious and political reform agendas.",
+      "correct_answer": "Print and Reform",
+      "incorrect_answers": [
+        "Chapbooks",
+        "Gutenberg Press",
+        "Vernacular Print"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Choose the correctly matched pair from \"Print Culture and the Modern World\".",
+      "correct_answer": "Print and Reform - mobilisation for social transformation through literacy networks",
+      "incorrect_answers": [
+        "Gutenberg Press - mobilisation for social transformation through literacy networks",
+        "Print and Reform - expansion of reading beyond elite circles",
+        "Vernacular Print - dramatic fall in cost and rise in circulation of printed material"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Which of the following is a valid application of \"Print and Reform\"?",
+      "correct_answer": "Reformers publish tracts against oppressive customs and discriminatory practices",
+      "incorrect_answers": [
+        "Books that once required hand copying are reproduced in large numbers",
+        "Street vendors sell low cost illustrated texts to workers and peasants",
+        "Pamphlets appear in regional languages and reach first generation readers"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "The Vernacular Press Act of 1878 in India primarily targeted what?",
+      "correct_answer": "Critical publications in Indian languages",
+      "incorrect_answers": [
+        "English scientific journals only",
+        "Missionary school textbooks only",
+        "Court records and land deeds"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Print Culture and the Modern World",
+      "question": "Why was print central to the Protestant Reformation in Europe?",
+      "correct_answer": "It enabled rapid spread of Martin Luther ideas beyond clerical control",
+      "incorrect_answers": [
+        "It abolished church taxation immediately",
+        "It replaced all handwritten manuscripts by 1500",
+        "It unified all Christian sects politically"
+      ]
+    }
+  ]
+}

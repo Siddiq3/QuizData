@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", which concept best matches: the variety of genes species and ecosystems in a region?",
+      "correct_answer": "Biodiversity",
+      "incorrect_answers": [
+        "In Situ Conservation",
+        "Ex Situ Conservation",
+        "Reserved Forests"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "A case described as \"a landscape supports rich flora fauna and ecological interactions\" is the best example of:",
+      "correct_answer": "Biodiversity",
+      "incorrect_answers": [
+        "Ex Situ Conservation",
+        "Reserved Forests",
+        "In Situ Conservation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", the term \"Biodiversity\" is most closely associated with:",
+      "correct_answer": "The variety of genes species and ecosystems in a region",
+      "incorrect_answers": [
+        "Protection of species within their natural habitat through parks and reserves",
+        "Protection of species outside natural habitats in zoos seed banks or botanical gardens",
+        "Forest category with highest legal protection and strict limits on local use"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "The immediate policy focus of \"Biodiversity\" is usually:",
+      "correct_answer": "Ecosystem resilience and ecological balance",
+      "incorrect_answers": [
+        "State prioritisation of conservation over extraction",
+        "Backup conservation for threatened species",
+        "Habitat based long term species survival"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "If an examiner asks for a concept linked to \"ecosystem resilience and ecological balance\", the most accurate answer is:",
+      "correct_answer": "Biodiversity",
+      "incorrect_answers": [
+        "Reserved Forests",
+        "In Situ Conservation",
+        "Ex Situ Conservation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which term correctly completes this statement: The variety of genes species and ecosystems in a region.",
+      "correct_answer": "Biodiversity",
+      "incorrect_answers": [
+        "Ex Situ Conservation",
+        "In Situ Conservation",
+        "Reserved Forests"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Choose the correctly matched pair from \"Forest and Wildlife Resources\".",
+      "correct_answer": "Biodiversity - ecosystem resilience and ecological balance",
+      "incorrect_answers": [
+        "In Situ Conservation - ecosystem resilience and ecological balance",
+        "Biodiversity - backup conservation for threatened species",
+        "Reserved Forests - habitat based long term species survival"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which of the following is a valid application of \"Biodiversity\"?",
+      "correct_answer": "A landscape supports rich flora fauna and ecological interactions",
+      "incorrect_answers": [
+        "Tigers are conserved in protected landscapes where they naturally live",
+        "Rare plants are preserved in gene banks to avoid extinction",
+        "Community access is highly restricted to safeguard ecological integrity"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", which concept best matches: protection of species within their natural habitat through parks and reserves?",
+      "correct_answer": "In Situ Conservation",
+      "incorrect_answers": [
+        "Ex Situ Conservation",
+        "Reserved Forests",
+        "Joint Forest Management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "A case described as \"tigers are conserved in protected landscapes where they naturally live\" is the best example of:",
+      "correct_answer": "In Situ Conservation",
+      "incorrect_answers": [
+        "Reserved Forests",
+        "Joint Forest Management",
+        "Ex Situ Conservation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", the term \"In Situ Conservation\" is most closely associated with:",
+      "correct_answer": "Protection of species within their natural habitat through parks and reserves",
+      "incorrect_answers": [
+        "Protection of species outside natural habitats in zoos seed banks or botanical gardens",
+        "Forest category with highest legal protection and strict limits on local use",
+        "Participatory model where communities and forest departments share protection roles"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "The immediate policy focus of \"In Situ Conservation\" is usually:",
+      "correct_answer": "Habitat based long term species survival",
+      "incorrect_answers": [
+        "Community based conservation with shared incentives",
+        "State prioritisation of conservation over extraction",
+        "Backup conservation for threatened species"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "If an examiner asks for a concept linked to \"habitat based long term species survival\", the most accurate answer is:",
+      "correct_answer": "In Situ Conservation",
+      "incorrect_answers": [
+        "Joint Forest Management",
+        "Ex Situ Conservation",
+        "Reserved Forests"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which term correctly completes this statement: Protection of species within their natural habitat through parks and reserves.",
+      "correct_answer": "In Situ Conservation",
+      "incorrect_answers": [
+        "Reserved Forests",
+        "Ex Situ Conservation",
+        "Joint Forest Management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Choose the correctly matched pair from \"Forest and Wildlife Resources\".",
+      "correct_answer": "In Situ Conservation - habitat based long term species survival",
+      "incorrect_answers": [
+        "Ex Situ Conservation - habitat based long term species survival",
+        "In Situ Conservation - state prioritisation of conservation over extraction",
+        "Joint Forest Management - backup conservation for threatened species"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which of the following is a valid application of \"In Situ Conservation\"?",
+      "correct_answer": "Tigers are conserved in protected landscapes where they naturally live",
+      "incorrect_answers": [
+        "Rare plants are preserved in gene banks to avoid extinction",
+        "Community access is highly restricted to safeguard ecological integrity",
+        "Villagers help regenerate forests in return for regulated access benefits"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", which concept best matches: protection of species outside natural habitats in zoos seed banks or botanical gardens?",
+      "correct_answer": "Ex Situ Conservation",
+      "incorrect_answers": [
+        "Reserved Forests",
+        "Joint Forest Management",
+        "Endangered Species"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "A case described as \"rare plants are preserved in gene banks to avoid extinction\" is the best example of:",
+      "correct_answer": "Ex Situ Conservation",
+      "incorrect_answers": [
+        "Joint Forest Management",
+        "Endangered Species",
+        "Reserved Forests"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", the term \"Ex Situ Conservation\" is most closely associated with:",
+      "correct_answer": "Protection of species outside natural habitats in zoos seed banks or botanical gardens",
+      "incorrect_answers": [
+        "Forest category with highest legal protection and strict limits on local use",
+        "Participatory model where communities and forest departments share protection roles",
+        "Species facing a very high risk of extinction in the near future"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "The immediate policy focus of \"Ex Situ Conservation\" is usually:",
+      "correct_answer": "Backup conservation for threatened species",
+      "incorrect_answers": [
+        "Priority status for urgent protection actions",
+        "Community based conservation with shared incentives",
+        "State prioritisation of conservation over extraction"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "If an examiner asks for a concept linked to \"backup conservation for threatened species\", the most accurate answer is:",
+      "correct_answer": "Ex Situ Conservation",
+      "incorrect_answers": [
+        "Endangered Species",
+        "Reserved Forests",
+        "Joint Forest Management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which term correctly completes this statement: Protection of species outside natural habitats in zoos seed banks or botanical gardens.",
+      "correct_answer": "Ex Situ Conservation",
+      "incorrect_answers": [
+        "Joint Forest Management",
+        "Reserved Forests",
+        "Endangered Species"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Choose the correctly matched pair from \"Forest and Wildlife Resources\".",
+      "correct_answer": "Ex Situ Conservation - backup conservation for threatened species",
+      "incorrect_answers": [
+        "Reserved Forests - backup conservation for threatened species",
+        "Ex Situ Conservation - community based conservation with shared incentives",
+        "Endangered Species - state prioritisation of conservation over extraction"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which of the following is a valid application of \"Ex Situ Conservation\"?",
+      "correct_answer": "Rare plants are preserved in gene banks to avoid extinction",
+      "incorrect_answers": [
+        "Community access is highly restricted to safeguard ecological integrity",
+        "Villagers help regenerate forests in return for regulated access benefits",
+        "Rapid habitat loss and hunting push a species toward critical decline"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", which concept best matches: forest category with highest legal protection and strict limits on local use?",
+      "correct_answer": "Reserved Forests",
+      "incorrect_answers": [
+        "Joint Forest Management",
+        "Endangered Species",
+        "Biodiversity"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "A case described as \"community access is highly restricted to safeguard ecological integrity\" is the best example of:",
+      "correct_answer": "Reserved Forests",
+      "incorrect_answers": [
+        "Endangered Species",
+        "Biodiversity",
+        "Joint Forest Management"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", the term \"Reserved Forests\" is most closely associated with:",
+      "correct_answer": "Forest category with highest legal protection and strict limits on local use",
+      "incorrect_answers": [
+        "Participatory model where communities and forest departments share protection roles",
+        "Species facing a very high risk of extinction in the near future",
+        "The variety of genes species and ecosystems in a region"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "The immediate policy focus of \"Reserved Forests\" is usually:",
+      "correct_answer": "State prioritisation of conservation over extraction",
+      "incorrect_answers": [
+        "Ecosystem resilience and ecological balance",
+        "Priority status for urgent protection actions",
+        "Community based conservation with shared incentives"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "If an examiner asks for a concept linked to \"state prioritisation of conservation over extraction\", the most accurate answer is:",
+      "correct_answer": "Reserved Forests",
+      "incorrect_answers": [
+        "Biodiversity",
+        "Joint Forest Management",
+        "Endangered Species"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which term correctly completes this statement: Forest category with highest legal protection and strict limits on local use.",
+      "correct_answer": "Reserved Forests",
+      "incorrect_answers": [
+        "Endangered Species",
+        "Joint Forest Management",
+        "Biodiversity"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Choose the correctly matched pair from \"Forest and Wildlife Resources\".",
+      "correct_answer": "Reserved Forests - state prioritisation of conservation over extraction",
+      "incorrect_answers": [
+        "Joint Forest Management - state prioritisation of conservation over extraction",
+        "Reserved Forests - priority status for urgent protection actions",
+        "Biodiversity - community based conservation with shared incentives"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which of the following is a valid application of \"Reserved Forests\"?",
+      "correct_answer": "Community access is highly restricted to safeguard ecological integrity",
+      "incorrect_answers": [
+        "Villagers help regenerate forests in return for regulated access benefits",
+        "Rapid habitat loss and hunting push a species toward critical decline",
+        "A landscape supports rich flora fauna and ecological interactions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", which concept best matches: participatory model where communities and forest departments share protection roles?",
+      "correct_answer": "Joint Forest Management",
+      "incorrect_answers": [
+        "Endangered Species",
+        "Biodiversity",
+        "In Situ Conservation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "A case described as \"villagers help regenerate forests in return for regulated access benefits\" is the best example of:",
+      "correct_answer": "Joint Forest Management",
+      "incorrect_answers": [
+        "Biodiversity",
+        "In Situ Conservation",
+        "Endangered Species"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", the term \"Joint Forest Management\" is most closely associated with:",
+      "correct_answer": "Participatory model where communities and forest departments share protection roles",
+      "incorrect_answers": [
+        "Species facing a very high risk of extinction in the near future",
+        "The variety of genes species and ecosystems in a region",
+        "Protection of species within their natural habitat through parks and reserves"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "The immediate policy focus of \"Joint Forest Management\" is usually:",
+      "correct_answer": "Community based conservation with shared incentives",
+      "incorrect_answers": [
+        "Habitat based long term species survival",
+        "Ecosystem resilience and ecological balance",
+        "Priority status for urgent protection actions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "If an examiner asks for a concept linked to \"community based conservation with shared incentives\", the most accurate answer is:",
+      "correct_answer": "Joint Forest Management",
+      "incorrect_answers": [
+        "In Situ Conservation",
+        "Endangered Species",
+        "Biodiversity"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which term correctly completes this statement: Participatory model where communities and forest departments share protection roles.",
+      "correct_answer": "Joint Forest Management",
+      "incorrect_answers": [
+        "Biodiversity",
+        "Endangered Species",
+        "In Situ Conservation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Choose the correctly matched pair from \"Forest and Wildlife Resources\".",
+      "correct_answer": "Joint Forest Management - community based conservation with shared incentives",
+      "incorrect_answers": [
+        "Endangered Species - community based conservation with shared incentives",
+        "Joint Forest Management - ecosystem resilience and ecological balance",
+        "In Situ Conservation - priority status for urgent protection actions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which of the following is a valid application of \"Joint Forest Management\"?",
+      "correct_answer": "Villagers help regenerate forests in return for regulated access benefits",
+      "incorrect_answers": [
+        "Rapid habitat loss and hunting push a species toward critical decline",
+        "A landscape supports rich flora fauna and ecological interactions",
+        "Tigers are conserved in protected landscapes where they naturally live"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", which concept best matches: species facing a very high risk of extinction in the near future?",
+      "correct_answer": "Endangered Species",
+      "incorrect_answers": [
+        "Biodiversity",
+        "In Situ Conservation",
+        "Ex Situ Conservation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "A case described as \"rapid habitat loss and hunting push a species toward critical decline\" is the best example of:",
+      "correct_answer": "Endangered Species",
+      "incorrect_answers": [
+        "In Situ Conservation",
+        "Ex Situ Conservation",
+        "Biodiversity"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "In \"Forest and Wildlife Resources\", the term \"Endangered Species\" is most closely associated with:",
+      "correct_answer": "Species facing a very high risk of extinction in the near future",
+      "incorrect_answers": [
+        "The variety of genes species and ecosystems in a region",
+        "Protection of species within their natural habitat through parks and reserves",
+        "Protection of species outside natural habitats in zoos seed banks or botanical gardens"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "The immediate policy focus of \"Endangered Species\" is usually:",
+      "correct_answer": "Priority status for urgent protection actions",
+      "incorrect_answers": [
+        "Backup conservation for threatened species",
+        "Habitat based long term species survival",
+        "Ecosystem resilience and ecological balance"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "If an examiner asks for a concept linked to \"priority status for urgent protection actions\", the most accurate answer is:",
+      "correct_answer": "Endangered Species",
+      "incorrect_answers": [
+        "Ex Situ Conservation",
+        "Biodiversity",
+        "In Situ Conservation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which term correctly completes this statement: Species facing a very high risk of extinction in the near future.",
+      "correct_answer": "Endangered Species",
+      "incorrect_answers": [
+        "In Situ Conservation",
+        "Biodiversity",
+        "Ex Situ Conservation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Choose the correctly matched pair from \"Forest and Wildlife Resources\".",
+      "correct_answer": "Endangered Species - priority status for urgent protection actions",
+      "incorrect_answers": [
+        "Biodiversity - priority status for urgent protection actions",
+        "Endangered Species - habitat based long term species survival",
+        "Ex Situ Conservation - ecosystem resilience and ecological balance"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Which of the following is a valid application of \"Endangered Species\"?",
+      "correct_answer": "Rapid habitat loss and hunting push a species toward critical decline",
+      "incorrect_answers": [
+        "A landscape supports rich flora fauna and ecological interactions",
+        "Tigers are conserved in protected landscapes where they naturally live",
+        "Rare plants are preserved in gene banks to avoid extinction"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "The Chipko movement is significant because it linked conservation with what principle?",
+      "correct_answer": "Community led protection of forests against commercial felling",
+      "incorrect_answers": [
+        "Exclusive military control of mountain forests",
+        "Large scale relocation of all hill settlements",
+        "Total ban on subsistence fuelwood use"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Forest and Wildlife Resources",
+      "question": "Why are biodiversity hotspots treated as strategic conservation zones?",
+      "correct_answer": "They combine high endemism with severe threat levels",
+      "incorrect_answers": [
+        "They are always low rainfall deserts",
+        "They exclude all human populations by definition",
+        "They contain only migratory bird species"
+      ]
+    }
+  ]
+}

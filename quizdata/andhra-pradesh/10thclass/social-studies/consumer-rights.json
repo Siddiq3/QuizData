@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", which concept best matches: consumer entitlement to protection from hazardous goods and services?",
+      "correct_answer": "Right to Safety",
+      "incorrect_answers": [
+        "Right to Information",
+        "Right to Seek Redressal",
+        "Consumer Protection Act"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "A case described as \"defective electrical products are recalled to prevent injury risks\" is the best example of:",
+      "correct_answer": "Right to Safety",
+      "incorrect_answers": [
+        "Right to Seek Redressal",
+        "Consumer Protection Act",
+        "Right to Information"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", the term \"Right to Safety\" is most closely associated with:",
+      "correct_answer": "Consumer entitlement to protection from hazardous goods and services",
+      "incorrect_answers": [
+        "Consumer entitlement to accurate details on quality quantity price and standards",
+        "Consumer entitlement to compensation or correction for unfair trade practices",
+        "Legal framework defining rights institutions and procedures for consumer dispute resolution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "The immediate policy focus of \"Right to Safety\" is usually:",
+      "correct_answer": "Minimum safety standards in markets",
+      "incorrect_answers": [
+        "Institutional enforcement of consumer justice",
+        "Legal remedy against market misconduct",
+        "Informed purchasing decisions and reduced deception"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "If an examiner asks for a concept linked to \"minimum safety standards in markets\", the most accurate answer is:",
+      "correct_answer": "Right to Safety",
+      "incorrect_answers": [
+        "Consumer Protection Act",
+        "Right to Information",
+        "Right to Seek Redressal"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which term correctly completes this statement: Consumer entitlement to protection from hazardous goods and services.",
+      "correct_answer": "Right to Safety",
+      "incorrect_answers": [
+        "Right to Seek Redressal",
+        "Right to Information",
+        "Consumer Protection Act"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Choose the correctly matched pair from \"Consumer Rights\".",
+      "correct_answer": "Right to Safety - minimum safety standards in markets",
+      "incorrect_answers": [
+        "Right to Information - minimum safety standards in markets",
+        "Right to Safety - legal remedy against market misconduct",
+        "Consumer Protection Act - informed purchasing decisions and reduced deception"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which of the following is a valid application of \"Right to Safety\"?",
+      "correct_answer": "Defective electrical products are recalled to prevent injury risks",
+      "incorrect_answers": [
+        "Packaging discloses ingredients expiry and certification marks clearly",
+        "Buyers file complaints against defective products before grievance forums",
+        "District state and national commissions adjudicate consumer complaints"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", which concept best matches: consumer entitlement to accurate details on quality quantity price and standards?",
+      "correct_answer": "Right to Information",
+      "incorrect_answers": [
+        "Right to Seek Redressal",
+        "Consumer Protection Act",
+        "Standardisation Mark"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "A case described as \"packaging discloses ingredients expiry and certification marks clearly\" is the best example of:",
+      "correct_answer": "Right to Information",
+      "incorrect_answers": [
+        "Consumer Protection Act",
+        "Standardisation Mark",
+        "Right to Seek Redressal"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", the term \"Right to Information\" is most closely associated with:",
+      "correct_answer": "Consumer entitlement to accurate details on quality quantity price and standards",
+      "incorrect_answers": [
+        "Consumer entitlement to compensation or correction for unfair trade practices",
+        "Legal framework defining rights institutions and procedures for consumer dispute resolution",
+        "Quality assurance symbol such as isi agmark or hallmark on products"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "The immediate policy focus of \"Right to Information\" is usually:",
+      "correct_answer": "Informed purchasing decisions and reduced deception",
+      "incorrect_answers": [
+        "Reduction of quality uncertainty in transactions",
+        "Institutional enforcement of consumer justice",
+        "Legal remedy against market misconduct"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "If an examiner asks for a concept linked to \"informed purchasing decisions and reduced deception\", the most accurate answer is:",
+      "correct_answer": "Right to Information",
+      "incorrect_answers": [
+        "Standardisation Mark",
+        "Right to Seek Redressal",
+        "Consumer Protection Act"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which term correctly completes this statement: Consumer entitlement to accurate details on quality quantity price and standards.",
+      "correct_answer": "Right to Information",
+      "incorrect_answers": [
+        "Consumer Protection Act",
+        "Right to Seek Redressal",
+        "Standardisation Mark"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Choose the correctly matched pair from \"Consumer Rights\".",
+      "correct_answer": "Right to Information - informed purchasing decisions and reduced deception",
+      "incorrect_answers": [
+        "Right to Seek Redressal - informed purchasing decisions and reduced deception",
+        "Right to Information - institutional enforcement of consumer justice",
+        "Standardisation Mark - legal remedy against market misconduct"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which of the following is a valid application of \"Right to Information\"?",
+      "correct_answer": "Packaging discloses ingredients expiry and certification marks clearly",
+      "incorrect_answers": [
+        "Buyers file complaints against defective products before grievance forums",
+        "District state and national commissions adjudicate consumer complaints",
+        "Consumers verify certification before purchasing high value goods"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", which concept best matches: consumer entitlement to compensation or correction for unfair trade practices?",
+      "correct_answer": "Right to Seek Redressal",
+      "incorrect_answers": [
+        "Consumer Protection Act",
+        "Standardisation Mark",
+        "Consumer Awareness"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "A case described as \"buyers file complaints against defective products before grievance forums\" is the best example of:",
+      "correct_answer": "Right to Seek Redressal",
+      "incorrect_answers": [
+        "Standardisation Mark",
+        "Consumer Awareness",
+        "Consumer Protection Act"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", the term \"Right to Seek Redressal\" is most closely associated with:",
+      "correct_answer": "Consumer entitlement to compensation or correction for unfair trade practices",
+      "incorrect_answers": [
+        "Legal framework defining rights institutions and procedures for consumer dispute resolution",
+        "Quality assurance symbol such as isi agmark or hallmark on products",
+        "Public knowledge of rights responsibilities and complaint mechanisms"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "The immediate policy focus of \"Right to Seek Redressal\" is usually:",
+      "correct_answer": "Legal remedy against market misconduct",
+      "incorrect_answers": [
+        "Stronger market discipline through informed citizens",
+        "Reduction of quality uncertainty in transactions",
+        "Institutional enforcement of consumer justice"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "If an examiner asks for a concept linked to \"legal remedy against market misconduct\", the most accurate answer is:",
+      "correct_answer": "Right to Seek Redressal",
+      "incorrect_answers": [
+        "Consumer Awareness",
+        "Consumer Protection Act",
+        "Standardisation Mark"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which term correctly completes this statement: Consumer entitlement to compensation or correction for unfair trade practices.",
+      "correct_answer": "Right to Seek Redressal",
+      "incorrect_answers": [
+        "Standardisation Mark",
+        "Consumer Protection Act",
+        "Consumer Awareness"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Choose the correctly matched pair from \"Consumer Rights\".",
+      "correct_answer": "Right to Seek Redressal - legal remedy against market misconduct",
+      "incorrect_answers": [
+        "Consumer Protection Act - legal remedy against market misconduct",
+        "Right to Seek Redressal - reduction of quality uncertainty in transactions",
+        "Consumer Awareness - institutional enforcement of consumer justice"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which of the following is a valid application of \"Right to Seek Redressal\"?",
+      "correct_answer": "Buyers file complaints against defective products before grievance forums",
+      "incorrect_answers": [
+        "District state and national commissions adjudicate consumer complaints",
+        "Consumers verify certification before purchasing high value goods",
+        "Campaigns educate buyers to demand bills and check product labels"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", which concept best matches: legal framework defining rights institutions and procedures for consumer dispute resolution?",
+      "correct_answer": "Consumer Protection Act",
+      "incorrect_answers": [
+        "Standardisation Mark",
+        "Consumer Awareness",
+        "Right to Safety"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "A case described as \"district state and national commissions adjudicate consumer complaints\" is the best example of:",
+      "correct_answer": "Consumer Protection Act",
+      "incorrect_answers": [
+        "Consumer Awareness",
+        "Right to Safety",
+        "Standardisation Mark"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", the term \"Consumer Protection Act\" is most closely associated with:",
+      "correct_answer": "Legal framework defining rights institutions and procedures for consumer dispute resolution",
+      "incorrect_answers": [
+        "Quality assurance symbol such as isi agmark or hallmark on products",
+        "Public knowledge of rights responsibilities and complaint mechanisms",
+        "Consumer entitlement to protection from hazardous goods and services"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "The immediate policy focus of \"Consumer Protection Act\" is usually:",
+      "correct_answer": "Institutional enforcement of consumer justice",
+      "incorrect_answers": [
+        "Minimum safety standards in markets",
+        "Stronger market discipline through informed citizens",
+        "Reduction of quality uncertainty in transactions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "If an examiner asks for a concept linked to \"institutional enforcement of consumer justice\", the most accurate answer is:",
+      "correct_answer": "Consumer Protection Act",
+      "incorrect_answers": [
+        "Right to Safety",
+        "Standardisation Mark",
+        "Consumer Awareness"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which term correctly completes this statement: Legal framework defining rights institutions and procedures for consumer dispute resolution.",
+      "correct_answer": "Consumer Protection Act",
+      "incorrect_answers": [
+        "Consumer Awareness",
+        "Standardisation Mark",
+        "Right to Safety"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Choose the correctly matched pair from \"Consumer Rights\".",
+      "correct_answer": "Consumer Protection Act - institutional enforcement of consumer justice",
+      "incorrect_answers": [
+        "Standardisation Mark - institutional enforcement of consumer justice",
+        "Consumer Protection Act - stronger market discipline through informed citizens",
+        "Right to Safety - reduction of quality uncertainty in transactions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which of the following is a valid application of \"Consumer Protection Act\"?",
+      "correct_answer": "District state and national commissions adjudicate consumer complaints",
+      "incorrect_answers": [
+        "Consumers verify certification before purchasing high value goods",
+        "Campaigns educate buyers to demand bills and check product labels",
+        "Defective electrical products are recalled to prevent injury risks"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", which concept best matches: quality assurance symbol such as ISI AGMARK or Hallmark on products?",
+      "correct_answer": "Standardisation Mark",
+      "incorrect_answers": [
+        "Consumer Awareness",
+        "Right to Safety",
+        "Right to Information"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "A case described as \"consumers verify certification before purchasing high value goods\" is the best example of:",
+      "correct_answer": "Standardisation Mark",
+      "incorrect_answers": [
+        "Right to Safety",
+        "Right to Information",
+        "Consumer Awareness"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", the term \"Standardisation Mark\" is most closely associated with:",
+      "correct_answer": "Quality assurance symbol such as isi agmark or hallmark on products",
+      "incorrect_answers": [
+        "Public knowledge of rights responsibilities and complaint mechanisms",
+        "Consumer entitlement to protection from hazardous goods and services",
+        "Consumer entitlement to accurate details on quality quantity price and standards"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "The immediate policy focus of \"Standardisation Mark\" is usually:",
+      "correct_answer": "Reduction of quality uncertainty in transactions",
+      "incorrect_answers": [
+        "Informed purchasing decisions and reduced deception",
+        "Minimum safety standards in markets",
+        "Stronger market discipline through informed citizens"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "If an examiner asks for a concept linked to \"reduction of quality uncertainty in transactions\", the most accurate answer is:",
+      "correct_answer": "Standardisation Mark",
+      "incorrect_answers": [
+        "Right to Information",
+        "Consumer Awareness",
+        "Right to Safety"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which term correctly completes this statement: Quality assurance symbol such as isi agmark or hallmark on products.",
+      "correct_answer": "Standardisation Mark",
+      "incorrect_answers": [
+        "Right to Safety",
+        "Consumer Awareness",
+        "Right to Information"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Choose the correctly matched pair from \"Consumer Rights\".",
+      "correct_answer": "Standardisation Mark - reduction of quality uncertainty in transactions",
+      "incorrect_answers": [
+        "Consumer Awareness - reduction of quality uncertainty in transactions",
+        "Standardisation Mark - minimum safety standards in markets",
+        "Right to Information - stronger market discipline through informed citizens"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which of the following is a valid application of \"Standardisation Mark\"?",
+      "correct_answer": "Consumers verify certification before purchasing high value goods",
+      "incorrect_answers": [
+        "Campaigns educate buyers to demand bills and check product labels",
+        "Defective electrical products are recalled to prevent injury risks",
+        "Packaging discloses ingredients expiry and certification marks clearly"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", which concept best matches: public knowledge of rights responsibilities and complaint mechanisms?",
+      "correct_answer": "Consumer Awareness",
+      "incorrect_answers": [
+        "Right to Safety",
+        "Right to Information",
+        "Right to Seek Redressal"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "A case described as \"campaigns educate buyers to demand bills and check product labels\" is the best example of:",
+      "correct_answer": "Consumer Awareness",
+      "incorrect_answers": [
+        "Right to Information",
+        "Right to Seek Redressal",
+        "Right to Safety"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "In \"Consumer Rights\", the term \"Consumer Awareness\" is most closely associated with:",
+      "correct_answer": "Public knowledge of rights responsibilities and complaint mechanisms",
+      "incorrect_answers": [
+        "Consumer entitlement to protection from hazardous goods and services",
+        "Consumer entitlement to accurate details on quality quantity price and standards",
+        "Consumer entitlement to compensation or correction for unfair trade practices"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "The immediate policy focus of \"Consumer Awareness\" is usually:",
+      "correct_answer": "Stronger market discipline through informed citizens",
+      "incorrect_answers": [
+        "Legal remedy against market misconduct",
+        "Informed purchasing decisions and reduced deception",
+        "Minimum safety standards in markets"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "If an examiner asks for a concept linked to \"stronger market discipline through informed citizens\", the most accurate answer is:",
+      "correct_answer": "Consumer Awareness",
+      "incorrect_answers": [
+        "Right to Seek Redressal",
+        "Right to Safety",
+        "Right to Information"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which term correctly completes this statement: Public knowledge of rights responsibilities and complaint mechanisms.",
+      "correct_answer": "Consumer Awareness",
+      "incorrect_answers": [
+        "Right to Information",
+        "Right to Safety",
+        "Right to Seek Redressal"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Choose the correctly matched pair from \"Consumer Rights\".",
+      "correct_answer": "Consumer Awareness - stronger market discipline through informed citizens",
+      "incorrect_answers": [
+        "Right to Safety - stronger market discipline through informed citizens",
+        "Consumer Awareness - informed purchasing decisions and reduced deception",
+        "Right to Seek Redressal - minimum safety standards in markets"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Which of the following is a valid application of \"Consumer Awareness\"?",
+      "correct_answer": "Campaigns educate buyers to demand bills and check product labels",
+      "incorrect_answers": [
+        "Defective electrical products are recalled to prevent injury risks",
+        "Packaging discloses ingredients expiry and certification marks clearly",
+        "Buyers file complaints against defective products before grievance forums"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "Why is a cash memo or invoice critical in consumer disputes?",
+      "correct_answer": "It serves as documentary proof of purchase and transaction terms",
+      "incorrect_answers": [
+        "It automatically guarantees product replacement in all cases",
+        "It replaces product warranty conditions",
+        "It is required only for imported goods"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Consumer Rights",
+      "question": "The phrase \"Jago Grahak Jago\" is associated primarily with",
+      "correct_answer": "promoting consumer awareness and rights assertion",
+      "incorrect_answers": [
+        "industrial labour union negotiations",
+        "export subsidy reforms",
+        "agricultural procurement campaigns"
+      ]
+    }
+  ]
+}

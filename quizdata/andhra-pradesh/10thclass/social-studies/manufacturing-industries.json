@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", which concept best matches: increase in product worth through processing transformation and quality enhancement?",
+      "correct_answer": "Value Addition",
+      "incorrect_answers": [
+        "Agglomeration Economy",
+        "Industrial Location Factor",
+        "MSME Sector"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "A case described as \"cotton is converted into yarn fabric and garments with rising market value\" is the best example of:",
+      "correct_answer": "Value Addition",
+      "incorrect_answers": [
+        "Industrial Location Factor",
+        "MSME Sector",
+        "Agglomeration Economy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", the term \"Value Addition\" is most closely associated with:",
+      "correct_answer": "Increase in product worth through processing transformation and quality enhancement",
+      "incorrect_answers": [
+        "Cost and efficiency advantages when related industries cluster spatially",
+        "Determinants such as raw material labour power transport and market access",
+        "Micro small and medium enterprises with lower capital thresholds and flexible production"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "The immediate policy focus of \"Value Addition\" is usually:",
+      "correct_answer": "Higher income generation from raw material chains",
+      "incorrect_answers": [
+        "Broad based industrial employment and regional spread",
+        "Spatial pattern of industrial concentration",
+        "Reduced transaction costs and productivity gains"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "If an examiner asks for a concept linked to \"higher income generation from raw material chains\", the most accurate answer is:",
+      "correct_answer": "Value Addition",
+      "incorrect_answers": [
+        "MSME Sector",
+        "Agglomeration Economy",
+        "Industrial Location Factor"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which term correctly completes this statement: Increase in product worth through processing transformation and quality enhancement.",
+      "correct_answer": "Value Addition",
+      "incorrect_answers": [
+        "Industrial Location Factor",
+        "Agglomeration Economy",
+        "MSME Sector"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Choose the correctly matched pair from \"Manufacturing Industries\".",
+      "correct_answer": "Value Addition - higher income generation from raw material chains",
+      "incorrect_answers": [
+        "Agglomeration Economy - higher income generation from raw material chains",
+        "Value Addition - spatial pattern of industrial concentration",
+        "MSME Sector - reduced transaction costs and productivity gains"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which of the following is a valid application of \"Value Addition\"?",
+      "correct_answer": "Cotton is converted into yarn fabric and garments with rising market value",
+      "incorrect_answers": [
+        "Auto component firms locate near assembly units and logistics hubs",
+        "An industry chooses sites based on combined input and output cost logic",
+        "Small units provide components employment and local entrepreneurship support"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", which concept best matches: cost and efficiency advantages when related industries cluster spatially?",
+      "correct_answer": "Agglomeration Economy",
+      "incorrect_answers": [
+        "Industrial Location Factor",
+        "MSME Sector",
+        "Industrial Pollution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "A case described as \"auto component firms locate near assembly units and logistics hubs\" is the best example of:",
+      "correct_answer": "Agglomeration Economy",
+      "incorrect_answers": [
+        "MSME Sector",
+        "Industrial Pollution",
+        "Industrial Location Factor"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", the term \"Agglomeration Economy\" is most closely associated with:",
+      "correct_answer": "Cost and efficiency advantages when related industries cluster spatially",
+      "incorrect_answers": [
+        "Determinants such as raw material labour power transport and market access",
+        "Micro small and medium enterprises with lower capital thresholds and flexible production",
+        "Contamination of air water and land due to untreated industrial emissions and waste"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "The immediate policy focus of \"Agglomeration Economy\" is usually:",
+      "correct_answer": "Reduced transaction costs and productivity gains",
+      "incorrect_answers": [
+        "Public health burden and environmental compliance pressure",
+        "Broad based industrial employment and regional spread",
+        "Spatial pattern of industrial concentration"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "If an examiner asks for a concept linked to \"reduced transaction costs and productivity gains\", the most accurate answer is:",
+      "correct_answer": "Agglomeration Economy",
+      "incorrect_answers": [
+        "Industrial Pollution",
+        "Industrial Location Factor",
+        "MSME Sector"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which term correctly completes this statement: Cost and efficiency advantages when related industries cluster spatially.",
+      "correct_answer": "Agglomeration Economy",
+      "incorrect_answers": [
+        "MSME Sector",
+        "Industrial Location Factor",
+        "Industrial Pollution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Choose the correctly matched pair from \"Manufacturing Industries\".",
+      "correct_answer": "Agglomeration Economy - reduced transaction costs and productivity gains",
+      "incorrect_answers": [
+        "Industrial Location Factor - reduced transaction costs and productivity gains",
+        "Agglomeration Economy - broad based industrial employment and regional spread",
+        "Industrial Pollution - spatial pattern of industrial concentration"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which of the following is a valid application of \"Agglomeration Economy\"?",
+      "correct_answer": "Auto component firms locate near assembly units and logistics hubs",
+      "incorrect_answers": [
+        "An industry chooses sites based on combined input and output cost logic",
+        "Small units provide components employment and local entrepreneurship support",
+        "Effluent discharge and particulate emissions degrade local ecosystems"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", which concept best matches: determinants such as raw material labour power transport and market access?",
+      "correct_answer": "Industrial Location Factor",
+      "incorrect_answers": [
+        "MSME Sector",
+        "Industrial Pollution",
+        "Industrial Linkage"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "A case described as \"an industry chooses sites based on combined input and output cost logic\" is the best example of:",
+      "correct_answer": "Industrial Location Factor",
+      "incorrect_answers": [
+        "Industrial Pollution",
+        "Industrial Linkage",
+        "MSME Sector"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", the term \"Industrial Location Factor\" is most closely associated with:",
+      "correct_answer": "Determinants such as raw material labour power transport and market access",
+      "incorrect_answers": [
+        "Micro small and medium enterprises with lower capital thresholds and flexible production",
+        "Contamination of air water and land due to untreated industrial emissions and waste",
+        "Interdependence among upstream and downstream industries in production networks"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "The immediate policy focus of \"Industrial Location Factor\" is usually:",
+      "correct_answer": "Spatial pattern of industrial concentration",
+      "incorrect_answers": [
+        "Multiplier effects across the manufacturing system",
+        "Public health burden and environmental compliance pressure",
+        "Broad based industrial employment and regional spread"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "If an examiner asks for a concept linked to \"spatial pattern of industrial concentration\", the most accurate answer is:",
+      "correct_answer": "Industrial Location Factor",
+      "incorrect_answers": [
+        "Industrial Linkage",
+        "MSME Sector",
+        "Industrial Pollution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which term correctly completes this statement: Determinants such as raw material labour power transport and market access.",
+      "correct_answer": "Industrial Location Factor",
+      "incorrect_answers": [
+        "Industrial Pollution",
+        "MSME Sector",
+        "Industrial Linkage"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Choose the correctly matched pair from \"Manufacturing Industries\".",
+      "correct_answer": "Industrial Location Factor - spatial pattern of industrial concentration",
+      "incorrect_answers": [
+        "MSME Sector - spatial pattern of industrial concentration",
+        "Industrial Location Factor - public health burden and environmental compliance pressure",
+        "Industrial Linkage - broad based industrial employment and regional spread"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which of the following is a valid application of \"Industrial Location Factor\"?",
+      "correct_answer": "An industry chooses sites based on combined input and output cost logic",
+      "incorrect_answers": [
+        "Small units provide components employment and local entrepreneurship support",
+        "Effluent discharge and particulate emissions degrade local ecosystems",
+        "Steel plants supply machinery firms that serve transport and construction sectors"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", which concept best matches: micro small and medium enterprises with lower capital thresholds and flexible production?",
+      "correct_answer": "MSME Sector",
+      "incorrect_answers": [
+        "Industrial Pollution",
+        "Industrial Linkage",
+        "Value Addition"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "A case described as \"small units provide components employment and local entrepreneurship support\" is the best example of:",
+      "correct_answer": "MSME Sector",
+      "incorrect_answers": [
+        "Industrial Linkage",
+        "Value Addition",
+        "Industrial Pollution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", the term \"MSME Sector\" is most closely associated with:",
+      "correct_answer": "Micro small and medium enterprises with lower capital thresholds and flexible production",
+      "incorrect_answers": [
+        "Contamination of air water and land due to untreated industrial emissions and waste",
+        "Interdependence among upstream and downstream industries in production networks",
+        "Increase in product worth through processing transformation and quality enhancement"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "The immediate policy focus of \"MSME Sector\" is usually:",
+      "correct_answer": "Broad based industrial employment and regional spread",
+      "incorrect_answers": [
+        "Higher income generation from raw material chains",
+        "Multiplier effects across the manufacturing system",
+        "Public health burden and environmental compliance pressure"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "If an examiner asks for a concept linked to \"broad based industrial employment and regional spread\", the most accurate answer is:",
+      "correct_answer": "MSME Sector",
+      "incorrect_answers": [
+        "Value Addition",
+        "Industrial Pollution",
+        "Industrial Linkage"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which term correctly completes this statement: Micro small and medium enterprises with lower capital thresholds and flexible production.",
+      "correct_answer": "MSME Sector",
+      "incorrect_answers": [
+        "Industrial Linkage",
+        "Industrial Pollution",
+        "Value Addition"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Choose the correctly matched pair from \"Manufacturing Industries\".",
+      "correct_answer": "MSME Sector - broad based industrial employment and regional spread",
+      "incorrect_answers": [
+        "Industrial Pollution - broad based industrial employment and regional spread",
+        "MSME Sector - multiplier effects across the manufacturing system",
+        "Value Addition - public health burden and environmental compliance pressure"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which of the following is a valid application of \"MSME Sector\"?",
+      "correct_answer": "Small units provide components employment and local entrepreneurship support",
+      "incorrect_answers": [
+        "Effluent discharge and particulate emissions degrade local ecosystems",
+        "Steel plants supply machinery firms that serve transport and construction sectors",
+        "Cotton is converted into yarn fabric and garments with rising market value"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", which concept best matches: contamination of air water and land due to untreated industrial emissions and waste?",
+      "correct_answer": "Industrial Pollution",
+      "incorrect_answers": [
+        "Industrial Linkage",
+        "Value Addition",
+        "Agglomeration Economy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "A case described as \"effluent discharge and particulate emissions degrade local ecosystems\" is the best example of:",
+      "correct_answer": "Industrial Pollution",
+      "incorrect_answers": [
+        "Value Addition",
+        "Agglomeration Economy",
+        "Industrial Linkage"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", the term \"Industrial Pollution\" is most closely associated with:",
+      "correct_answer": "Contamination of air water and land due to untreated industrial emissions and waste",
+      "incorrect_answers": [
+        "Interdependence among upstream and downstream industries in production networks",
+        "Increase in product worth through processing transformation and quality enhancement",
+        "Cost and efficiency advantages when related industries cluster spatially"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "The immediate policy focus of \"Industrial Pollution\" is usually:",
+      "correct_answer": "Public health burden and environmental compliance pressure",
+      "incorrect_answers": [
+        "Reduced transaction costs and productivity gains",
+        "Higher income generation from raw material chains",
+        "Multiplier effects across the manufacturing system"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "If an examiner asks for a concept linked to \"public health burden and environmental compliance pressure\", the most accurate answer is:",
+      "correct_answer": "Industrial Pollution",
+      "incorrect_answers": [
+        "Agglomeration Economy",
+        "Industrial Linkage",
+        "Value Addition"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which term correctly completes this statement: Contamination of air water and land due to untreated industrial emissions and waste.",
+      "correct_answer": "Industrial Pollution",
+      "incorrect_answers": [
+        "Value Addition",
+        "Industrial Linkage",
+        "Agglomeration Economy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Choose the correctly matched pair from \"Manufacturing Industries\".",
+      "correct_answer": "Industrial Pollution - public health burden and environmental compliance pressure",
+      "incorrect_answers": [
+        "Industrial Linkage - public health burden and environmental compliance pressure",
+        "Industrial Pollution - higher income generation from raw material chains",
+        "Agglomeration Economy - multiplier effects across the manufacturing system"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which of the following is a valid application of \"Industrial Pollution\"?",
+      "correct_answer": "Effluent discharge and particulate emissions degrade local ecosystems",
+      "incorrect_answers": [
+        "Steel plants supply machinery firms that serve transport and construction sectors",
+        "Cotton is converted into yarn fabric and garments with rising market value",
+        "Auto component firms locate near assembly units and logistics hubs"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", which concept best matches: interdependence among upstream and downstream industries in production networks?",
+      "correct_answer": "Industrial Linkage",
+      "incorrect_answers": [
+        "Value Addition",
+        "Agglomeration Economy",
+        "Industrial Location Factor"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "A case described as \"steel plants supply machinery firms that serve transport and construction sectors\" is the best example of:",
+      "correct_answer": "Industrial Linkage",
+      "incorrect_answers": [
+        "Agglomeration Economy",
+        "Industrial Location Factor",
+        "Value Addition"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "In \"Manufacturing Industries\", the term \"Industrial Linkage\" is most closely associated with:",
+      "correct_answer": "Interdependence among upstream and downstream industries in production networks",
+      "incorrect_answers": [
+        "Increase in product worth through processing transformation and quality enhancement",
+        "Cost and efficiency advantages when related industries cluster spatially",
+        "Determinants such as raw material labour power transport and market access"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "The immediate policy focus of \"Industrial Linkage\" is usually:",
+      "correct_answer": "Multiplier effects across the manufacturing system",
+      "incorrect_answers": [
+        "Spatial pattern of industrial concentration",
+        "Reduced transaction costs and productivity gains",
+        "Higher income generation from raw material chains"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "If an examiner asks for a concept linked to \"multiplier effects across the manufacturing system\", the most accurate answer is:",
+      "correct_answer": "Industrial Linkage",
+      "incorrect_answers": [
+        "Industrial Location Factor",
+        "Value Addition",
+        "Agglomeration Economy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which term correctly completes this statement: Interdependence among upstream and downstream industries in production networks.",
+      "correct_answer": "Industrial Linkage",
+      "incorrect_answers": [
+        "Agglomeration Economy",
+        "Value Addition",
+        "Industrial Location Factor"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Choose the correctly matched pair from \"Manufacturing Industries\".",
+      "correct_answer": "Industrial Linkage - multiplier effects across the manufacturing system",
+      "incorrect_answers": [
+        "Value Addition - multiplier effects across the manufacturing system",
+        "Industrial Linkage - reduced transaction costs and productivity gains",
+        "Industrial Location Factor - higher income generation from raw material chains"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Which of the following is a valid application of \"Industrial Linkage\"?",
+      "correct_answer": "Steel plants supply machinery firms that serve transport and construction sectors",
+      "incorrect_answers": [
+        "Cotton is converted into yarn fabric and garments with rising market value",
+        "Auto component firms locate near assembly units and logistics hubs",
+        "An industry chooses sites based on combined input and output cost logic"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "Why do many petrochemical industries locate near ports?",
+      "correct_answer": "Imported crude handling and export logistics are more efficient at port locations",
+      "incorrect_answers": [
+        "Petrochemicals require mountain climate only",
+        "Port cities ban all heavy transport traffic",
+        "Pipeline transport cannot connect inland plants"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Manufacturing Industries",
+      "question": "The principle of polluter pays in manufacturing policy implies that firms should",
+      "correct_answer": "bear the cost of pollution control and environmental damage mitigation",
+      "incorrect_answers": [
+        "transfer all treatment costs to households",
+        "avoid installing any emission monitoring systems",
+        "receive unlimited subsidies for untreated discharge"
+      ]
+    }
+  ]
+}

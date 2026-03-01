@@ -1,0 +1,604 @@
+{
+  "results": [
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", which concept best matches: requirement that rulers explain and justify decisions to citizens and institutions?",
+      "correct_answer": "Accountability",
+      "incorrect_answers": [
+        "Transparency",
+        "Legitimacy",
+        "Dignity of Citizens"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "A case described as \"governments face legislative scrutiny media questions and electoral judgment\" is the best example of:",
+      "correct_answer": "Accountability",
+      "incorrect_answers": [
+        "Legitimacy",
+        "Dignity of Citizens",
+        "Transparency"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", the term \"Accountability\" is most closely associated with:",
+      "correct_answer": "Requirement that rulers explain and justify decisions to citizens and institutions",
+      "incorrect_answers": [
+        "Availability of information that allows citizens to monitor governance processes",
+        "Public acceptance that political authority is rightful and law based",
+        "Democratic recognition of equal respect rights and social status for all"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "The immediate policy focus of \"Accountability\" is usually:",
+      "correct_answer": "Answerability of power holders in public life",
+      "incorrect_answers": [
+        "Inclusive citizenship beyond formal voting rights",
+        "Stable governance through consent rather than coercion",
+        "Reduced opacity and stronger civic oversight"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "If an examiner asks for a concept linked to \"answerability of power holders in public life\", the most accurate answer is:",
+      "correct_answer": "Accountability",
+      "incorrect_answers": [
+        "Dignity of Citizens",
+        "Transparency",
+        "Legitimacy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which term correctly completes this statement: Requirement that rulers explain and justify decisions to citizens and institutions.",
+      "correct_answer": "Accountability",
+      "incorrect_answers": [
+        "Legitimacy",
+        "Transparency",
+        "Dignity of Citizens"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Choose the correctly matched pair from \"Outcomes of Democracy\".",
+      "correct_answer": "Accountability - answerability of power holders in public life",
+      "incorrect_answers": [
+        "Transparency - answerability of power holders in public life",
+        "Accountability - stable governance through consent rather than coercion",
+        "Dignity of Citizens - reduced opacity and stronger civic oversight"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which of the following is a valid application of \"Accountability\"?",
+      "correct_answer": "Governments face legislative scrutiny media questions and electoral judgment",
+      "incorrect_answers": [
+        "Public data laws expose decisions budgets and procurement records",
+        "Citizens comply with rules because institutions are seen as fair and representative",
+        "Historically marginalised groups gain voice and legal protection"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", which concept best matches: availability of information that allows citizens to monitor governance processes?",
+      "correct_answer": "Transparency",
+      "incorrect_answers": [
+        "Legitimacy",
+        "Dignity of Citizens",
+        "Economic Inequality"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "A case described as \"public data laws expose decisions budgets and procurement records\" is the best example of:",
+      "correct_answer": "Transparency",
+      "incorrect_answers": [
+        "Dignity of Citizens",
+        "Economic Inequality",
+        "Legitimacy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", the term \"Transparency\" is most closely associated with:",
+      "correct_answer": "Availability of information that allows citizens to monitor governance processes",
+      "incorrect_answers": [
+        "Public acceptance that political authority is rightful and law based",
+        "Democratic recognition of equal respect rights and social status for all",
+        "Unequal distribution of income wealth and opportunities despite political equality"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "The immediate policy focus of \"Transparency\" is usually:",
+      "correct_answer": "Reduced opacity and stronger civic oversight",
+      "incorrect_answers": [
+        "Developmental gap between democratic promise and material outcomes",
+        "Inclusive citizenship beyond formal voting rights",
+        "Stable governance through consent rather than coercion"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "If an examiner asks for a concept linked to \"reduced opacity and stronger civic oversight\", the most accurate answer is:",
+      "correct_answer": "Transparency",
+      "incorrect_answers": [
+        "Economic Inequality",
+        "Legitimacy",
+        "Dignity of Citizens"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which term correctly completes this statement: Availability of information that allows citizens to monitor governance processes.",
+      "correct_answer": "Transparency",
+      "incorrect_answers": [
+        "Dignity of Citizens",
+        "Legitimacy",
+        "Economic Inequality"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Choose the correctly matched pair from \"Outcomes of Democracy\".",
+      "correct_answer": "Transparency - reduced opacity and stronger civic oversight",
+      "incorrect_answers": [
+        "Legitimacy - reduced opacity and stronger civic oversight",
+        "Transparency - inclusive citizenship beyond formal voting rights",
+        "Economic Inequality - stable governance through consent rather than coercion"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which of the following is a valid application of \"Transparency\"?",
+      "correct_answer": "Public data laws expose decisions budgets and procurement records",
+      "incorrect_answers": [
+        "Citizens comply with rules because institutions are seen as fair and representative",
+        "Historically marginalised groups gain voice and legal protection",
+        "High growth coexists with concentration of assets among limited groups"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", which concept best matches: public acceptance that political authority is rightful and law based?",
+      "correct_answer": "Legitimacy",
+      "incorrect_answers": [
+        "Dignity of Citizens",
+        "Economic Inequality",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "A case described as \"citizens comply with rules because institutions are seen as fair and representative\" is the best example of:",
+      "correct_answer": "Legitimacy",
+      "incorrect_answers": [
+        "Economic Inequality",
+        "Conflict Resolution",
+        "Dignity of Citizens"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", the term \"Legitimacy\" is most closely associated with:",
+      "correct_answer": "Public acceptance that political authority is rightful and law based",
+      "incorrect_answers": [
+        "Democratic recognition of equal respect rights and social status for all",
+        "Unequal distribution of income wealth and opportunities despite political equality",
+        "Institutional management of social differences through debate law and negotiation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "The immediate policy focus of \"Legitimacy\" is usually:",
+      "correct_answer": "Stable governance through consent rather than coercion",
+      "incorrect_answers": [
+        "Peaceful accommodation of diversity over violent confrontation",
+        "Developmental gap between democratic promise and material outcomes",
+        "Inclusive citizenship beyond formal voting rights"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "If an examiner asks for a concept linked to \"stable governance through consent rather than coercion\", the most accurate answer is:",
+      "correct_answer": "Legitimacy",
+      "incorrect_answers": [
+        "Conflict Resolution",
+        "Dignity of Citizens",
+        "Economic Inequality"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which term correctly completes this statement: Public acceptance that political authority is rightful and law based.",
+      "correct_answer": "Legitimacy",
+      "incorrect_answers": [
+        "Economic Inequality",
+        "Dignity of Citizens",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Choose the correctly matched pair from \"Outcomes of Democracy\".",
+      "correct_answer": "Legitimacy - stable governance through consent rather than coercion",
+      "incorrect_answers": [
+        "Dignity of Citizens - stable governance through consent rather than coercion",
+        "Legitimacy - developmental gap between democratic promise and material outcomes",
+        "Conflict Resolution - inclusive citizenship beyond formal voting rights"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which of the following is a valid application of \"Legitimacy\"?",
+      "correct_answer": "Citizens comply with rules because institutions are seen as fair and representative",
+      "incorrect_answers": [
+        "Historically marginalised groups gain voice and legal protection",
+        "High growth coexists with concentration of assets among limited groups",
+        "Competing interests are mediated in courts assemblies and public forums"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", which concept best matches: democratic recognition of equal respect rights and social status for all?",
+      "correct_answer": "Dignity of Citizens",
+      "incorrect_answers": [
+        "Economic Inequality",
+        "Conflict Resolution",
+        "Accountability"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "A case described as \"historically marginalised groups gain voice and legal protection\" is the best example of:",
+      "correct_answer": "Dignity of Citizens",
+      "incorrect_answers": [
+        "Conflict Resolution",
+        "Accountability",
+        "Economic Inequality"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", the term \"Dignity of Citizens\" is most closely associated with:",
+      "correct_answer": "Democratic recognition of equal respect rights and social status for all",
+      "incorrect_answers": [
+        "Unequal distribution of income wealth and opportunities despite political equality",
+        "Institutional management of social differences through debate law and negotiation",
+        "Requirement that rulers explain and justify decisions to citizens and institutions"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "The immediate policy focus of \"Dignity of Citizens\" is usually:",
+      "correct_answer": "Inclusive citizenship beyond formal voting rights",
+      "incorrect_answers": [
+        "Answerability of power holders in public life",
+        "Peaceful accommodation of diversity over violent confrontation",
+        "Developmental gap between democratic promise and material outcomes"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "If an examiner asks for a concept linked to \"inclusive citizenship beyond formal voting rights\", the most accurate answer is:",
+      "correct_answer": "Dignity of Citizens",
+      "incorrect_answers": [
+        "Accountability",
+        "Economic Inequality",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which term correctly completes this statement: Democratic recognition of equal respect rights and social status for all.",
+      "correct_answer": "Dignity of Citizens",
+      "incorrect_answers": [
+        "Conflict Resolution",
+        "Economic Inequality",
+        "Accountability"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Choose the correctly matched pair from \"Outcomes of Democracy\".",
+      "correct_answer": "Dignity of Citizens - inclusive citizenship beyond formal voting rights",
+      "incorrect_answers": [
+        "Economic Inequality - inclusive citizenship beyond formal voting rights",
+        "Dignity of Citizens - peaceful accommodation of diversity over violent confrontation",
+        "Accountability - developmental gap between democratic promise and material outcomes"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which of the following is a valid application of \"Dignity of Citizens\"?",
+      "correct_answer": "Historically marginalised groups gain voice and legal protection",
+      "incorrect_answers": [
+        "High growth coexists with concentration of assets among limited groups",
+        "Competing interests are mediated in courts assemblies and public forums",
+        "Governments face legislative scrutiny media questions and electoral judgment"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", which concept best matches: unequal distribution of income wealth and opportunities despite political equality?",
+      "correct_answer": "Economic Inequality",
+      "incorrect_answers": [
+        "Conflict Resolution",
+        "Accountability",
+        "Transparency"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "A case described as \"high growth coexists with concentration of assets among limited groups\" is the best example of:",
+      "correct_answer": "Economic Inequality",
+      "incorrect_answers": [
+        "Accountability",
+        "Transparency",
+        "Conflict Resolution"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", the term \"Economic Inequality\" is most closely associated with:",
+      "correct_answer": "Unequal distribution of income wealth and opportunities despite political equality",
+      "incorrect_answers": [
+        "Institutional management of social differences through debate law and negotiation",
+        "Requirement that rulers explain and justify decisions to citizens and institutions",
+        "Availability of information that allows citizens to monitor governance processes"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "The immediate policy focus of \"Economic Inequality\" is usually:",
+      "correct_answer": "Developmental gap between democratic promise and material outcomes",
+      "incorrect_answers": [
+        "Reduced opacity and stronger civic oversight",
+        "Answerability of power holders in public life",
+        "Peaceful accommodation of diversity over violent confrontation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "If an examiner asks for a concept linked to \"developmental gap between democratic promise and material outcomes\", the most accurate answer is:",
+      "correct_answer": "Economic Inequality",
+      "incorrect_answers": [
+        "Transparency",
+        "Conflict Resolution",
+        "Accountability"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which term correctly completes this statement: Unequal distribution of income wealth and opportunities despite political equality.",
+      "correct_answer": "Economic Inequality",
+      "incorrect_answers": [
+        "Accountability",
+        "Conflict Resolution",
+        "Transparency"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Choose the correctly matched pair from \"Outcomes of Democracy\".",
+      "correct_answer": "Economic Inequality - developmental gap between democratic promise and material outcomes",
+      "incorrect_answers": [
+        "Conflict Resolution - developmental gap between democratic promise and material outcomes",
+        "Economic Inequality - answerability of power holders in public life",
+        "Transparency - peaceful accommodation of diversity over violent confrontation"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which of the following is a valid application of \"Economic Inequality\"?",
+      "correct_answer": "High growth coexists with concentration of assets among limited groups",
+      "incorrect_answers": [
+        "Competing interests are mediated in courts assemblies and public forums",
+        "Governments face legislative scrutiny media questions and electoral judgment",
+        "Public data laws expose decisions budgets and procurement records"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", which concept best matches: institutional management of social differences through debate law and negotiation?",
+      "correct_answer": "Conflict Resolution",
+      "incorrect_answers": [
+        "Accountability",
+        "Transparency",
+        "Legitimacy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "A case described as \"competing interests are mediated in courts assemblies and public forums\" is the best example of:",
+      "correct_answer": "Conflict Resolution",
+      "incorrect_answers": [
+        "Transparency",
+        "Legitimacy",
+        "Accountability"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "In \"Outcomes of Democracy\", the term \"Conflict Resolution\" is most closely associated with:",
+      "correct_answer": "Institutional management of social differences through debate law and negotiation",
+      "incorrect_answers": [
+        "Requirement that rulers explain and justify decisions to citizens and institutions",
+        "Availability of information that allows citizens to monitor governance processes",
+        "Public acceptance that political authority is rightful and law based"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "The immediate policy focus of \"Conflict Resolution\" is usually:",
+      "correct_answer": "Peaceful accommodation of diversity over violent confrontation",
+      "incorrect_answers": [
+        "Stable governance through consent rather than coercion",
+        "Reduced opacity and stronger civic oversight",
+        "Answerability of power holders in public life"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "If an examiner asks for a concept linked to \"peaceful accommodation of diversity over violent confrontation\", the most accurate answer is:",
+      "correct_answer": "Conflict Resolution",
+      "incorrect_answers": [
+        "Legitimacy",
+        "Accountability",
+        "Transparency"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which term correctly completes this statement: Institutional management of social differences through debate law and negotiation.",
+      "correct_answer": "Conflict Resolution",
+      "incorrect_answers": [
+        "Transparency",
+        "Accountability",
+        "Legitimacy"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Choose the correctly matched pair from \"Outcomes of Democracy\".",
+      "correct_answer": "Conflict Resolution - peaceful accommodation of diversity over violent confrontation",
+      "incorrect_answers": [
+        "Accountability - peaceful accommodation of diversity over violent confrontation",
+        "Conflict Resolution - reduced opacity and stronger civic oversight",
+        "Legitimacy - answerability of power holders in public life"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Which of the following is a valid application of \"Conflict Resolution\"?",
+      "correct_answer": "Competing interests are mediated in courts assemblies and public forums",
+      "incorrect_answers": [
+        "Governments face legislative scrutiny media questions and electoral judgment",
+        "Public data laws expose decisions budgets and procurement records",
+        "Citizens comply with rules because institutions are seen as fair and representative"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "Why are democratic decisions sometimes slower than authoritarian decisions?",
+      "correct_answer": "They require consultation negotiation and institutional procedures before implementation",
+      "incorrect_answers": [
+        "Courts permanently ban policy innovation",
+        "Elections are held before every minor regulation",
+        "Parliaments cannot pass budget laws"
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Outcomes of Democracy",
+      "question": "A key democratic strength in plural societies is the capacity to",
+      "correct_answer": "absorb social tensions through constitutional channels",
+      "incorrect_answers": [
+        "eliminate all identity differences by decree",
+        "replace rights with security directives",
+        "suspend federal institutions indefinitely"
+      ]
+    }
+  ]
+}
