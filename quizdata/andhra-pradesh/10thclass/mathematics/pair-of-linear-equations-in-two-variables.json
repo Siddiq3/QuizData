@@ -4,23 +4,47 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 3x + 1y = 10 and 1x + 5y = 22. Value of x is:",
-      "correct_answer": "2",
+      "question": "Solve: 1x + 5y = 16, 5x + 4y = 17. Find x.",
+      "correct_answer": "1",
       "incorrect_answers": [
-        "4",
         "3",
-        "1"
+        "0",
+        "Distractor 3"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 3x + 1y = 10 and 1x + 5y = 22. Value of y is:",
+      "question": "Solve: 5x + 5y = 70, 4x + 5y = 62. Find x.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "6",
+        "12",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 1y = 13, 5x + 4y = 41. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "9",
+        "4",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 5y = 22, 6x + 1y = 26. Find x.",
       "correct_answer": "4",
       "incorrect_answers": [
         "2",
-        "5",
+        "8",
         "3"
       ]
     },
@@ -28,59 +52,35 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 3x + 1y = 10 and 1x + 5y = 22, x+y equals:",
-      "correct_answer": "6",
+      "question": "Solve: 5x + 3y = 47, 6x + 4y = 60. Find x.",
+      "correct_answer": "4",
       "incorrect_answers": [
-        "-2",
-        "2",
-        "7"
+        "9",
+        "7",
+        "2"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 3x + 1y = 10 and 1x + 5y = 22, 2x\u2212y equals:",
-      "correct_answer": "0",
+      "question": "Solve: 1x + 5y = 25, 6x + 3y = 42. Find x.",
+      "correct_answer": "5",
       "incorrect_answers": [
-        "6",
-        "-2",
-        "8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 3x+6y=9 and 6x+12y=18 have:",
-      "correct_answer": "Infinitely many solutions",
-      "incorrect_answers": [
-        "No solution",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 3x+6y=9 and 6x+12y=19 have:",
-      "correct_answer": "No solution",
-      "incorrect_answers": [
-        "Infinitely many solutions",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 3x+1y=10 and 1x+5y=22, determinant a1b2\u2212a2b1 is:",
-      "correct_answer": "14",
-      "incorrect_answers": [
-        "16",
         "4",
+        "9",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 2y = 20, 3x + 3y = 30. Find x.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "2",
+        "10",
         "6"
       ]
     },
@@ -88,11 +88,335 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Two numbers have sum 13 and difference 5. Larger number is:",
+      "question": "Solve: 3x + 1y = 28, 2x + 3y = 21. Find x.",
       "correct_answer": "9",
       "incorrect_answers": [
-        "13",
+        "1",
+        "10",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 3y = 51, 1x + 1y = 17. Find x.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "8",
+        "12",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 1y = 10, 3x + 6y = 15. Find x.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "1",
+        "6",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 1y = 2, 6x + 2y = 8. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
         "5",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 1y = 37, 4x + 3y = 45. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "7",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 6y = 41, 2x + 2y = 14. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "6",
+        "4",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 1y = 13, 4x + 2y = 20. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "8",
+        "5",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 4y = 36, 6x + 6y = 54. Find x.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "6",
+        "5",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 6y = 26, 5x + 4y = 29. Find x.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "1",
+        "6",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 3y = 17, 5x + 6y = 35. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "2",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 5y = 65, 5x + 5y = 65. Find x.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "8",
+        "7",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 2y = 18, 5x + 2y = 42. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 4y = 32, 4x + 5y = 37. Find x.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "5",
+        "4",
+        "1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 3y = 29, 6x + 3y = 33. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "3",
+        "8",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 3y = 49, 2x + 5y = 49. Find x.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "9",
+        "4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 3y = 42, 2x + 1y = 20. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "7",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 5y = 30, 2x + 4y = 18. Find x.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "6",
+        "1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 2y = 36, 3x + 2y = 30. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "9",
+        "4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 6y = 57, 3x + 4y = 47. Find x.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "5",
+        "13",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 6x + 4y = 30, 1x + 3y = 19. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "6",
+        "5",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 4y = 16, 6x + 4y = 28. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "1",
+        "5",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 1y = 9, 3x + 3y = 18. Find x.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "7",
+        "2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 5y = 32, 3x + 4y = 34. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "4",
+        "8",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 6y = 34, 2x + 3y = 23. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 4y = 40, 5x + 6y = 68. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "8",
+        "2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 4y = 22, 2x + 3y = 13. Find x.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "3",
+        "6",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 1y = 21, 1x + 6y = 38. Find x.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "5",
+        "12",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 2y = 28, 2x + 3y = 27. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "5",
+        "8",
         "4"
       ]
     },
@@ -100,10 +424,514 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.26, 3 pens and 2 pencils cost Rs.29. Cost of one pen is:",
-      "correct_answer": "7",
+      "question": "Solve: 2x + 4y = 22, 3x + 1y = 13. Find x.",
+      "correct_answer": "3",
       "incorrect_answers": [
         "4",
+        "7",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 4y = 32, 3x + 2y = 32. Find x.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "4",
+        "11",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 5y = 48, 5x + 2y = 33. Find x.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "9",
+        "4",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 6y = 58, 4x + 5y = 60. Find x.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "8",
+        "4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 2y = 18, 6x + 2y = 38. Find x.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "4",
+        "8",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 2y = 8, 5x + 2y = 11. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "3",
+        "2",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 6y = 66, 6x + 1y = 59. Find x.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "5",
+        "13",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 6x + 1y = 29, 1x + 5y = 29. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "6",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 5y = 49, 6x + 3y = 51. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "5",
+        "9",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 3y = 29, 3x + 1y = 23. Find x.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "8",
+        "6",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 1y = 11, 6x + 3y = 15. Find x.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 3y = 19, 6x + 6y = 30. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "1",
+        "7",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 6y = 44, 3x + 2y = 18. Find x.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "6",
+        "5",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 3y = 36, 5x + 6y = 68. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "8",
+        "5",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 5y = 26, 1x + 6y = 20. Find x.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "2",
+        "9",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 4y = 60, 4x + 6y = 62. Find x.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "5",
+        "11",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 3y = 20, 6x + 5y = 32. Find x.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "4",
+        "1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 4y = 48, 3x + 1y = 19. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "7",
+        "6",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 2y = 10, 1x + 1y = 6. Find x.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "4",
+        "1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 4y = 46, 4x + 5y = 44. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "4",
+        "9",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 4y = 19, 2x + 2y = 14. Find x.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "4",
+        "5",
+        "1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 5y = 53, 6x + 3y = 51. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "9",
+        "8",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 2y = 25, 3x + 6y = 33. Find x.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "2",
+        "11",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 6x + 3y = 48, 3x + 5y = 31. Find x.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "2",
+        "11",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 4y = 28, 2x + 6y = 26. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "3",
+        "8",
+        "1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 3y = 15, 6x + 3y = 60. Find x.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "2",
+        "11",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 1y = 10, 5x + 6y = 34. Find x.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "4",
+        "5",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 3y = 25, 3x + 3y = 21. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "3",
+        "8",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 3y = 31, 3x + 4y = 53. Find x.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "9",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 4y = 34, 3x + 1y = 25. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "7",
+        "9",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 6x + 5y = 61, 5x + 4y = 50. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "5",
+        "8",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 5y = 48, 6x + 2y = 28. Find x.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "8",
+        "5",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 3y = 19, 3x + 3y = 27. Find x.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "1",
+        "9",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 4y = 44, 3x + 2y = 34. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "9",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 5y = 59, 1x + 5y = 41. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "7",
+        "5",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 6x + 3y = 24, 3x + 6y = 21. Find x.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "5",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 6x + 3y = 75, 5x + 1y = 52. Find x.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "7",
+        "11",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 3y = 38, 5x + 6y = 52. Find x.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "2",
+        "11",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 3y = 5, 5x + 3y = 8. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 2y = 12, 6x + 6y = 36. Find x.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "4",
+        "6",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 5y = 35, 2x + 5y = 25. Find x.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "3",
+        "6",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 5y = 40, 5x + 3y = 46. Find x.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "7",
+        "8",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 3y = 16, 6x + 6y = 60. Find x.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "3",
         "8",
         "6"
       ]
@@ -112,22 +940,106 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.26, 3 pens and 2 pencils cost Rs.29. Cost of one pencil is:",
-      "correct_answer": "4",
+      "question": "Solve: 6x + 5y = 36, 5x + 5y = 35. Find x.",
+      "correct_answer": "1",
       "incorrect_answers": [
-        "7",
+        "6",
         "5",
-        "3"
+        "0"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 4x + 1y = 17 and 1x + 6y = 33. Value of x is:",
+      "question": "Solve: 1x + 1y = 12, 4x + 3y = 41. Find x.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "7",
+        "9",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 3y = 29, 3x + 4y = 39. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "9",
+        "3",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 1x + 6y = 15, 3x + 5y = 19. Find x.",
       "correct_answer": "3",
       "incorrect_answers": [
-        "5",
+        "2",
+        "6",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 2y = 40, 1x + 5y = 46. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 3y = 37, 6x + 5y = 75. Find x.",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "9",
+        "4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 6y = 41, 1x + 6y = 13. Find x.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "1",
+        "10",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 6x + 5y = 89, 1x + 3y = 30. Find x.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "7",
+        "12",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 3x + 4y = 41, 6x + 4y = 50. Find x.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "8",
         "4",
         "2"
       ]
@@ -136,107 +1048,59 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 4x + 1y = 17 and 1x + 6y = 33. Value of y is:",
+      "question": "Solve: 4x + 1y = 12, 5x + 1y = 13. Find x.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "8",
+        "3",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 4x + 4y = 32, 6x + 2y = 32. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "5",
+        "2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 6y = 44, 1x + 1y = 10. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "6",
+        "2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 5y = 40, 2x + 4y = 28. Find x.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "6",
+        "5",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 5x + 1y = 28, 5x + 4y = 37. Find x.",
       "correct_answer": "5",
       "incorrect_answers": [
         "3",
-        "6",
-        "4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 4x + 1y = 17 and 1x + 6y = 33, x+y equals:",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "-2",
-        "2",
-        "9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 4x + 1y = 17 and 1x + 6y = 33, 2x\u2212y equals:",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "7",
-        "-2",
-        "11"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 4x+8y=12 and 8x+16y=24 have:",
-      "correct_answer": "Infinitely many solutions",
-      "incorrect_answers": [
-        "No solution",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 4x+8y=12 and 8x+16y=25 have:",
-      "correct_answer": "No solution",
-      "incorrect_answers": [
-        "Infinitely many solutions",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 4x+1y=17 and 1x+6y=33, determinant a1b2\u2212a2b1 is:",
-      "correct_answer": "23",
-      "incorrect_answers": [
-        "25",
-        "5",
-        "7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Two numbers have sum 14 and difference 6. Larger number is:",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "14",
-        "6",
-        "4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.31, 3 pens and 2 pencils cost Rs.34. Cost of one pen is:",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "5",
-        "9",
-        "7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.31, 3 pens and 2 pencils cost Rs.34. Cost of one pencil is:",
-      "correct_answer": "5",
-      "incorrect_answers": [
         "8",
-        "6",
         "4"
       ]
     },
@@ -244,131 +1108,59 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 5x + 1y = 26 and 1x + 7y = 46. Value of x is:",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "6",
-        "5",
-        "3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 5x + 1y = 26 and 1x + 7y = 46. Value of y is:",
-      "correct_answer": "6",
+      "question": "Solve: 5x + 2y = 48, 3x + 1y = 28. Find x.",
+      "correct_answer": "8",
       "incorrect_answers": [
         "4",
-        "7",
-        "5"
+        "12",
+        "6"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 5x + 1y = 26 and 1x + 7y = 46, x+y equals:",
-      "correct_answer": "10",
+      "question": "Solve: 6x + 4y = 36, 1x + 2y = 10. Find x.",
+      "correct_answer": "4",
       "incorrect_answers": [
-        "-2",
-        "2",
-        "11"
+        "3",
+        "5",
+        "1"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 5x + 1y = 26 and 1x + 7y = 46, 2x\u2212y equals:",
-      "correct_answer": "2",
+      "question": "Solve: 3x + 6y = 30, 5x + 2y = 42. Find x.",
+      "correct_answer": "8",
       "incorrect_answers": [
-        "8",
-        "-2",
-        "14"
+        "1",
+        "11",
+        "6"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 5x+10y=15 and 10x+20y=30 have:",
-      "correct_answer": "Infinitely many solutions",
-      "incorrect_answers": [
-        "No solution",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 5x+10y=15 and 10x+20y=31 have:",
-      "correct_answer": "No solution",
-      "incorrect_answers": [
-        "Infinitely many solutions",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 5x+1y=26 and 1x+7y=46, determinant a1b2\u2212a2b1 is:",
-      "correct_answer": "34",
-      "incorrect_answers": [
-        "36",
-        "6",
-        "8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Two numbers have sum 15 and difference 7. Larger number is:",
-      "correct_answer": "11",
-      "incorrect_answers": [
-        "15",
-        "7",
-        "4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.36, 3 pens and 2 pencils cost Rs.39. Cost of one pen is:",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "6",
-        "10",
-        "8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.36, 3 pens and 2 pencils cost Rs.39. Cost of one pencil is:",
+      "question": "Solve: 3x + 5y = 43, 5x + 3y = 45. Find x.",
       "correct_answer": "6",
       "incorrect_answers": [
-        "9",
+        "5",
         "7",
-        "5"
+        "Distractor 3"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 6x + 1y = 37 and 1x + 8y = 61. Value of x is:",
-      "correct_answer": "5",
+      "question": "Solve: 5x + 6y = 72, 6x + 3y = 57. Find x.",
+      "correct_answer": "6",
       "incorrect_answers": [
         "7",
-        "6",
+        "9",
         "4"
       ]
     },
@@ -376,228 +1168,36 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 6x + 1y = 37 and 1x + 8y = 61. Value of y is:",
+      "question": "Solve: 5x + 5y = 65, 3x + 6y = 60. Find x.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "7",
+        "9",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 2x + 6y = 14, 1x + 5y = 9. Find x.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "1",
+        "8",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "question": "Solve: 6x + 5y = 67, 2x + 1y = 19. Find x.",
       "correct_answer": "7",
       "incorrect_answers": [
         "5",
-        "8",
-        "6"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 6x + 1y = 37 and 1x + 8y = 61, x+y equals:",
-      "correct_answer": "12",
-      "incorrect_answers": [
-        "-2",
-        "2",
-        "13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 6x + 1y = 37 and 1x + 8y = 61, 2x\u2212y equals:",
-      "correct_answer": "3",
-      "incorrect_answers": [
-        "9",
-        "-2",
-        "17"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 6x+12y=18 and 12x+24y=36 have:",
-      "correct_answer": "Infinitely many solutions",
-      "incorrect_answers": [
-        "No solution",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 6x+12y=18 and 12x+24y=37 have:",
-      "correct_answer": "No solution",
-      "incorrect_answers": [
-        "Infinitely many solutions",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 6x+1y=37 and 1x+8y=61, determinant a1b2\u2212a2b1 is:",
-      "correct_answer": "47",
-      "incorrect_answers": [
-        "49",
-        "7",
-        "9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Two numbers have sum 16 and difference 8. Larger number is:",
-      "correct_answer": "12",
-      "incorrect_answers": [
-        "16",
-        "8",
-        "4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.41, 3 pens and 2 pencils cost Rs.44. Cost of one pen is:",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "7",
-        "11",
-        "9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.41, 3 pens and 2 pencils cost Rs.44. Cost of one pencil is:",
-      "correct_answer": "7",
-      "incorrect_answers": [
-        "10",
-        "8",
-        "6"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 7x + 1y = 50 and 1x + 9y = 78. Value of x is:",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "8",
-        "7",
-        "5"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Solve 7x + 1y = 50 and 1x + 9y = 78. Value of y is:",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "6",
-        "9",
-        "7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 7x + 1y = 50 and 1x + 9y = 78, x+y equals:",
-      "correct_answer": "14",
-      "incorrect_answers": [
-        "-2",
-        "2",
-        "15"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 7x + 1y = 50 and 1x + 9y = 78, 2x\u2212y equals:",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "10",
-        "-2",
-        "20"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 7x+14y=21 and 14x+28y=42 have:",
-      "correct_answer": "Infinitely many solutions",
-      "incorrect_answers": [
-        "No solution",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Equations 7x+14y=21 and 14x+28y=43 have:",
-      "correct_answer": "No solution",
-      "incorrect_answers": [
-        "Infinitely many solutions",
-        "Unique solution",
-        "Two solutions"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "For equations 7x+1y=50 and 1x+9y=78, determinant a1b2\u2212a2b1 is:",
-      "correct_answer": "62",
-      "incorrect_answers": [
-        "64",
-        "8",
-        "10"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "Two numbers have sum 17 and difference 9. Larger number is:",
-      "correct_answer": "13",
-      "incorrect_answers": [
-        "17",
         "9",
         "4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.46, 3 pens and 2 pencils cost Rs.49. Cost of one pen is:",
-      "correct_answer": "11",
-      "incorrect_answers": [
-        "8",
-        "12",
-        "10"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Pair of Linear Equations in Two Variables",
-      "question": "2 pens and 3 pencils cost Rs.46, 3 pens and 2 pencils cost Rs.49. Cost of one pencil is:",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "11",
-        "9",
-        "7"
       ]
     }
   ]

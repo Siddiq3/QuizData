@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about reaction types?",
+      "correct_answer": "Reaction Types is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding Inference can replace all chapter logic without assumptions.",
+        "Reduction is valid only if core conditions are ignored.",
+        "Genetic Inheritance is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies balancing equations in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply balancing equations stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from genetic inheritance and skip checking constraints.",
+        "Use Atomic Structure and Chemical Bonding as a shortcut and avoid interpretation.",
+        "Pick organic reaction logic by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of oxidation in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where oxidation is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Atomic Structure and Chemical Bonding framework is used without relevance to chapter context.",
+        "An example where biochemical pathway is memorised but not applied logically.",
+        "An example where balancing equations is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"reduction works without constraints.\"",
+      "correct_answer": "Reduction works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Organic Reaction Logic removes the need for all constraints in every case.",
+        "Reaction Types is always equivalent to reduction, regardless of context.",
+        "Balancing Equations is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: cellular process is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which mismatch is incorrect?",
+      "correct_answer": "Physiological Regulation - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Oxidation - applied without confirming assumptions.",
+        "Reduction - interpreted against contradictory data.",
+        "Cellular Process - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when genetic inheritance and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for ecological balance in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links ecological balance to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes reaction types without checking relevance.",
+        "An inference that cites oxidation but skips logical steps.",
+        "An inference that repeats Atomic Structure and Chemical Bonding inference without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about biochemical pathway?",
+      "correct_answer": "Biochemical Pathway is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Ecological Balance can replace all chapter logic without assumptions.",
+        "Genetic Inheritance is valid only if core conditions are ignored.",
+        "Cellular Process is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies organic reaction logic in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply organic reaction logic stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from biochemical pathway and skip checking constraints.",
+        "Use reaction types as a shortcut and avoid interpretation.",
+        "Pick oxidation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of Atomic Structure and Chemical Bonding in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where Atomic Structure and Chemical Bonding is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where organic reaction logic is used without relevance to chapter context.",
+        "An example where Atomic Structure and Chemical Bonding application is memorised but not applied logically.",
+        "An example where reduction is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"Atomic Structure and Chemical Bonding framework works without constraints.\"",
+      "correct_answer": "Atomic Structure And Chemical Bonding Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Oxidation removes the need for all constraints in every case.",
+        "Reduction is always equivalent to Atomic Structure and Chemical Bonding framework, regardless of context.",
+        "Organic Reaction Logic is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: Atomic Structure and Chemical Bonding application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when reaction types and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for balancing equations in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links balancing equations to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes biochemical pathway without checking relevance.",
+        "An inference that cites Atomic Structure and Chemical Bonding application but skips logical steps.",
+        "An inference that repeats organic reaction logic without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about oxidation?",
+      "correct_answer": "Oxidation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding Application can replace all chapter logic without assumptions.",
+        "Cellular Process is valid only if core conditions are ignored.",
+        "Reaction Types is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies reduction in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply reduction stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from organic reaction logic and skip checking constraints.",
+        "Use Atomic Structure and Chemical Bonding framework as a shortcut and avoid interpretation.",
+        "Pick biochemical pathway by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of cellular process in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where cellular process is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where physiological regulation is used without relevance to chapter context.",
+        "An example where reduction is memorised but not applied logically.",
+        "An example where Atomic Structure and Chemical Bonding is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"physiological regulation works without constraints.\"",
+      "correct_answer": "Physiological Regulation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Oxidation removes the need for all constraints in every case.",
+        "Genetic Inheritance is always equivalent to physiological regulation, regardless of context.",
+        "Reaction Types is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: genetic inheritance is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when biochemical pathway and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for organic reaction logic in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links organic reaction logic to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Atomic Structure and Chemical Bonding framework without checking relevance.",
+        "An inference that cites Atomic Structure and Chemical Bonding inference but skips logical steps.",
+        "An inference that repeats ecological balance without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about Atomic Structure and Chemical Bonding?",
+      "correct_answer": "Atomic Structure And Chemical Bonding is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Oxidation can replace all chapter logic without assumptions.",
+        "Physiological Regulation is valid only if core conditions are ignored.",
+        "Atomic Structure And Chemical Bonding Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies Atomic Structure and Chemical Bonding framework in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Atomic Structure and Chemical Bonding framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Atomic Structure and Chemical Bonding application and skip checking constraints.",
+        "Use balancing equations as a shortcut and avoid interpretation.",
+        "Pick oxidation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of Atomic Structure and Chemical Bonding application in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where Atomic Structure and Chemical Bonding application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where cellular process is used without relevance to chapter context.",
+        "An example where reduction is memorised but not applied logically.",
+        "An example where oxidation is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"Atomic Structure and Chemical Bonding inference works without constraints.\"",
+      "correct_answer": "Atomic Structure And Chemical Bonding Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Organic Reaction Logic removes the need for all constraints in every case.",
+        "Reduction is always equivalent to Atomic Structure and Chemical Bonding inference, regardless of context.",
+        "Oxidation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: reaction types is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when oxidation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for reduction in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links reduction to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes physiological regulation without checking relevance.",
+        "An inference that cites Atomic Structure and Chemical Bonding framework but skips logical steps.",
+        "An inference that repeats balancing equations without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about cellular process?",
+      "correct_answer": "Cellular Process is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding can replace all chapter logic without assumptions.",
+        "Organic Reaction Logic is valid only if core conditions are ignored.",
+        "Balancing Equations is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies physiological regulation in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply physiological regulation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from cellular process and skip checking constraints.",
+        "Use Atomic Structure and Chemical Bonding inference as a shortcut and avoid interpretation.",
+        "Pick reduction by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of genetic inheritance in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where genetic inheritance is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where balancing equations is used without relevance to chapter context.",
+        "An example where Atomic Structure and Chemical Bonding application is memorised but not applied logically.",
+        "An example where physiological regulation is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"ecological balance works without constraints.\"",
+      "correct_answer": "Ecological Balance works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding Framework removes the need for all constraints in every case.",
+        "Reduction is always equivalent to ecological balance, regardless of context.",
+        "Atomic Structure And Chemical Bonding Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: biochemical pathway is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when Atomic Structure and Chemical Bonding and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for Atomic Structure and Chemical Bonding framework in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links Atomic Structure and Chemical Bonding framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes cellular process without checking relevance.",
+        "An inference that cites ecological balance but skips logical steps.",
+        "An inference that repeats Atomic Structure and Chemical Bonding inference without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about Atomic Structure and Chemical Bonding application?",
+      "correct_answer": "Atomic Structure And Chemical Bonding Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Organic Reaction Logic can replace all chapter logic without assumptions.",
+        "Ecological Balance is valid only if core conditions are ignored.",
+        "Physiological Regulation is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies Atomic Structure and Chemical Bonding inference in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Atomic Structure and Chemical Bonding inference stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from ecological balance and skip checking constraints.",
+        "Use balancing equations as a shortcut and avoid interpretation.",
+        "Pick cellular process by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of reaction types in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where reaction types is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where ecological balance is used without relevance to chapter context.",
+        "An example where Atomic Structure and Chemical Bonding application is memorised but not applied logically.",
+        "An example where cellular process is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"balancing equations works without constraints.\"",
+      "correct_answer": "Balancing Equations works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Oxidation removes the need for all constraints in every case.",
+        "Biochemical Pathway is always equivalent to balancing equations, regardless of context.",
+        "Atomic Structure And Chemical Bonding Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: oxidation is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when cellular process and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for physiological regulation in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links physiological regulation to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes genetic inheritance without checking relevance.",
+        "An inference that cites reduction but skips logical steps.",
+        "An inference that repeats organic reaction logic without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about genetic inheritance?",
+      "correct_answer": "Genetic Inheritance is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding Application can replace all chapter logic without assumptions.",
+        "Organic Reaction Logic is valid only if core conditions are ignored.",
+        "Oxidation is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies ecological balance in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply ecological balance stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from cellular process and skip checking constraints.",
+        "Use reduction as a shortcut and avoid interpretation.",
+        "Pick balancing equations by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of biochemical pathway in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where biochemical pathway is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where reduction is used without relevance to chapter context.",
+        "An example where Atomic Structure and Chemical Bonding inference is memorised but not applied logically.",
+        "An example where Atomic Structure and Chemical Bonding application is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"organic reaction logic works without constraints.\"",
+      "correct_answer": "Organic Reaction Logic works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Ecological Balance removes the need for all constraints in every case.",
+        "Biochemical Pathway is always equivalent to organic reaction logic, regardless of context.",
+        "Atomic Structure And Chemical Bonding Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: Atomic Structure and Chemical Bonding is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when Atomic Structure and Chemical Bonding application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for Atomic Structure and Chemical Bonding inference in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links Atomic Structure and Chemical Bonding inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes ecological balance without checking relevance.",
+        "An inference that cites balancing equations but skips logical steps.",
+        "An inference that repeats Atomic Structure and Chemical Bonding without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies reaction types using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply reaction types stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies balancing equations using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply balancing equations stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies oxidation using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply oxidation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies reduction using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply reduction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding framework using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding application using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding inference using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies reaction types using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply reaction types stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies balancing equations using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply balancing equations stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies oxidation using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply oxidation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies reduction using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply reduction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding framework using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding inference using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies reaction types using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply reaction types stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies balancing equations using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply balancing equations stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies oxidation using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply oxidation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies reduction using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply reduction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding framework using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding application using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies Atomic Structure and Chemical Bonding inference using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply Atomic Structure and Chemical Bonding inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies reaction types using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply reaction types stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which response applies balancing equations using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply balancing equations stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

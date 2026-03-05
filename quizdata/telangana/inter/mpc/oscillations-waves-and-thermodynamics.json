@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about algebraic modelling?",
+      "correct_answer": "Algebraic Modelling is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Oscillations, Waves And Thermodynamics Application can replace all chapter logic without assumptions.",
+        "Oscillations, Waves And Thermodynamics Inference is valid only if core conditions are ignored.",
+        "Thermodynamic Consistency is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies calculus reasoning in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply calculus reasoning stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from algebraic modelling and skip checking constraints.",
+        "Use Oscillations, Waves and Thermodynamics inference as a shortcut and avoid interpretation.",
+        "Pick mechanics framework by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of vector interpretation in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where vector interpretation is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where calculus reasoning is used without relevance to chapter context.",
+        "An example where Oscillations, Waves and Thermodynamics is memorised but not applied logically.",
+        "An example where electromagnetic application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"mechanics framework works without constraints.\"",
+      "correct_answer": "Mechanics Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Oscillations, Waves And Thermodynamics Framework removes the need for all constraints in every case.",
+        "Electromagnetic Application is always equivalent to mechanics framework, regardless of context.",
+        "Oscillations, Waves And Thermodynamics Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: thermodynamic consistency is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which mismatch is incorrect?",
+      "correct_answer": "Electromagnetic Application - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Oscillations, Waves And Thermodynamics Application - applied without confirming assumptions.",
+        "Oscillations, Waves And Thermodynamics Framework - interpreted against contradictory data.",
+        "Oscillations, Waves And Thermodynamics Inference - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when chemical equilibrium and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for Oscillations, Waves and Thermodynamics in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links Oscillations, Waves and Thermodynamics to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes vector interpretation without checking relevance.",
+        "An inference that cites Oscillations, Waves and Thermodynamics application but skips logical steps.",
+        "An inference that repeats algebraic modelling without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about Oscillations, Waves and Thermodynamics framework?",
+      "correct_answer": "Oscillations, Waves And Thermodynamics Framework is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Oscillations, Waves And Thermodynamics Inference can replace all chapter logic without assumptions.",
+        "Oscillations, Waves And Thermodynamics is valid only if core conditions are ignored.",
+        "Electromagnetic Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies Oscillations, Waves and Thermodynamics application in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Oscillations, Waves and Thermodynamics application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from algebraic modelling and skip checking constraints.",
+        "Use Oscillations, Waves and Thermodynamics as a shortcut and avoid interpretation.",
+        "Pick vector interpretation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of Oscillations, Waves and Thermodynamics inference in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where Oscillations, Waves and Thermodynamics inference is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Oscillations, Waves and Thermodynamics framework is used without relevance to chapter context.",
+        "An example where algebraic modelling is memorised but not applied logically.",
+        "An example where Oscillations, Waves and Thermodynamics is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"algebraic modelling works without constraints.\"",
+      "correct_answer": "Algebraic Modelling works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Vector Interpretation removes the need for all constraints in every case.",
+        "Chemical Equilibrium is always equivalent to algebraic modelling, regardless of context.",
+        "Calculus Reasoning is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: calculus reasoning is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when mechanics framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for thermodynamic consistency in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links thermodynamic consistency to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Oscillations, Waves and Thermodynamics without checking relevance.",
+        "An inference that cites Oscillations, Waves and Thermodynamics framework but skips logical steps.",
+        "An inference that repeats vector interpretation without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about electromagnetic application?",
+      "correct_answer": "Electromagnetic Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Chemical Equilibrium can replace all chapter logic without assumptions.",
+        "Vector Interpretation is valid only if core conditions are ignored.",
+        "Algebraic Modelling is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies chemical equilibrium in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply chemical equilibrium stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from vector interpretation and skip checking constraints.",
+        "Use mechanics framework as a shortcut and avoid interpretation.",
+        "Pick algebraic modelling by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of Oscillations, Waves and Thermodynamics in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where Oscillations, Waves and Thermodynamics is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where mechanics framework is used without relevance to chapter context.",
+        "An example where Oscillations, Waves and Thermodynamics application is memorised but not applied logically.",
+        "An example where chemical equilibrium is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"Oscillations, Waves and Thermodynamics framework works without constraints.\"",
+      "correct_answer": "Oscillations, Waves And Thermodynamics Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Algebraic Modelling removes the need for all constraints in every case.",
+        "Electromagnetic Application is always equivalent to Oscillations, Waves and Thermodynamics framework, regardless of context.",
+        "Calculus Reasoning is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: Oscillations, Waves and Thermodynamics application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when algebraic modelling and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for calculus reasoning in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links calculus reasoning to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Oscillations, Waves and Thermodynamics inference without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats mechanics framework without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about vector interpretation?",
+      "correct_answer": "Vector Interpretation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Chemical Equilibrium can replace all chapter logic without assumptions.",
+        "Oscillations, Waves And Thermodynamics is valid only if core conditions are ignored.",
+        "Algebraic Modelling is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies mechanics framework in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply mechanics framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from chemical equilibrium and skip checking constraints.",
+        "Use electromagnetic application as a shortcut and avoid interpretation.",
+        "Pick Oscillations, Waves and Thermodynamics application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of thermodynamic consistency in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where thermodynamic consistency is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where calculus reasoning is used without relevance to chapter context.",
+        "An example where electromagnetic application is memorised but not applied logically.",
+        "An example where vector interpretation is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"electromagnetic application works without constraints.\"",
+      "correct_answer": "Electromagnetic Application works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Thermodynamic Consistency removes the need for all constraints in every case.",
+        "Mechanics Framework is always equivalent to electromagnetic application, regardless of context.",
+        "Oscillations, Waves And Thermodynamics Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: chemical equilibrium is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when Oscillations, Waves and Thermodynamics framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for Oscillations, Waves and Thermodynamics application in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links Oscillations, Waves and Thermodynamics application to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes chemical equilibrium without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats Oscillations, Waves and Thermodynamics without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about Oscillations, Waves and Thermodynamics inference?",
+      "correct_answer": "Oscillations, Waves And Thermodynamics Inference is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Oscillations, Waves And Thermodynamics Framework can replace all chapter logic without assumptions.",
+        "Algebraic Modelling is valid only if core conditions are ignored.",
+        "Chemical Equilibrium is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies algebraic modelling in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply algebraic modelling stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from calculus reasoning and skip checking constraints.",
+        "Use thermodynamic consistency as a shortcut and avoid interpretation.",
+        "Pick Oscillations, Waves and Thermodynamics by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of calculus reasoning in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where calculus reasoning is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Oscillations, Waves and Thermodynamics inference is used without relevance to chapter context.",
+        "An example where Oscillations, Waves and Thermodynamics application is memorised but not applied logically.",
+        "An example where algebraic modelling is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"vector interpretation works without constraints.\"",
+      "correct_answer": "Vector Interpretation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Oscillations, Waves And Thermodynamics removes the need for all constraints in every case.",
+        "Chemical Equilibrium is always equivalent to vector interpretation, regardless of context.",
+        "Oscillations, Waves And Thermodynamics Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: mechanics framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when electromagnetic application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for chemical equilibrium in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links chemical equilibrium to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Oscillations, Waves and Thermodynamics application without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats Oscillations, Waves and Thermodynamics inference without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about Oscillations, Waves and Thermodynamics?",
+      "correct_answer": "Oscillations, Waves And Thermodynamics is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Calculus Reasoning can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Mechanics Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies Oscillations, Waves and Thermodynamics framework in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Oscillations, Waves and Thermodynamics framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from electromagnetic application and skip checking constraints.",
+        "Use thermodynamic consistency as a shortcut and avoid interpretation.",
+        "Pick vector interpretation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of Oscillations, Waves and Thermodynamics application in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where Oscillations, Waves and Thermodynamics application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where mechanics framework is used without relevance to chapter context.",
+        "An example where Oscillations, Waves and Thermodynamics is memorised but not applied logically.",
+        "An example where chemical equilibrium is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"Oscillations, Waves and Thermodynamics inference works without constraints.\"",
+      "correct_answer": "Oscillations, Waves And Thermodynamics Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Electromagnetic Application removes the need for all constraints in every case.",
+        "Vector Interpretation is always equivalent to Oscillations, Waves and Thermodynamics inference, regardless of context.",
+        "Mechanics Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: algebraic modelling is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when vector interpretation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for mechanics framework in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links mechanics framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Oscillations, Waves and Thermodynamics without checking relevance.",
+        "An inference that cites algebraic modelling but skips logical steps.",
+        "An inference that repeats vector interpretation without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about thermodynamic consistency?",
+      "correct_answer": "Thermodynamic Consistency is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Oscillations, Waves And Thermodynamics can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Oscillations, Waves And Thermodynamics Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies electromagnetic application in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply electromagnetic application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from calculus reasoning and skip checking constraints.",
+        "Use mechanics framework as a shortcut and avoid interpretation.",
+        "Pick vector interpretation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of chemical equilibrium in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where chemical equilibrium is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where vector interpretation is used without relevance to chapter context.",
+        "An example where electromagnetic application is memorised but not applied logically.",
+        "An example where algebraic modelling is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"Oscillations, Waves and Thermodynamics works without constraints.\"",
+      "correct_answer": "Oscillations, Waves And Thermodynamics works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Algebraic Modelling removes the need for all constraints in every case.",
+        "Chemical Equilibrium is always equivalent to Oscillations, Waves and Thermodynamics, regardless of context.",
+        "Electromagnetic Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: Oscillations, Waves and Thermodynamics framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when Oscillations, Waves and Thermodynamics inference and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for algebraic modelling in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links algebraic modelling to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes chemical equilibrium without checking relevance.",
+        "An inference that cites calculus reasoning but skips logical steps.",
+        "An inference that repeats thermodynamic consistency without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about calculus reasoning?",
+      "correct_answer": "Calculus Reasoning is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Mechanics Framework can replace all chapter logic without assumptions.",
+        "Oscillations, Waves And Thermodynamics Inference is valid only if core conditions are ignored.",
+        "Oscillations, Waves And Thermodynamics is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies vector interpretation in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply vector interpretation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from electromagnetic application and skip checking constraints.",
+        "Use mechanics framework as a shortcut and avoid interpretation.",
+        "Pick thermodynamic consistency by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of mechanics framework in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where mechanics framework is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Oscillations, Waves and Thermodynamics framework is used without relevance to chapter context.",
+        "An example where algebraic modelling is memorised but not applied logically.",
+        "An example where thermodynamic consistency is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"thermodynamic consistency works without constraints.\"",
+      "correct_answer": "Thermodynamic Consistency works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Oscillations, Waves And Thermodynamics Framework removes the need for all constraints in every case.",
+        "Oscillations, Waves And Thermodynamics Application is always equivalent to thermodynamic consistency, regardless of context.",
+        "Calculus Reasoning is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: electromagnetic application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when Oscillations, Waves and Thermodynamics and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for Oscillations, Waves and Thermodynamics framework in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links Oscillations, Waves and Thermodynamics framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes thermodynamic consistency without checking relevance.",
+        "An inference that cites Oscillations, Waves and Thermodynamics inference but skips logical steps.",
+        "An inference that repeats algebraic modelling without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about Oscillations, Waves and Thermodynamics application?",
+      "correct_answer": "Oscillations, Waves And Thermodynamics Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Thermodynamic Consistency can replace all chapter logic without assumptions.",
+        "Mechanics Framework is valid only if core conditions are ignored.",
+        "Oscillations, Waves And Thermodynamics is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies Oscillations, Waves and Thermodynamics inference in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Oscillations, Waves and Thermodynamics inference stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from algebraic modelling and skip checking constraints.",
+        "Use chemical equilibrium as a shortcut and avoid interpretation.",
+        "Pick calculus reasoning by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of algebraic modelling in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where algebraic modelling is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Oscillations, Waves and Thermodynamics inference is used without relevance to chapter context.",
+        "An example where vector interpretation is memorised but not applied logically.",
+        "An example where chemical equilibrium is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"calculus reasoning works without constraints.\"",
+      "correct_answer": "Calculus Reasoning works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Electromagnetic Application removes the need for all constraints in every case.",
+        "Thermodynamic Consistency is always equivalent to calculus reasoning, regardless of context.",
+        "Oscillations, Waves And Thermodynamics Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: vector interpretation is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when thermodynamic consistency and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for electromagnetic application in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links electromagnetic application to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes chemical equilibrium without checking relevance.",
+        "An inference that cites calculus reasoning but skips logical steps.",
+        "An inference that repeats algebraic modelling without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about chemical equilibrium?",
+      "correct_answer": "Chemical Equilibrium is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Algebraic Modelling can replace all chapter logic without assumptions.",
+        "Electromagnetic Application is valid only if core conditions are ignored.",
+        "Thermodynamic Consistency is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies Oscillations, Waves and Thermodynamics in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Oscillations, Waves and Thermodynamics stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Oscillations, Waves and Thermodynamics application and skip checking constraints.",
+        "Use Oscillations, Waves and Thermodynamics inference as a shortcut and avoid interpretation.",
+        "Pick calculus reasoning by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of Oscillations, Waves and Thermodynamics framework in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where Oscillations, Waves and Thermodynamics framework is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Oscillations, Waves and Thermodynamics application is used without relevance to chapter context.",
+        "An example where calculus reasoning is memorised but not applied logically.",
+        "An example where thermodynamic consistency is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"Oscillations, Waves and Thermodynamics application works without constraints.\"",
+      "correct_answer": "Oscillations, Waves And Thermodynamics Application works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Electromagnetic Application removes the need for all constraints in every case.",
+        "Calculus Reasoning is always equivalent to Oscillations, Waves and Thermodynamics application, regardless of context.",
+        "Oscillations, Waves And Thermodynamics Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: Oscillations, Waves and Thermodynamics inference is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when calculus reasoning and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for vector interpretation in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links vector interpretation to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Oscillations, Waves and Thermodynamics inference without checking relevance.",
+        "An inference that cites thermodynamic consistency but skips logical steps.",
+        "An inference that repeats chemical equilibrium without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which statement is most accurate about mechanics framework?",
+      "correct_answer": "Mechanics Framework is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Vector Interpretation can replace all chapter logic without assumptions.",
+        "Calculus Reasoning is valid only if core conditions are ignored.",
+        "Chemical Equilibrium is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "A learner applies thermodynamic consistency in a new problem from \"Oscillations, Waves and Thermodynamics\". What is the best first step?",
+      "correct_answer": "Define conditions, apply thermodynamic consistency stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from mechanics framework and skip checking constraints.",
+        "Use calculus reasoning as a shortcut and avoid interpretation.",
+        "Pick Oscillations, Waves and Thermodynamics framework by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which option shows a valid example of electromagnetic application in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "An example where electromagnetic application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Oscillations, Waves and Thermodynamics is used without relevance to chapter context.",
+        "An example where chemical equilibrium is memorised but not applied logically.",
+        "An example where vector interpretation is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Choose the most defensible correction for this claim in \"Oscillations, Waves and Thermodynamics\": \"chemical equilibrium works without constraints.\"",
+      "correct_answer": "Chemical Equilibrium works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mechanics Framework removes the need for all constraints in every case.",
+        "Oscillations, Waves And Thermodynamics Application is always equivalent to chemical equilibrium, regardless of context.",
+        "Electromagnetic Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Assertion-Reason in \"Oscillations, Waves and Thermodynamics\": Assertion: Oscillations, Waves and Thermodynamics is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which interpretation is strongest when Oscillations, Waves and Thermodynamics application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "Which inference is most rigorous for Oscillations, Waves and Thermodynamics inference in \"Oscillations, Waves and Thermodynamics\"?",
+      "correct_answer": "The inference that links Oscillations, Waves and Thermodynamics inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes vector interpretation without checking relevance.",
+        "An inference that cites algebraic modelling but skips logical steps.",
+        "An inference that repeats mechanics framework without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies calculus reasoning using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply calculus reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies vector interpretation using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply vector interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies mechanics framework using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply mechanics framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies thermodynamic consistency using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply thermodynamic consistency stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies electromagnetic application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply electromagnetic application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies chemical equilibrium using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply chemical equilibrium stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies Oscillations, Waves and Thermodynamics using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply Oscillations, Waves and Thermodynamics stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies Oscillations, Waves and Thermodynamics framework using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply Oscillations, Waves and Thermodynamics framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies Oscillations, Waves and Thermodynamics application using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply Oscillations, Waves and Thermodynamics application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies Oscillations, Waves and Thermodynamics inference using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply Oscillations, Waves and Thermodynamics inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies algebraic modelling using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply algebraic modelling stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies calculus reasoning using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply calculus reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies vector interpretation using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply vector interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies mechanics framework using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply mechanics framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies thermodynamic consistency using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply thermodynamic consistency stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies electromagnetic application using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply electromagnetic application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies chemical equilibrium using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply chemical equilibrium stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies Oscillations, Waves and Thermodynamics using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Oscillations, Waves and Thermodynamics stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies Oscillations, Waves and Thermodynamics framework using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply Oscillations, Waves and Thermodynamics framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies Oscillations, Waves and Thermodynamics application using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply Oscillations, Waves and Thermodynamics application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies Oscillations, Waves and Thermodynamics inference using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply Oscillations, Waves and Thermodynamics inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Oscillations, Waves and Thermodynamics",
+      "question": "In \"Oscillations, Waves and Thermodynamics\", which response applies algebraic modelling using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply algebraic modelling stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

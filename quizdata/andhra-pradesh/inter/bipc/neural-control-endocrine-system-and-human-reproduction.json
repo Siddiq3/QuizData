@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which statement is most accurate about nervous coordination?",
+      "correct_answer": "Nervous Coordination is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Correction Lenses can replace all chapter logic without assumptions.",
+        "Eye Defects is valid only if core conditions are ignored.",
+        "Cellular Process is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "A learner applies hormonal control in a new problem from \"Neural Control, Endocrine System and Human Reproduction\". What is the best first step?",
+      "correct_answer": "Define conditions, apply hormonal control stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from eye defects and skip checking constraints.",
+        "Use genetic inheritance as a shortcut and avoid interpretation.",
+        "Pick physiological regulation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which option shows a valid example of reflex action in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "An example where reflex action is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where nervous coordination is used without relevance to chapter context.",
+        "An example where physiological regulation is memorised but not applied logically.",
+        "An example where biochemical pathway is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Choose the most defensible correction for this claim in \"Neural Control, Endocrine System and Human Reproduction\": \"plant hormones works without constraints.\"",
+      "correct_answer": "Plant Hormones works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Reflex Action removes the need for all constraints in every case.",
+        "Biochemical Pathway is always equivalent to plant hormones, regardless of context.",
+        "Neural Control, Endocrine System And Human Reproduction Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Assertion-Reason in \"Neural Control, Endocrine System and Human Reproduction\": Assertion: eye defects is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which mismatch is incorrect?",
+      "correct_answer": "Colour Perception - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Hormonal Control - applied without confirming assumptions.",
+        "Plant Hormones - interpreted against contradictory data.",
+        "Neural Control, Endocrine System And Human Reproduction Framework - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which interpretation is strongest when accommodation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which inference is most rigorous for correction lenses in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "The inference that links correction lenses to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes biochemical pathway without checking relevance.",
+        "An inference that cites reflex action but skips logical steps.",
+        "An inference that repeats Neural Control, Endocrine System and Human Reproduction without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which statement is most accurate about cellular process?",
+      "correct_answer": "Cellular Process is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Colour Perception can replace all chapter logic without assumptions.",
+        "Nervous Coordination is valid only if core conditions are ignored.",
+        "Organic Reaction Logic is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "A learner applies physiological regulation in a new problem from \"Neural Control, Endocrine System and Human Reproduction\". What is the best first step?",
+      "correct_answer": "Define conditions, apply physiological regulation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from reflex action and skip checking constraints.",
+        "Use cellular process as a shortcut and avoid interpretation.",
+        "Pick accommodation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which option shows a valid example of genetic inheritance in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "An example where genetic inheritance is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where physiological regulation is used without relevance to chapter context.",
+        "An example where organic reaction logic is memorised but not applied logically.",
+        "An example where ecological balance is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Choose the most defensible correction for this claim in \"Neural Control, Endocrine System and Human Reproduction\": \"ecological balance works without constraints.\"",
+      "correct_answer": "Ecological Balance works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Neural Control, Endocrine System And Human Reproduction Application removes the need for all constraints in every case.",
+        "Cellular Process is always equivalent to ecological balance, regardless of context.",
+        "Correction Lenses is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Assertion-Reason in \"Neural Control, Endocrine System and Human Reproduction\": Assertion: biochemical pathway is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which interpretation is strongest when Neural Control, Endocrine System and Human Reproduction and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which inference is most rigorous for Neural Control, Endocrine System and Human Reproduction framework in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "The inference that links Neural Control, Endocrine System and Human Reproduction framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes organic reaction logic without checking relevance.",
+        "An inference that cites accommodation but skips logical steps.",
+        "An inference that repeats plant hormones without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which statement is most accurate about Neural Control, Endocrine System and Human Reproduction application?",
+      "correct_answer": "Neural Control, Endocrine System And Human Reproduction Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Neural Control, Endocrine System And Human Reproduction can replace all chapter logic without assumptions.",
+        "Ecological Balance is valid only if core conditions are ignored.",
+        "Biochemical Pathway is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "A learner applies Neural Control, Endocrine System and Human Reproduction inference in a new problem from \"Neural Control, Endocrine System and Human Reproduction\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Neural Control, Endocrine System and Human Reproduction inference stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from ecological balance and skip checking constraints.",
+        "Use correction lenses as a shortcut and avoid interpretation.",
+        "Pick organic reaction logic by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which option shows a valid example of nervous coordination in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "An example where nervous coordination is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where eye defects is used without relevance to chapter context.",
+        "An example where organic reaction logic is memorised but not applied logically.",
+        "An example where biochemical pathway is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Choose the most defensible correction for this claim in \"Neural Control, Endocrine System and Human Reproduction\": \"hormonal control works without constraints.\"",
+      "correct_answer": "Hormonal Control works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Physiological Regulation removes the need for all constraints in every case.",
+        "Plant Hormones is always equivalent to hormonal control, regardless of context.",
+        "Organic Reaction Logic is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Assertion-Reason in \"Neural Control, Endocrine System and Human Reproduction\": Assertion: reflex action is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which interpretation is strongest when eye defects and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which inference is most rigorous for colour perception in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "The inference that links colour perception to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes correction lenses without checking relevance.",
+        "An inference that cites nervous coordination but skips logical steps.",
+        "An inference that repeats hormonal control without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which statement is most accurate about accommodation?",
+      "correct_answer": "Accommodation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Hormonal Control can replace all chapter logic without assumptions.",
+        "Neural Control, Endocrine System And Human Reproduction is valid only if core conditions are ignored.",
+        "Correction Lenses is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "A learner applies correction lenses in a new problem from \"Neural Control, Endocrine System and Human Reproduction\". What is the best first step?",
+      "correct_answer": "Define conditions, apply correction lenses stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from organic reaction logic and skip checking constraints.",
+        "Use ecological balance as a shortcut and avoid interpretation.",
+        "Pick accommodation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which option shows a valid example of cellular process in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "An example where cellular process is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where physiological regulation is used without relevance to chapter context.",
+        "An example where Neural Control, Endocrine System and Human Reproduction framework is memorised but not applied logically.",
+        "An example where plant hormones is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Choose the most defensible correction for this claim in \"Neural Control, Endocrine System and Human Reproduction\": \"physiological regulation works without constraints.\"",
+      "correct_answer": "Physiological Regulation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Neural Control, Endocrine System And Human Reproduction Application removes the need for all constraints in every case.",
+        "Reflex Action is always equivalent to physiological regulation, regardless of context.",
+        "Accommodation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Assertion-Reason in \"Neural Control, Endocrine System and Human Reproduction\": Assertion: genetic inheritance is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which interpretation is strongest when biochemical pathway and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which inference is most rigorous for organic reaction logic in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "The inference that links organic reaction logic to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes accommodation without checking relevance.",
+        "An inference that cites physiological regulation but skips logical steps.",
+        "An inference that repeats plant hormones without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which statement is most accurate about Neural Control, Endocrine System and Human Reproduction?",
+      "correct_answer": "Neural Control, Endocrine System And Human Reproduction is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Nervous Coordination can replace all chapter logic without assumptions.",
+        "Biochemical Pathway is valid only if core conditions are ignored.",
+        "Hormonal Control is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "A learner applies Neural Control, Endocrine System and Human Reproduction framework in a new problem from \"Neural Control, Endocrine System and Human Reproduction\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Neural Control, Endocrine System and Human Reproduction framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Neural Control, Endocrine System and Human Reproduction and skip checking constraints.",
+        "Use colour perception as a shortcut and avoid interpretation.",
+        "Pick Neural Control, Endocrine System and Human Reproduction application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which option shows a valid example of Neural Control, Endocrine System and Human Reproduction application in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "An example where Neural Control, Endocrine System and Human Reproduction application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where organic reaction logic is used without relevance to chapter context.",
+        "An example where plant hormones is memorised but not applied logically.",
+        "An example where cellular process is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Choose the most defensible correction for this claim in \"Neural Control, Endocrine System and Human Reproduction\": \"Neural Control, Endocrine System and Human Reproduction inference works without constraints.\"",
+      "correct_answer": "Neural Control, Endocrine System And Human Reproduction Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Colour Perception removes the need for all constraints in every case.",
+        "Physiological Regulation is always equivalent to Neural Control, Endocrine System and Human Reproduction inference, regardless of context.",
+        "Plant Hormones is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Assertion-Reason in \"Neural Control, Endocrine System and Human Reproduction\": Assertion: nervous coordination is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which interpretation is strongest when reflex action and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which inference is most rigorous for plant hormones in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "The inference that links plant hormones to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes cellular process without checking relevance.",
+        "An inference that cites genetic inheritance but skips logical steps.",
+        "An inference that repeats accommodation without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which statement is most accurate about eye defects?",
+      "correct_answer": "Eye Defects is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Physiological Regulation can replace all chapter logic without assumptions.",
+        "Biochemical Pathway is valid only if core conditions are ignored.",
+        "Reflex Action is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "A learner applies colour perception in a new problem from \"Neural Control, Endocrine System and Human Reproduction\". What is the best first step?",
+      "correct_answer": "Define conditions, apply colour perception stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from reflex action and skip checking constraints.",
+        "Use Neural Control, Endocrine System and Human Reproduction as a shortcut and avoid interpretation.",
+        "Pick Neural Control, Endocrine System and Human Reproduction framework by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which option shows a valid example of accommodation in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "An example where accommodation is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where physiological regulation is used without relevance to chapter context.",
+        "An example where plant hormones is memorised but not applied logically.",
+        "An example where colour perception is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Choose the most defensible correction for this claim in \"Neural Control, Endocrine System and Human Reproduction\": \"correction lenses works without constraints.\"",
+      "correct_answer": "Correction Lenses works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Cellular Process removes the need for all constraints in every case.",
+        "Hormonal Control is always equivalent to correction lenses, regardless of context.",
+        "Neural Control, Endocrine System And Human Reproduction Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Assertion-Reason in \"Neural Control, Endocrine System and Human Reproduction\": Assertion: cellular process is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which interpretation is strongest when genetic inheritance and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which inference is most rigorous for ecological balance in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "The inference that links ecological balance to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes organic reaction logic without checking relevance.",
+        "An inference that cites accommodation but skips logical steps.",
+        "An inference that repeats colour perception without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which statement is most accurate about biochemical pathway?",
+      "correct_answer": "Biochemical Pathway is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Organic Reaction Logic can replace all chapter logic without assumptions.",
+        "Accommodation is valid only if core conditions are ignored.",
+        "Reflex Action is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "A learner applies organic reaction logic in a new problem from \"Neural Control, Endocrine System and Human Reproduction\". What is the best first step?",
+      "correct_answer": "Define conditions, apply organic reaction logic stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from physiological regulation and skip checking constraints.",
+        "Use Neural Control, Endocrine System and Human Reproduction as a shortcut and avoid interpretation.",
+        "Pick eye defects by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which option shows a valid example of Neural Control, Endocrine System and Human Reproduction in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "An example where Neural Control, Endocrine System and Human Reproduction is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where colour perception is used without relevance to chapter context.",
+        "An example where nervous coordination is memorised but not applied logically.",
+        "An example where eye defects is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Choose the most defensible correction for this claim in \"Neural Control, Endocrine System and Human Reproduction\": \"Neural Control, Endocrine System and Human Reproduction framework works without constraints.\"",
+      "correct_answer": "Neural Control, Endocrine System And Human Reproduction Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Eye Defects removes the need for all constraints in every case.",
+        "Correction Lenses is always equivalent to Neural Control, Endocrine System and Human Reproduction framework, regardless of context.",
+        "Colour Perception is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Assertion-Reason in \"Neural Control, Endocrine System and Human Reproduction\": Assertion: Neural Control, Endocrine System and Human Reproduction application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which interpretation is strongest when nervous coordination and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which inference is most rigorous for hormonal control in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "The inference that links hormonal control to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes biochemical pathway without checking relevance.",
+        "An inference that cites nervous coordination but skips logical steps.",
+        "An inference that repeats colour perception without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which statement is most accurate about reflex action?",
+      "correct_answer": "Reflex Action is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Accommodation can replace all chapter logic without assumptions.",
+        "Hormonal Control is valid only if core conditions are ignored.",
+        "Plant Hormones is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "A learner applies plant hormones in a new problem from \"Neural Control, Endocrine System and Human Reproduction\". What is the best first step?",
+      "correct_answer": "Define conditions, apply plant hormones stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Neural Control, Endocrine System and Human Reproduction application and skip checking constraints.",
+        "Use accommodation as a shortcut and avoid interpretation.",
+        "Pick eye defects by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which option shows a valid example of eye defects in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "An example where eye defects is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where colour perception is used without relevance to chapter context.",
+        "An example where Neural Control, Endocrine System and Human Reproduction application is memorised but not applied logically.",
+        "An example where accommodation is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Choose the most defensible correction for this claim in \"Neural Control, Endocrine System and Human Reproduction\": \"colour perception works without constraints.\"",
+      "correct_answer": "Colour Perception works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Nervous Coordination removes the need for all constraints in every case.",
+        "Biochemical Pathway is always equivalent to colour perception, regardless of context.",
+        "Organic Reaction Logic is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Assertion-Reason in \"Neural Control, Endocrine System and Human Reproduction\": Assertion: accommodation is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which interpretation is strongest when cellular process and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which inference is most rigorous for physiological regulation in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "The inference that links physiological regulation to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Neural Control, Endocrine System and Human Reproduction without checking relevance.",
+        "An inference that cites cellular process but skips logical steps.",
+        "An inference that repeats nervous coordination without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which statement is most accurate about genetic inheritance?",
+      "correct_answer": "Genetic Inheritance is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Neural Control, Endocrine System And Human Reproduction Application can replace all chapter logic without assumptions.",
+        "Biochemical Pathway is valid only if core conditions are ignored.",
+        "Colour Perception is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "A learner applies ecological balance in a new problem from \"Neural Control, Endocrine System and Human Reproduction\". What is the best first step?",
+      "correct_answer": "Define conditions, apply ecological balance stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from eye defects and skip checking constraints.",
+        "Use plant hormones as a shortcut and avoid interpretation.",
+        "Pick physiological regulation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which option shows a valid example of biochemical pathway in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "An example where biochemical pathway is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where colour perception is used without relevance to chapter context.",
+        "An example where Neural Control, Endocrine System and Human Reproduction is memorised but not applied logically.",
+        "An example where plant hormones is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Choose the most defensible correction for this claim in \"Neural Control, Endocrine System and Human Reproduction\": \"organic reaction logic works without constraints.\"",
+      "correct_answer": "Organic Reaction Logic works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Neural Control, Endocrine System And Human Reproduction Application removes the need for all constraints in every case.",
+        "Neural Control, Endocrine System And Human Reproduction Framework is always equivalent to organic reaction logic, regardless of context.",
+        "Physiological Regulation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Assertion-Reason in \"Neural Control, Endocrine System and Human Reproduction\": Assertion: Neural Control, Endocrine System and Human Reproduction is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which interpretation is strongest when Neural Control, Endocrine System and Human Reproduction application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "Which inference is most rigorous for Neural Control, Endocrine System and Human Reproduction inference in \"Neural Control, Endocrine System and Human Reproduction\"?",
+      "correct_answer": "The inference that links Neural Control, Endocrine System and Human Reproduction inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes physiological regulation without checking relevance.",
+        "An inference that cites ecological balance but skips logical steps.",
+        "An inference that repeats colour perception without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies Neural Control, Endocrine System and Human Reproduction using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Neural Control, Endocrine System and Human Reproduction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies Neural Control, Endocrine System and Human Reproduction framework using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Neural Control, Endocrine System and Human Reproduction framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies Neural Control, Endocrine System and Human Reproduction application using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply Neural Control, Endocrine System and Human Reproduction application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies Neural Control, Endocrine System and Human Reproduction inference using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply Neural Control, Endocrine System and Human Reproduction inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies nervous coordination using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply nervous coordination stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies hormonal control using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply hormonal control stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies reflex action using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply reflex action stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies plant hormones using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply plant hormones stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies eye defects using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply eye defects stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies colour perception using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply colour perception stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies accommodation using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply accommodation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies correction lenses using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply correction lenses stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies Neural Control, Endocrine System and Human Reproduction using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply Neural Control, Endocrine System and Human Reproduction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies Neural Control, Endocrine System and Human Reproduction framework using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply Neural Control, Endocrine System and Human Reproduction framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies Neural Control, Endocrine System and Human Reproduction application using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply Neural Control, Endocrine System and Human Reproduction application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies Neural Control, Endocrine System and Human Reproduction inference using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply Neural Control, Endocrine System and Human Reproduction inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies nervous coordination using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply nervous coordination stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies hormonal control using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply hormonal control stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies reflex action using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply reflex action stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies plant hormones using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply plant hormones stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies eye defects using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply eye defects stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies colour perception using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply colour perception stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies accommodation using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply accommodation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies correction lenses using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply correction lenses stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Neural Control, Endocrine System and Human Reproduction",
+      "question": "In \"Neural Control, Endocrine System and Human Reproduction\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

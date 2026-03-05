@@ -4,82 +4,274 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Find mean of data [3, 5, 7, 9, 11].",
+      "question": "Find mean of data [10, 12, 11, 7, 6].",
+      "correct_answer": "9.2",
+      "incorrect_answers": [
+        "9.6",
+        "8.8",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [11, 19, 19, 9, 9].",
+      "correct_answer": "13.4",
+      "incorrect_answers": [
+        "13.8",
+        "13",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [14, 10, 15, 17, 7].",
+      "correct_answer": "12.6",
+      "incorrect_answers": [
+        "13",
+        "12.2",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [19, 20, 5, 16, 2].",
+      "correct_answer": "12.4",
+      "incorrect_answers": [
+        "12.8",
+        "12",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [2, 2, 7, 16, 14].",
+      "correct_answer": "8.2",
+      "incorrect_answers": [
+        "8.6",
+        "7.8",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [12, 1, 3, 16, 3].",
       "correct_answer": "7",
       "incorrect_answers": [
-        "8",
-        "6",
-        "35"
+        "7.4",
+        "6.6",
+        "16"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Find median of data [2, 4, 6, 8, 10].",
-      "correct_answer": "6",
+      "question": "Find mean of data [9, 3, 11, 4, 14].",
+      "correct_answer": "8.2",
       "incorrect_answers": [
-        "4",
-        "8",
-        "None of these"
+        "8.6",
+        "7.8",
+        "14"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Find median of data [3, 5, 7, 9].",
-      "correct_answer": "6",
+      "question": "Find mean of data [8, 1, 14, 20, 13].",
+      "correct_answer": "11.2",
       "incorrect_answers": [
-        "5",
-        "7",
-        "None of these"
+        "11.6",
+        "10.8",
+        "20"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Find mode of data [1, 2, 2, 3, 2, 4].",
-      "correct_answer": "2",
+      "question": "Find mean of data [7, 15, 14, 1, 20].",
+      "correct_answer": "11.4",
       "incorrect_answers": [
-        "1",
-        "3",
-        "4"
+        "11.8",
+        "11",
+        "20"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "For x=[1, 2, 3, 4] with frequencies [2, 3, 4, 5], mean is:",
-      "correct_answer": "2.86",
+      "question": "Find mean of data [18, 17, 15, 3, 11].",
+      "correct_answer": "12.8",
       "incorrect_answers": [
-        "40",
-        "2.67",
-        "3.08"
+        "13.2",
+        "12.4",
+        "18"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "If mean of [2, 4, x, 8, 10] is 6, find x.",
-      "correct_answer": "6",
+      "question": "Find mean of data [5, 11, 13, 7, 17].",
+      "correct_answer": "10.6",
       "incorrect_answers": [
-        "7",
-        "5",
-        "None of these"
+        "11",
+        "10.2",
+        "17"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Find range of data [4, 10, 6, 13, 8].",
+      "question": "Find mean of data [6, 20, 8, 11, 13].",
+      "correct_answer": "11.6",
+      "incorrect_answers": [
+        "12",
+        "11.2",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [20, 3, 6, 11, 13].",
+      "correct_answer": "10.6",
+      "incorrect_answers": [
+        "11",
+        "10.2",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [3, 7, 8, 19, 8].",
       "correct_answer": "9",
       "incorrect_answers": [
-        "10",
+        "9.4",
+        "8.6",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 15, 9, 9, 17].",
+      "correct_answer": "11.4",
+      "incorrect_answers": [
+        "11.8",
+        "11",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [4, 13, 4, 2, 14].",
+      "correct_answer": "7.4",
+      "incorrect_answers": [
+        "7.8",
+        "7",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [20, 10, 16, 20, 13].",
+      "correct_answer": "15.8",
+      "incorrect_answers": [
+        "16.2",
+        "15.4",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [10, 7, 5, 19, 12].",
+      "correct_answer": "10.6",
+      "incorrect_answers": [
+        "11",
+        "10.2",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [3, 1, 1, 3, 19].",
+      "correct_answer": "5.4",
+      "incorrect_answers": [
+        "5.8",
+        "5",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [6, 9, 1, 10, 6].",
+      "correct_answer": "6.4",
+      "incorrect_answers": [
+        "6.8",
+        "6",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [11, 13, 10, 14, 13].",
+      "correct_answer": "12.2",
+      "incorrect_answers": [
+        "12.6",
+        "11.8",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [13, 20, 14, 13, 8].",
+      "correct_answer": "13.6",
+      "incorrect_answers": [
+        "14",
+        "13.2",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [10, 9, 13, 3, 7].",
+      "correct_answer": "8.4",
+      "incorrect_answers": [
+        "8.8",
         "8",
         "13"
       ]
@@ -88,359 +280,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Class mark of class interval 10-20 is:",
-      "correct_answer": "15",
+      "question": "Find mean of data [8, 6, 16, 16, 10].",
+      "correct_answer": "11.2",
       "incorrect_answers": [
-        "10",
-        "20",
-        "5"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [3, 6, 4, 2], modal class is:",
-      "correct_answer": "10-20",
-      "incorrect_answers": [
-        "20-30",
-        "30-40",
-        "0-10"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For frequencies [3, 6, 4, 2], cumulative frequency of the last class is:",
-      "correct_answer": "15",
-      "incorrect_answers": [
-        "13",
-        "6",
-        "14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find mean of data [4, 6, 8, 10, 12].",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "9",
-        "7",
-        "40"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find median of data [3, 5, 7, 9, 11].",
-      "correct_answer": "7",
-      "incorrect_answers": [
-        "5",
-        "9",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find median of data [4, 6, 8, 10].",
-      "correct_answer": "7",
-      "incorrect_answers": [
-        "6",
-        "8",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find mode of data [2, 3, 3, 4, 3, 5].",
-      "correct_answer": "3",
-      "incorrect_answers": [
-        "2",
-        "4",
-        "5"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For x=[1, 2, 3, 4] with frequencies [3, 4, 5, 6], mean is:",
-      "correct_answer": "2.78",
-      "incorrect_answers": [
-        "50",
-        "2.63",
-        "2.94"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "If mean of [2, 4, x, 8, 10] is 6.2, find x.",
-      "correct_answer": "7",
-      "incorrect_answers": [
-        "8",
-        "6",
-        "6.2"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find range of data [5, 11, 7, 14, 9].",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "10",
-        "8",
-        "14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Class mark of class interval 20-30 is:",
-      "correct_answer": "25",
-      "incorrect_answers": [
-        "20",
-        "30",
-        "5"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [4, 7, 5, 3], modal class is:",
-      "correct_answer": "10-20",
-      "incorrect_answers": [
-        "20-30",
-        "30-40",
-        "0-10"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For frequencies [4, 7, 5, 3], cumulative frequency of the last class is:",
-      "correct_answer": "19",
-      "incorrect_answers": [
-        "16",
-        "7",
-        "18"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find mean of data [5, 7, 9, 11, 13].",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "10",
-        "8",
-        "45"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find median of data [4, 6, 8, 10, 12].",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "6",
-        "10",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find median of data [5, 7, 9, 11].",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "7",
-        "9",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find mode of data [3, 4, 4, 5, 4, 6].",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "3",
-        "5",
-        "6"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For x=[1, 2, 3, 4] with frequencies [4, 5, 6, 7], mean is:",
-      "correct_answer": "2.73",
-      "incorrect_answers": [
-        "60",
-        "2.61",
-        "2.86"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "If mean of [2, 4, x, 8, 10] is 6.4, find x.",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "9",
-        "7",
-        "6.4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find range of data [6, 12, 8, 15, 10].",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "10",
-        "8",
-        "15"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Class mark of class interval 30-40 is:",
-      "correct_answer": "35",
-      "incorrect_answers": [
-        "30",
-        "40",
-        "5"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [5, 8, 6, 4], modal class is:",
-      "correct_answer": "10-20",
-      "incorrect_answers": [
-        "20-30",
-        "30-40",
-        "0-10"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For frequencies [5, 8, 6, 4], cumulative frequency of the last class is:",
-      "correct_answer": "23",
-      "incorrect_answers": [
-        "19",
-        "8",
-        "22"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find mean of data [6, 8, 10, 12, 14].",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "11",
-        "9",
-        "50"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find median of data [5, 7, 9, 11, 13].",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "7",
-        "11",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find median of data [6, 8, 10, 12].",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "8",
-        "10",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find mode of data [4, 5, 5, 6, 5, 7].",
-      "correct_answer": "5",
-      "incorrect_answers": [
-        "4",
-        "6",
-        "7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For x=[1, 2, 3, 4] with frequencies [5, 6, 7, 8], mean is:",
-      "correct_answer": "2.69",
-      "incorrect_answers": [
-        "70",
-        "2.59",
-        "2.8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "If mean of [2, 4, x, 8, 10] is 6.6, find x.",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "10",
-        "8",
-        "6.6"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find range of data [7, 13, 9, 16, 11].",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "10",
-        "8",
+        "11.6",
+        "10.8",
         "16"
       ]
     },
@@ -448,119 +292,179 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Class mark of class interval 40-50 is:",
-      "correct_answer": "45",
+      "question": "Find mean of data [1, 20, 15, 5, 2].",
+      "correct_answer": "8.6",
       "incorrect_answers": [
-        "40",
-        "50",
-        "5"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [6, 9, 7, 5], modal class is:",
-      "correct_answer": "10-20",
-      "incorrect_answers": [
-        "20-30",
-        "30-40",
-        "0-10"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For frequencies [6, 9, 7, 5], cumulative frequency of the last class is:",
-      "correct_answer": "27",
-      "incorrect_answers": [
-        "22",
         "9",
-        "26"
+        "8.2",
+        "20"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Find mean of data [7, 9, 11, 13, 15].",
-      "correct_answer": "11",
+      "question": "Find mean of data [15, 9, 9, 19, 14].",
+      "correct_answer": "13.2",
       "incorrect_answers": [
-        "12",
+        "13.6",
+        "12.8",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [12, 20, 10, 6, 11].",
+      "correct_answer": "11.8",
+      "incorrect_answers": [
+        "12.2",
+        "11.4",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [11, 13, 15, 10, 3].",
+      "correct_answer": "10.4",
+      "incorrect_answers": [
+        "10.8",
         "10",
-        "55"
+        "15"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Find median of data [6, 8, 10, 12, 14].",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "8",
-        "12",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find median of data [7, 9, 11, 13].",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "9",
-        "11",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find mode of data [5, 6, 6, 7, 6, 8].",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "5",
-        "7",
-        "8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "For x=[1, 2, 3, 4] with frequencies [6, 7, 8, 9], mean is:",
-      "correct_answer": "2.67",
-      "incorrect_answers": [
-        "80",
-        "2.58",
-        "2.76"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "If mean of [2, 4, x, 8, 10] is 6.8, find x.",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "11",
-        "9",
-        "6.8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Statistics",
-      "question": "Find range of data [8, 14, 10, 17, 12].",
-      "correct_answer": "9",
+      "question": "Find mean of data [4, 12, 20, 1, 11].",
+      "correct_answer": "9.6",
       "incorrect_answers": [
         "10",
-        "8",
+        "9.2",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [6, 9, 5, 20, 10].",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "10.4",
+        "9.6",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [17, 15, 11, 8, 20].",
+      "correct_answer": "14.2",
+      "incorrect_answers": [
+        "14.6",
+        "13.8",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [13, 16, 3, 16, 4].",
+      "correct_answer": "10.4",
+      "incorrect_answers": [
+        "10.8",
+        "10",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [14, 8, 14, 8, 7].",
+      "correct_answer": "10.2",
+      "incorrect_answers": [
+        "10.6",
+        "9.8",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [16, 6, 10, 2, 20].",
+      "correct_answer": "10.8",
+      "incorrect_answers": [
+        "11.2",
+        "10.4",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [18, 10, 11, 19, 10].",
+      "correct_answer": "13.6",
+      "incorrect_answers": [
+        "14",
+        "13.2",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [17, 7, 17, 20, 11].",
+      "correct_answer": "14.4",
+      "incorrect_answers": [
+        "14.8",
+        "14",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [19, 6, 6, 18, 12].",
+      "correct_answer": "12.2",
+      "incorrect_answers": [
+        "12.6",
+        "11.8",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 4, 9, 1, 3].",
+      "correct_answer": "4.8",
+      "incorrect_answers": [
+        "5.2",
+        "4.4",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [13, 8, 17, 10, 14].",
+      "correct_answer": "12.4",
+      "incorrect_answers": [
+        "12.8",
+        "12",
         "17"
       ]
     },
@@ -568,36 +472,732 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "Class mark of class interval 50-60 is:",
-      "correct_answer": "55",
+      "question": "Find mean of data [10, 14, 4, 15, 18].",
+      "correct_answer": "12.2",
       "incorrect_answers": [
-        "50",
-        "60",
-        "5"
+        "12.6",
+        "11.8",
+        "18"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "For class intervals ['0-10', '10-20', '20-30', '30-40'] with frequencies [7, 10, 8, 6], modal class is:",
-      "correct_answer": "10-20",
+      "question": "Find mean of data [20, 12, 8, 14, 7].",
+      "correct_answer": "12.2",
       "incorrect_answers": [
-        "20-30",
-        "30-40",
-        "0-10"
+        "12.6",
+        "11.8",
+        "20"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Statistics",
-      "question": "For frequencies [7, 10, 8, 6], cumulative frequency of the last class is:",
-      "correct_answer": "31",
+      "question": "Find mean of data [18, 8, 13, 14, 5].",
+      "correct_answer": "11.6",
       "incorrect_answers": [
-        "25",
+        "12",
+        "11.2",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [13, 14, 10, 14, 4].",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "11.4",
+        "10.6",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [9, 4, 7, 13, 5].",
+      "correct_answer": "7.6",
+      "incorrect_answers": [
+        "8",
+        "7.2",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [18, 2, 14, 16, 20].",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "14.4",
+        "13.6",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 11, 5, 14, 5].",
+      "correct_answer": "8.4",
+      "incorrect_answers": [
+        "8.8",
+        "8",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [9, 3, 20, 7, 5].",
+      "correct_answer": "8.8",
+      "incorrect_answers": [
+        "9.2",
+        "8.4",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [4, 20, 7, 5, 13].",
+      "correct_answer": "9.8",
+      "incorrect_answers": [
+        "10.2",
+        "9.4",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [1, 7, 3, 12, 6].",
+      "correct_answer": "5.8",
+      "incorrect_answers": [
+        "6.2",
+        "5.4",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [16, 4, 1, 1, 20].",
+      "correct_answer": "8.4",
+      "incorrect_answers": [
+        "8.8",
+        "8",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [1, 6, 4, 15, 18].",
+      "correct_answer": "8.8",
+      "incorrect_answers": [
+        "9.2",
+        "8.4",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [17, 2, 4, 7, 16].",
+      "correct_answer": "9.2",
+      "incorrect_answers": [
+        "9.6",
+        "8.8",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [9, 11, 19, 6, 2].",
+      "correct_answer": "9.4",
+      "incorrect_answers": [
+        "9.8",
+        "9",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [17, 18, 17, 18, 19].",
+      "correct_answer": "17.8",
+      "incorrect_answers": [
+        "18.2",
+        "17.4",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [1, 15, 5, 4, 18].",
+      "correct_answer": "8.6",
+      "incorrect_answers": [
+        "9",
+        "8.2",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [18, 20, 5, 11, 19].",
+      "correct_answer": "14.6",
+      "incorrect_answers": [
+        "15",
+        "14.2",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [4, 13, 17, 10, 6].",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "10.4",
+        "9.6",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [9, 15, 14, 2, 4].",
+      "correct_answer": "8.8",
+      "incorrect_answers": [
+        "9.2",
+        "8.4",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [8, 2, 7, 2, 13].",
+      "correct_answer": "6.4",
+      "incorrect_answers": [
+        "6.8",
+        "6",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [8, 8, 7, 3, 14].",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "8.4",
+        "7.6",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [4, 8, 12, 3, 1].",
+      "correct_answer": "5.6",
+      "incorrect_answers": [
+        "6",
+        "5.2",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [15, 12, 16, 6, 8].",
+      "correct_answer": "11.4",
+      "incorrect_answers": [
+        "11.8",
+        "11",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [4, 16, 18, 14, 17].",
+      "correct_answer": "13.8",
+      "incorrect_answers": [
+        "14.2",
+        "13.4",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [10, 19, 16, 4, 20].",
+      "correct_answer": "13.8",
+      "incorrect_answers": [
+        "14.2",
+        "13.4",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [10, 11, 3, 6, 7].",
+      "correct_answer": "7.4",
+      "incorrect_answers": [
+        "7.8",
+        "7",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [19, 20, 8, 6, 5].",
+      "correct_answer": "11.6",
+      "incorrect_answers": [
+        "12",
+        "11.2",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [4, 8, 15, 15, 12].",
+      "correct_answer": "10.8",
+      "incorrect_answers": [
+        "11.2",
+        "10.4",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [12, 16, 11, 6, 4].",
+      "correct_answer": "9.8",
+      "incorrect_answers": [
+        "10.2",
+        "9.4",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [5, 9, 9, 19, 6].",
+      "correct_answer": "9.6",
+      "incorrect_answers": [
         "10",
-        "30"
+        "9.2",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [4, 1, 9, 7, 5].",
+      "correct_answer": "5.2",
+      "incorrect_answers": [
+        "5.6",
+        "4.8",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [11, 13, 20, 8, 16].",
+      "correct_answer": "13.6",
+      "incorrect_answers": [
+        "14",
+        "13.2",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 19, 2, 8, 8].",
+      "correct_answer": "8.8",
+      "incorrect_answers": [
+        "9.2",
+        "8.4",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [11, 7, 5, 19, 14].",
+      "correct_answer": "11.2",
+      "incorrect_answers": [
+        "11.6",
+        "10.8",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [3, 3, 8, 11, 12].",
+      "correct_answer": "7.4",
+      "incorrect_answers": [
+        "7.8",
+        "7",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [20, 10, 11, 8, 2].",
+      "correct_answer": "10.2",
+      "incorrect_answers": [
+        "10.6",
+        "9.8",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [2, 18, 18, 8, 16].",
+      "correct_answer": "12.4",
+      "incorrect_answers": [
+        "12.8",
+        "12",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [5, 2, 10, 18, 12].",
+      "correct_answer": "9.4",
+      "incorrect_answers": [
+        "9.8",
+        "9",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [13, 14, 17, 13, 2].",
+      "correct_answer": "11.8",
+      "incorrect_answers": [
+        "12.2",
+        "11.4",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [12, 14, 9, 18, 2].",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "11.4",
+        "10.6",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [8, 20, 6, 20, 2].",
+      "correct_answer": "11.2",
+      "incorrect_answers": [
+        "11.6",
+        "10.8",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 13, 17, 4, 4].",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "9.4",
+        "8.6",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [2, 7, 10, 17, 11].",
+      "correct_answer": "9.4",
+      "incorrect_answers": [
+        "9.8",
+        "9",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 17, 7, 17, 4].",
+      "correct_answer": "10.4",
+      "incorrect_answers": [
+        "10.8",
+        "10",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [10, 17, 15, 12, 20].",
+      "correct_answer": "14.8",
+      "incorrect_answers": [
+        "15.2",
+        "14.4",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [1, 20, 10, 6, 7].",
+      "correct_answer": "8.8",
+      "incorrect_answers": [
+        "9.2",
+        "8.4",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [6, 20, 10, 14, 4].",
+      "correct_answer": "10.8",
+      "incorrect_answers": [
+        "11.2",
+        "10.4",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [12, 12, 9, 16, 2].",
+      "correct_answer": "10.2",
+      "incorrect_answers": [
+        "10.6",
+        "9.8",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [13, 1, 6, 9, 17].",
+      "correct_answer": "9.2",
+      "incorrect_answers": [
+        "9.6",
+        "8.8",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [10, 2, 7, 14, 8].",
+      "correct_answer": "8.2",
+      "incorrect_answers": [
+        "8.6",
+        "7.8",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [10, 16, 6, 4, 12].",
+      "correct_answer": "9.6",
+      "incorrect_answers": [
+        "10",
+        "9.2",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [6, 12, 15, 12, 5].",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "10.4",
+        "9.6",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [4, 2, 10, 11, 20].",
+      "correct_answer": "9.4",
+      "incorrect_answers": [
+        "9.8",
+        "9",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [8, 11, 12, 11, 11].",
+      "correct_answer": "10.6",
+      "incorrect_answers": [
+        "11",
+        "10.2",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [11, 6, 4, 16, 12].",
+      "correct_answer": "9.8",
+      "incorrect_answers": [
+        "10.2",
+        "9.4",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 14, 4, 13, 15].",
+      "correct_answer": "10.6",
+      "incorrect_answers": [
+        "11",
+        "10.2",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [3, 7, 8, 17, 15].",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "10.4",
+        "9.6",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [9, 12, 6, 11, 14].",
+      "correct_answer": "10.4",
+      "incorrect_answers": [
+        "10.8",
+        "10",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 13, 10, 16, 9].",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "11.4",
+        "10.6",
+        "16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [11, 17, 5, 16, 13].",
+      "correct_answer": "12.4",
+      "incorrect_answers": [
+        "12.8",
+        "12",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "question": "Find mean of data [7, 1, 10, 14, 5].",
+      "correct_answer": "7.4",
+      "incorrect_answers": [
+        "7.8",
+        "7",
+        "14"
       ]
     }
   ]

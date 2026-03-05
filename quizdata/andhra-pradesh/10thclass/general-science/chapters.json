@@ -1,0 +1,100 @@
+{
+  "results": [
+    {
+      "subject": "General Science",
+      "chapter": "Chemical Reactions and Equations",
+      "slug": "chemical-reactions-and-equations",
+      "file": "chemical-reactions-and-equations.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Acids Bases and Salts",
+      "slug": "acids-bases-and-salts",
+      "file": "acids-bases-and-salts.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Metals and Non Metals",
+      "slug": "metals-and-non-metals",
+      "file": "metals-and-non-metals.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Carbon and Its Compounds",
+      "slug": "carbon-and-its-compounds",
+      "file": "carbon-and-its-compounds.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Periodic Classification of Elements",
+      "slug": "periodic-classification-of-elements",
+      "file": "periodic-classification-of-elements.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Life Processes",
+      "slug": "life-processes",
+      "file": "life-processes.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Control and Coordination",
+      "slug": "control-and-coordination",
+      "file": "control-and-coordination.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "How Do Organisms Reproduce",
+      "slug": "how-do-organisms-reproduce",
+      "file": "how-do-organisms-reproduce.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Heredity and Evolution",
+      "slug": "heredity-and-evolution",
+      "file": "heredity-and-evolution.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Light Reflection and Refraction",
+      "slug": "light-reflection-and-refraction",
+      "file": "light-reflection-and-refraction.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "The Human Eye and the Colourful World",
+      "slug": "the-human-eye-and-the-colourful-world",
+      "file": "the-human-eye-and-the-colourful-world.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Electricity",
+      "slug": "electricity",
+      "file": "electricity.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Magnetic Effects of Electric Current",
+      "slug": "magnetic-effects-of-electric-current",
+      "file": "magnetic-effects-of-electric-current.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Sources of Energy",
+      "slug": "sources-of-energy",
+      "file": "sources-of-energy.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Our Environment",
+      "slug": "our-environment",
+      "file": "our-environment.json"
+    },
+    {
+      "subject": "General Science",
+      "chapter": "Sustainable Management of Natural Resources",
+      "slug": "sustainable-management-of-natural-resources",
+      "file": "sustainable-management-of-natural-resources.json"
+    }
+  ]
+}

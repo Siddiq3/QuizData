@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about thermal power?",
+      "correct_answer": "Thermal Power is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Work, Energy, Power And Rotational Motion Inference can replace all chapter logic without assumptions.",
+        "Hydro Power is valid only if core conditions are ignored.",
+        "Mechanics Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies hydro power in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply hydro power stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from mechanics framework and skip checking constraints.",
+        "Use Work, Energy, Power and Rotational Motion framework as a shortcut and avoid interpretation.",
+        "Pick institutional design by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of renewables in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where renewables is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where algebraic modelling is used without relevance to chapter context.",
+        "An example where hydro power is memorised but not applied logically.",
+        "An example where electromagnetic application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"energy transition works without constraints.\"",
+      "correct_answer": "Energy Transition works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Calculus Reasoning removes the need for all constraints in every case.",
+        "Institutional Design is always equivalent to energy transition, regardless of context.",
+        "Thermal Power is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: majoritarianism is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which mismatch is incorrect?",
+      "correct_answer": "Minority Rights - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Hydro Power - applied without confirming assumptions.",
+        "Institutional Design - interpreted against contradictory data.",
+        "Mechanics Framework - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when institutional design and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for consensus democracy in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links consensus democracy to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Work, Energy, Power and Rotational Motion framework without checking relevance.",
+        "An inference that cites Work, Energy, Power and Rotational Motion but skips logical steps.",
+        "An inference that repeats energy transition without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about algebraic modelling?",
+      "correct_answer": "Algebraic Modelling is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Thermodynamic Consistency can replace all chapter logic without assumptions.",
+        "Energy Transition is valid only if core conditions are ignored.",
+        "Calculus Reasoning is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies calculus reasoning in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply calculus reasoning stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from institutional design and skip checking constraints.",
+        "Use vector interpretation as a shortcut and avoid interpretation.",
+        "Pick majoritarianism by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of vector interpretation in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where vector interpretation is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where chemical equilibrium is used without relevance to chapter context.",
+        "An example where renewables is memorised but not applied logically.",
+        "An example where electromagnetic application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"mechanics framework works without constraints.\"",
+      "correct_answer": "Mechanics Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Energy Transition removes the need for all constraints in every case.",
+        "Renewables is always equivalent to mechanics framework, regardless of context.",
+        "Thermal Power is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: thermodynamic consistency is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when chemical equilibrium and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for Work, Energy, Power and Rotational Motion in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links Work, Energy, Power and Rotational Motion to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes chemical equilibrium without checking relevance.",
+        "An inference that cites Work, Energy, Power and Rotational Motion framework but skips logical steps.",
+        "An inference that repeats electromagnetic application without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about Work, Energy, Power and Rotational Motion framework?",
+      "correct_answer": "Work, Energy, Power And Rotational Motion Framework is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Hydro Power can replace all chapter logic without assumptions.",
+        "Algebraic Modelling is valid only if core conditions are ignored.",
+        "Thermodynamic Consistency is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies Work, Energy, Power and Rotational Motion application in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Work, Energy, Power and Rotational Motion application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from majoritarianism and skip checking constraints.",
+        "Use mechanics framework as a shortcut and avoid interpretation.",
+        "Pick thermal power by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of Work, Energy, Power and Rotational Motion inference in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where Work, Energy, Power and Rotational Motion inference is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where calculus reasoning is used without relevance to chapter context.",
+        "An example where Work, Energy, Power and Rotational Motion application is memorised but not applied logically.",
+        "An example where Work, Energy, Power and Rotational Motion is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"thermal power works without constraints.\"",
+      "correct_answer": "Thermal Power works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Institutional Design removes the need for all constraints in every case.",
+        "Renewables is always equivalent to thermal power, regardless of context.",
+        "Algebraic Modelling is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: hydro power is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when energy transition and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for majoritarianism in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links majoritarianism to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Work, Energy, Power and Rotational Motion framework without checking relevance.",
+        "An inference that cites renewables but skips logical steps.",
+        "An inference that repeats vector interpretation without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about minority rights?",
+      "correct_answer": "Minority Rights is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Consensus Democracy can replace all chapter logic without assumptions.",
+        "Calculus Reasoning is valid only if core conditions are ignored.",
+        "Hydro Power is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies institutional design in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply institutional design stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from thermal power and skip checking constraints.",
+        "Use Work, Energy, Power and Rotational Motion application as a shortcut and avoid interpretation.",
+        "Pick hydro power by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of consensus democracy in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where consensus democracy is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where institutional design is used without relevance to chapter context.",
+        "An example where Work, Energy, Power and Rotational Motion application is memorised but not applied logically.",
+        "An example where majoritarianism is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"algebraic modelling works without constraints.\"",
+      "correct_answer": "Algebraic Modelling works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Thermodynamic Consistency removes the need for all constraints in every case.",
+        "Institutional Design is always equivalent to algebraic modelling, regardless of context.",
+        "Work, Energy, Power And Rotational Motion Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: calculus reasoning is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when mechanics framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for thermodynamic consistency in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links thermodynamic consistency to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes institutional design without checking relevance.",
+        "An inference that cites Work, Energy, Power and Rotational Motion inference but skips logical steps.",
+        "An inference that repeats vector interpretation without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about electromagnetic application?",
+      "correct_answer": "Electromagnetic Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Algebraic Modelling can replace all chapter logic without assumptions.",
+        "Work, Energy, Power And Rotational Motion Inference is valid only if core conditions are ignored.",
+        "Energy Transition is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies chemical equilibrium in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply chemical equilibrium stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from majoritarianism and skip checking constraints.",
+        "Use minority rights as a shortcut and avoid interpretation.",
+        "Pick renewables by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of Work, Energy, Power and Rotational Motion in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where Work, Energy, Power and Rotational Motion is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where consensus democracy is used without relevance to chapter context.",
+        "An example where minority rights is memorised but not applied logically.",
+        "An example where thermodynamic consistency is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"Work, Energy, Power and Rotational Motion framework works without constraints.\"",
+      "correct_answer": "Work, Energy, Power And Rotational Motion Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mechanics Framework removes the need for all constraints in every case.",
+        "Electromagnetic Application is always equivalent to Work, Energy, Power and Rotational Motion framework, regardless of context.",
+        "Consensus Democracy is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: Work, Energy, Power and Rotational Motion application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when thermal power and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for hydro power in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links hydro power to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes vector interpretation without checking relevance.",
+        "An inference that cites energy transition but skips logical steps.",
+        "An inference that repeats majoritarianism without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about renewables?",
+      "correct_answer": "Renewables is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Institutional Design can replace all chapter logic without assumptions.",
+        "Hydro Power is valid only if core conditions are ignored.",
+        "Electromagnetic Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies energy transition in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply energy transition stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Work, Energy, Power and Rotational Motion inference and skip checking constraints.",
+        "Use thermal power as a shortcut and avoid interpretation.",
+        "Pick hydro power by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of majoritarianism in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where majoritarianism is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Work, Energy, Power and Rotational Motion application is used without relevance to chapter context.",
+        "An example where hydro power is memorised but not applied logically.",
+        "An example where Work, Energy, Power and Rotational Motion inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"minority rights works without constraints.\"",
+      "correct_answer": "Minority Rights works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Algebraic Modelling removes the need for all constraints in every case.",
+        "Work, Energy, Power And Rotational Motion Inference is always equivalent to minority rights, regardless of context.",
+        "Institutional Design is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: institutional design is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when algebraic modelling and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for calculus reasoning in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links calculus reasoning to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Work, Energy, Power and Rotational Motion framework without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats algebraic modelling without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about vector interpretation?",
+      "correct_answer": "Vector Interpretation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Majoritarianism can replace all chapter logic without assumptions.",
+        "Energy Transition is valid only if core conditions are ignored.",
+        "Institutional Design is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies mechanics framework in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply mechanics framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from institutional design and skip checking constraints.",
+        "Use hydro power as a shortcut and avoid interpretation.",
+        "Pick chemical equilibrium by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of thermodynamic consistency in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where thermodynamic consistency is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where energy transition is used without relevance to chapter context.",
+        "An example where renewables is memorised but not applied logically.",
+        "An example where Work, Energy, Power and Rotational Motion is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"electromagnetic application works without constraints.\"",
+      "correct_answer": "Electromagnetic Application works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Minority Rights removes the need for all constraints in every case.",
+        "Work, Energy, Power And Rotational Motion is always equivalent to electromagnetic application, regardless of context.",
+        "Work, Energy, Power And Rotational Motion Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: chemical equilibrium is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when Work, Energy, Power and Rotational Motion framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for Work, Energy, Power and Rotational Motion application in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links Work, Energy, Power and Rotational Motion application to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes renewables without checking relevance.",
+        "An inference that cites Work, Energy, Power and Rotational Motion framework but skips logical steps.",
+        "An inference that repeats chemical equilibrium without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about Work, Energy, Power and Rotational Motion inference?",
+      "correct_answer": "Work, Energy, Power And Rotational Motion Inference is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Vector Interpretation can replace all chapter logic without assumptions.",
+        "Thermodynamic Consistency is valid only if core conditions are ignored.",
+        "Mechanics Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies thermal power in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply thermal power stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Work, Energy, Power and Rotational Motion framework and skip checking constraints.",
+        "Use minority rights as a shortcut and avoid interpretation.",
+        "Pick Work, Energy, Power and Rotational Motion application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of hydro power in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where hydro power is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Work, Energy, Power and Rotational Motion framework is used without relevance to chapter context.",
+        "An example where mechanics framework is memorised but not applied logically.",
+        "An example where vector interpretation is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"renewables works without constraints.\"",
+      "correct_answer": "Renewables works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Chemical Equilibrium removes the need for all constraints in every case.",
+        "Majoritarianism is always equivalent to renewables, regardless of context.",
+        "Work, Energy, Power And Rotational Motion Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: energy transition is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when minority rights and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for institutional design in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links institutional design to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes energy transition without checking relevance.",
+        "An inference that cites Work, Energy, Power and Rotational Motion application but skips logical steps.",
+        "An inference that repeats chemical equilibrium without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about consensus democracy?",
+      "correct_answer": "Consensus Democracy is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Majoritarianism can replace all chapter logic without assumptions.",
+        "Calculus Reasoning is valid only if core conditions are ignored.",
+        "Vector Interpretation is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies algebraic modelling in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply algebraic modelling stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Work, Energy, Power and Rotational Motion framework and skip checking constraints.",
+        "Use renewables as a shortcut and avoid interpretation.",
+        "Pick Work, Energy, Power and Rotational Motion by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of calculus reasoning in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where calculus reasoning is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where consensus democracy is used without relevance to chapter context.",
+        "An example where minority rights is memorised but not applied logically.",
+        "An example where vector interpretation is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"vector interpretation works without constraints.\"",
+      "correct_answer": "Vector Interpretation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Consensus Democracy removes the need for all constraints in every case.",
+        "Thermal Power is always equivalent to vector interpretation, regardless of context.",
+        "Majoritarianism is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: mechanics framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when electromagnetic application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for chemical equilibrium in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links chemical equilibrium to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes energy transition without checking relevance.",
+        "An inference that cites Work, Energy, Power and Rotational Motion but skips logical steps.",
+        "An inference that repeats minority rights without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about Work, Energy, Power and Rotational Motion?",
+      "correct_answer": "Work, Energy, Power And Rotational Motion is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Institutional Design can replace all chapter logic without assumptions.",
+        "Consensus Democracy is valid only if core conditions are ignored.",
+        "Work, Energy, Power And Rotational Motion Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies Work, Energy, Power and Rotational Motion framework in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Work, Energy, Power and Rotational Motion framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from consensus democracy and skip checking constraints.",
+        "Use renewables as a shortcut and avoid interpretation.",
+        "Pick thermodynamic consistency by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of Work, Energy, Power and Rotational Motion application in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where Work, Energy, Power and Rotational Motion application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Work, Energy, Power and Rotational Motion inference is used without relevance to chapter context.",
+        "An example where energy transition is memorised but not applied logically.",
+        "An example where electromagnetic application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"Work, Energy, Power and Rotational Motion inference works without constraints.\"",
+      "correct_answer": "Work, Energy, Power And Rotational Motion Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Hydro Power removes the need for all constraints in every case.",
+        "Chemical Equilibrium is always equivalent to Work, Energy, Power and Rotational Motion inference, regardless of context.",
+        "Calculus Reasoning is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: thermal power is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when renewables and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for energy transition in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links energy transition to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes algebraic modelling without checking relevance.",
+        "An inference that cites institutional design but skips logical steps.",
+        "An inference that repeats calculus reasoning without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about majoritarianism?",
+      "correct_answer": "Majoritarianism is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Consensus Democracy can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Energy Transition is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies minority rights in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply minority rights stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from mechanics framework and skip checking constraints.",
+        "Use calculus reasoning as a shortcut and avoid interpretation.",
+        "Pick Work, Energy, Power and Rotational Motion application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of institutional design in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where institutional design is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Work, Energy, Power and Rotational Motion is used without relevance to chapter context.",
+        "An example where Work, Energy, Power and Rotational Motion framework is memorised but not applied logically.",
+        "An example where algebraic modelling is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"consensus democracy works without constraints.\"",
+      "correct_answer": "Consensus Democracy works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mechanics Framework removes the need for all constraints in every case.",
+        "Thermal Power is always equivalent to consensus democracy, regardless of context.",
+        "Thermodynamic Consistency is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: algebraic modelling is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when vector interpretation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for mechanics framework in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links mechanics framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes thermodynamic consistency without checking relevance.",
+        "An inference that cites Work, Energy, Power and Rotational Motion framework but skips logical steps.",
+        "An inference that repeats vector interpretation without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about thermodynamic consistency?",
+      "correct_answer": "Thermodynamic Consistency is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Electromagnetic Application can replace all chapter logic without assumptions.",
+        "Majoritarianism is valid only if core conditions are ignored.",
+        "Calculus Reasoning is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies electromagnetic application in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply electromagnetic application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from calculus reasoning and skip checking constraints.",
+        "Use thermal power as a shortcut and avoid interpretation.",
+        "Pick consensus democracy by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of chemical equilibrium in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where chemical equilibrium is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Work, Energy, Power and Rotational Motion application is used without relevance to chapter context.",
+        "An example where thermodynamic consistency is memorised but not applied logically.",
+        "An example where consensus democracy is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"Work, Energy, Power and Rotational Motion works without constraints.\"",
+      "correct_answer": "Work, Energy, Power And Rotational Motion works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Vector Interpretation removes the need for all constraints in every case.",
+        "Work, Energy, Power And Rotational Motion Framework is always equivalent to Work, Energy, Power and Rotational Motion, regardless of context.",
+        "Electromagnetic Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: Work, Energy, Power and Rotational Motion framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when Work, Energy, Power and Rotational Motion inference and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for thermal power in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links thermal power to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes hydro power without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats Work, Energy, Power and Rotational Motion without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about hydro power?",
+      "correct_answer": "Hydro Power is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Work, Energy, Power And Rotational Motion Inference can replace all chapter logic without assumptions.",
+        "Minority Rights is valid only if core conditions are ignored.",
+        "Chemical Equilibrium is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies renewables in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply renewables stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Work, Energy, Power and Rotational Motion application and skip checking constraints.",
+        "Use consensus democracy as a shortcut and avoid interpretation.",
+        "Pick Work, Energy, Power and Rotational Motion inference by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of energy transition in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where energy transition is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where electromagnetic application is used without relevance to chapter context.",
+        "An example where Work, Energy, Power and Rotational Motion is memorised but not applied logically.",
+        "An example where hydro power is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"majoritarianism works without constraints.\"",
+      "correct_answer": "Majoritarianism works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Hydro Power removes the need for all constraints in every case.",
+        "Work, Energy, Power And Rotational Motion Application is always equivalent to majoritarianism, regardless of context.",
+        "Mechanics Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: minority rights is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when consensus democracy and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for algebraic modelling in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links algebraic modelling to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes vector interpretation without checking relevance.",
+        "An inference that cites mechanics framework but skips logical steps.",
+        "An inference that repeats renewables without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about calculus reasoning?",
+      "correct_answer": "Calculus Reasoning is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Mechanics Framework can replace all chapter logic without assumptions.",
+        "Work, Energy, Power And Rotational Motion Inference is valid only if core conditions are ignored.",
+        "Institutional Design is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "A learner applies vector interpretation in a new problem from \"Work, Energy, Power and Rotational Motion\". What is the best first step?",
+      "correct_answer": "Define conditions, apply vector interpretation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from minority rights and skip checking constraints.",
+        "Use Work, Energy, Power and Rotational Motion application as a shortcut and avoid interpretation.",
+        "Pick electromagnetic application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which option shows a valid example of mechanics framework in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "An example where mechanics framework is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where institutional design is used without relevance to chapter context.",
+        "An example where algebraic modelling is memorised but not applied logically.",
+        "An example where electromagnetic application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Choose the most defensible correction for this claim in \"Work, Energy, Power and Rotational Motion\": \"thermodynamic consistency works without constraints.\"",
+      "correct_answer": "Thermodynamic Consistency works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Minority Rights removes the need for all constraints in every case.",
+        "Electromagnetic Application is always equivalent to thermodynamic consistency, regardless of context.",
+        "Work, Energy, Power And Rotational Motion Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Assertion-Reason in \"Work, Energy, Power and Rotational Motion\": Assertion: electromagnetic application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which interpretation is strongest when Work, Energy, Power and Rotational Motion and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "Which inference is most rigorous for Work, Energy, Power and Rotational Motion framework in \"Work, Energy, Power and Rotational Motion\"?",
+      "correct_answer": "The inference that links Work, Energy, Power and Rotational Motion framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes chemical equilibrium without checking relevance.",
+        "An inference that cites thermodynamic consistency but skips logical steps.",
+        "An inference that repeats renewables without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Work, Energy, Power and Rotational Motion",
+      "question": "In \"Work, Energy, Power and Rotational Motion\", which statement is most accurate about Work, Energy, Power and Rotational Motion application?",
+      "correct_answer": "Work, Energy, Power And Rotational Motion Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Majoritarianism can replace all chapter logic without assumptions.",
+        "Mechanics Framework is valid only if core conditions are ignored.",
+        "Vector Interpretation is a memory cue, not a defensible explanation."
+      ]
+    }
+  ]
+}

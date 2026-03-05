@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "slug": "unnata-gadya-vivechanam",
+      "file": "unnata-gadya-vivechanam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "ఉన్నత పద్యార్థ గ్రహణం",
+      "slug": "unnata-padya-artha-grahanam",
+      "file": "unnata-padya-artha-grahanam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "వ్యాకరణం మరియు ప్రయోగం",
+      "slug": "vyakaranam-mariyu-prayogam",
+      "file": "vyakaranam-mariyu-prayogam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "పద సంపద మరియు ప్రయోగం",
+      "slug": "pada-sampada-mariyu-prayogam",
+      "file": "pada-sampada-mariyu-prayogam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "వ్యాఖ్యాన రచన కౌశల్యం",
+      "slug": "vyakhyana-rachana-kaushalyam",
+      "file": "vyakhyana-rachana-kaushalyam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "పత్ర రచన ఉన్నత స్థరం",
+      "slug": "patra-rachana-unnata-staram",
+      "file": "patra-rachana-unnata-staram.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "సంభాషణ రచన నైపుణ్యం",
+      "slug": "samvadha-rachana-nipunata",
+      "file": "samvadha-rachana-nipunata.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "భాషా శాస్త్రీయ అవగాహన",
+      "slug": "bhasha-saastriya-avagahana",
+      "file": "bhasha-saastriya-avagahana.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "సాహిత్య విమర్శన కౌశల్యం",
+      "slug": "sahitya-vimarsana-kaushalyam",
+      "file": "sahitya-vimarsana-kaushalyam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "సృజనాత్మక రచన",
+      "slug": "srujanatmaka-rachana",
+      "file": "srujanatmaka-rachana.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "పరీక్షా కేంద్రిత తెలుగు అభ్యాసం",
+      "slug": "pariksha-kendrita-telugu-abhyasam",
+      "file": "pariksha-kendrita-telugu-abhyasam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "సమగ్ర తెలుగు పునరవలోకనం",
+      "slug": "samagra-telugu-punaravalokanam",
+      "file": "samagra-telugu-punaravalokanam.json"
+    }
+  ]
+}

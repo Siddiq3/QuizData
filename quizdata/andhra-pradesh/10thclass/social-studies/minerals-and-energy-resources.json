@@ -4,600 +4,1200 @@
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", which concept best matches: minerals containing metal content such as iron ore bauxite and manganese?",
-      "correct_answer": "Metallic Minerals",
+      "question": "In \"Minerals and Energy Resources\", which statement is most accurate about mining?",
+      "correct_answer": "Mining is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Non Metallic Minerals",
-        "Conventional Energy",
-        "Non Conventional Energy"
+        "Resource Distribution can replace all chapter logic without assumptions.",
+        "Minerals And Energy Resources Application is valid only if core conditions are ignored.",
+        "Sustainable Use is a memory cue, not a defensible explanation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "A case described as \"ores are processed through smelting to obtain industrial metals\" is the best example of:",
-      "correct_answer": "Metallic Minerals",
+      "question": "A learner applies energy mix in a new problem from \"Minerals and Energy Resources\". What is the best first step?",
+      "correct_answer": "Define conditions, apply energy mix stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Conventional Energy",
-        "Non Conventional Energy",
-        "Non Metallic Minerals"
+        "Start from Minerals and Energy Resources framework and skip checking constraints.",
+        "Use sustainable use as a shortcut and avoid interpretation.",
+        "Pick energy transition by intuition and finalise without verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", the term \"Metallic Minerals\" is most closely associated with:",
-      "correct_answer": "Minerals containing metal content such as iron ore bauxite and manganese",
+      "question": "Which option shows a valid example of resource distribution in \"Minerals and Energy Resources\"?",
+      "correct_answer": "An example where resource distribution is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "Minerals without metal content such as mica limestone and gypsum",
-        "Widely used traditional sources like coal petroleum and natural gas",
-        "Renewable alternatives such as solar wind tidal and geothermal power"
+        "An example where thermal power is used without relevance to chapter context.",
+        "An example where energy mix is memorised but not applied logically.",
+        "An example where mining is stated without evidence."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "The immediate policy focus of \"Metallic Minerals\" is usually:",
-      "correct_answer": "Critical raw material base for heavy industry",
+      "question": "Choose the most defensible correction for this claim in \"Minerals and Energy Resources\": \"environment regulation works without constraints.\"",
+      "correct_answer": "Environment Regulation works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Cleaner long term diversification of energy mix",
-        "High energy output but major emission footprint",
-        "Essential support inputs for construction and manufacturing"
+        "Hydro Power removes the need for all constraints in every case.",
+        "Mining is always equivalent to environment regulation, regardless of context.",
+        "Resource Distribution is enough even when data contradict the claim."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "If an examiner asks for a concept linked to \"critical raw material base for heavy industry\", the most accurate answer is:",
-      "correct_answer": "Metallic Minerals",
+      "question": "Assertion-Reason in \"Minerals and Energy Resources\": Assertion: thermal power is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
       "incorrect_answers": [
-        "Non Conventional Energy",
-        "Non Metallic Minerals",
-        "Conventional Energy"
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which term correctly completes this statement: Minerals containing metal content such as iron ore bauxite and manganese.",
-      "correct_answer": "Metallic Minerals",
+      "question": "In \"Minerals and Energy Resources\", which mismatch is incorrect?",
+      "correct_answer": "Hydro Power - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Conventional Energy",
-        "Non Metallic Minerals",
-        "Non Conventional Energy"
+        "Energy Mix - applied without confirming assumptions.",
+        "Resource Planning - interpreted against contradictory data.",
+        "Minerals And Energy Resources Inference - concluded before checking consistency."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Choose the correctly matched pair from \"Minerals and Energy Resources\".",
-      "correct_answer": "Metallic Minerals - critical raw material base for heavy industry",
+      "question": "Which interpretation is strongest when renewables and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
       "incorrect_answers": [
-        "Non Metallic Minerals - critical raw material base for heavy industry",
-        "Metallic Minerals - high energy output but major emission footprint",
-        "Non Conventional Energy - essential support inputs for construction and manufacturing"
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which of the following is a valid application of \"Metallic Minerals\"?",
-      "correct_answer": "Ores are processed through smelting to obtain industrial metals",
+      "question": "Which inference is most rigorous for energy transition in \"Minerals and Energy Resources\"?",
+      "correct_answer": "The inference that links energy transition to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "Extracted minerals are used in cement insulation and chemical industries",
-        "Thermal power plants rely on fossil fuel combustion for base load supply",
-        "Distributed solar parks generate electricity without direct fuel burning"
+        "An inference that substitutes environment regulation without checking relevance.",
+        "An inference that cites sustainable use but skips logical steps.",
+        "An inference that repeats renewables without interpretation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", which concept best matches: minerals without metal content such as mica limestone and gypsum?",
-      "correct_answer": "Non Metallic Minerals",
+      "question": "In \"Minerals and Energy Resources\", which statement is most accurate about resource planning?",
+      "correct_answer": "Resource Planning is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Conventional Energy",
-        "Non Conventional Energy",
-        "Energy Conservation"
+        "Renewables can replace all chapter logic without assumptions.",
+        "Minerals And Energy Resources Application is valid only if core conditions are ignored.",
+        "Environment Regulation is a memory cue, not a defensible explanation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "A case described as \"extracted minerals are used in cement insulation and chemical industries\" is the best example of:",
-      "correct_answer": "Non Metallic Minerals",
+      "question": "A learner applies sustainable use in a new problem from \"Minerals and Energy Resources\". What is the best first step?",
+      "correct_answer": "Define conditions, apply sustainable use stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Non Conventional Energy",
-        "Energy Conservation",
-        "Conventional Energy"
+        "Start from resource conservation and skip checking constraints.",
+        "Use energy mix as a shortcut and avoid interpretation.",
+        "Pick thermal power by intuition and finalise without verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", the term \"Non Metallic Minerals\" is most closely associated with:",
-      "correct_answer": "Minerals without metal content such as mica limestone and gypsum",
+      "question": "Which option shows a valid example of land degradation in \"Minerals and Energy Resources\"?",
+      "correct_answer": "An example where land degradation is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "Widely used traditional sources like coal petroleum and natural gas",
-        "Renewable alternatives such as solar wind tidal and geothermal power",
-        "Efficient use of energy through technology behaviour and policy interventions"
+        "An example where sustainable use is used without relevance to chapter context.",
+        "An example where hydro power is memorised but not applied logically.",
+        "An example where resource distribution is stated without evidence."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "The immediate policy focus of \"Non Metallic Minerals\" is usually:",
-      "correct_answer": "Essential support inputs for construction and manufacturing",
+      "question": "Choose the most defensible correction for this claim in \"Minerals and Energy Resources\": \"resource conservation works without constraints.\"",
+      "correct_answer": "Resource Conservation works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Lower demand growth and reduced import dependence",
-        "Cleaner long term diversification of energy mix",
-        "High energy output but major emission footprint"
+        "Minerals And Energy Resources Application removes the need for all constraints in every case.",
+        "Minerals And Energy Resources Inference is always equivalent to resource conservation, regardless of context.",
+        "Sustainable Use is enough even when data contradict the claim."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "If an examiner asks for a concept linked to \"essential support inputs for construction and manufacturing\", the most accurate answer is:",
-      "correct_answer": "Non Metallic Minerals",
+      "question": "Assertion-Reason in \"Minerals and Energy Resources\": Assertion: Minerals and Energy Resources is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
       "incorrect_answers": [
-        "Energy Conservation",
-        "Conventional Energy",
-        "Non Conventional Energy"
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which term correctly completes this statement: Minerals without metal content such as mica limestone and gypsum.",
-      "correct_answer": "Non Metallic Minerals",
+      "question": "Which interpretation is strongest when Minerals and Energy Resources application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
       "incorrect_answers": [
-        "Non Conventional Energy",
-        "Conventional Energy",
-        "Energy Conservation"
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Choose the correctly matched pair from \"Minerals and Energy Resources\".",
-      "correct_answer": "Non Metallic Minerals - essential support inputs for construction and manufacturing",
+      "question": "Which inference is most rigorous for Minerals and Energy Resources inference in \"Minerals and Energy Resources\"?",
+      "correct_answer": "The inference that links Minerals and Energy Resources inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "Conventional Energy - essential support inputs for construction and manufacturing",
-        "Non Metallic Minerals - cleaner long term diversification of energy mix",
-        "Energy Conservation - high energy output but major emission footprint"
+        "An inference that substitutes resource planning without checking relevance.",
+        "An inference that cites hydro power but skips logical steps.",
+        "An inference that repeats land degradation without interpretation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which of the following is a valid application of \"Non Metallic Minerals\"?",
-      "correct_answer": "Extracted minerals are used in cement insulation and chemical industries",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources inference using correct assumptions, evidence, and verification? (Practice Set 16)",
+      "correct_answer": "Apply Minerals and Energy Resources inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Thermal power plants rely on fossil fuel combustion for base load supply",
-        "Distributed solar parks generate electricity without direct fuel burning",
-        "Industries adopt efficient motors and households shift to low consumption appliances"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", which concept best matches: widely used traditional sources like coal petroleum and natural gas?",
-      "correct_answer": "Conventional Energy",
+      "question": "In \"Minerals and Energy Resources\", which response applies mining using correct assumptions, evidence, and verification? (Practice Set 17)",
+      "correct_answer": "Apply mining stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Non Conventional Energy",
-        "Energy Conservation",
-        "Mineral Conservation"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "A case described as \"thermal power plants rely on fossil fuel combustion for base load supply\" is the best example of:",
-      "correct_answer": "Conventional Energy",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy mix using correct assumptions, evidence, and verification? (Practice Set 18)",
+      "correct_answer": "Apply energy mix stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Energy Conservation",
-        "Mineral Conservation",
-        "Non Conventional Energy"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", the term \"Conventional Energy\" is most closely associated with:",
-      "correct_answer": "Widely used traditional sources like coal petroleum and natural gas",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource distribution using correct assumptions, evidence, and verification? (Practice Set 19)",
+      "correct_answer": "Apply resource distribution stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Renewable alternatives such as solar wind tidal and geothermal power",
-        "Efficient use of energy through technology behaviour and policy interventions",
-        "Judicious extraction recycling and technology use to reduce mineral depletion"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "The immediate policy focus of \"Conventional Energy\" is usually:",
-      "correct_answer": "High energy output but major emission footprint",
+      "question": "In \"Minerals and Energy Resources\", which response applies environment regulation using correct assumptions, evidence, and verification? (Practice Set 20)",
+      "correct_answer": "Apply environment regulation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Extended life cycle of finite mineral reserves",
-        "Lower demand growth and reduced import dependence",
-        "Cleaner long term diversification of energy mix"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "If an examiner asks for a concept linked to \"high energy output but major emission footprint\", the most accurate answer is:",
-      "correct_answer": "Conventional Energy",
+      "question": "In \"Minerals and Energy Resources\", which response applies thermal power using correct assumptions, evidence, and verification? (Practice Set 21)",
+      "correct_answer": "Apply thermal power stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Mineral Conservation",
-        "Non Conventional Energy",
-        "Energy Conservation"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which term correctly completes this statement: Widely used traditional sources like coal petroleum and natural gas.",
-      "correct_answer": "Conventional Energy",
+      "question": "In \"Minerals and Energy Resources\", which response applies hydro power using correct assumptions, evidence, and verification? (Practice Set 22)",
+      "correct_answer": "Apply hydro power stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Energy Conservation",
-        "Non Conventional Energy",
-        "Mineral Conservation"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Choose the correctly matched pair from \"Minerals and Energy Resources\".",
-      "correct_answer": "Conventional Energy - high energy output but major emission footprint",
+      "question": "In \"Minerals and Energy Resources\", which response applies renewables using correct assumptions, evidence, and verification? (Practice Set 23)",
+      "correct_answer": "Apply renewables stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Non Conventional Energy - high energy output but major emission footprint",
-        "Conventional Energy - lower demand growth and reduced import dependence",
-        "Mineral Conservation - cleaner long term diversification of energy mix"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which of the following is a valid application of \"Conventional Energy\"?",
-      "correct_answer": "Thermal power plants rely on fossil fuel combustion for base load supply",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy transition using correct assumptions, evidence, and verification? (Practice Set 24)",
+      "correct_answer": "Apply energy transition stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Distributed solar parks generate electricity without direct fuel burning",
-        "Industries adopt efficient motors and households shift to low consumption appliances",
-        "Scrap recovery and beneficiation improve material use efficiency"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", which concept best matches: renewable alternatives such as solar wind tidal and geothermal power?",
-      "correct_answer": "Non Conventional Energy",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 25)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Energy Conservation",
-        "Mineral Conservation",
-        "Metallic Minerals"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "A case described as \"distributed solar parks generate electricity without direct fuel burning\" is the best example of:",
-      "correct_answer": "Non Conventional Energy",
+      "question": "In \"Minerals and Energy Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 26)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Mineral Conservation",
-        "Metallic Minerals",
-        "Energy Conservation"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", the term \"Non Conventional Energy\" is most closely associated with:",
-      "correct_answer": "Renewable alternatives such as solar wind tidal and geothermal power",
+      "question": "In \"Minerals and Energy Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 27)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Efficient use of energy through technology behaviour and policy interventions",
-        "Judicious extraction recycling and technology use to reduce mineral depletion",
-        "Minerals containing metal content such as iron ore bauxite and manganese"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "The immediate policy focus of \"Non Conventional Energy\" is usually:",
-      "correct_answer": "Cleaner long term diversification of energy mix",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 28)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Critical raw material base for heavy industry",
-        "Extended life cycle of finite mineral reserves",
-        "Lower demand growth and reduced import dependence"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "If an examiner asks for a concept linked to \"cleaner long term diversification of energy mix\", the most accurate answer is:",
-      "correct_answer": "Non Conventional Energy",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply Minerals and Energy Resources stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Metallic Minerals",
-        "Energy Conservation",
-        "Mineral Conservation"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which term correctly completes this statement: Renewable alternatives such as solar wind tidal and geothermal power.",
-      "correct_answer": "Non Conventional Energy",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources framework using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply Minerals and Energy Resources framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Mineral Conservation",
-        "Energy Conservation",
-        "Metallic Minerals"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Choose the correctly matched pair from \"Minerals and Energy Resources\".",
-      "correct_answer": "Non Conventional Energy - cleaner long term diversification of energy mix",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources application using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply Minerals and Energy Resources application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Energy Conservation - cleaner long term diversification of energy mix",
-        "Non Conventional Energy - extended life cycle of finite mineral reserves",
-        "Metallic Minerals - lower demand growth and reduced import dependence"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which of the following is a valid application of \"Non Conventional Energy\"?",
-      "correct_answer": "Distributed solar parks generate electricity without direct fuel burning",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources inference using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply Minerals and Energy Resources inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Industries adopt efficient motors and households shift to low consumption appliances",
-        "Scrap recovery and beneficiation improve material use efficiency",
-        "Ores are processed through smelting to obtain industrial metals"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", which concept best matches: efficient use of energy through technology behaviour and policy interventions?",
-      "correct_answer": "Energy Conservation",
+      "question": "In \"Minerals and Energy Resources\", which response applies mining using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply mining stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Mineral Conservation",
-        "Metallic Minerals",
-        "Non Metallic Minerals"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "A case described as \"industries adopt efficient motors and households shift to low consumption appliances\" is the best example of:",
-      "correct_answer": "Energy Conservation",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy mix using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply energy mix stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Metallic Minerals",
-        "Non Metallic Minerals",
-        "Mineral Conservation"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", the term \"Energy Conservation\" is most closely associated with:",
-      "correct_answer": "Efficient use of energy through technology behaviour and policy interventions",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource distribution using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply resource distribution stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Judicious extraction recycling and technology use to reduce mineral depletion",
-        "Minerals containing metal content such as iron ore bauxite and manganese",
-        "Minerals without metal content such as mica limestone and gypsum"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "The immediate policy focus of \"Energy Conservation\" is usually:",
-      "correct_answer": "Lower demand growth and reduced import dependence",
+      "question": "In \"Minerals and Energy Resources\", which response applies environment regulation using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply environment regulation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Essential support inputs for construction and manufacturing",
-        "Critical raw material base for heavy industry",
-        "Extended life cycle of finite mineral reserves"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "If an examiner asks for a concept linked to \"lower demand growth and reduced import dependence\", the most accurate answer is:",
-      "correct_answer": "Energy Conservation",
+      "question": "In \"Minerals and Energy Resources\", which response applies thermal power using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply thermal power stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Non Metallic Minerals",
-        "Mineral Conservation",
-        "Metallic Minerals"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which term correctly completes this statement: Efficient use of energy through technology behaviour and policy interventions.",
-      "correct_answer": "Energy Conservation",
+      "question": "In \"Minerals and Energy Resources\", which response applies hydro power using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply hydro power stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Metallic Minerals",
-        "Mineral Conservation",
-        "Non Metallic Minerals"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Choose the correctly matched pair from \"Minerals and Energy Resources\".",
-      "correct_answer": "Energy Conservation - lower demand growth and reduced import dependence",
+      "question": "In \"Minerals and Energy Resources\", which response applies renewables using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply renewables stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Mineral Conservation - lower demand growth and reduced import dependence",
-        "Energy Conservation - critical raw material base for heavy industry",
-        "Non Metallic Minerals - extended life cycle of finite mineral reserves"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which of the following is a valid application of \"Energy Conservation\"?",
-      "correct_answer": "Industries adopt efficient motors and households shift to low consumption appliances",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy transition using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply energy transition stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Scrap recovery and beneficiation improve material use efficiency",
-        "Ores are processed through smelting to obtain industrial metals",
-        "Extracted minerals are used in cement insulation and chemical industries"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", which concept best matches: judicious extraction recycling and technology use to reduce mineral depletion?",
-      "correct_answer": "Mineral Conservation",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Metallic Minerals",
-        "Non Metallic Minerals",
-        "Conventional Energy"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "A case described as \"scrap recovery and beneficiation improve material use efficiency\" is the best example of:",
-      "correct_answer": "Mineral Conservation",
+      "question": "In \"Minerals and Energy Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Non Metallic Minerals",
-        "Conventional Energy",
-        "Metallic Minerals"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "In \"Minerals and Energy Resources\", the term \"Mineral Conservation\" is most closely associated with:",
-      "correct_answer": "Judicious extraction recycling and technology use to reduce mineral depletion",
+      "question": "In \"Minerals and Energy Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Minerals containing metal content such as iron ore bauxite and manganese",
-        "Minerals without metal content such as mica limestone and gypsum",
-        "Widely used traditional sources like coal petroleum and natural gas"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "The immediate policy focus of \"Mineral Conservation\" is usually:",
-      "correct_answer": "Extended life cycle of finite mineral reserves",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "High energy output but major emission footprint",
-        "Essential support inputs for construction and manufacturing",
-        "Critical raw material base for heavy industry"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "If an examiner asks for a concept linked to \"extended life cycle of finite mineral reserves\", the most accurate answer is:",
-      "correct_answer": "Mineral Conservation",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply Minerals and Energy Resources stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Conventional Energy",
-        "Metallic Minerals",
-        "Non Metallic Minerals"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which term correctly completes this statement: Judicious extraction recycling and technology use to reduce mineral depletion.",
-      "correct_answer": "Mineral Conservation",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources framework using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply Minerals and Energy Resources framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Non Metallic Minerals",
-        "Metallic Minerals",
-        "Conventional Energy"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Choose the correctly matched pair from \"Minerals and Energy Resources\".",
-      "correct_answer": "Mineral Conservation - extended life cycle of finite mineral reserves",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources application using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply Minerals and Energy Resources application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Metallic Minerals - extended life cycle of finite mineral reserves",
-        "Mineral Conservation - essential support inputs for construction and manufacturing",
-        "Conventional Energy - critical raw material base for heavy industry"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Which of the following is a valid application of \"Mineral Conservation\"?",
-      "correct_answer": "Scrap recovery and beneficiation improve material use efficiency",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources inference using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply Minerals and Energy Resources inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Ores are processed through smelting to obtain industrial metals",
-        "Extracted minerals are used in cement insulation and chemical industries",
-        "Thermal power plants rely on fossil fuel combustion for base load supply"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "Why is coal called a bulky raw material in energy geography?",
-      "correct_answer": "Its high transport cost per usable energy unit influences plant location choices",
+      "question": "In \"Minerals and Energy Resources\", which response applies mining using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply mining stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "It can only be moved by air freight",
-        "It has zero calorific variation across grades",
-        "It is lighter than natural gas in pipelines"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Minerals and Energy Resources",
-      "question": "A key strategic advantage of diversified energy sources is that it",
-      "correct_answer": "reduces risk from supply shocks and fuel price volatility",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy mix using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply energy mix stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "removes all transmission losses immediately",
-        "eliminates need for storage technologies",
-        "makes demand forecasting unnecessary"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource distribution using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply resource distribution stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies environment regulation using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply environment regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies thermal power using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply thermal power stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies hydro power using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply hydro power stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies renewables using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply renewables stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy transition using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply energy transition stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply Minerals and Energy Resources stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources framework using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply Minerals and Energy Resources framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources application using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply Minerals and Energy Resources application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources inference using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply Minerals and Energy Resources inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies mining using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply mining stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy mix using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply energy mix stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource distribution using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply resource distribution stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies environment regulation using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply environment regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies thermal power using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply thermal power stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies hydro power using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply hydro power stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies renewables using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply renewables stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy transition using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply energy transition stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply Minerals and Energy Resources stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources framework using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply Minerals and Energy Resources framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources application using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply Minerals and Energy Resources application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources inference using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply Minerals and Energy Resources inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies mining using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply mining stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy mix using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply energy mix stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource distribution using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply resource distribution stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies environment regulation using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply environment regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies thermal power using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply thermal power stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies hydro power using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply hydro power stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies renewables using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply renewables stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy transition using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply energy transition stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply Minerals and Energy Resources stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources framework using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply Minerals and Energy Resources framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources application using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Minerals and Energy Resources application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies Minerals and Energy Resources inference using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Minerals and Energy Resources inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies mining using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply mining stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies energy mix using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply energy mix stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies resource distribution using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply resource distribution stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Minerals and Energy Resources",
+      "question": "In \"Minerals and Energy Resources\", which response applies environment regulation using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply environment regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     }
   ]

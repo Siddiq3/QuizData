@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "subject": "Hindi",
+      "chapter": "उन्नत गद्यांश विश्लेषण",
+      "slug": "unnat-gadyansh-vishleshan",
+      "file": "unnat-gadyansh-vishleshan.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "उन्नत पद्यांश विश्लेषण",
+      "slug": "unnat-padyansh-vishleshan",
+      "file": "unnat-padyansh-vishleshan.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "व्याकरण और प्रायोगिक भाषा",
+      "slug": "vyakaran-aur-prayogik-bhasha",
+      "file": "vyakaran-aur-prayogik-bhasha.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "शब्द शक्ति और प्रयोग",
+      "slug": "shabd-shakti-aur-prayog",
+      "file": "shabd-shakti-aur-prayog.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "मुहावरे, लोकोक्तियाँ एवं प्रयोग",
+      "slug": "muhavare-lokoktiyan-evam-prayog",
+      "file": "muhavare-lokoktiyan-evam-prayog.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "अनुच्छेद लेखन (उन्नत स्तर)",
+      "slug": "anuchhed-lekhan-unnat-star",
+      "file": "anuchhed-lekhan-unnat-star.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "पत्र एवं सूचना लेखन",
+      "slug": "patra-aur-suchana-lekhan",
+      "file": "patra-aur-suchana-lekhan.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "संवाद एवं विमर्श लेखन",
+      "slug": "samvad-aur-vimarsh-lekhan",
+      "file": "samvad-aur-vimarsh-lekhan.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "अनुवाद और भाषा रूपांतरण",
+      "slug": "anuvad-aur-bhasha-rupantar",
+      "file": "anuvad-aur-bhasha-rupantar.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "आलोचनात्मक पठन कौशल",
+      "slug": "alochanaatmak-pathan-kaushal",
+      "file": "alochanaatmak-pathan-kaushal.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "slug": "srijanatmak-lekhan-kaushal",
+      "file": "srijanatmak-lekhan-kaushal.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "समग्र हिंदी अभ्यास",
+      "slug": "samagra-hindi-abhyas",
+      "file": "samagra-hindi-abhyas.json"
+    }
+  ]
+}

@@ -4,600 +4,1200 @@
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", which concept best matches: large infrastructure integrating irrigation power flood control and water supply functions?",
-      "correct_answer": "Multipurpose River Project",
+      "question": "In \"Water Resources\", which statement is most accurate about watershed?",
+      "correct_answer": "Watershed is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Rainwater Harvesting",
-        "Watershed Management",
-        "Groundwater Depletion"
+        "Water Resources can replace all chapter logic without assumptions.",
+        "Groundwater Depletion is valid only if core conditions are ignored.",
+        "Sustainable Use is a memory cue, not a defensible explanation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "A case described as \"a dam network supports canals electricity and seasonal flood management\" is the best example of:",
-      "correct_answer": "Multipurpose River Project",
+      "question": "A learner applies multipurpose projects in a new problem from \"Water Resources\". What is the best first step?",
+      "correct_answer": "Define conditions, apply multipurpose projects stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Watershed Management",
-        "Groundwater Depletion",
-        "Rainwater Harvesting"
+        "Start from watershed and skip checking constraints.",
+        "Use resource conservation as a shortcut and avoid interpretation.",
+        "Pick land degradation by intuition and finalise without verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", the term \"Multipurpose River Project\" is most closely associated with:",
-      "correct_answer": "Large infrastructure integrating irrigation power flood control and water supply functions",
+      "question": "Which option shows a valid example of groundwater depletion in \"Water Resources\"?",
+      "correct_answer": "An example where groundwater depletion is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "Collection and storage of rainwater for recharge and local consumption",
-        "Integrated treatment of land and water within a drainage basin",
-        "Decline of aquifer levels due to extraction exceeding recharge"
+        "An example where Water Resources is used without relevance to chapter context.",
+        "An example where watershed is memorised but not applied logically.",
+        "An example where Water Resources application is stated without evidence."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "The immediate policy focus of \"Multipurpose River Project\" is usually:",
-      "correct_answer": "Multi sectoral water control and allocation",
+      "question": "Choose the most defensible correction for this claim in \"Water Resources\": \"water conflict works without constraints.\"",
+      "correct_answer": "Water Conflict works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Rising irrigation costs and long term water stress",
-        "Soil conservation with sustained water availability",
-        "Improved local water security and groundwater replenishment"
+        "Water Resources removes the need for all constraints in every case.",
+        "Groundwater Depletion is always equivalent to water conflict, regardless of context.",
+        "Water Resources Inference is enough even when data contradict the claim."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "If an examiner asks for a concept linked to \"multi sectoral water control and allocation\", the most accurate answer is:",
-      "correct_answer": "Multipurpose River Project",
+      "question": "Assertion-Reason in \"Water Resources\": Assertion: resource planning is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
       "incorrect_answers": [
-        "Groundwater Depletion",
-        "Rainwater Harvesting",
-        "Watershed Management"
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which term correctly completes this statement: Large infrastructure integrating irrigation power flood control and water supply functions.",
-      "correct_answer": "Multipurpose River Project",
+      "question": "In \"Water Resources\", which mismatch is incorrect?",
+      "correct_answer": "Sustainable Use - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Watershed Management",
-        "Rainwater Harvesting",
-        "Groundwater Depletion"
+        "Land Degradation - applied without confirming assumptions.",
+        "Water Resources Application - interpreted against contradictory data.",
+        "Water Conflict - concluded before checking consistency."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Choose the correctly matched pair from \"Water Resources\".",
-      "correct_answer": "Multipurpose River Project - multi sectoral water control and allocation",
+      "question": "Which interpretation is strongest when land degradation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
       "incorrect_answers": [
-        "Rainwater Harvesting - multi sectoral water control and allocation",
-        "Multipurpose River Project - soil conservation with sustained water availability",
-        "Groundwater Depletion - improved local water security and groundwater replenishment"
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which of the following is a valid application of \"Multipurpose River Project\"?",
-      "correct_answer": "A dam network supports canals electricity and seasonal flood management",
+      "question": "Which inference is most rigorous for resource conservation in \"Water Resources\"?",
+      "correct_answer": "The inference that links resource conservation to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "Rooftop systems channel monsoon water into storage tanks and recharge pits",
-        "Check dams contour bunding and vegetation reduce runoff in a catchment",
-        "Intensive tube well irrigation lowers water tables year after year"
+        "An inference that substitutes Water Resources application without checking relevance.",
+        "An inference that cites water conflict but skips logical steps.",
+        "An inference that repeats resource planning without interpretation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", which concept best matches: collection and storage of rainwater for recharge and local consumption?",
-      "correct_answer": "Rainwater Harvesting",
+      "question": "In \"Water Resources\", which statement is most accurate about Water Resources?",
+      "correct_answer": "Water Resources is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Watershed Management",
-        "Groundwater Depletion",
-        "Interstate Water Dispute"
+        "Watershed can replace all chapter logic without assumptions.",
+        "Groundwater Depletion is valid only if core conditions are ignored.",
+        "Land Degradation is a memory cue, not a defensible explanation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "A case described as \"rooftop systems channel monsoon water into storage tanks and recharge pits\" is the best example of:",
-      "correct_answer": "Rainwater Harvesting",
+      "question": "A learner applies Water Resources framework in a new problem from \"Water Resources\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Water Resources framework stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Groundwater Depletion",
-        "Interstate Water Dispute",
-        "Watershed Management"
+        "Start from water conflict and skip checking constraints.",
+        "Use multipurpose projects as a shortcut and avoid interpretation.",
+        "Pick resource conservation by intuition and finalise without verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", the term \"Rainwater Harvesting\" is most closely associated with:",
-      "correct_answer": "Collection and storage of rainwater for recharge and local consumption",
+      "question": "Which option shows a valid example of Water Resources application in \"Water Resources\"?",
+      "correct_answer": "An example where Water Resources application is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "Integrated treatment of land and water within a drainage basin",
-        "Decline of aquifer levels due to extraction exceeding recharge",
-        "Conflict among states over allocation and control of shared river waters"
+        "An example where multipurpose projects is used without relevance to chapter context.",
+        "An example where resource planning is memorised but not applied logically.",
+        "An example where sustainable use is stated without evidence."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "The immediate policy focus of \"Rainwater Harvesting\" is usually:",
-      "correct_answer": "Improved local water security and groundwater replenishment",
+      "question": "Choose the most defensible correction for this claim in \"Water Resources\": \"Water Resources inference works without constraints.\"",
+      "correct_answer": "Water Resources Inference works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Legal and political contest over river governance",
-        "Rising irrigation costs and long term water stress",
-        "Soil conservation with sustained water availability"
+        "Water Conflict removes the need for all constraints in every case.",
+        "Land Degradation is always equivalent to Water Resources inference, regardless of context.",
+        "Watershed is enough even when data contradict the claim."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "If an examiner asks for a concept linked to \"improved local water security and groundwater replenishment\", the most accurate answer is:",
-      "correct_answer": "Rainwater Harvesting",
+      "question": "Assertion-Reason in \"Water Resources\": Assertion: watershed is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
       "incorrect_answers": [
-        "Interstate Water Dispute",
-        "Watershed Management",
-        "Groundwater Depletion"
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which term correctly completes this statement: Collection and storage of rainwater for recharge and local consumption.",
-      "correct_answer": "Rainwater Harvesting",
+      "question": "Which interpretation is strongest when groundwater depletion and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
       "incorrect_answers": [
-        "Groundwater Depletion",
-        "Watershed Management",
-        "Interstate Water Dispute"
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Choose the correctly matched pair from \"Water Resources\".",
-      "correct_answer": "Rainwater Harvesting - improved local water security and groundwater replenishment",
+      "question": "Which inference is most rigorous for water conflict in \"Water Resources\"?",
+      "correct_answer": "The inference that links water conflict to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "Watershed Management - improved local water security and groundwater replenishment",
-        "Rainwater Harvesting - rising irrigation costs and long term water stress",
-        "Interstate Water Dispute - soil conservation with sustained water availability"
+        "An inference that substitutes watershed without checking relevance.",
+        "An inference that cites Water Resources but skips logical steps.",
+        "An inference that repeats groundwater depletion without interpretation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which of the following is a valid application of \"Rainwater Harvesting\"?",
-      "correct_answer": "Rooftop systems channel monsoon water into storage tanks and recharge pits",
+      "question": "In \"Water Resources\", which statement is most accurate about resource planning?",
+      "correct_answer": "Resource Planning is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Check dams contour bunding and vegetation reduce runoff in a catchment",
-        "Intensive tube well irrigation lowers water tables year after year",
-        "Upstream storage decisions reduce downstream seasonal flows"
+        "Water Resources Application can replace all chapter logic without assumptions.",
+        "Water Resources Inference is valid only if core conditions are ignored.",
+        "Water Conflict is a memory cue, not a defensible explanation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", which concept best matches: integrated treatment of land and water within a drainage basin?",
-      "correct_answer": "Watershed Management",
+      "question": "A learner applies sustainable use in a new problem from \"Water Resources\". What is the best first step?",
+      "correct_answer": "Define conditions, apply sustainable use stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Groundwater Depletion",
-        "Interstate Water Dispute",
-        "Dam Induced Displacement"
+        "Start from watershed and skip checking constraints.",
+        "Use resource conservation as a shortcut and avoid interpretation.",
+        "Pick land degradation by intuition and finalise without verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "A case described as \"check dams contour bunding and vegetation reduce runoff in a catchment\" is the best example of:",
-      "correct_answer": "Watershed Management",
+      "question": "Which option shows a valid example of land degradation in \"Water Resources\"?",
+      "correct_answer": "An example where land degradation is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "Interstate Water Dispute",
-        "Dam Induced Displacement",
-        "Groundwater Depletion"
+        "An example where groundwater depletion is used without relevance to chapter context.",
+        "An example where Water Resources inference is memorised but not applied logically.",
+        "An example where multipurpose projects is stated without evidence."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", the term \"Watershed Management\" is most closely associated with:",
-      "correct_answer": "Integrated treatment of land and water within a drainage basin",
+      "question": "Choose the most defensible correction for this claim in \"Water Resources\": \"resource conservation works without constraints.\"",
+      "correct_answer": "Resource Conservation works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Decline of aquifer levels due to extraction exceeding recharge",
-        "Conflict among states over allocation and control of shared river waters",
-        "Forced relocation of people due to submergence from reservoir projects"
+        "Water Resources Application removes the need for all constraints in every case.",
+        "Land Degradation is always equivalent to resource conservation, regardless of context.",
+        "Groundwater Depletion is enough even when data contradict the claim."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "The immediate policy focus of \"Watershed Management\" is usually:",
-      "correct_answer": "Soil conservation with sustained water availability",
+      "question": "Assertion-Reason in \"Water Resources\": Assertion: Water Resources is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
       "incorrect_answers": [
-        "Social justice and rehabilitation challenges in water planning",
-        "Legal and political contest over river governance",
-        "Rising irrigation costs and long term water stress"
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "If an examiner asks for a concept linked to \"soil conservation with sustained water availability\", the most accurate answer is:",
-      "correct_answer": "Watershed Management",
+      "question": "Which interpretation is strongest when Water Resources application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
       "incorrect_answers": [
-        "Dam Induced Displacement",
-        "Groundwater Depletion",
-        "Interstate Water Dispute"
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which term correctly completes this statement: Integrated treatment of land and water within a drainage basin.",
-      "correct_answer": "Watershed Management",
+      "question": "Which inference is most rigorous for Water Resources inference in \"Water Resources\"?",
+      "correct_answer": "The inference that links Water Resources inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "Interstate Water Dispute",
-        "Groundwater Depletion",
-        "Dam Induced Displacement"
+        "An inference that substitutes groundwater depletion without checking relevance.",
+        "An inference that cites Water Resources framework but skips logical steps.",
+        "An inference that repeats land degradation without interpretation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Choose the correctly matched pair from \"Water Resources\".",
-      "correct_answer": "Watershed Management - soil conservation with sustained water availability",
+      "question": "In \"Water Resources\", which response applies Water Resources application using correct assumptions, evidence, and verification? (Practice Set 23)",
+      "correct_answer": "Apply Water Resources application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Groundwater Depletion - soil conservation with sustained water availability",
-        "Watershed Management - legal and political contest over river governance",
-        "Dam Induced Displacement - rising irrigation costs and long term water stress"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which of the following is a valid application of \"Watershed Management\"?",
-      "correct_answer": "Check dams contour bunding and vegetation reduce runoff in a catchment",
+      "question": "In \"Water Resources\", which response applies Water Resources inference using correct assumptions, evidence, and verification? (Practice Set 24)",
+      "correct_answer": "Apply Water Resources inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Intensive tube well irrigation lowers water tables year after year",
-        "Upstream storage decisions reduce downstream seasonal flows",
-        "Villages lose land and livelihoods after reservoir expansion"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", which concept best matches: decline of aquifer levels due to extraction exceeding recharge?",
-      "correct_answer": "Groundwater Depletion",
+      "question": "In \"Water Resources\", which response applies watershed using correct assumptions, evidence, and verification? (Practice Set 25)",
+      "correct_answer": "Apply watershed stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Interstate Water Dispute",
-        "Dam Induced Displacement",
-        "Multipurpose River Project"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "A case described as \"intensive tube well irrigation lowers water tables year after year\" is the best example of:",
-      "correct_answer": "Groundwater Depletion",
+      "question": "In \"Water Resources\", which response applies multipurpose projects using correct assumptions, evidence, and verification? (Practice Set 26)",
+      "correct_answer": "Apply multipurpose projects stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Dam Induced Displacement",
-        "Multipurpose River Project",
-        "Interstate Water Dispute"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", the term \"Groundwater Depletion\" is most closely associated with:",
-      "correct_answer": "Decline of aquifer levels due to extraction exceeding recharge",
+      "question": "In \"Water Resources\", which response applies groundwater depletion using correct assumptions, evidence, and verification? (Practice Set 27)",
+      "correct_answer": "Apply groundwater depletion stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Conflict among states over allocation and control of shared river waters",
-        "Forced relocation of people due to submergence from reservoir projects",
-        "Large infrastructure integrating irrigation power flood control and water supply functions"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "The immediate policy focus of \"Groundwater Depletion\" is usually:",
-      "correct_answer": "Rising irrigation costs and long term water stress",
+      "question": "In \"Water Resources\", which response applies water conflict using correct assumptions, evidence, and verification? (Practice Set 28)",
+      "correct_answer": "Apply water conflict stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Multi sectoral water control and allocation",
-        "Social justice and rehabilitation challenges in water planning",
-        "Legal and political contest over river governance"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "If an examiner asks for a concept linked to \"rising irrigation costs and long term water stress\", the most accurate answer is:",
-      "correct_answer": "Groundwater Depletion",
+      "question": "In \"Water Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Multipurpose River Project",
-        "Interstate Water Dispute",
-        "Dam Induced Displacement"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which term correctly completes this statement: Decline of aquifer levels due to extraction exceeding recharge.",
-      "correct_answer": "Groundwater Depletion",
+      "question": "In \"Water Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Dam Induced Displacement",
-        "Interstate Water Dispute",
-        "Multipurpose River Project"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Choose the correctly matched pair from \"Water Resources\".",
-      "correct_answer": "Groundwater Depletion - rising irrigation costs and long term water stress",
+      "question": "In \"Water Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Interstate Water Dispute - rising irrigation costs and long term water stress",
-        "Groundwater Depletion - social justice and rehabilitation challenges in water planning",
-        "Multipurpose River Project - legal and political contest over river governance"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which of the following is a valid application of \"Groundwater Depletion\"?",
-      "correct_answer": "Intensive tube well irrigation lowers water tables year after year",
+      "question": "In \"Water Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Upstream storage decisions reduce downstream seasonal flows",
-        "Villages lose land and livelihoods after reservoir expansion",
-        "A dam network supports canals electricity and seasonal flood management"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", which concept best matches: conflict among states over allocation and control of shared river waters?",
-      "correct_answer": "Interstate Water Dispute",
+      "question": "In \"Water Resources\", which response applies Water Resources using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply Water Resources stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Dam Induced Displacement",
-        "Multipurpose River Project",
-        "Rainwater Harvesting"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "A case described as \"upstream storage decisions reduce downstream seasonal flows\" is the best example of:",
-      "correct_answer": "Interstate Water Dispute",
+      "question": "In \"Water Resources\", which response applies Water Resources framework using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply Water Resources framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Multipurpose River Project",
-        "Rainwater Harvesting",
-        "Dam Induced Displacement"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", the term \"Interstate Water Dispute\" is most closely associated with:",
-      "correct_answer": "Conflict among states over allocation and control of shared river waters",
+      "question": "In \"Water Resources\", which response applies Water Resources application using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply Water Resources application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Forced relocation of people due to submergence from reservoir projects",
-        "Large infrastructure integrating irrigation power flood control and water supply functions",
-        "Collection and storage of rainwater for recharge and local consumption"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "The immediate policy focus of \"Interstate Water Dispute\" is usually:",
-      "correct_answer": "Legal and political contest over river governance",
+      "question": "In \"Water Resources\", which response applies Water Resources inference using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply Water Resources inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Improved local water security and groundwater replenishment",
-        "Multi sectoral water control and allocation",
-        "Social justice and rehabilitation challenges in water planning"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "If an examiner asks for a concept linked to \"legal and political contest over river governance\", the most accurate answer is:",
-      "correct_answer": "Interstate Water Dispute",
+      "question": "In \"Water Resources\", which response applies watershed using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply watershed stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Rainwater Harvesting",
-        "Dam Induced Displacement",
-        "Multipurpose River Project"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which term correctly completes this statement: Conflict among states over allocation and control of shared river waters.",
-      "correct_answer": "Interstate Water Dispute",
+      "question": "In \"Water Resources\", which response applies multipurpose projects using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply multipurpose projects stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Multipurpose River Project",
-        "Dam Induced Displacement",
-        "Rainwater Harvesting"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Choose the correctly matched pair from \"Water Resources\".",
-      "correct_answer": "Interstate Water Dispute - legal and political contest over river governance",
+      "question": "In \"Water Resources\", which response applies groundwater depletion using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply groundwater depletion stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Dam Induced Displacement - legal and political contest over river governance",
-        "Interstate Water Dispute - multi sectoral water control and allocation",
-        "Rainwater Harvesting - social justice and rehabilitation challenges in water planning"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which of the following is a valid application of \"Interstate Water Dispute\"?",
-      "correct_answer": "Upstream storage decisions reduce downstream seasonal flows",
+      "question": "In \"Water Resources\", which response applies water conflict using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply water conflict stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Villages lose land and livelihoods after reservoir expansion",
-        "A dam network supports canals electricity and seasonal flood management",
-        "Rooftop systems channel monsoon water into storage tanks and recharge pits"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", which concept best matches: forced relocation of people due to submergence from reservoir projects?",
-      "correct_answer": "Dam Induced Displacement",
+      "question": "In \"Water Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Multipurpose River Project",
-        "Rainwater Harvesting",
-        "Watershed Management"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "A case described as \"villages lose land and livelihoods after reservoir expansion\" is the best example of:",
-      "correct_answer": "Dam Induced Displacement",
+      "question": "In \"Water Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Rainwater Harvesting",
-        "Watershed Management",
-        "Multipurpose River Project"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "In \"Water Resources\", the term \"Dam Induced Displacement\" is most closely associated with:",
-      "correct_answer": "Forced relocation of people due to submergence from reservoir projects",
+      "question": "In \"Water Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Large infrastructure integrating irrigation power flood control and water supply functions",
-        "Collection and storage of rainwater for recharge and local consumption",
-        "Integrated treatment of land and water within a drainage basin"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "The immediate policy focus of \"Dam Induced Displacement\" is usually:",
-      "correct_answer": "Social justice and rehabilitation challenges in water planning",
+      "question": "In \"Water Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Soil conservation with sustained water availability",
-        "Improved local water security and groundwater replenishment",
-        "Multi sectoral water control and allocation"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "If an examiner asks for a concept linked to \"social justice and rehabilitation challenges in water planning\", the most accurate answer is:",
-      "correct_answer": "Dam Induced Displacement",
+      "question": "In \"Water Resources\", which response applies Water Resources using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply Water Resources stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Watershed Management",
-        "Multipurpose River Project",
-        "Rainwater Harvesting"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which term correctly completes this statement: Forced relocation of people due to submergence from reservoir projects.",
-      "correct_answer": "Dam Induced Displacement",
+      "question": "In \"Water Resources\", which response applies Water Resources framework using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply Water Resources framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Rainwater Harvesting",
-        "Multipurpose River Project",
-        "Watershed Management"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Choose the correctly matched pair from \"Water Resources\".",
-      "correct_answer": "Dam Induced Displacement - social justice and rehabilitation challenges in water planning",
+      "question": "In \"Water Resources\", which response applies Water Resources application using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply Water Resources application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Multipurpose River Project - social justice and rehabilitation challenges in water planning",
-        "Dam Induced Displacement - improved local water security and groundwater replenishment",
-        "Watershed Management - multi sectoral water control and allocation"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Which of the following is a valid application of \"Dam Induced Displacement\"?",
-      "correct_answer": "Villages lose land and livelihoods after reservoir expansion",
+      "question": "In \"Water Resources\", which response applies Water Resources inference using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply Water Resources inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "A dam network supports canals electricity and seasonal flood management",
-        "Rooftop systems channel monsoon water into storage tanks and recharge pits",
-        "Check dams contour bunding and vegetation reduce runoff in a catchment"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "What is a major argument made by critics of large dams?",
-      "correct_answer": "Social and ecological costs can outweigh aggregate benefits without fair rehabilitation",
+      "question": "In \"Water Resources\", which response applies watershed using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply watershed stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Dams cannot generate hydroelectricity",
-        "Large dams eliminate all evaporation losses",
-        "Canal networks never require maintenance"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Water Resources",
-      "question": "Traditional tank systems are especially effective in peninsular India because they",
-      "correct_answer": "capture seasonal runoff in hard rock regions with variable rainfall",
+      "question": "In \"Water Resources\", which response applies multipurpose projects using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply multipurpose projects stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "depend on perennial glacier melt",
-        "replace all groundwater sources",
-        "work only in alluvial floodplains"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies groundwater depletion using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply groundwater depletion stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies water conflict using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply water conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply Water Resources stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources framework using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply Water Resources framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources application using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply Water Resources application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources inference using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply Water Resources inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies watershed using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply watershed stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies multipurpose projects using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply multipurpose projects stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies groundwater depletion using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply groundwater depletion stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies water conflict using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply water conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Water Resources stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources framework using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Water Resources framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources application using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply Water Resources application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources inference using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply Water Resources inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies watershed using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply watershed stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies multipurpose projects using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply multipurpose projects stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies groundwater depletion using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply groundwater depletion stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies water conflict using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply water conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply Water Resources stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources framework using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply Water Resources framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply Water Resources application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources inference using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply Water Resources inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies watershed using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply watershed stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies multipurpose projects using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply multipurpose projects stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies groundwater depletion using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply groundwater depletion stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies water conflict using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply water conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies resource planning using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply resource planning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies sustainable use using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply sustainable use stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies land degradation using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply land degradation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies resource conservation using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply resource conservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply Water Resources stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources framework using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply Water Resources framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources application using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Water Resources application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies Water Resources inference using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Water Resources inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies watershed using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply watershed stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies multipurpose projects using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply multipurpose projects stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies groundwater depletion using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply groundwater depletion stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Water Resources",
+      "question": "In \"Water Resources\", which response applies water conflict using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply water conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     }
   ]

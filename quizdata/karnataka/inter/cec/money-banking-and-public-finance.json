@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which statement is most accurate about credit?",
+      "correct_answer": "Credit is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Formal Banking can replace all chapter logic without assumptions.",
+        "Money, Banking And Public Finance is valid only if core conditions are ignored.",
+        "Governance Mechanism is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "A learner applies interest in a new problem from \"Money, Banking and Public Finance\". What is the best first step?",
+      "correct_answer": "Define conditions, apply interest stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from formal banking and skip checking constraints.",
+        "Use Money, Banking and Public Finance inference as a shortcut and avoid interpretation.",
+        "Pick credit by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which option shows a valid example of formal banking in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "An example where formal banking is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where macroeconomic indicator is used without relevance to chapter context.",
+        "An example where business decision is memorised but not applied logically.",
+        "An example where interest is stated without evidence."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Choose the most defensible correction for this claim in \"Money, Banking and Public Finance\": \"financial inclusion works without constraints.\"",
+      "correct_answer": "Financial Inclusion works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Money, Banking And Public Finance Inference removes the need for all constraints in every case.",
+        "Governance Mechanism is always equivalent to financial inclusion, regardless of context.",
+        "Business Decision is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Assertion-Reason in \"Money, Banking and Public Finance\": Assertion: microeconomic analysis is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which mismatch is incorrect?",
+      "correct_answer": "Macroeconomic Indicator - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Credit - applied without confirming assumptions.",
+        "Money, Banking And Public Finance Inference - interpreted against contradictory data.",
+        "Business Decision - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which interpretation is strongest when constitutional principle and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which inference is most rigorous for governance mechanism in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "The inference that links governance mechanism to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes business decision without checking relevance.",
+        "An inference that cites macroeconomic indicator but skips logical steps.",
+        "An inference that repeats Money, Banking and Public Finance inference without interpretation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which statement is most accurate about accounting treatment?",
+      "correct_answer": "Accounting Treatment is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Formal Banking can replace all chapter logic without assumptions.",
+        "Money, Banking And Public Finance Application is valid only if core conditions are ignored.",
+        "Business Decision is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "A learner applies business decision in a new problem from \"Money, Banking and Public Finance\". What is the best first step?",
+      "correct_answer": "Define conditions, apply business decision stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from credit and skip checking constraints.",
+        "Use microeconomic analysis as a shortcut and avoid interpretation.",
+        "Pick Money, Banking and Public Finance framework by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which option shows a valid example of Money, Banking and Public Finance in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "An example where Money, Banking and Public Finance is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where constitutional principle is used without relevance to chapter context.",
+        "An example where Money, Banking and Public Finance inference is memorised but not applied logically.",
+        "An example where credit is stated without evidence."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Choose the most defensible correction for this claim in \"Money, Banking and Public Finance\": \"Money, Banking and Public Finance framework works without constraints.\"",
+      "correct_answer": "Money, Banking And Public Finance Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Governance Mechanism removes the need for all constraints in every case.",
+        "Microeconomic Analysis is always equivalent to Money, Banking and Public Finance framework, regardless of context.",
+        "Accounting Treatment is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Assertion-Reason in \"Money, Banking and Public Finance\": Assertion: Money, Banking and Public Finance application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which interpretation is strongest when credit and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which inference is most rigorous for interest in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "The inference that links interest to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Money, Banking and Public Finance framework without checking relevance.",
+        "An inference that cites accounting treatment but skips logical steps.",
+        "An inference that repeats credit without interpretation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which statement is most accurate about formal banking?",
+      "correct_answer": "Formal Banking is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Accounting Treatment can replace all chapter logic without assumptions.",
+        "Governance Mechanism is valid only if core conditions are ignored.",
+        "Money, Banking And Public Finance Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "A learner applies financial inclusion in a new problem from \"Money, Banking and Public Finance\". What is the best first step?",
+      "correct_answer": "Define conditions, apply financial inclusion stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Money, Banking and Public Finance application and skip checking constraints.",
+        "Use business decision as a shortcut and avoid interpretation.",
+        "Pick credit by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which option shows a valid example of microeconomic analysis in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "An example where microeconomic analysis is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where credit is used without relevance to chapter context.",
+        "An example where business decision is memorised but not applied logically.",
+        "An example where Money, Banking and Public Finance is stated without evidence."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Choose the most defensible correction for this claim in \"Money, Banking and Public Finance\": \"macroeconomic indicator works without constraints.\"",
+      "correct_answer": "Macroeconomic Indicator works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Microeconomic Analysis removes the need for all constraints in every case.",
+        "Interest is always equivalent to macroeconomic indicator, regardless of context.",
+        "Money, Banking And Public Finance is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Assertion-Reason in \"Money, Banking and Public Finance\": Assertion: constitutional principle is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which interpretation is strongest when accounting treatment and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which inference is most rigorous for business decision in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "The inference that links business decision to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Money, Banking and Public Finance framework without checking relevance.",
+        "An inference that cites interest but skips logical steps.",
+        "An inference that repeats accounting treatment without interpretation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which statement is most accurate about Money, Banking and Public Finance?",
+      "correct_answer": "Money, Banking And Public Finance is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Business Decision can replace all chapter logic without assumptions.",
+        "Credit is valid only if core conditions are ignored.",
+        "Governance Mechanism is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "A learner applies Money, Banking and Public Finance framework in a new problem from \"Money, Banking and Public Finance\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Money, Banking and Public Finance framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Money, Banking and Public Finance and skip checking constraints.",
+        "Use governance mechanism as a shortcut and avoid interpretation.",
+        "Pick accounting treatment by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which option shows a valid example of Money, Banking and Public Finance application in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "An example where Money, Banking and Public Finance application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where constitutional principle is used without relevance to chapter context.",
+        "An example where financial inclusion is memorised but not applied logically.",
+        "An example where Money, Banking and Public Finance is stated without evidence."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Choose the most defensible correction for this claim in \"Money, Banking and Public Finance\": \"Money, Banking and Public Finance inference works without constraints.\"",
+      "correct_answer": "Money, Banking And Public Finance Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Interest removes the need for all constraints in every case.",
+        "Money, Banking And Public Finance Application is always equivalent to Money, Banking and Public Finance inference, regardless of context.",
+        "Money, Banking And Public Finance Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Assertion-Reason in \"Money, Banking and Public Finance\": Assertion: credit is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which interpretation is strongest when formal banking and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which inference is most rigorous for financial inclusion in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "The inference that links financial inclusion to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes business decision without checking relevance.",
+        "An inference that cites governance mechanism but skips logical steps.",
+        "An inference that repeats interest without interpretation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which statement is most accurate about microeconomic analysis?",
+      "correct_answer": "Microeconomic Analysis is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Constitutional Principle can replace all chapter logic without assumptions.",
+        "Formal Banking is valid only if core conditions are ignored.",
+        "Governance Mechanism is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "A learner applies macroeconomic indicator in a new problem from \"Money, Banking and Public Finance\". What is the best first step?",
+      "correct_answer": "Define conditions, apply macroeconomic indicator stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from accounting treatment and skip checking constraints.",
+        "Use credit as a shortcut and avoid interpretation.",
+        "Pick financial inclusion by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which option shows a valid example of constitutional principle in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "An example where constitutional principle is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where microeconomic analysis is used without relevance to chapter context.",
+        "An example where Money, Banking and Public Finance framework is memorised but not applied logically.",
+        "An example where credit is stated without evidence."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Choose the most defensible correction for this claim in \"Money, Banking and Public Finance\": \"governance mechanism works without constraints.\"",
+      "correct_answer": "Governance Mechanism works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Money, Banking And Public Finance Application removes the need for all constraints in every case.",
+        "Constitutional Principle is always equivalent to governance mechanism, regardless of context.",
+        "Financial Inclusion is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Assertion-Reason in \"Money, Banking and Public Finance\": Assertion: accounting treatment is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which interpretation is strongest when Money, Banking and Public Finance and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which inference is most rigorous for Money, Banking and Public Finance framework in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "The inference that links Money, Banking and Public Finance framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes financial inclusion without checking relevance.",
+        "An inference that cites business decision but skips logical steps.",
+        "An inference that repeats credit without interpretation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which statement is most accurate about Money, Banking and Public Finance application?",
+      "correct_answer": "Money, Banking And Public Finance Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Business Decision can replace all chapter logic without assumptions.",
+        "Money, Banking And Public Finance Framework is valid only if core conditions are ignored.",
+        "Formal Banking is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "A learner applies Money, Banking and Public Finance inference in a new problem from \"Money, Banking and Public Finance\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Money, Banking and Public Finance inference stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from governance mechanism and skip checking constraints.",
+        "Use Money, Banking and Public Finance application as a shortcut and avoid interpretation.",
+        "Pick formal banking by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which option shows a valid example of credit in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "An example where credit is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where constitutional principle is used without relevance to chapter context.",
+        "An example where Money, Banking and Public Finance application is memorised but not applied logically.",
+        "An example where financial inclusion is stated without evidence."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Choose the most defensible correction for this claim in \"Money, Banking and Public Finance\": \"interest works without constraints.\"",
+      "correct_answer": "Interest works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Business Decision removes the need for all constraints in every case.",
+        "Money, Banking And Public Finance Application is always equivalent to interest, regardless of context.",
+        "Money, Banking And Public Finance is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Assertion-Reason in \"Money, Banking and Public Finance\": Assertion: formal banking is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which interpretation is strongest when microeconomic analysis and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which inference is most rigorous for macroeconomic indicator in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "The inference that links macroeconomic indicator to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes microeconomic analysis without checking relevance.",
+        "An inference that cites formal banking but skips logical steps.",
+        "An inference that repeats governance mechanism without interpretation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which statement is most accurate about constitutional principle?",
+      "correct_answer": "Constitutional Principle is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Microeconomic Analysis can replace all chapter logic without assumptions.",
+        "Money, Banking And Public Finance Application is valid only if core conditions are ignored.",
+        "Financial Inclusion is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "A learner applies governance mechanism in a new problem from \"Money, Banking and Public Finance\". What is the best first step?",
+      "correct_answer": "Define conditions, apply governance mechanism stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from microeconomic analysis and skip checking constraints.",
+        "Use Money, Banking and Public Finance framework as a shortcut and avoid interpretation.",
+        "Pick formal banking by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which option shows a valid example of accounting treatment in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "An example where accounting treatment is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where formal banking is used without relevance to chapter context.",
+        "An example where governance mechanism is memorised but not applied logically.",
+        "An example where Money, Banking and Public Finance framework is stated without evidence."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Choose the most defensible correction for this claim in \"Money, Banking and Public Finance\": \"business decision works without constraints.\"",
+      "correct_answer": "Business Decision works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Interest removes the need for all constraints in every case.",
+        "Credit is always equivalent to business decision, regardless of context.",
+        "Governance Mechanism is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Assertion-Reason in \"Money, Banking and Public Finance\": Assertion: Money, Banking and Public Finance is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which interpretation is strongest when Money, Banking and Public Finance application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "Which inference is most rigorous for Money, Banking and Public Finance inference in \"Money, Banking and Public Finance\"?",
+      "correct_answer": "The inference that links Money, Banking and Public Finance inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes formal banking without checking relevance.",
+        "An inference that cites credit but skips logical steps.",
+        "An inference that repeats Money, Banking and Public Finance without interpretation."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies accounting treatment using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply accounting treatment stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies business decision using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply business decision stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply Money, Banking and Public Finance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply Money, Banking and Public Finance framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply Money, Banking and Public Finance application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply Money, Banking and Public Finance inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies credit using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply credit stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies interest using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply interest stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies formal banking using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply formal banking stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies financial inclusion using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply financial inclusion stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies microeconomic analysis using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply microeconomic analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies macroeconomic indicator using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply macroeconomic indicator stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies constitutional principle using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply constitutional principle stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies governance mechanism using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply governance mechanism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies accounting treatment using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply accounting treatment stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies business decision using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply business decision stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply Money, Banking and Public Finance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance framework using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply Money, Banking and Public Finance framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance application using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Money, Banking and Public Finance application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance inference using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Money, Banking and Public Finance inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies credit using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply credit stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies interest using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply interest stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies formal banking using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply formal banking stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies financial inclusion using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply financial inclusion stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies microeconomic analysis using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply microeconomic analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies macroeconomic indicator using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply macroeconomic indicator stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies constitutional principle using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply constitutional principle stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies governance mechanism using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply governance mechanism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies accounting treatment using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply accounting treatment stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies business decision using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply business decision stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply Money, Banking and Public Finance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance framework using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply Money, Banking and Public Finance framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply Money, Banking and Public Finance application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance inference using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply Money, Banking and Public Finance inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies credit using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply credit stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies interest using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply interest stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies formal banking using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply formal banking stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies financial inclusion using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply financial inclusion stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies microeconomic analysis using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply microeconomic analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies macroeconomic indicator using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply macroeconomic indicator stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies constitutional principle using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply constitutional principle stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies governance mechanism using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply governance mechanism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies accounting treatment using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply accounting treatment stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies business decision using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply business decision stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Money, Banking and Public Finance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance framework using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Money, Banking and Public Finance framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance application using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply Money, Banking and Public Finance application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies Money, Banking and Public Finance inference using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply Money, Banking and Public Finance inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies credit using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply credit stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "CEC",
+      "subject": "CEC",
+      "chapter": "Money, Banking and Public Finance",
+      "question": "In \"Money, Banking and Public Finance\", which response applies interest using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply interest stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

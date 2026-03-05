@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" అధ్యాయ సందర్భంలో \"ప్రధాన భావం\" ను సరైన రీతిలో చూపించే ఎంపిక ఏది?",
+      "correct_answer": "\"ప్రధాన భావం\" ను సందర్భం, తర్కం, పాఠ్య ఆధారాలతో కలిపి చూపించే ఎంపిక.",
+      "incorrect_answers": [
+        "\"వాక్య నిర్మాణం\" ను సందర్భం లేకుండా ఉపయోగించే ఎంపిక.",
+        "\"విమర్శనాత్మక వ్యాఖ్యానం\" ను కంఠస్థంగా రాసి తార్కికత చూపని ఎంపిక.",
+        "\"వ్యాకరణ శుద్ధి\" ను ఆధారాలు లేకుండా నిర్ధారణగా చెప్పే ఎంపిక."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"భావార్థ విశ్లేషణ\" ఆధారంగా నిర్ణయం తీసుకునే ముందు చేయాల్సిన మొదటి పని ఏమిటి?",
+      "correct_answer": "\"భావార్థ విశ్లేషణ\" యొక్క అర్థాన్ని స్పష్టంచేసి పాఠ్యంలో ఉన్న ఆధారాలను పరిశీలించడం.",
+      "incorrect_answers": [
+        "\"ఉన్నత గద్య వివేచనం framework\" ని తీసుకుని నేరుగా సమాధానం నిర్ణయించడం.",
+        "\"పాఠ్య ఆధార నిరూపణ\" ని వ్యాకరణ దృష్టితో మాత్రమే చూసి భావాన్ని వదిలేయడం.",
+        "\"సందర్భానుసార పదప్రయోగం\" ని ప్రధానంగా తీసుకుని మిగిలిన తర్కాన్ని వదిలేయడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"సందర్భానుసార పదప్రయోగం\" కు సంబంధించిన దోష నిర్ధారణలో సరైన దారి ఏది?",
+      "correct_answer": "దోషాన్ని గుర్తించి \"సందర్భానుసార పదప్రయోగం\" ను భావం-శైలి-తర్కంతో పునర్నిర్మించడం.",
+      "incorrect_answers": [
+        "\"విమర్శనాత్మక వ్యాఖ్యానం\" కలిపి అసలు సందర్భాన్ని మార్చేయడం.",
+        "\"ఉన్నత గద్య వివేచనం application\" మరియు \"ఉన్నత గద్య వివేచనం\" ను కలిపి ఆధారంలేని వ్యాఖ్యానం ఇవ్వడం.",
+        "దోషాన్ని పట్టించుకోకుండా పదాల సంఖ్యకే పరిమితం కావడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "Assertion-Reason (\"ఉన్నత గద్య వివేచనం\"): Assertion: \"వాక్య నిర్మాణం\" అవగాహన అవసరం. Reason: ఇది ఆధారపూర్వక వ్యాఖ్యానానికి దారి తీస్తుంది. సరైన ఎంపికను ఎంచుకోండి.",
+      "correct_answer": "Assertion, Reason రెండూ సరైనవి మరియు Reason, Assertion‌ను సమర్థంగా వివరిస్తుంది.",
+      "incorrect_answers": [
+        "Assertion, Reason రెండూ సరైనవి కానీ Reason, Assertion‌ను వివరిచదు.",
+        "Assertion సరైనది, Reason తప్పు.",
+        "Assertion తప్పు, Reason సరైనది."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" అధ్యాయ సందర్భంలో \"వ్యాకరణ శుద్ధి\" ను సరైన రీతిలో చూపించే ఎంపిక ఏది?",
+      "correct_answer": "\"వ్యాకరణ శుద్ధి\" ను సందర్భం, తర్కం, పాఠ్య ఆధారాలతో కలిపి చూపించే ఎంపిక.",
+      "incorrect_answers": [
+        "\"విమర్శనాత్మక వ్యాఖ్యానం\" ను సందర్భం లేకుండా ఉపయోగించే ఎంపిక.",
+        "\"సందర్భానుసార పదప్రయోగం\" ను కంఠస్థంగా రాసి తార్కికత చూపని ఎంపిక.",
+        "\"భావార్థ విశ్లేషణ\" ను ఆధారాలు లేకుండా నిర్ధారణగా చెప్పే ఎంపిక."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"శైలి మరియు వ్యక్తీకరణ\" ఆధారంగా నిర్ణయం తీసుకునే ముందు చేయాల్సిన మొదటి పని ఏమిటి?",
+      "correct_answer": "\"శైలి మరియు వ్యక్తీకరణ\" యొక్క అర్థాన్ని స్పష్టంచేసి పాఠ్యంలో ఉన్న ఆధారాలను పరిశీలించడం.",
+      "incorrect_answers": [
+        "\"ఉన్నత గద్య వివేచనం\" ని తీసుకుని నేరుగా సమాధానం నిర్ణయించడం.",
+        "\"వ్యాకరణ శుద్ధి\" ని వ్యాకరణ దృష్టితో మాత్రమే చూసి భావాన్ని వదిలేయడం.",
+        "\"ఉన్నత గద్య వివేచనం framework\" ని ప్రధానంగా తీసుకుని మిగిలిన తర్కాన్ని వదిలేయడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"తార్కిక నిర్ధారణ\" కు సంబంధించిన దోష నిర్ధారణలో సరైన దారి ఏది?",
+      "correct_answer": "దోషాన్ని గుర్తించి \"తార్కిక నిర్ధారణ\" ను భావం-శైలి-తర్కంతో పునర్నిర్మించడం.",
+      "incorrect_answers": [
+        "\"వ్యాకరణ శుద్ధి\" కలిపి అసలు సందర్భాన్ని మార్చేయడం.",
+        "\"ఉన్నత గద్య వివేచనం\" మరియు \"పాఠ్య ఆధార నిరూపణ\" ను కలిపి ఆధారంలేని వ్యాఖ్యానం ఇవ్వడం.",
+        "దోషాన్ని పట్టించుకోకుండా పదాల సంఖ్యకే పరిమితం కావడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "Assertion-Reason (\"ఉన్నత గద్య వివేచనం\"): Assertion: \"పాఠ్య ఆధార నిరూపణ\" అవగాహన అవసరం. Reason: ఇది ఆధారపూర్వక వ్యాఖ్యానానికి దారి తీస్తుంది. సరైన ఎంపికను ఎంచుకోండి.",
+      "correct_answer": "Assertion, Reason రెండూ సరైనవి మరియు Reason, Assertion‌ను సమర్థంగా వివరిస్తుంది.",
+      "incorrect_answers": [
+        "Assertion, Reason రెండూ సరైనవి కానీ Reason, Assertion‌ను వివరిచదు.",
+        "Assertion సరైనది, Reason తప్పు.",
+        "Assertion తప్పు, Reason సరైనది."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" అధ్యాయ సందర్భంలో \"అర్థ ఛాయల గుర్తింపు\" ను సరైన రీతిలో చూపించే ఎంపిక ఏది?",
+      "correct_answer": "\"అర్థ ఛాయల గుర్తింపు\" ను సందర్భం, తర్కం, పాఠ్య ఆధారాలతో కలిపి చూపించే ఎంపిక.",
+      "incorrect_answers": [
+        "\"వాక్య నిర్మాణం\" ను సందర్భం లేకుండా ఉపయోగించే ఎంపిక.",
+        "\"ప్రధాన భావం\" ను కంఠస్థంగా రాసి తార్కికత చూపని ఎంపిక.",
+        "\"సందర్భానుసార పదప్రయోగం\" ను ఆధారాలు లేకుండా నిర్ధారణగా చెప్పే ఎంపిక."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"విమర్శనాత్మక వ్యాఖ్యానం\" ఆధారంగా నిర్ణయం తీసుకునే ముందు చేయాల్సిన మొదటి పని ఏమిటి?",
+      "correct_answer": "\"విమర్శనాత్మక వ్యాఖ్యానం\" యొక్క అర్థాన్ని స్పష్టంచేసి పాఠ్యంలో ఉన్న ఆధారాలను పరిశీలించడం.",
+      "incorrect_answers": [
+        "\"సందర్భానుసార పదప్రయోగం\" ని తీసుకుని నేరుగా సమాధానం నిర్ణయించడం.",
+        "\"శైలి మరియు వ్యక్తీకరణ\" ని వ్యాకరణ దృష్టితో మాత్రమే చూసి భావాన్ని వదిలేయడం.",
+        "\"వ్యాకరణ శుద్ధి\" ని ప్రధానంగా తీసుకుని మిగిలిన తర్కాన్ని వదిలేయడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"ఉన్నత గద్య వివేచనం\" కు సంబంధించిన దోష నిర్ధారణలో సరైన దారి ఏది?",
+      "correct_answer": "దోషాన్ని గుర్తించి \"ఉన్నత గద్య వివేచనం\" ను భావం-శైలి-తర్కంతో పునర్నిర్మించడం.",
+      "incorrect_answers": [
+        "\"ఉన్నత గద్య వివేచనం framework\" కలిపి అసలు సందర్భాన్ని మార్చేయడం.",
+        "\"వాక్య నిర్మాణం\" మరియు \"ఉన్నత గద్య వివేచనం inference\" ను కలిపి ఆధారంలేని వ్యాఖ్యానం ఇవ్వడం.",
+        "దోషాన్ని పట్టించుకోకుండా పదాల సంఖ్యకే పరిమితం కావడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "Assertion-Reason (\"ఉన్నత గద్య వివేచనం\"): Assertion: \"ఉన్నత గద్య వివేచనం framework\" అవగాహన అవసరం. Reason: ఇది ఆధారపూర్వక వ్యాఖ్యానానికి దారి తీస్తుంది. సరైన ఎంపికను ఎంచుకోండి.",
+      "correct_answer": "Assertion, Reason రెండూ సరైనవి మరియు Reason, Assertion‌ను సమర్థంగా వివరిస్తుంది.",
+      "incorrect_answers": [
+        "Assertion, Reason రెండూ సరైనవి కానీ Reason, Assertion‌ను వివరిచదు.",
+        "Assertion సరైనది, Reason తప్పు.",
+        "Assertion తప్పు, Reason సరైనది."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" అధ్యాయ సందర్భంలో \"ఉన్నత గద్య వివేచనం application\" ను సరైన రీతిలో చూపించే ఎంపిక ఏది?",
+      "correct_answer": "\"ఉన్నత గద్య వివేచనం application\" ను సందర్భం, తర్కం, పాఠ్య ఆధారాలతో కలిపి చూపించే ఎంపిక.",
+      "incorrect_answers": [
+        "\"సందర్భానుసార పదప్రయోగం\" ను సందర్భం లేకుండా ఉపయోగించే ఎంపిక.",
+        "\"పాఠ్య ఆధార నిరూపణ\" ను కంఠస్థంగా రాసి తార్కికత చూపని ఎంపిక.",
+        "\"శైలి మరియు వ్యక్తీకరణ\" ను ఆధారాలు లేకుండా నిర్ధారణగా చెప్పే ఎంపిక."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"ఉన్నత గద్య వివేచనం inference\" ఆధారంగా నిర్ణయం తీసుకునే ముందు చేయాల్సిన మొదటి పని ఏమిటి?",
+      "correct_answer": "\"ఉన్నత గద్య వివేచనం inference\" యొక్క అర్థాన్ని స్పష్టంచేసి పాఠ్యంలో ఉన్న ఆధారాలను పరిశీలించడం.",
+      "incorrect_answers": [
+        "\"అర్థ ఛాయల గుర్తింపు\" ని తీసుకుని నేరుగా సమాధానం నిర్ణయించడం.",
+        "\"తార్కిక నిర్ధారణ\" ని వ్యాకరణ దృష్టితో మాత్రమే చూసి భావాన్ని వదిలేయడం.",
+        "\"ఉన్నత గద్య వివేచనం application\" ని ప్రధానంగా తీసుకుని మిగిలిన తర్కాన్ని వదిలేయడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"ప్రధాన భావం\" కు సంబంధించిన దోష నిర్ధారణలో సరైన దారి ఏది?",
+      "correct_answer": "దోషాన్ని గుర్తించి \"ప్రధాన భావం\" ను భావం-శైలి-తర్కంతో పునర్నిర్మించడం.",
+      "incorrect_answers": [
+        "\"సందర్భానుసార పదప్రయోగం\" కలిపి అసలు సందర్భాన్ని మార్చేయడం.",
+        "\"వాక్య నిర్మాణం\" మరియు \"ఉన్నత గద్య వివేచనం\" ను కలిపి ఆధారంలేని వ్యాఖ్యానం ఇవ్వడం.",
+        "దోషాన్ని పట్టించుకోకుండా పదాల సంఖ్యకే పరిమితం కావడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "Assertion-Reason (\"ఉన్నత గద్య వివేచనం\"): Assertion: \"భావార్థ విశ్లేషణ\" అవగాహన అవసరం. Reason: ఇది ఆధారపూర్వక వ్యాఖ్యానానికి దారి తీస్తుంది. సరైన ఎంపికను ఎంచుకోండి.",
+      "correct_answer": "Assertion, Reason రెండూ సరైనవి మరియు Reason, Assertion‌ను సమర్థంగా వివరిస్తుంది.",
+      "incorrect_answers": [
+        "Assertion, Reason రెండూ సరైనవి కానీ Reason, Assertion‌ను వివరిచదు.",
+        "Assertion సరైనది, Reason తప్పు.",
+        "Assertion తప్పు, Reason సరైనది."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" అధ్యాయ సందర్భంలో \"సందర్భానుసార పదప్రయోగం\" ను సరైన రీతిలో చూపించే ఎంపిక ఏది?",
+      "correct_answer": "\"సందర్భానుసార పదప్రయోగం\" ను సందర్భం, తర్కం, పాఠ్య ఆధారాలతో కలిపి చూపించే ఎంపిక.",
+      "incorrect_answers": [
+        "\"తార్కిక నిర్ధారణ\" ను సందర్భం లేకుండా ఉపయోగించే ఎంపిక.",
+        "\"విమర్శనాత్మక వ్యాఖ్యానం\" ను కంఠస్థంగా రాసి తార్కికత చూపని ఎంపిక.",
+        "\"భావార్థ విశ్లేషణ\" ను ఆధారాలు లేకుండా నిర్ధారణగా చెప్పే ఎంపిక."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"వాక్య నిర్మాణం\" ఆధారంగా నిర్ణయం తీసుకునే ముందు చేయాల్సిన మొదటి పని ఏమిటి?",
+      "correct_answer": "\"వాక్య నిర్మాణం\" యొక్క అర్థాన్ని స్పష్టంచేసి పాఠ్యంలో ఉన్న ఆధారాలను పరిశీలించడం.",
+      "incorrect_answers": [
+        "\"ఉన్నత గద్య వివేచనం\" ని తీసుకుని నేరుగా సమాధానం నిర్ణయించడం.",
+        "\"ఉన్నత గద్య వివేచనం application\" ని వ్యాకరణ దృష్టితో మాత్రమే చూసి భావాన్ని వదిలేయడం.",
+        "\"భావార్థ విశ్లేషణ\" ని ప్రధానంగా తీసుకుని మిగిలిన తర్కాన్ని వదిలేయడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"వ్యాకరణ శుద్ధి\" కు సంబంధించిన దోష నిర్ధారణలో సరైన దారి ఏది?",
+      "correct_answer": "దోషాన్ని గుర్తించి \"వ్యాకరణ శుద్ధి\" ను భావం-శైలి-తర్కంతో పునర్నిర్మించడం.",
+      "incorrect_answers": [
+        "\"భావార్థ విశ్లేషణ\" కలిపి అసలు సందర్భాన్ని మార్చేయడం.",
+        "\"సందర్భానుసార పదప్రయోగం\" మరియు \"అర్థ ఛాయల గుర్తింపు\" ను కలిపి ఆధారంలేని వ్యాఖ్యానం ఇవ్వడం.",
+        "దోషాన్ని పట్టించుకోకుండా పదాల సంఖ్యకే పరిమితం కావడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "Assertion-Reason (\"ఉన్నత గద్య వివేచనం\"): Assertion: \"శైలి మరియు వ్యక్తీకరణ\" అవగాహన అవసరం. Reason: ఇది ఆధారపూర్వక వ్యాఖ్యానానికి దారి తీస్తుంది. సరైన ఎంపికను ఎంచుకోండి.",
+      "correct_answer": "Assertion, Reason రెండూ సరైనవి మరియు Reason, Assertion‌ను సమర్థంగా వివరిస్తుంది.",
+      "incorrect_answers": [
+        "Assertion, Reason రెండూ సరైనవి కానీ Reason, Assertion‌ను వివరిచదు.",
+        "Assertion సరైనది, Reason తప్పు.",
+        "Assertion తప్పు, Reason సరైనది."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" అధ్యాయ సందర్భంలో \"తార్కిక నిర్ధారణ\" ను సరైన రీతిలో చూపించే ఎంపిక ఏది?",
+      "correct_answer": "\"తార్కిక నిర్ధారణ\" ను సందర్భం, తర్కం, పాఠ్య ఆధారాలతో కలిపి చూపించే ఎంపిక.",
+      "incorrect_answers": [
+        "\"ఉన్నత గద్య వివేచనం application\" ను సందర్భం లేకుండా ఉపయోగించే ఎంపిక.",
+        "\"ఉన్నత గద్య వివేచనం\" ను కంఠస్థంగా రాసి తార్కికత చూపని ఎంపిక.",
+        "\"ఉన్నత గద్య వివేచనం inference\" ను ఆధారాలు లేకుండా నిర్ధారణగా చెప్పే ఎంపిక."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"పాఠ్య ఆధార నిరూపణ\" ఆధారంగా నిర్ణయం తీసుకునే ముందు చేయాల్సిన మొదటి పని ఏమిటి?",
+      "correct_answer": "\"పాఠ్య ఆధార నిరూపణ\" యొక్క అర్థాన్ని స్పష్టంచేసి పాఠ్యంలో ఉన్న ఆధారాలను పరిశీలించడం.",
+      "incorrect_answers": [
+        "\"ఉన్నత గద్య వివేచనం\" ని తీసుకుని నేరుగా సమాధానం నిర్ణయించడం.",
+        "\"విమర్శనాత్మక వ్యాఖ్యానం\" ని వ్యాకరణ దృష్టితో మాత్రమే చూసి భావాన్ని వదిలేయడం.",
+        "\"ప్రధాన భావం\" ని ప్రధానంగా తీసుకుని మిగిలిన తర్కాన్ని వదిలేయడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"అర్థ ఛాయల గుర్తింపు\" కు సంబంధించిన దోష నిర్ధారణలో సరైన దారి ఏది?",
+      "correct_answer": "దోషాన్ని గుర్తించి \"అర్థ ఛాయల గుర్తింపు\" ను భావం-శైలి-తర్కంతో పునర్నిర్మించడం.",
+      "incorrect_answers": [
+        "\"ఉన్నత గద్య వివేచనం\" కలిపి అసలు సందర్భాన్ని మార్చేయడం.",
+        "\"ప్రధాన భావం\" మరియు \"భావార్థ విశ్లేషణ\" ను కలిపి ఆధారంలేని వ్యాఖ్యానం ఇవ్వడం.",
+        "దోషాన్ని పట్టించుకోకుండా పదాల సంఖ్యకే పరిమితం కావడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "Assertion-Reason (\"ఉన్నత గద్య వివేచనం\"): Assertion: \"విమర్శనాత్మక వ్యాఖ్యానం\" అవగాహన అవసరం. Reason: ఇది ఆధారపూర్వక వ్యాఖ్యానానికి దారి తీస్తుంది. సరైన ఎంపికను ఎంచుకోండి.",
+      "correct_answer": "Assertion, Reason రెండూ సరైనవి మరియు Reason, Assertion‌ను సమర్థంగా వివరిస్తుంది.",
+      "incorrect_answers": [
+        "Assertion, Reason రెండూ సరైనవి కానీ Reason, Assertion‌ను వివరిచదు.",
+        "Assertion సరైనది, Reason తప్పు.",
+        "Assertion తప్పు, Reason సరైనది."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" అధ్యాయ సందర్భంలో \"ఉన్నత గద్య వివేచనం\" ను సరైన రీతిలో చూపించే ఎంపిక ఏది?",
+      "correct_answer": "\"ఉన్నత గద్య వివేచనం\" ను సందర్భం, తర్కం, పాఠ్య ఆధారాలతో కలిపి చూపించే ఎంపిక.",
+      "incorrect_answers": [
+        "\"విమర్శనాత్మక వ్యాఖ్యానం\" ను సందర్భం లేకుండా ఉపయోగించే ఎంపిక.",
+        "\"ఉన్నత గద్య వివేచనం application\" ను కంఠస్థంగా రాసి తార్కికత చూపని ఎంపిక.",
+        "\"ఉన్నత గద్య వివేచనం inference\" ను ఆధారాలు లేకుండా నిర్ధారణగా చెప్పే ఎంపిక."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"ఉన్నత గద్య వివేచనం framework\" ఆధారంగా నిర్ణయం తీసుకునే ముందు చేయాల్సిన మొదటి పని ఏమిటి?",
+      "correct_answer": "\"ఉన్నత గద్య వివేచనం framework\" యొక్క అర్థాన్ని స్పష్టంచేసి పాఠ్యంలో ఉన్న ఆధారాలను పరిశీలించడం.",
+      "incorrect_answers": [
+        "\"అర్థ ఛాయల గుర్తింపు\" ని తీసుకుని నేరుగా సమాధానం నిర్ణయించడం.",
+        "\"ఉన్నత గద్య వివేచనం application\" ని వ్యాకరణ దృష్టితో మాత్రమే చూసి భావాన్ని వదిలేయడం.",
+        "\"ప్రధాన భావం\" ని ప్రధానంగా తీసుకుని మిగిలిన తర్కాన్ని వదిలేయడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "\"ఉన్నత గద్య వివేచనం\" లో \"ఉన్నత గద్య వివేచనం application\" కు సంబంధించిన దోష నిర్ధారణలో సరైన దారి ఏది?",
+      "correct_answer": "దోషాన్ని గుర్తించి \"ఉన్నత గద్య వివేచనం application\" ను భావం-శైలి-తర్కంతో పునర్నిర్మించడం.",
+      "incorrect_answers": [
+        "\"ఉన్నత గద్య వివేచనం framework\" కలిపి అసలు సందర్భాన్ని మార్చేయడం.",
+        "\"పాఠ్య ఆధార నిరూపణ\" మరియు \"విమర్శనాత్మక వ్యాఖ్యానం\" ను కలిపి ఆధారంలేని వ్యాఖ్యానం ఇవ్వడం.",
+        "దోషాన్ని పట్టించుకోకుండా పదాల సంఖ్యకే పరిమితం కావడం."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "Assertion-Reason (\"ఉన్నత గద్య వివేచనం\"): Assertion: \"ఉన్నత గద్య వివేచనం inference\" అవగాహన అవసరం. Reason: ఇది ఆధారపూర్వక వ్యాఖ్యానానికి దారి తీస్తుంది. సరైన ఎంపికను ఎంచుకోండి.",
+      "correct_answer": "Assertion, Reason రెండూ సరైనవి మరియు Reason, Assertion‌ను సమర్థంగా వివరిస్తుంది.",
+      "incorrect_answers": [
+        "Assertion, Reason రెండూ సరైనవి కానీ Reason, Assertion‌ను వివరిచదు.",
+        "Assertion సరైనది, Reason తప్పు.",
+        "Assertion తప్పు, Reason సరైనది."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ప్రధాన భావం using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply ప్రధాన భావం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies భావార్థ విశ్లేషణ using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply భావార్థ విశ్లేషణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies సందర్భానుసార పదప్రయోగం using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply సందర్భానుసార పదప్రయోగం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వాక్య నిర్మాణం using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply వాక్య నిర్మాణం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వ్యాకరణ శుద్ధి using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply వ్యాకరణ శుద్ధి stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies శైలి మరియు వ్యక్తీకరణ using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply శైలి మరియు వ్యక్తీకరణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies తార్కిక నిర్ధారణ using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply తార్కిక నిర్ధారణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies పాఠ్య ఆధార నిరూపణ using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply పాఠ్య ఆధార నిరూపణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies అర్థ ఛాయల గుర్తింపు using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply అర్థ ఛాయల గుర్తింపు stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies విమర్శనాత్మక వ్యాఖ్యానం using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply విమర్శనాత్మక వ్యాఖ్యానం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం framework using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం application using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం inference using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ప్రధాన భావం using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply ప్రధాన భావం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies భావార్థ విశ్లేషణ using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply భావార్థ విశ్లేషణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies సందర్భానుసార పదప్రయోగం using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply సందర్భానుసార పదప్రయోగం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వాక్య నిర్మాణం using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply వాక్య నిర్మాణం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వ్యాకరణ శుద్ధి using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply వ్యాకరణ శుద్ధి stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies శైలి మరియు వ్యక్తీకరణ using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply శైలి మరియు వ్యక్తీకరణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies తార్కిక నిర్ధారణ using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply తార్కిక నిర్ధారణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies పాఠ్య ఆధార నిరూపణ using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply పాఠ్య ఆధార నిరూపణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies అర్థ ఛాయల గుర్తింపు using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply అర్థ ఛాయల గుర్తింపు stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies విమర్శనాత్మక వ్యాఖ్యానం using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply విమర్శనాత్మక వ్యాఖ్యానం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ప్రధాన భావం using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply ప్రధాన భావం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies భావార్థ విశ్లేషణ using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply భావార్థ విశ్లేషణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies సందర్భానుసార పదప్రయోగం using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply సందర్భానుసార పదప్రయోగం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వాక్య నిర్మాణం using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply వాక్య నిర్మాణం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వ్యాకరణ శుద్ధి using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply వ్యాకరణ శుద్ధి stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies శైలి మరియు వ్యక్తీకరణ using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply శైలి మరియు వ్యక్తీకరణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies తార్కిక నిర్ధారణ using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply తార్కిక నిర్ధారణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies పాఠ్య ఆధార నిరూపణ using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply పాఠ్య ఆధార నిరూపణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies అర్థ ఛాయల గుర్తింపు using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply అర్థ ఛాయల గుర్తింపు stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies విమర్శనాత్మక వ్యాఖ్యానం using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply విమర్శనాత్మక వ్యాఖ్యానం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం framework using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం application using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం inference using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ప్రధాన భావం using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply ప్రధాన భావం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies భావార్థ విశ్లేషణ using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply భావార్థ విశ్లేషణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies సందర్భానుసార పదప్రయోగం using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply సందర్భానుసార పదప్రయోగం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వాక్య నిర్మాణం using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply వాక్య నిర్మాణం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వ్యాకరణ శుద్ధి using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply వ్యాకరణ శుద్ధి stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies శైలి మరియు వ్యక్తీకరణ using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply శైలి మరియు వ్యక్తీకరణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies తార్కిక నిర్ధారణ using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply తార్కిక నిర్ధారణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies పాఠ్య ఆధార నిరూపణ using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply పాఠ్య ఆధార నిరూపణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies అర్థ ఛాయల గుర్తింపు using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply అర్థ ఛాయల గుర్తింపు stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies విమర్శనాత్మక వ్యాఖ్యానం using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply విమర్శనాత్మక వ్యాఖ్యానం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం framework using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం inference using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ప్రధాన భావం using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply ప్రధాన భావం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies భావార్థ విశ్లేషణ using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply భావార్థ విశ్లేషణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies సందర్భానుసార పదప్రయోగం using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply సందర్భానుసార పదప్రయోగం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వాక్య నిర్మాణం using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply వాక్య నిర్మాణం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies వ్యాకరణ శుద్ధి using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply వ్యాకరణ శుద్ధి stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies శైలి మరియు వ్యక్తీకరణ using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply శైలి మరియు వ్యక్తీకరణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies తార్కిక నిర్ధారణ using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply తార్కిక నిర్ధారణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies పాఠ్య ఆధార నిరూపణ using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply పాఠ్య ఆధార నిరూపణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies అర్థ ఛాయల గుర్తింపు using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply అర్థ ఛాయల గుర్తింపు stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies విమర్శనాత్మక వ్యాఖ్యానం using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply విమర్శనాత్మక వ్యాఖ్యానం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం framework using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం application using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ఉన్నత గద్య వివేచనం inference using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply ఉన్నత గద్య వివేచనం inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies ప్రధాన భావం using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply ప్రధాన భావం stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu",
+      "chapter": "ఉన్నత గద్య వివేచనం",
+      "question": "In \"ఉన్నత గద్య వివేచనం\", which response applies భావార్థ విశ్లేషణ using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply భావార్థ విశ్లేషణ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

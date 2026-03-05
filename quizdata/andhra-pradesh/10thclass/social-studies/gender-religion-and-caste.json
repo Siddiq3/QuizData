@@ -3,601 +3,1201 @@
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", which concept best matches: a social system where men hold primary power in family and institutions?",
-      "correct_answer": "Patriarchy",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which statement is most accurate about social inequality?",
+      "correct_answer": "Social Inequality is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Sexual Division of Labour",
-        "Communalism",
-        "Secularism"
+        "Gender Religion And Caste can replace all chapter logic without assumptions.",
+        "Identity Politics is valid only if core conditions are ignored.",
+        "Mobility is a memory cue, not a defensible explanation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "A case described as \"women face unequal access to education property and decision making spaces\" is the best example of:",
-      "correct_answer": "Patriarchy",
+      "chapter": "Gender Religion and Caste",
+      "question": "A learner applies identity politics in a new problem from \"Gender Religion and Caste\". What is the best first step?",
+      "correct_answer": "Define conditions, apply identity politics stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Communalism",
-        "Secularism",
-        "Sexual Division of Labour"
+        "Start from secularism and skip checking constraints.",
+        "Use Gender Religion and Caste as a shortcut and avoid interpretation.",
+        "Pick social inequality by intuition and finalise without verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", the term \"Patriarchy\" is most closely associated with:",
-      "correct_answer": "A social system where men hold primary power in family and institutions",
+      "chapter": "Gender Religion and Caste",
+      "question": "Which option shows a valid example of affirmative action in \"Gender Religion and Caste\"?",
+      "correct_answer": "An example where affirmative action is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "Allocation of work by gender often undervaluing unpaid care activities",
-        "Politics based on religious identity that treats communities as opposed interests",
-        "State principle of equal treatment of all religions without official bias"
+        "An example where pluralism is used without relevance to chapter context.",
+        "An example where communalism is memorised but not applied logically.",
+        "An example where Gender Religion and Caste application is stated without evidence."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "The immediate policy focus of \"Patriarchy\" is usually:",
-      "correct_answer": "Structural gender inequality across public and private spheres",
+      "chapter": "Gender Religion and Caste",
+      "question": "Choose the most defensible correction for this claim in \"Gender Religion and Caste\": \"intersectionality works without constraints.\"",
+      "correct_answer": "Intersectionality works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Constitutional protection of religious freedom and equality",
-        "Erosion of civic unity and democratic trust",
-        "Economic invisibility of women work contribution"
+        "Communalism removes the need for all constraints in every case.",
+        "Gender Religion And Caste Inference is always equivalent to intersectionality, regardless of context.",
+        "Reservation is enough even when data contradict the claim."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "If an examiner asks for a concept linked to \"structural gender inequality across public and private spheres\", the most accurate answer is:",
-      "correct_answer": "Patriarchy",
+      "chapter": "Gender Religion and Caste",
+      "question": "Assertion-Reason in \"Gender Religion and Caste\": Assertion: communalism is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
       "incorrect_answers": [
-        "Secularism",
-        "Sexual Division of Labour",
-        "Communalism"
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which term correctly completes this statement: A social system where men hold primary power in family and institutions.",
-      "correct_answer": "Patriarchy",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which mismatch is incorrect?",
+      "correct_answer": "Secularism - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Communalism",
-        "Sexual Division of Labour",
-        "Secularism"
+        "Intersectionality - applied without confirming assumptions.",
+        "Gender Religion And Caste - interpreted against contradictory data.",
+        "Reservation - concluded before checking consistency."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
-      "correct_answer": "Patriarchy - structural gender inequality across public and private spheres",
+      "chapter": "Gender Religion and Caste",
+      "question": "Which interpretation is strongest when pluralism and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
       "incorrect_answers": [
-        "Sexual Division of Labour - structural gender inequality across public and private spheres",
-        "Patriarchy - erosion of civic unity and democratic trust",
-        "Secularism - economic invisibility of women work contribution"
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which of the following is a valid application of \"Patriarchy\"?",
-      "correct_answer": "Women face unequal access to education property and decision making spaces",
+      "chapter": "Gender Religion and Caste",
+      "question": "Which inference is most rigorous for political representation in \"Gender Religion and Caste\"?",
+      "correct_answer": "The inference that links political representation to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "Paid work is treated as male domain while domestic care is seen as female duty",
-        "Electoral mobilisation frames citizens primarily through religious antagonism",
-        "Laws and institutions avoid privileging one faith over others"
+        "An inference that substitutes intersectionality without checking relevance.",
+        "An inference that cites Gender Religion and Caste inference but skips logical steps.",
+        "An inference that repeats mobility without interpretation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", which concept best matches: allocation of work by gender often undervaluing unpaid care activities?",
-      "correct_answer": "Sexual Division of Labour",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which statement is most accurate about social stratification?",
+      "correct_answer": "Social Stratification is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Communalism",
-        "Secularism",
-        "Caste Hierarchy"
+        "Gender Religion And Caste Inference can replace all chapter logic without assumptions.",
+        "Political Representation is valid only if core conditions are ignored.",
+        "Social Justice is a memory cue, not a defensible explanation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "A case described as \"paid work is treated as male domain while domestic care is seen as female duty\" is the best example of:",
-      "correct_answer": "Sexual Division of Labour",
+      "chapter": "Gender Religion and Caste",
+      "question": "A learner applies reservation in a new problem from \"Gender Religion and Caste\". What is the best first step?",
+      "correct_answer": "Define conditions, apply reservation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Secularism",
-        "Caste Hierarchy",
-        "Communalism"
+        "Start from social inequality and skip checking constraints.",
+        "Use affirmative action as a shortcut and avoid interpretation.",
+        "Pick Gender Religion and Caste application by intuition and finalise without verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", the term \"Sexual Division of Labour\" is most closely associated with:",
-      "correct_answer": "Allocation of work by gender often undervaluing unpaid care activities",
+      "chapter": "Gender Religion and Caste",
+      "question": "Which option shows a valid example of social justice in \"Gender Religion and Caste\"?",
+      "correct_answer": "An example where social justice is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "Politics based on religious identity that treats communities as opposed interests",
-        "State principle of equal treatment of all religions without official bias",
-        "Graded social stratification linked historically to birth based status and exclusion"
+        "An example where affirmative action is used without relevance to chapter context.",
+        "An example where communalism is memorised but not applied logically.",
+        "An example where political representation is stated without evidence."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "The immediate policy focus of \"Sexual Division of Labour\" is usually:",
-      "correct_answer": "Economic invisibility of women work contribution",
+      "chapter": "Gender Religion and Caste",
+      "question": "Choose the most defensible correction for this claim in \"Gender Religion and Caste\": \"mobility works without constraints.\"",
+      "correct_answer": "Mobility works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Persistent inequality requiring political and legal correction",
-        "Constitutional protection of religious freedom and equality",
-        "Erosion of civic unity and democratic trust"
+        "Secularism removes the need for all constraints in every case.",
+        "Gender Religion And Caste is always equivalent to mobility, regardless of context.",
+        "Gender Religion And Caste Application is enough even when data contradict the claim."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "If an examiner asks for a concept linked to \"economic invisibility of women work contribution\", the most accurate answer is:",
-      "correct_answer": "Sexual Division of Labour",
+      "chapter": "Gender Religion and Caste",
+      "question": "Assertion-Reason in \"Gender Religion and Caste\": Assertion: Gender Religion and Caste is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
       "incorrect_answers": [
-        "Caste Hierarchy",
-        "Communalism",
-        "Secularism"
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which term correctly completes this statement: Allocation of work by gender often undervaluing unpaid care activities.",
-      "correct_answer": "Sexual Division of Labour",
+      "chapter": "Gender Religion and Caste",
+      "question": "Which interpretation is strongest when Gender Religion and Caste application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
       "incorrect_answers": [
-        "Secularism",
-        "Communalism",
-        "Caste Hierarchy"
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
-      "correct_answer": "Sexual Division of Labour - economic invisibility of women work contribution",
+      "chapter": "Gender Religion and Caste",
+      "question": "Which inference is most rigorous for Gender Religion and Caste inference in \"Gender Religion and Caste\"?",
+      "correct_answer": "The inference that links Gender Religion and Caste inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "Communalism - economic invisibility of women work contribution",
-        "Sexual Division of Labour - constitutional protection of religious freedom and equality",
-        "Caste Hierarchy - erosion of civic unity and democratic trust"
+        "An inference that substitutes communalism without checking relevance.",
+        "An inference that cites social justice but skips logical steps.",
+        "An inference that repeats political representation without interpretation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which of the following is a valid application of \"Sexual Division of Labour\"?",
-      "correct_answer": "Paid work is treated as male domain while domestic care is seen as female duty",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste inference using correct assumptions, evidence, and verification? (Practice Set 16)",
+      "correct_answer": "Apply Gender Religion and Caste inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Electoral mobilisation frames citizens primarily through religious antagonism",
-        "Laws and institutions avoid privileging one faith over others",
-        "Social discrimination restricts mobility and dignity of lower caste groups"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", which concept best matches: politics based on religious identity that treats communities as opposed interests?",
-      "correct_answer": "Communalism",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social inequality using correct assumptions, evidence, and verification? (Practice Set 17)",
+      "correct_answer": "Apply social inequality stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Secularism",
-        "Caste Hierarchy",
-        "Affirmative Action"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "A case described as \"electoral mobilisation frames citizens primarily through religious antagonism\" is the best example of:",
-      "correct_answer": "Communalism",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies identity politics using correct assumptions, evidence, and verification? (Practice Set 18)",
+      "correct_answer": "Apply identity politics stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Caste Hierarchy",
-        "Affirmative Action",
-        "Secularism"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", the term \"Communalism\" is most closely associated with:",
-      "correct_answer": "Politics based on religious identity that treats communities as opposed interests",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies affirmative action using correct assumptions, evidence, and verification? (Practice Set 19)",
+      "correct_answer": "Apply affirmative action stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "State principle of equal treatment of all religions without official bias",
-        "Graded social stratification linked historically to birth based status and exclusion",
-        "Policy of reservations and support measures for historically marginalised groups"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "The immediate policy focus of \"Communalism\" is usually:",
-      "correct_answer": "Erosion of civic unity and democratic trust",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies intersectionality using correct assumptions, evidence, and verification? (Practice Set 20)",
+      "correct_answer": "Apply intersectionality stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Corrective inclusion in institutions of opportunity",
-        "Persistent inequality requiring political and legal correction",
-        "Constitutional protection of religious freedom and equality"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "If an examiner asks for a concept linked to \"erosion of civic unity and democratic trust\", the most accurate answer is:",
-      "correct_answer": "Communalism",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies communalism using correct assumptions, evidence, and verification? (Practice Set 21)",
+      "correct_answer": "Apply communalism stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Affirmative Action",
-        "Secularism",
-        "Caste Hierarchy"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which term correctly completes this statement: Politics based on religious identity that treats communities as opposed interests.",
-      "correct_answer": "Communalism",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies secularism using correct assumptions, evidence, and verification? (Practice Set 22)",
+      "correct_answer": "Apply secularism stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Caste Hierarchy",
-        "Secularism",
-        "Affirmative Action"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
-      "correct_answer": "Communalism - erosion of civic unity and democratic trust",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies pluralism using correct assumptions, evidence, and verification? (Practice Set 23)",
+      "correct_answer": "Apply pluralism stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Secularism - erosion of civic unity and democratic trust",
-        "Communalism - persistent inequality requiring political and legal correction",
-        "Affirmative Action - constitutional protection of religious freedom and equality"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which of the following is a valid application of \"Communalism\"?",
-      "correct_answer": "Electoral mobilisation frames citizens primarily through religious antagonism",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies political representation using correct assumptions, evidence, and verification? (Practice Set 24)",
+      "correct_answer": "Apply political representation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Laws and institutions avoid privileging one faith over others",
-        "Social discrimination restricts mobility and dignity of lower caste groups",
-        "Educational seats and public jobs are reserved to improve representation equity"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", which concept best matches: state principle of equal treatment of all religions without official bias?",
-      "correct_answer": "Secularism",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social stratification using correct assumptions, evidence, and verification? (Practice Set 25)",
+      "correct_answer": "Apply social stratification stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Caste Hierarchy",
-        "Affirmative Action",
-        "Patriarchy"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "A case described as \"laws and institutions avoid privileging one faith over others\" is the best example of:",
-      "correct_answer": "Secularism",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies reservation using correct assumptions, evidence, and verification? (Practice Set 26)",
+      "correct_answer": "Apply reservation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Affirmative Action",
-        "Patriarchy",
-        "Caste Hierarchy"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", the term \"Secularism\" is most closely associated with:",
-      "correct_answer": "State principle of equal treatment of all religions without official bias",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social justice using correct assumptions, evidence, and verification? (Practice Set 27)",
+      "correct_answer": "Apply social justice stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Graded social stratification linked historically to birth based status and exclusion",
-        "Policy of reservations and support measures for historically marginalised groups",
-        "A social system where men hold primary power in family and institutions"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "The immediate policy focus of \"Secularism\" is usually:",
-      "correct_answer": "Constitutional protection of religious freedom and equality",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies mobility using correct assumptions, evidence, and verification? (Practice Set 28)",
+      "correct_answer": "Apply mobility stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Structural gender inequality across public and private spheres",
-        "Corrective inclusion in institutions of opportunity",
-        "Persistent inequality requiring political and legal correction"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "If an examiner asks for a concept linked to \"constitutional protection of religious freedom and equality\", the most accurate answer is:",
-      "correct_answer": "Secularism",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply Gender Religion and Caste stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Patriarchy",
-        "Caste Hierarchy",
-        "Affirmative Action"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which term correctly completes this statement: State principle of equal treatment of all religions without official bias.",
-      "correct_answer": "Secularism",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste framework using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply Gender Religion and Caste framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Affirmative Action",
-        "Caste Hierarchy",
-        "Patriarchy"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
-      "correct_answer": "Secularism - constitutional protection of religious freedom and equality",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste application using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply Gender Religion and Caste application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Caste Hierarchy - constitutional protection of religious freedom and equality",
-        "Secularism - corrective inclusion in institutions of opportunity",
-        "Patriarchy - persistent inequality requiring political and legal correction"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which of the following is a valid application of \"Secularism\"?",
-      "correct_answer": "Laws and institutions avoid privileging one faith over others",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste inference using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply Gender Religion and Caste inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Social discrimination restricts mobility and dignity of lower caste groups",
-        "Educational seats and public jobs are reserved to improve representation equity",
-        "Women face unequal access to education property and decision making spaces"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", which concept best matches: graded social stratification linked historically to birth based status and exclusion?",
-      "correct_answer": "Caste Hierarchy",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social inequality using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply social inequality stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Affirmative Action",
-        "Patriarchy",
-        "Sexual Division of Labour"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "A case described as \"social discrimination restricts mobility and dignity of lower caste groups\" is the best example of:",
-      "correct_answer": "Caste Hierarchy",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies identity politics using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply identity politics stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Patriarchy",
-        "Sexual Division of Labour",
-        "Affirmative Action"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", the term \"Caste Hierarchy\" is most closely associated with:",
-      "correct_answer": "Graded social stratification linked historically to birth based status and exclusion",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies affirmative action using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply affirmative action stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Policy of reservations and support measures for historically marginalised groups",
-        "A social system where men hold primary power in family and institutions",
-        "Allocation of work by gender often undervaluing unpaid care activities"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "The immediate policy focus of \"Caste Hierarchy\" is usually:",
-      "correct_answer": "Persistent inequality requiring political and legal correction",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies intersectionality using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply intersectionality stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Economic invisibility of women work contribution",
-        "Structural gender inequality across public and private spheres",
-        "Corrective inclusion in institutions of opportunity"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "If an examiner asks for a concept linked to \"persistent inequality requiring political and legal correction\", the most accurate answer is:",
-      "correct_answer": "Caste Hierarchy",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies communalism using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply communalism stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Sexual Division of Labour",
-        "Affirmative Action",
-        "Patriarchy"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which term correctly completes this statement: Graded social stratification linked historically to birth based status and exclusion.",
-      "correct_answer": "Caste Hierarchy",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies secularism using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply secularism stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Patriarchy",
-        "Affirmative Action",
-        "Sexual Division of Labour"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
-      "correct_answer": "Caste Hierarchy - persistent inequality requiring political and legal correction",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies pluralism using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply pluralism stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Affirmative Action - persistent inequality requiring political and legal correction",
-        "Caste Hierarchy - structural gender inequality across public and private spheres",
-        "Sexual Division of Labour - corrective inclusion in institutions of opportunity"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which of the following is a valid application of \"Caste Hierarchy\"?",
-      "correct_answer": "Social discrimination restricts mobility and dignity of lower caste groups",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies political representation using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply political representation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Educational seats and public jobs are reserved to improve representation equity",
-        "Women face unequal access to education property and decision making spaces",
-        "Paid work is treated as male domain while domestic care is seen as female duty"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", which concept best matches: policy of reservations and support measures for historically marginalised groups?",
-      "correct_answer": "Affirmative Action",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social stratification using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply social stratification stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Patriarchy",
-        "Sexual Division of Labour",
-        "Communalism"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "A case described as \"educational seats and public jobs are reserved to improve representation equity\" is the best example of:",
-      "correct_answer": "Affirmative Action",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies reservation using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply reservation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Sexual Division of Labour",
-        "Communalism",
-        "Patriarchy"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "In \"Gender, Religion and Caste\", the term \"Affirmative Action\" is most closely associated with:",
-      "correct_answer": "Policy of reservations and support measures for historically marginalised groups",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social justice using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply social justice stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "A social system where men hold primary power in family and institutions",
-        "Allocation of work by gender often undervaluing unpaid care activities",
-        "Politics based on religious identity that treats communities as opposed interests"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "The immediate policy focus of \"Affirmative Action\" is usually:",
-      "correct_answer": "Corrective inclusion in institutions of opportunity",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies mobility using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply mobility stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Erosion of civic unity and democratic trust",
-        "Economic invisibility of women work contribution",
-        "Structural gender inequality across public and private spheres"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "If an examiner asks for a concept linked to \"corrective inclusion in institutions of opportunity\", the most accurate answer is:",
-      "correct_answer": "Affirmative Action",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply Gender Religion and Caste stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Communalism",
-        "Patriarchy",
-        "Sexual Division of Labour"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which term correctly completes this statement: Policy of reservations and support measures for historically marginalised groups.",
-      "correct_answer": "Affirmative Action",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste framework using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply Gender Religion and Caste framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Sexual Division of Labour",
-        "Patriarchy",
-        "Communalism"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Choose the correctly matched pair from \"Gender, Religion and Caste\".",
-      "correct_answer": "Affirmative Action - corrective inclusion in institutions of opportunity",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste application using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply Gender Religion and Caste application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Patriarchy - corrective inclusion in institutions of opportunity",
-        "Affirmative Action - economic invisibility of women work contribution",
-        "Communalism - structural gender inequality across public and private spheres"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which of the following is a valid application of \"Affirmative Action\"?",
-      "correct_answer": "Educational seats and public jobs are reserved to improve representation equity",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste inference using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply Gender Religion and Caste inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Women face unequal access to education property and decision making spaces",
-        "Paid work is treated as male domain while domestic care is seen as female duty",
-        "Electoral mobilisation frames citizens primarily through religious antagonism"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "Which outcome is most closely associated with greater political participation of women?",
-      "correct_answer": "Policy attention to welfare services and everyday social needs tends to increase",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social inequality using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply social inequality stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Religion based voting blocs disappear immediately",
-        "All wage gaps close automatically in one cycle",
-        "Caste inequalities become legally irrelevant overnight"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
-      "chapter": "Gender, Religion and Caste",
-      "question": "When communal politics intensifies, democratic debate is often replaced by",
-      "correct_answer": "identity polarisation and suspicion between social groups",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies identity politics using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply identity politics stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "issue based bargaining over development indicators only",
-        "stronger local economic cooperation networks",
-        "uniform support for constitutional secularism"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies affirmative action using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply affirmative action stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies intersectionality using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply intersectionality stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies communalism using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply communalism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies secularism using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply secularism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies pluralism using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply pluralism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies political representation using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply political representation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social stratification using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply social stratification stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies reservation using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply reservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social justice using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply social justice stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies mobility using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply mobility stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply Gender Religion and Caste stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste framework using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply Gender Religion and Caste framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste application using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply Gender Religion and Caste application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste inference using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply Gender Religion and Caste inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social inequality using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply social inequality stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies identity politics using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply identity politics stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies affirmative action using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply affirmative action stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies intersectionality using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply intersectionality stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies communalism using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply communalism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies secularism using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply secularism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies pluralism using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply pluralism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies political representation using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply political representation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social stratification using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply social stratification stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies reservation using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply reservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social justice using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply social justice stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies mobility using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply mobility stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply Gender Religion and Caste stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste framework using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply Gender Religion and Caste framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste application using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply Gender Religion and Caste application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste inference using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply Gender Religion and Caste inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social inequality using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply social inequality stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies identity politics using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply identity politics stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies affirmative action using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply affirmative action stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies intersectionality using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply intersectionality stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies communalism using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply communalism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies secularism using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply secularism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies pluralism using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply pluralism stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies political representation using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply political representation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social stratification using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply social stratification stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies reservation using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply reservation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social justice using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply social justice stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies mobility using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply mobility stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply Gender Religion and Caste stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste framework using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply Gender Religion and Caste framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste application using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Gender Religion and Caste application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies Gender Religion and Caste inference using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Gender Religion and Caste inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies social inequality using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply social inequality stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies identity politics using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply identity politics stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies affirmative action using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply affirmative action stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Gender Religion and Caste",
+      "question": "In \"Gender Religion and Caste\", which response applies intersectionality using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply intersectionality stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     }
   ]

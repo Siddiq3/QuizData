@@ -4,600 +4,1200 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "sin 30\u00b0 =",
+      "question": "Find sin 60°.",
+      "correct_answer": "√3/2",
+      "incorrect_answers": [
+        "1/2",
+        "1/√2",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "Find sin 30°.",
       "correct_answer": "1/2",
       "incorrect_answers": [
-        "0",
-        "sqrt(3)/2",
-        "None of these"
+        "√3/2",
+        "1/√2",
+        "0"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "cos 60\u00b0 =",
-      "correct_answer": "1/2",
+      "question": "Find sin 45°.",
+      "correct_answer": "1/√2",
       "incorrect_answers": [
-        "0",
-        "1",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Trigonometry",
-      "question": "tan 45\u00b0 =",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "0",
-        "sqrt(3)",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=4, adjacent=5, tan\u03b8 =",
-      "correct_answer": "0.8",
-      "incorrect_answers": [
-        "1.25",
-        "0.62",
-        "0.78"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=4, hypotenuse=6.4, sin\u03b8 =",
-      "correct_answer": "0.62",
-      "incorrect_answers": [
-        "0.78",
-        "0.8",
-        "1.6"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Trigonometry",
-      "question": "In a right triangle with adjacent=5, hypotenuse=6.4, cos\u03b8 =",
-      "correct_answer": "0.78",
-      "incorrect_answers": [
-        "0.62",
-        "1.25",
-        "1.28"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Trigonometry",
-      "question": "If sin\u03b8=0.5 and \u03b8 is acute, cos\u03b8 =",
-      "correct_answer": "0.87",
-      "incorrect_answers": [
-        "0.5",
-        "0.43",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Trigonometry",
-      "question": "If tan\u03b8=1, then sec\u00b2\u03b8 =",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "1",
-        "3",
-        "None of these"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Trigonometry",
-      "question": "sin(90\u00b0\u221210\u00b0) equals:",
-      "correct_answer": "cos 10\u00b0",
-      "incorrect_answers": [
-        "sin 10\u00b0",
-        "tan 10\u00b0",
-        "cot 10\u00b0"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Trigonometry",
-      "question": "Identity check set 1: sin\u00b2\u03b8 + cos\u00b2\u03b8 =",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "0",
-        "2",
-        "sin\u03b8cos\u03b8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Trigonometry",
-      "question": "sin 45\u00b0 =",
-      "correct_answer": "1/sqrt(2)",
-      "incorrect_answers": [
-        "0",
+        "√3/2",
         "1/2",
-        "sqrt(3)/2"
+        "0"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "cos 30\u00b0 =",
-      "correct_answer": "sqrt(3)/2",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 4)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1",
-        "1/2"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "tan 30\u00b0 =",
-      "correct_answer": "1/sqrt(3)",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 5)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1",
-        "sqrt(3)"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=5, adjacent=6, tan\u03b8 =",
-      "correct_answer": "0.83",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 6)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1.2",
-        "0.64",
-        "0.77"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=5, hypotenuse=7.81, sin\u03b8 =",
-      "correct_answer": "0.64",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 7)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.77",
-        "0.83",
-        "1.56"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with adjacent=6, hypotenuse=7.81, cos\u03b8 =",
-      "correct_answer": "0.77",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 8)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.64",
-        "1.2",
-        "1.3"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "If sin\u03b8=0.6 and \u03b8 is acute, cos\u03b8 =",
-      "correct_answer": "0.8",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 9)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.6",
-        "0.4",
-        "0.48"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "If tan\u03b8=2, then sec\u00b2\u03b8 =",
-      "correct_answer": "5",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 10)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "4",
-        "3",
-        "None of these"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "sin(90\u00b0\u221220\u00b0) equals:",
-      "correct_answer": "cos 20\u00b0",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 11)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "sin 20\u00b0",
-        "tan 20\u00b0",
-        "cot 20\u00b0"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "Identity check set 2: sin\u00b2\u03b8 + cos\u00b2\u03b8 =",
-      "correct_answer": "1",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 12)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "2",
-        "sin\u03b8cos\u03b8"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "sin 60\u00b0 =",
-      "correct_answer": "sqrt(3)/2",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 13)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1/2",
-        "None of these"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "cos 45\u00b0 =",
-      "correct_answer": "1/sqrt(2)",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 14)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1",
-        "1/2"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "tan 60\u00b0 =",
-      "correct_answer": "sqrt(3)",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 15)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1",
-        "None of these"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=6, adjacent=7, tan\u03b8 =",
-      "correct_answer": "0.86",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 16)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1.17",
-        "0.65",
-        "0.76"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=6, hypotenuse=9.22, sin\u03b8 =",
-      "correct_answer": "0.65",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 17)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.76",
-        "0.86",
-        "1.54"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with adjacent=7, hypotenuse=9.22, cos\u03b8 =",
-      "correct_answer": "0.76",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 18)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.65",
-        "1.17",
-        "1.32"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "If sin\u03b8=0.67 and \u03b8 is acute, cos\u03b8 =",
-      "correct_answer": "0.75",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 19)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.67",
-        "0.33",
-        "0.5"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "If tan\u03b8=3, then sec\u00b2\u03b8 =",
-      "correct_answer": "10",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 20)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "9",
-        "4",
-        "5"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "sin(90\u00b0\u221230\u00b0) equals:",
-      "correct_answer": "cos 30\u00b0",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 21)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "sin 30\u00b0",
-        "tan 30\u00b0",
-        "cot 30\u00b0"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "Identity check set 3: sin\u00b2\u03b8 + cos\u00b2\u03b8 =",
-      "correct_answer": "1",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 22)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "2",
-        "sin\u03b8cos\u03b8"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "sin 0\u00b0 =",
-      "correct_answer": "0",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 23)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1/2",
-        "sqrt(3)/2",
-        "None of these"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "cos 90\u00b0 =",
-      "correct_answer": "0",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 24)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1",
-        "1/2",
-        "None of these"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "tan 0\u00b0 =",
-      "correct_answer": "0",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 25)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1",
-        "sqrt(3)",
-        "None of these"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=7, adjacent=8, tan\u03b8 =",
-      "correct_answer": "0.88",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 26)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1.14",
-        "0.66",
-        "0.75"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=7, hypotenuse=10.63, sin\u03b8 =",
-      "correct_answer": "0.66",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 27)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.75",
-        "0.88",
-        "1.52"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with adjacent=8, hypotenuse=10.63, cos\u03b8 =",
-      "correct_answer": "0.75",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 28)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.66",
-        "1.14",
-        "1.33"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "If sin\u03b8=0.71 and \u03b8 is acute, cos\u03b8 =",
-      "correct_answer": "0.7",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.71",
-        "0.29",
-        "0.5"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "If tan\u03b8=4, then sec\u00b2\u03b8 =",
-      "correct_answer": "17",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "16",
-        "5",
-        "6"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "sin(90\u00b0\u221240\u00b0) equals:",
-      "correct_answer": "cos 40\u00b0",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "sin 40\u00b0",
-        "tan 40\u00b0",
-        "cot 40\u00b0"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "Identity check set 4: sin\u00b2\u03b8 + cos\u00b2\u03b8 =",
-      "correct_answer": "1",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "2",
-        "sin\u03b8cos\u03b8"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "sin 90\u00b0 =",
-      "correct_answer": "1",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1/2",
-        "sqrt(3)/2"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "cos 0\u00b0 =",
-      "correct_answer": "1",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1/2",
-        "None of these"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "tan 90\u00b0 =",
-      "correct_answer": "Not defined",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1",
-        "sqrt(3)"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=8, adjacent=9, tan\u03b8 =",
-      "correct_answer": "0.89",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1.12",
-        "0.66",
-        "0.75"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with opposite=8, hypotenuse=12.04, sin\u03b8 =",
-      "correct_answer": "0.66",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.75",
-        "0.89",
-        "1.51"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "In a right triangle with adjacent=9, hypotenuse=12.04, cos\u03b8 =",
-      "correct_answer": "0.75",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.66",
-        "1.12",
-        "1.34"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "If sin\u03b8=0.75 and \u03b8 is acute, cos\u03b8 =",
-      "correct_answer": "0.66",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0.75",
-        "0.25",
-        "0.5"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "If tan\u03b8=5, then sec\u00b2\u03b8 =",
-      "correct_answer": "26",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "25",
-        "6",
-        "7"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "sin(90\u00b0\u221250\u00b0) equals:",
-      "correct_answer": "cos 50\u00b0",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "sin 50\u00b0",
-        "tan 50\u00b0",
-        "cot 50\u00b0"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "Identity check set 5: sin\u00b2\u03b8 + cos\u00b2\u03b8 =",
-      "correct_answer": "1",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "2",
-        "sin\u03b8cos\u03b8"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply Trigonometry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Trigonometry application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "question": "In \"Trigonometry\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     }
   ]
