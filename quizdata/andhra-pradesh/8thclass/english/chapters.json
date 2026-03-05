@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "subject": "English",
+      "chapter": "The Best Christmas Present in the World",
+      "slug": "the-best-christmas-present-in-the-world",
+      "file": "the-best-christmas-present-in-the-world.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "The Tsunami",
+      "slug": "the-tsunami",
+      "file": "the-tsunami.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "Glimpses of the Past",
+      "slug": "glimpses-of-the-past",
+      "file": "glimpses-of-the-past.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "Bepin Choudhury Lapse of Memory",
+      "slug": "bepin-choudhury-lapse-of-memory",
+      "file": "bepin-choudhury-lapse-of-memory.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "The Summit Within",
+      "slug": "the-summit-within",
+      "file": "the-summit-within.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "This Is Jodys Fawn",
+      "slug": "this-is-jodys-fawn",
+      "file": "this-is-jodys-fawn.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "A Visit to Cambridge",
+      "slug": "a-visit-to-cambridge",
+      "file": "a-visit-to-cambridge.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "A Short Monsoon Diary",
+      "slug": "a-short-monsoon-diary",
+      "file": "a-short-monsoon-diary.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "The Great Stone Face Part One",
+      "slug": "the-great-stone-face-part-one",
+      "file": "the-great-stone-face-part-one.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "The Great Stone Face Part Two",
+      "slug": "the-great-stone-face-part-two",
+      "file": "the-great-stone-face-part-two.json"
+    }
+  ]
+}

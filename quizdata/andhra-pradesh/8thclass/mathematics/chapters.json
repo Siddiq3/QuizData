@@ -1,0 +1,100 @@
+{
+  "results": [
+    {
+      "subject": "Mathematics",
+      "chapter": "Rational Numbers",
+      "slug": "rational-numbers",
+      "file": "rational-numbers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Linear Equations in One Variable",
+      "slug": "linear-equations-in-one-variable",
+      "file": "linear-equations-in-one-variable.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Understanding Quadrilaterals",
+      "slug": "understanding-quadrilaterals",
+      "file": "understanding-quadrilaterals.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Practical Geometry",
+      "slug": "practical-geometry",
+      "file": "practical-geometry.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Data Handling",
+      "slug": "data-handling",
+      "file": "data-handling.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Squares and Square Roots",
+      "slug": "squares-and-square-roots",
+      "file": "squares-and-square-roots.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Cubes and Cube Roots",
+      "slug": "cubes-and-cube-roots",
+      "file": "cubes-and-cube-roots.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Comparing Quantities",
+      "slug": "comparing-quantities",
+      "file": "comparing-quantities.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Algebraic Expressions and Identities",
+      "slug": "algebraic-expressions-and-identities",
+      "file": "algebraic-expressions-and-identities.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Visualising Solid Shapes",
+      "slug": "visualising-solid-shapes",
+      "file": "visualising-solid-shapes.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "slug": "mensuration",
+      "file": "mensuration.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Exponents and Powers",
+      "slug": "exponents-and-powers",
+      "file": "exponents-and-powers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Direct and Inverse Proportions",
+      "slug": "direct-and-inverse-proportions",
+      "file": "direct-and-inverse-proportions.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Factorisation",
+      "slug": "factorisation",
+      "file": "factorisation.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "slug": "introduction-to-graphs",
+      "file": "introduction-to-graphs.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Playing with Numbers",
+      "slug": "playing-with-numbers",
+      "file": "playing-with-numbers.json"
+    }
+  ]
+}

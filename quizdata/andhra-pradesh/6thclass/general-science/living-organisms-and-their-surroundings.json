@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the scientific principle? (Q1)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid scientific principle with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the scientific principle and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated data interpretation claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the cause and effect relation? (Q2)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid cause and effect relation with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the cause and effect relation and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated diagram based reasoning claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the experimental method? (Q3)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid experimental method with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the experimental method and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated application in daily life claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the data interpretation? (Q4)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid data interpretation with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the data interpretation and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated environmental implication claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the diagram based reasoning? (Q5)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid diagram based reasoning with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the diagram based reasoning and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated comparative analysis claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the application in daily life? (Q6)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid application in daily life with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the application in daily life and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated misconception correction claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the environmental implication? (Q7)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid environmental implication with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the environmental implication and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated case study inference claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the comparative analysis? (Q8)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid comparative analysis with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the comparative analysis and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated scientific principle claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the misconception correction? (Q9)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid misconception correction with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the misconception correction and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated cause and effect relation claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In Class 6th General Science, chapter \"Living Organisms and Their Surroundings\", which option best captures the case study inference? (Q10)",
+      "correct_answer": "It explains living organisms and their surroundings through a valid case study inference with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the case study inference and relies only on memorised statements.",
+        "It replaces living organisms and their surroundings with unrelated experimental method claims.",
+        "It treats partial examples as complete proof in living organisms and their surroundings."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q11)",
+      "correct_answer": "Use scientific principle first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from data interpretation and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when application in daily life must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q12)",
+      "correct_answer": "Use cause and effect relation first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from diagram based reasoning and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when environmental implication must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q13)",
+      "correct_answer": "Use experimental method first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from application in daily life and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when comparative analysis must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q14)",
+      "correct_answer": "Use data interpretation first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from environmental implication and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when misconception correction must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q15)",
+      "correct_answer": "Use diagram based reasoning first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from comparative analysis and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when case study inference must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q16)",
+      "correct_answer": "Use application in daily life first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from misconception correction and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when scientific principle must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q17)",
+      "correct_answer": "Use environmental implication first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from case study inference and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when cause and effect relation must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q18)",
+      "correct_answer": "Use comparative analysis first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from scientific principle and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when experimental method must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q19)",
+      "correct_answer": "Use misconception correction first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from cause and effect relation and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when data interpretation must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Living Organisms and Their Surroundings\"? (Q20)",
+      "correct_answer": "Use case study inference first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from experimental method and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when diagram based reasoning must be verified."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q21)",
+      "correct_answer": "The response that links evidence to scientific principle and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to scientific principle.",
+        "The response that depends only on data interpretation without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q22)",
+      "correct_answer": "The response that links evidence to cause and effect relation and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to cause and effect relation.",
+        "The response that depends only on diagram based reasoning without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q23)",
+      "correct_answer": "The response that links evidence to experimental method and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to experimental method.",
+        "The response that depends only on application in daily life without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q24)",
+      "correct_answer": "The response that links evidence to data interpretation and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to data interpretation.",
+        "The response that depends only on environmental implication without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q25)",
+      "correct_answer": "The response that links evidence to diagram based reasoning and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to diagram based reasoning.",
+        "The response that depends only on comparative analysis without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q26)",
+      "correct_answer": "The response that links evidence to application in daily life and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to application in daily life.",
+        "The response that depends only on misconception correction without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q27)",
+      "correct_answer": "The response that links evidence to environmental implication and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to environmental implication.",
+        "The response that depends only on case study inference without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q28)",
+      "correct_answer": "The response that links evidence to comparative analysis and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to comparative analysis.",
+        "The response that depends only on scientific principle without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q29)",
+      "correct_answer": "The response that links evidence to misconception correction and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to misconception correction.",
+        "The response that depends only on cause and effect relation without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "A student applies chapter \"Living Organisms and Their Surroundings\" in a case study. Which response is strongest? (Q30)",
+      "correct_answer": "The response that links evidence to case study inference and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to case study inference.",
+        "The response that depends only on experimental method without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q31)",
+      "correct_answer": "Confusing scientific principle with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using data interpretation to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q32)",
+      "correct_answer": "Confusing cause and effect relation with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using diagram based reasoning to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q33)",
+      "correct_answer": "Confusing experimental method with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using application in daily life to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q34)",
+      "correct_answer": "Confusing data interpretation with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using environmental implication to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q35)",
+      "correct_answer": "Confusing diagram based reasoning with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using comparative analysis to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q36)",
+      "correct_answer": "Confusing application in daily life with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using misconception correction to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q37)",
+      "correct_answer": "Confusing environmental implication with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using case study inference to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q38)",
+      "correct_answer": "Confusing comparative analysis with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using scientific principle to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q39)",
+      "correct_answer": "Confusing misconception correction with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using cause and effect relation to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Identify the most common high-level mistake in chapter \"Living Organisms and Their Surroundings\". (Q40)",
+      "correct_answer": "Confusing case study inference with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using experimental method to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q41)",
+      "correct_answer": "Advanced understanding connects scientific principle with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids application in daily life when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q42)",
+      "correct_answer": "Advanced understanding connects cause and effect relation with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids environmental implication when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q43)",
+      "correct_answer": "Advanced understanding connects experimental method with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids comparative analysis when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q44)",
+      "correct_answer": "Advanced understanding connects data interpretation with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids misconception correction when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q45)",
+      "correct_answer": "Advanced understanding connects diagram based reasoning with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids case study inference when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q46)",
+      "correct_answer": "Advanced understanding connects application in daily life with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids scientific principle when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q47)",
+      "correct_answer": "Advanced understanding connects environmental implication with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids cause and effect relation when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q48)",
+      "correct_answer": "Advanced understanding connects comparative analysis with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids experimental method when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q49)",
+      "correct_answer": "Advanced understanding connects misconception correction with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids data interpretation when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which statement best distinguishes advanced understanding in \"Living Organisms and Their Surroundings\"? (Q50)",
+      "correct_answer": "Advanced understanding connects case study inference with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids diagram based reasoning when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q51)",
+      "correct_answer": "Re-check the result against scientific principle, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q52)",
+      "correct_answer": "Re-check the result against cause and effect relation, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q53)",
+      "correct_answer": "Re-check the result against experimental method, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q54)",
+      "correct_answer": "Re-check the result against data interpretation, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q55)",
+      "correct_answer": "Re-check the result against diagram based reasoning, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q56)",
+      "correct_answer": "Re-check the result against application in daily life, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q57)",
+      "correct_answer": "Re-check the result against environmental implication, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q58)",
+      "correct_answer": "Re-check the result against comparative analysis, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q59)",
+      "correct_answer": "Re-check the result against misconception correction, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "In a difficult MCQ from \"Living Organisms and Their Surroundings\", what should be done immediately after obtaining a tentative answer? (Q60)",
+      "correct_answer": "Re-check the result against case study inference, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q61)",
+      "correct_answer": "It compares two possible interpretations and selects one using scientific principle.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q62)",
+      "correct_answer": "It compares two possible interpretations and selects one using cause and effect relation.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q63)",
+      "correct_answer": "It compares two possible interpretations and selects one using experimental method.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q64)",
+      "correct_answer": "It compares two possible interpretations and selects one using data interpretation.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q65)",
+      "correct_answer": "It compares two possible interpretations and selects one using diagram based reasoning.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q66)",
+      "correct_answer": "It compares two possible interpretations and selects one using application in daily life.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q67)",
+      "correct_answer": "It compares two possible interpretations and selects one using environmental implication.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q68)",
+      "correct_answer": "It compares two possible interpretations and selects one using comparative analysis.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q69)",
+      "correct_answer": "It compares two possible interpretations and selects one using misconception correction.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which option demonstrates analytical depth for chapter \"Living Organisms and Their Surroundings\"? (Q70)",
+      "correct_answer": "It compares two possible interpretations and selects one using case study inference.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q71)",
+      "correct_answer": "Map the context to scientific principle, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q72)",
+      "correct_answer": "Map the context to cause and effect relation, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q73)",
+      "correct_answer": "Map the context to experimental method, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q74)",
+      "correct_answer": "Map the context to data interpretation, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q75)",
+      "correct_answer": "Map the context to diagram based reasoning, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q76)",
+      "correct_answer": "Map the context to application in daily life, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q77)",
+      "correct_answer": "Map the context to environmental implication, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q78)",
+      "correct_answer": "Map the context to comparative analysis, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q79)",
+      "correct_answer": "Map the context to misconception correction, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "An exam setter twists chapter \"Living Organisms and Their Surroundings\" using a novel context. What is the best strategy? (Q80)",
+      "correct_answer": "Map the context to case study inference, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q81)",
+      "correct_answer": "The one that justifies conclusions through scientific principle and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q82)",
+      "correct_answer": "The one that justifies conclusions through cause and effect relation and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q83)",
+      "correct_answer": "The one that justifies conclusions through experimental method and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q84)",
+      "correct_answer": "The one that justifies conclusions through data interpretation and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q85)",
+      "correct_answer": "The one that justifies conclusions through diagram based reasoning and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q86)",
+      "correct_answer": "The one that justifies conclusions through application in daily life and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q87)",
+      "correct_answer": "The one that justifies conclusions through environmental implication and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q88)",
+      "correct_answer": "The one that justifies conclusions through comparative analysis and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q89)",
+      "correct_answer": "The one that justifies conclusions through misconception correction and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Living Organisms and Their Surroundings\"? (Q90)",
+      "correct_answer": "The one that justifies conclusions through case study inference and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q91)",
+      "correct_answer": "Build mastery by combining scientific principle, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q92)",
+      "correct_answer": "Build mastery by combining cause and effect relation, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q93)",
+      "correct_answer": "Build mastery by combining experimental method, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q94)",
+      "correct_answer": "Build mastery by combining data interpretation, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q95)",
+      "correct_answer": "Build mastery by combining diagram based reasoning, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q96)",
+      "correct_answer": "Build mastery by combining application in daily life, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q97)",
+      "correct_answer": "Build mastery by combining environmental implication, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q98)",
+      "correct_answer": "Build mastery by combining comparative analysis, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q99)",
+      "correct_answer": "Build mastery by combining misconception correction, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "General Science",
+      "subject": "General Science",
+      "chapter": "Living Organisms and Their Surroundings",
+      "question": "Choose the best meta-reasoning statement for mastering \"Living Organisms and Their Surroundings\" at mid-to-hard level. (Q100)",
+      "correct_answer": "Build mastery by combining case study inference, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    }
+  ]
+}

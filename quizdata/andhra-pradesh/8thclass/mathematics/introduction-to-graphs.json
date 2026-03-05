@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the core concept? (Q1)",
+      "correct_answer": "It explains introduction to graphs through a valid core concept with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the core concept and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated multi-step procedure claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the formal definition? (Q2)",
+      "correct_answer": "It explains introduction to graphs through a valid formal definition with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the formal definition and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated symbolic representation claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the key theorem? (Q3)",
+      "correct_answer": "It explains introduction to graphs through a valid key theorem with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the key theorem and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated logical proof claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the multi-step procedure? (Q4)",
+      "correct_answer": "It explains introduction to graphs through a valid multi-step procedure with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the multi-step procedure and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated error analysis claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the symbolic representation? (Q5)",
+      "correct_answer": "It explains introduction to graphs through a valid symbolic representation with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the symbolic representation and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated higher-order reasoning claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the logical proof? (Q6)",
+      "correct_answer": "It explains introduction to graphs through a valid logical proof with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the logical proof and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated real-life modelling claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the error analysis? (Q7)",
+      "correct_answer": "It explains introduction to graphs through a valid error analysis with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the error analysis and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated exam strategy claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the higher-order reasoning? (Q8)",
+      "correct_answer": "It explains introduction to graphs through a valid higher-order reasoning with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the higher-order reasoning and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated core concept claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the real-life modelling? (Q9)",
+      "correct_answer": "It explains introduction to graphs through a valid real-life modelling with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the real-life modelling and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated formal definition claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In Class 8th Mathematics, chapter \"Introduction to Graphs\", which option best captures the exam strategy? (Q10)",
+      "correct_answer": "It explains introduction to graphs through a valid exam strategy with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the exam strategy and relies only on memorised statements.",
+        "It replaces introduction to graphs with unrelated key theorem claims.",
+        "It treats partial examples as complete proof in introduction to graphs."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q11)",
+      "correct_answer": "Use core concept first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from multi-step procedure and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when logical proof must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q12)",
+      "correct_answer": "Use formal definition first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from symbolic representation and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when error analysis must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q13)",
+      "correct_answer": "Use key theorem first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from logical proof and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when higher-order reasoning must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q14)",
+      "correct_answer": "Use multi-step procedure first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from error analysis and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when real-life modelling must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q15)",
+      "correct_answer": "Use symbolic representation first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from higher-order reasoning and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when exam strategy must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q16)",
+      "correct_answer": "Use logical proof first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from real-life modelling and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when core concept must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q17)",
+      "correct_answer": "Use error analysis first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from exam strategy and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when formal definition must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q18)",
+      "correct_answer": "Use higher-order reasoning first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from core concept and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when key theorem must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q19)",
+      "correct_answer": "Use real-life modelling first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from formal definition and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when multi-step procedure must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Introduction to Graphs\"? (Q20)",
+      "correct_answer": "Use exam strategy first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from key theorem and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when symbolic representation must be verified."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q21)",
+      "correct_answer": "The response that links evidence to core concept and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to core concept.",
+        "The response that depends only on multi-step procedure without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q22)",
+      "correct_answer": "The response that links evidence to formal definition and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to formal definition.",
+        "The response that depends only on symbolic representation without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q23)",
+      "correct_answer": "The response that links evidence to key theorem and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to key theorem.",
+        "The response that depends only on logical proof without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q24)",
+      "correct_answer": "The response that links evidence to multi-step procedure and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to multi-step procedure.",
+        "The response that depends only on error analysis without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q25)",
+      "correct_answer": "The response that links evidence to symbolic representation and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to symbolic representation.",
+        "The response that depends only on higher-order reasoning without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q26)",
+      "correct_answer": "The response that links evidence to logical proof and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to logical proof.",
+        "The response that depends only on real-life modelling without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q27)",
+      "correct_answer": "The response that links evidence to error analysis and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to error analysis.",
+        "The response that depends only on exam strategy without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q28)",
+      "correct_answer": "The response that links evidence to higher-order reasoning and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to higher-order reasoning.",
+        "The response that depends only on core concept without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q29)",
+      "correct_answer": "The response that links evidence to real-life modelling and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to real-life modelling.",
+        "The response that depends only on formal definition without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "A student applies chapter \"Introduction to Graphs\" in a case study. Which response is strongest? (Q30)",
+      "correct_answer": "The response that links evidence to exam strategy and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to exam strategy.",
+        "The response that depends only on key theorem without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q31)",
+      "correct_answer": "Confusing core concept with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using multi-step procedure to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q32)",
+      "correct_answer": "Confusing formal definition with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using symbolic representation to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q33)",
+      "correct_answer": "Confusing key theorem with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using logical proof to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q34)",
+      "correct_answer": "Confusing multi-step procedure with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using error analysis to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q35)",
+      "correct_answer": "Confusing symbolic representation with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using higher-order reasoning to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q36)",
+      "correct_answer": "Confusing logical proof with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using real-life modelling to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q37)",
+      "correct_answer": "Confusing error analysis with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using exam strategy to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q38)",
+      "correct_answer": "Confusing higher-order reasoning with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using core concept to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q39)",
+      "correct_answer": "Confusing real-life modelling with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using formal definition to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Identify the most common high-level mistake in chapter \"Introduction to Graphs\". (Q40)",
+      "correct_answer": "Confusing exam strategy with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using key theorem to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q41)",
+      "correct_answer": "Advanced understanding connects core concept with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids logical proof when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q42)",
+      "correct_answer": "Advanced understanding connects formal definition with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids error analysis when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q43)",
+      "correct_answer": "Advanced understanding connects key theorem with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids higher-order reasoning when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q44)",
+      "correct_answer": "Advanced understanding connects multi-step procedure with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids real-life modelling when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q45)",
+      "correct_answer": "Advanced understanding connects symbolic representation with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids exam strategy when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q46)",
+      "correct_answer": "Advanced understanding connects logical proof with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids core concept when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q47)",
+      "correct_answer": "Advanced understanding connects error analysis with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids formal definition when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q48)",
+      "correct_answer": "Advanced understanding connects higher-order reasoning with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids key theorem when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q49)",
+      "correct_answer": "Advanced understanding connects real-life modelling with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids multi-step procedure when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which statement best distinguishes advanced understanding in \"Introduction to Graphs\"? (Q50)",
+      "correct_answer": "Advanced understanding connects exam strategy with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids symbolic representation when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q51)",
+      "correct_answer": "Re-check the result against core concept, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q52)",
+      "correct_answer": "Re-check the result against formal definition, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q53)",
+      "correct_answer": "Re-check the result against key theorem, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q54)",
+      "correct_answer": "Re-check the result against multi-step procedure, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q55)",
+      "correct_answer": "Re-check the result against symbolic representation, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q56)",
+      "correct_answer": "Re-check the result against logical proof, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q57)",
+      "correct_answer": "Re-check the result against error analysis, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q58)",
+      "correct_answer": "Re-check the result against higher-order reasoning, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q59)",
+      "correct_answer": "Re-check the result against real-life modelling, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "In a difficult MCQ from \"Introduction to Graphs\", what should be done immediately after obtaining a tentative answer? (Q60)",
+      "correct_answer": "Re-check the result against exam strategy, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q61)",
+      "correct_answer": "It compares two possible interpretations and selects one using core concept.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q62)",
+      "correct_answer": "It compares two possible interpretations and selects one using formal definition.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q63)",
+      "correct_answer": "It compares two possible interpretations and selects one using key theorem.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q64)",
+      "correct_answer": "It compares two possible interpretations and selects one using multi-step procedure.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q65)",
+      "correct_answer": "It compares two possible interpretations and selects one using symbolic representation.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q66)",
+      "correct_answer": "It compares two possible interpretations and selects one using logical proof.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q67)",
+      "correct_answer": "It compares two possible interpretations and selects one using error analysis.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q68)",
+      "correct_answer": "It compares two possible interpretations and selects one using higher-order reasoning.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q69)",
+      "correct_answer": "It compares two possible interpretations and selects one using real-life modelling.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which option demonstrates analytical depth for chapter \"Introduction to Graphs\"? (Q70)",
+      "correct_answer": "It compares two possible interpretations and selects one using exam strategy.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q71)",
+      "correct_answer": "Map the context to core concept, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q72)",
+      "correct_answer": "Map the context to formal definition, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q73)",
+      "correct_answer": "Map the context to key theorem, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q74)",
+      "correct_answer": "Map the context to multi-step procedure, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q75)",
+      "correct_answer": "Map the context to symbolic representation, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q76)",
+      "correct_answer": "Map the context to logical proof, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q77)",
+      "correct_answer": "Map the context to error analysis, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q78)",
+      "correct_answer": "Map the context to higher-order reasoning, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q79)",
+      "correct_answer": "Map the context to real-life modelling, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "An exam setter twists chapter \"Introduction to Graphs\" using a novel context. What is the best strategy? (Q80)",
+      "correct_answer": "Map the context to exam strategy, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q81)",
+      "correct_answer": "The one that justifies conclusions through core concept and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q82)",
+      "correct_answer": "The one that justifies conclusions through formal definition and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q83)",
+      "correct_answer": "The one that justifies conclusions through key theorem and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q84)",
+      "correct_answer": "The one that justifies conclusions through multi-step procedure and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q85)",
+      "correct_answer": "The one that justifies conclusions through symbolic representation and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q86)",
+      "correct_answer": "The one that justifies conclusions through logical proof and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q87)",
+      "correct_answer": "The one that justifies conclusions through error analysis and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q88)",
+      "correct_answer": "The one that justifies conclusions through higher-order reasoning and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q89)",
+      "correct_answer": "The one that justifies conclusions through real-life modelling and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Introduction to Graphs\"? (Q90)",
+      "correct_answer": "The one that justifies conclusions through exam strategy and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q91)",
+      "correct_answer": "Build mastery by combining core concept, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q92)",
+      "correct_answer": "Build mastery by combining formal definition, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q93)",
+      "correct_answer": "Build mastery by combining key theorem, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q94)",
+      "correct_answer": "Build mastery by combining multi-step procedure, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q95)",
+      "correct_answer": "Build mastery by combining symbolic representation, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q96)",
+      "correct_answer": "Build mastery by combining logical proof, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q97)",
+      "correct_answer": "Build mastery by combining error analysis, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q98)",
+      "correct_answer": "Build mastery by combining higher-order reasoning, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q99)",
+      "correct_answer": "Build mastery by combining real-life modelling, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Introduction to Graphs",
+      "question": "Choose the best meta-reasoning statement for mastering \"Introduction to Graphs\" at mid-to-hard level. (Q100)",
+      "correct_answer": "Build mastery by combining exam strategy, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    }
+  ]
+}

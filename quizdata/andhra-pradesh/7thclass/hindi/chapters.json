@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "subject": "Hindi",
+      "chapter": "Gadyansh Bodh",
+      "slug": "gadyansh-bodh",
+      "file": "gadyansh-bodh.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "Padyansh Vishleshan",
+      "slug": "padyansh-vishleshan",
+      "file": "padyansh-vishleshan.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "Vyakaran Prayog",
+      "slug": "vyakaran-prayog",
+      "file": "vyakaran-prayog.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "Shabd Rachana",
+      "slug": "shabd-rachana",
+      "file": "shabd-rachana.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "Muhavare aur Lokoktiyan",
+      "slug": "muhavare-aur-lokoktiyan",
+      "file": "muhavare-aur-lokoktiyan.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "slug": "anuchhed-lekhan",
+      "file": "anuchhed-lekhan.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "Patra Lekhan",
+      "slug": "patra-lekhan",
+      "file": "patra-lekhan.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "Samvad Lekhan",
+      "slug": "samvad-lekhan",
+      "file": "samvad-lekhan.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "Anuvad Kaushal",
+      "slug": "anuvad-kaushal",
+      "file": "anuvad-kaushal.json"
+    },
+    {
+      "subject": "Hindi",
+      "chapter": "Samagra Bhasha Abhyas",
+      "slug": "samagra-bhasha-abhyas",
+      "file": "samagra-bhasha-abhyas.json"
+    }
+  ]
+}

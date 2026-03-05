@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the mukhya vichar? (Q1)",
+      "correct_answer": "It explains anuchhed lekhan through a valid mukhya vichar with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the mukhya vichar and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated vyakaran satikta claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the bhaavarth samajh? (Q2)",
+      "correct_answer": "It explains anuchhed lekhan through a valid bhaavarth samajh with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the bhaavarth samajh and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated sandarbha vishleshan claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the shabd prayog? (Q3)",
+      "correct_answer": "It explains anuchhed lekhan through a valid shabd prayog with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the shabd prayog and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated lekhya kaushal claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the vyakaran satikta? (Q4)",
+      "correct_answer": "It explains anuchhed lekhan through a valid vyakaran satikta with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the vyakaran satikta and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated tarkik anumaan claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the sandarbha vishleshan? (Q5)",
+      "correct_answer": "It explains anuchhed lekhan through a valid sandarbha vishleshan with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the sandarbha vishleshan and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated sahityik drishtikon claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the lekhya kaushal? (Q6)",
+      "correct_answer": "It explains anuchhed lekhan through a valid lekhya kaushal with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the lekhya kaushal and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated truti pehchan claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the tarkik anumaan? (Q7)",
+      "correct_answer": "It explains anuchhed lekhan through a valid tarkik anumaan with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the tarkik anumaan and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated pariksha rananeeti claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the sahityik drishtikon? (Q8)",
+      "correct_answer": "It explains anuchhed lekhan through a valid sahityik drishtikon with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the sahityik drishtikon and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated mukhya vichar claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the truti pehchan? (Q9)",
+      "correct_answer": "It explains anuchhed lekhan through a valid truti pehchan with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the truti pehchan and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated bhaavarth samajh claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In Class 9th Hindi, chapter \"Anuchhed Lekhan\", which option best captures the pariksha rananeeti? (Q10)",
+      "correct_answer": "It explains anuchhed lekhan through a valid pariksha rananeeti with clearly stated conditions.",
+      "incorrect_answers": [
+        "It ignores the pariksha rananeeti and relies only on memorised statements.",
+        "It replaces anuchhed lekhan with unrelated shabd prayog claims.",
+        "It treats partial examples as complete proof in anuchhed lekhan."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q11)",
+      "correct_answer": "Use mukhya vichar first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from vyakaran satikta and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when lekhya kaushal must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q12)",
+      "correct_answer": "Use bhaavarth samajh first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from sandarbha vishleshan and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when tarkik anumaan must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q13)",
+      "correct_answer": "Use shabd prayog first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from lekhya kaushal and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when sahityik drishtikon must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q14)",
+      "correct_answer": "Use vyakaran satikta first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from tarkik anumaan and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when truti pehchan must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q15)",
+      "correct_answer": "Use sandarbha vishleshan first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from sahityik drishtikon and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when pariksha rananeeti must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q16)",
+      "correct_answer": "Use lekhya kaushal first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from truti pehchan and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when mukhya vichar must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q17)",
+      "correct_answer": "Use tarkik anumaan first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from pariksha rananeeti and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when bhaavarth samajh must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q18)",
+      "correct_answer": "Use sahityik drishtikon first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from mukhya vichar and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when shabd prayog must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q19)",
+      "correct_answer": "Use truti pehchan first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from bhaavarth samajh and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when vyakaran satikta must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which approach is most defensible while solving a mid-to-hard question from \"Anuchhed Lekhan\"? (Q20)",
+      "correct_answer": "Use pariksha rananeeti first, then justify each step before concluding.",
+      "incorrect_answers": [
+        "Start from shabd prayog and skip justification of intermediate steps.",
+        "Use direct elimination without checking constraints.",
+        "Assume data is exact even when sandarbha vishleshan must be verified."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q21)",
+      "correct_answer": "The response that links evidence to mukhya vichar and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to mukhya vichar.",
+        "The response that depends only on vyakaran satikta without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q22)",
+      "correct_answer": "The response that links evidence to bhaavarth samajh and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to bhaavarth samajh.",
+        "The response that depends only on sandarbha vishleshan without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q23)",
+      "correct_answer": "The response that links evidence to shabd prayog and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to shabd prayog.",
+        "The response that depends only on lekhya kaushal without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q24)",
+      "correct_answer": "The response that links evidence to vyakaran satikta and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to vyakaran satikta.",
+        "The response that depends only on tarkik anumaan without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q25)",
+      "correct_answer": "The response that links evidence to sandarbha vishleshan and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to sandarbha vishleshan.",
+        "The response that depends only on sahityik drishtikon without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q26)",
+      "correct_answer": "The response that links evidence to lekhya kaushal and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to lekhya kaushal.",
+        "The response that depends only on truti pehchan without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q27)",
+      "correct_answer": "The response that links evidence to tarkik anumaan and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to tarkik anumaan.",
+        "The response that depends only on pariksha rananeeti without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q28)",
+      "correct_answer": "The response that links evidence to sahityik drishtikon and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to sahityik drishtikon.",
+        "The response that depends only on mukhya vichar without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q29)",
+      "correct_answer": "The response that links evidence to truti pehchan and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to truti pehchan.",
+        "The response that depends only on bhaavarth samajh without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "A student applies chapter \"Anuchhed Lekhan\" in a case study. Which response is strongest? (Q30)",
+      "correct_answer": "The response that links evidence to pariksha rananeeti and validates boundary conditions.",
+      "incorrect_answers": [
+        "The response that cites facts but avoids linking to pariksha rananeeti.",
+        "The response that depends only on shabd prayog without case evidence.",
+        "The response that states conclusions before analysis."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q31)",
+      "correct_answer": "Confusing mukhya vichar with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using vyakaran satikta to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q32)",
+      "correct_answer": "Confusing bhaavarth samajh with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using sandarbha vishleshan to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q33)",
+      "correct_answer": "Confusing shabd prayog with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using lekhya kaushal to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q34)",
+      "correct_answer": "Confusing vyakaran satikta with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using tarkik anumaan to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q35)",
+      "correct_answer": "Confusing sandarbha vishleshan with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using sahityik drishtikon to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q36)",
+      "correct_answer": "Confusing lekhya kaushal with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using truti pehchan to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q37)",
+      "correct_answer": "Confusing tarkik anumaan with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using pariksha rananeeti to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q38)",
+      "correct_answer": "Confusing sahityik drishtikon with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using mukhya vichar to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q39)",
+      "correct_answer": "Confusing truti pehchan with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using bhaavarth samajh to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Identify the most common high-level mistake in chapter \"Anuchhed Lekhan\". (Q40)",
+      "correct_answer": "Confusing pariksha rananeeti with surface-level memorisation instead of structured reasoning.",
+      "incorrect_answers": [
+        "Checking assumptions before deriving an answer.",
+        "Comparing multiple methods and selecting the valid one.",
+        "Using shabd prayog to cross-verify the final answer."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q41)",
+      "correct_answer": "Advanced understanding connects mukhya vichar with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids lekhya kaushal when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q42)",
+      "correct_answer": "Advanced understanding connects bhaavarth samajh with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids tarkik anumaan when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q43)",
+      "correct_answer": "Advanced understanding connects shabd prayog with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids sahityik drishtikon when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q44)",
+      "correct_answer": "Advanced understanding connects vyakaran satikta with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids truti pehchan when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q45)",
+      "correct_answer": "Advanced understanding connects sandarbha vishleshan with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids pariksha rananeeti when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q46)",
+      "correct_answer": "Advanced understanding connects lekhya kaushal with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids mukhya vichar when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q47)",
+      "correct_answer": "Advanced understanding connects tarkik anumaan with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids bhaavarth samajh when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q48)",
+      "correct_answer": "Advanced understanding connects sahityik drishtikon with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids shabd prayog when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q49)",
+      "correct_answer": "Advanced understanding connects truti pehchan with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids vyakaran satikta when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which statement best distinguishes advanced understanding in \"Anuchhed Lekhan\"? (Q50)",
+      "correct_answer": "Advanced understanding connects pariksha rananeeti with inference, validation, and limits.",
+      "incorrect_answers": [
+        "Advanced understanding means reproducing textbook lines only.",
+        "Advanced understanding avoids sandarbha vishleshan when options look similar.",
+        "Advanced understanding skips interpretation if formulas are known."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q51)",
+      "correct_answer": "Re-check the result against mukhya vichar, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q52)",
+      "correct_answer": "Re-check the result against bhaavarth samajh, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q53)",
+      "correct_answer": "Re-check the result against shabd prayog, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q54)",
+      "correct_answer": "Re-check the result against vyakaran satikta, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q55)",
+      "correct_answer": "Re-check the result against sandarbha vishleshan, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q56)",
+      "correct_answer": "Re-check the result against lekhya kaushal, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q57)",
+      "correct_answer": "Re-check the result against tarkik anumaan, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q58)",
+      "correct_answer": "Re-check the result against sahityik drishtikon, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q59)",
+      "correct_answer": "Re-check the result against truti pehchan, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "In a difficult MCQ from \"Anuchhed Lekhan\", what should be done immediately after obtaining a tentative answer? (Q60)",
+      "correct_answer": "Re-check the result against pariksha rananeeti, assumptions, and chapter constraints.",
+      "incorrect_answers": [
+        "Accept the first plausible option without validating constraints.",
+        "Rewrite the question as a direct fact without analysis.",
+        "Use elimination only by option length and language cues."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q61)",
+      "correct_answer": "It compares two possible interpretations and selects one using mukhya vichar.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q62)",
+      "correct_answer": "It compares two possible interpretations and selects one using bhaavarth samajh.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q63)",
+      "correct_answer": "It compares two possible interpretations and selects one using shabd prayog.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q64)",
+      "correct_answer": "It compares two possible interpretations and selects one using vyakaran satikta.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q65)",
+      "correct_answer": "It compares two possible interpretations and selects one using sandarbha vishleshan.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q66)",
+      "correct_answer": "It compares two possible interpretations and selects one using lekhya kaushal.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q67)",
+      "correct_answer": "It compares two possible interpretations and selects one using tarkik anumaan.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q68)",
+      "correct_answer": "It compares two possible interpretations and selects one using sahityik drishtikon.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q69)",
+      "correct_answer": "It compares two possible interpretations and selects one using truti pehchan.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which option demonstrates analytical depth for chapter \"Anuchhed Lekhan\"? (Q70)",
+      "correct_answer": "It compares two possible interpretations and selects one using pariksha rananeeti.",
+      "incorrect_answers": [
+        "It repeats definitions without testing applicability.",
+        "It assumes every scenario follows the same pattern.",
+        "It replaces argument with unsupported opinion."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q71)",
+      "correct_answer": "Map the context to mukhya vichar, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q72)",
+      "correct_answer": "Map the context to bhaavarth samajh, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q73)",
+      "correct_answer": "Map the context to shabd prayog, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q74)",
+      "correct_answer": "Map the context to vyakaran satikta, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q75)",
+      "correct_answer": "Map the context to sandarbha vishleshan, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q76)",
+      "correct_answer": "Map the context to lekhya kaushal, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q77)",
+      "correct_answer": "Map the context to tarkik anumaan, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q78)",
+      "correct_answer": "Map the context to sahityik drishtikon, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q79)",
+      "correct_answer": "Map the context to truti pehchan, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "An exam setter twists chapter \"Anuchhed Lekhan\" using a novel context. What is the best strategy? (Q80)",
+      "correct_answer": "Map the context to pariksha rananeeti, identify hidden constraints, then solve systematically.",
+      "incorrect_answers": [
+        "Ignore context and solve using a memorised template directly.",
+        "Pick the familiar option even if assumptions differ.",
+        "Use approximate logic and skip a final consistency check."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q81)",
+      "correct_answer": "The one that justifies conclusions through mukhya vichar and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q82)",
+      "correct_answer": "The one that justifies conclusions through bhaavarth samajh and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q83)",
+      "correct_answer": "The one that justifies conclusions through shabd prayog and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q84)",
+      "correct_answer": "The one that justifies conclusions through vyakaran satikta and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q85)",
+      "correct_answer": "The one that justifies conclusions through sandarbha vishleshan and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q86)",
+      "correct_answer": "The one that justifies conclusions through lekhya kaushal and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q87)",
+      "correct_answer": "The one that justifies conclusions through tarkik anumaan and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q88)",
+      "correct_answer": "The one that justifies conclusions through sahityik drishtikon and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q89)",
+      "correct_answer": "The one that justifies conclusions through truti pehchan and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Which interpretation is most likely to earn full marks in a competency-based test on \"Anuchhed Lekhan\"? (Q90)",
+      "correct_answer": "The one that justifies conclusions through pariksha rananeeti and evidence-backed reasoning.",
+      "incorrect_answers": [
+        "The one that gives the answer without showing reasoning.",
+        "The one that prioritises speed over conceptual accuracy.",
+        "The one that relies on unrelated chapter facts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q91)",
+      "correct_answer": "Build mastery by combining mukhya vichar, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q92)",
+      "correct_answer": "Build mastery by combining bhaavarth samajh, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q93)",
+      "correct_answer": "Build mastery by combining shabd prayog, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q94)",
+      "correct_answer": "Build mastery by combining vyakaran satikta, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q95)",
+      "correct_answer": "Build mastery by combining sandarbha vishleshan, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q96)",
+      "correct_answer": "Build mastery by combining lekhya kaushal, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q97)",
+      "correct_answer": "Build mastery by combining tarkik anumaan, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q98)",
+      "correct_answer": "Build mastery by combining sahityik drishtikon, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q99)",
+      "correct_answer": "Build mastery by combining truti pehchan, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "Anuchhed Lekhan",
+      "question": "Choose the best meta-reasoning statement for mastering \"Anuchhed Lekhan\" at mid-to-hard level. (Q100)",
+      "correct_answer": "Build mastery by combining pariksha rananeeti, deliberate practice, and error correction cycles.",
+      "incorrect_answers": [
+        "Build mastery by reading solved answers once without self-testing.",
+        "Build mastery by avoiding mixed-difficulty questions.",
+        "Build mastery by memorising options instead of concepts."
+      ]
+    }
+  ]
+}
