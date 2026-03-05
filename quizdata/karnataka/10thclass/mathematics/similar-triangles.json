@@ -4,6 +4,18 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Similar Triangles",
+      "question": "If corresponding sides of two similar triangles are in ratio 5:1, then area ratio is:",
+      "correct_answer": "25:1",
+      "incorrect_answers": [
+        "5:1",
+        "125:1",
+        "6:1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
       "question": "If corresponding sides of two similar triangles are in ratio 3:1, then area ratio is:",
       "correct_answer": "9:1",
       "incorrect_answers": [
@@ -34,18 +46,6 @@
         "7:1",
         "343:1",
         "8:1"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Similar Triangles",
-      "question": "If corresponding sides of two similar triangles are in ratio 5:1, then area ratio is:",
-      "correct_answer": "25:1",
-      "incorrect_answers": [
-        "5:1",
-        "125:1",
-        "6:1"
       ]
     },
     {

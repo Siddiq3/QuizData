@@ -9,7 +9,7 @@
       "incorrect_answers": [
         "Critical Inference can replace all chapter logic without assumptions.",
         "Plot Development is valid only if core conditions are ignored.",
-        "Narrative Conflict is a memory cue, not a defensible explanation."
+        "Contextual Vocabulary is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,8 +19,8 @@
       "question": "A learner applies character motivation in a new problem from \"The Making of a Scientist\". What is the best first step?",
       "correct_answer": "Define conditions, apply character motivation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from The Making of a Scientist framework and skip checking constraints.",
-        "Use tone and mood as a shortcut and avoid interpretation.",
+        "Start from author viewpoint and skip checking constraints.",
+        "Use The Making of a Scientist as a shortcut and avoid interpretation.",
         "Pick critical inference by intuition and finalise without verification."
       ]
     },
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of narrative conflict in \"The Making of a Scientist\"?",
       "correct_answer": "An example where narrative conflict is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where character motivation is used without relevance to chapter context.",
+        "An example where The Making of a Scientist application is used without relevance to chapter context.",
         "An example where author viewpoint is memorised but not applied logically.",
-        "An example where ethical perspective is stated without evidence."
+        "An example where contextual vocabulary is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"The Making of a Scientist\": \"tone and mood works without constraints.\"",
       "correct_answer": "Tone And Mood works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Theme Interpretation removes the need for all constraints in every case.",
-        "Textual Evidence is always equivalent to tone and mood, regardless of context.",
-        "Ethical Perspective is enough even when data contradict the claim."
+        "The Making Of A Scientist Application removes the need for all constraints in every case.",
+        "Theme Interpretation is always equivalent to tone and mood, regardless of context.",
+        "Character Motivation is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,8 +67,8 @@
       "question": "In \"The Making of a Scientist\", which mismatch is incorrect?",
       "correct_answer": "Author Viewpoint - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Dialogue Function - applied without confirming assumptions.",
-        "Theme Interpretation - interpreted against contradictory data.",
+        "Plot Development - applied without confirming assumptions.",
+        "The Making Of A Scientist Inference - interpreted against contradictory data.",
         "Character Motivation - concluded before checking consistency."
       ]
     },
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for critical inference in \"The Making of a Scientist\"?",
       "correct_answer": "The inference that links critical inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes The Making of a Scientist inference without checking relevance.",
-        "An inference that cites ethical perspective but skips logical steps.",
-        "An inference that repeats The Making of a Scientist framework without interpretation."
+        "An inference that substitutes textual evidence without checking relevance.",
+        "An inference that cites dialogue function but skips logical steps.",
+        "An inference that repeats tone and mood without interpretation."
       ]
     },
     {
@@ -103,9 +103,9 @@
       "question": "In \"The Making of a Scientist\", which statement is most accurate about contextual vocabulary?",
       "correct_answer": "Contextual Vocabulary is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Dialogue Function can replace all chapter logic without assumptions.",
-        "Plot Development is valid only if core conditions are ignored.",
-        "The Making Of A Scientist Framework is a memory cue, not a defensible explanation."
+        "The Making Of A Scientist can replace all chapter logic without assumptions.",
+        "Critical Inference is valid only if core conditions are ignored.",
+        "Plot Development is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -115,9 +115,9 @@
       "question": "A learner applies dialogue function in a new problem from \"The Making of a Scientist\". What is the best first step?",
       "correct_answer": "Define conditions, apply dialogue function stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from tone and mood and skip checking constraints.",
-        "Use plot development as a shortcut and avoid interpretation.",
-        "Pick theme interpretation by intuition and finalise without verification."
+        "Start from character motivation and skip checking constraints.",
+        "Use textual evidence as a shortcut and avoid interpretation.",
+        "Pick contextual vocabulary by intuition and finalise without verification."
       ]
     },
     {
@@ -127,9 +127,9 @@
       "question": "Which option shows a valid example of plot development in \"The Making of a Scientist\"?",
       "correct_answer": "An example where plot development is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where The Making of a Scientist framework is used without relevance to chapter context.",
-        "An example where author viewpoint is memorised but not applied logically.",
-        "An example where critical inference is stated without evidence."
+        "An example where narrative conflict is used without relevance to chapter context.",
+        "An example where The Making of a Scientist is memorised but not applied logically.",
+        "An example where contextual vocabulary is stated without evidence."
       ]
     },
     {
@@ -139,9 +139,9 @@
       "question": "Choose the most defensible correction for this claim in \"The Making of a Scientist\": \"ethical perspective works without constraints.\"",
       "correct_answer": "Ethical Perspective works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Narrative Conflict removes the need for all constraints in every case.",
-        "Dialogue Function is always equivalent to ethical perspective, regardless of context.",
-        "Critical Inference is enough even when data contradict the claim."
+        "Dialogue Function removes the need for all constraints in every case.",
+        "The Making Of A Scientist Inference is always equivalent to ethical perspective, regardless of context.",
+        "Tone And Mood is enough even when data contradict the claim."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "question": "Which inference is most rigorous for The Making of a Scientist inference in \"The Making of a Scientist\"?",
       "correct_answer": "The inference that links The Making of a Scientist inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes critical inference without checking relevance.",
-        "An inference that cites textual evidence but skips logical steps.",
-        "An inference that repeats The Making of a Scientist application without interpretation."
+        "An inference that substitutes The Making of a Scientist framework without checking relevance.",
+        "An inference that cites author viewpoint but skips logical steps.",
+        "An inference that repeats theme interpretation without interpretation."
       ]
     },
     {

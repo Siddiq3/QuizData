@@ -7,9 +7,9 @@
       "question": "In \"Water Resources\", which statement is most accurate about watershed?",
       "correct_answer": "Watershed is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Water Resources can replace all chapter logic without assumptions.",
-        "Groundwater Depletion is valid only if core conditions are ignored.",
-        "Sustainable Use is a memory cue, not a defensible explanation."
+        "Land Degradation can replace all chapter logic without assumptions.",
+        "Resource Planning is valid only if core conditions are ignored.",
+        "Water Resources Application is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies multipurpose projects in a new problem from \"Water Resources\". What is the best first step?",
       "correct_answer": "Define conditions, apply multipurpose projects stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from watershed and skip checking constraints.",
-        "Use resource conservation as a shortcut and avoid interpretation.",
-        "Pick land degradation by intuition and finalise without verification."
+        "Start from groundwater depletion and skip checking constraints.",
+        "Use sustainable use as a shortcut and avoid interpretation.",
+        "Pick Water Resources application by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of groundwater depletion in \"Water Resources\"?",
       "correct_answer": "An example where groundwater depletion is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Water Resources is used without relevance to chapter context.",
-        "An example where watershed is memorised but not applied logically.",
-        "An example where Water Resources application is stated without evidence."
+        "An example where sustainable use is used without relevance to chapter context.",
+        "An example where land degradation is memorised but not applied logically.",
+        "An example where Water Resources framework is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Water Resources\": \"water conflict works without constraints.\"",
       "correct_answer": "Water Conflict works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Water Resources removes the need for all constraints in every case.",
-        "Groundwater Depletion is always equivalent to water conflict, regardless of context.",
-        "Water Resources Inference is enough even when data contradict the claim."
+        "Multipurpose Projects removes the need for all constraints in every case.",
+        "Water Resources Application is always equivalent to water conflict, regardless of context.",
+        "Water Resources is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Water Resources\", which mismatch is incorrect?",
       "correct_answer": "Sustainable Use - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Land Degradation - applied without confirming assumptions.",
-        "Water Resources Application - interpreted against contradictory data.",
-        "Water Conflict - concluded before checking consistency."
+        "Water Resources Application - applied without confirming assumptions.",
+        "Watershed - interpreted against contradictory data.",
+        "Land Degradation - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for resource conservation in \"Water Resources\"?",
       "correct_answer": "The inference that links resource conservation to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Water Resources application without checking relevance.",
-        "An inference that cites water conflict but skips logical steps.",
-        "An inference that repeats resource planning without interpretation."
+        "An inference that substitutes sustainable use without checking relevance.",
+        "An inference that cites Water Resources inference but skips logical steps.",
+        "An inference that repeats Water Resources application without interpretation."
       ]
     },
     {
@@ -103,9 +103,9 @@
       "question": "In \"Water Resources\", which statement is most accurate about Water Resources?",
       "correct_answer": "Water Resources is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Watershed can replace all chapter logic without assumptions.",
-        "Groundwater Depletion is valid only if core conditions are ignored.",
-        "Land Degradation is a memory cue, not a defensible explanation."
+        "Water Resources Application can replace all chapter logic without assumptions.",
+        "Multipurpose Projects is valid only if core conditions are ignored.",
+        "Watershed is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -116,8 +116,8 @@
       "correct_answer": "Define conditions, apply Water Resources framework stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
         "Start from water conflict and skip checking constraints.",
-        "Use multipurpose projects as a shortcut and avoid interpretation.",
-        "Pick resource conservation by intuition and finalise without verification."
+        "Use watershed as a shortcut and avoid interpretation.",
+        "Pick Water Resources inference by intuition and finalise without verification."
       ]
     },
     {
@@ -127,9 +127,9 @@
       "question": "Which option shows a valid example of Water Resources application in \"Water Resources\"?",
       "correct_answer": "An example where Water Resources application is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where multipurpose projects is used without relevance to chapter context.",
-        "An example where resource planning is memorised but not applied logically.",
-        "An example where sustainable use is stated without evidence."
+        "An example where resource conservation is used without relevance to chapter context.",
+        "An example where water conflict is memorised but not applied logically.",
+        "An example where land degradation is stated without evidence."
       ]
     },
     {
@@ -139,9 +139,9 @@
       "question": "Choose the most defensible correction for this claim in \"Water Resources\": \"Water Resources inference works without constraints.\"",
       "correct_answer": "Water Resources Inference works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Water Conflict removes the need for all constraints in every case.",
-        "Land Degradation is always equivalent to Water Resources inference, regardless of context.",
-        "Watershed is enough even when data contradict the claim."
+        "Land Degradation removes the need for all constraints in every case.",
+        "Water Conflict is always equivalent to Water Resources inference, regardless of context.",
+        "Resource Conservation is enough even when data contradict the claim."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "question": "Which inference is most rigorous for water conflict in \"Water Resources\"?",
       "correct_answer": "The inference that links water conflict to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes watershed without checking relevance.",
-        "An inference that cites Water Resources but skips logical steps.",
-        "An inference that repeats groundwater depletion without interpretation."
+        "An inference that substitutes Water Resources application without checking relevance.",
+        "An inference that cites Water Resources framework but skips logical steps.",
+        "An inference that repeats resource conservation without interpretation."
       ]
     },
     {
@@ -187,9 +187,9 @@
       "question": "In \"Water Resources\", which statement is most accurate about resource planning?",
       "correct_answer": "Resource Planning is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Water Resources Application can replace all chapter logic without assumptions.",
-        "Water Resources Inference is valid only if core conditions are ignored.",
-        "Water Conflict is a memory cue, not a defensible explanation."
+        "Water Conflict can replace all chapter logic without assumptions.",
+        "Sustainable Use is valid only if core conditions are ignored.",
+        "Land Degradation is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -199,9 +199,9 @@
       "question": "A learner applies sustainable use in a new problem from \"Water Resources\". What is the best first step?",
       "correct_answer": "Define conditions, apply sustainable use stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from watershed and skip checking constraints.",
-        "Use resource conservation as a shortcut and avoid interpretation.",
-        "Pick land degradation by intuition and finalise without verification."
+        "Start from resource conservation and skip checking constraints.",
+        "Use groundwater depletion as a shortcut and avoid interpretation.",
+        "Pick water conflict by intuition and finalise without verification."
       ]
     },
     {
@@ -211,9 +211,9 @@
       "question": "Which option shows a valid example of land degradation in \"Water Resources\"?",
       "correct_answer": "An example where land degradation is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where groundwater depletion is used without relevance to chapter context.",
-        "An example where Water Resources inference is memorised but not applied logically.",
-        "An example where multipurpose projects is stated without evidence."
+        "An example where resource planning is used without relevance to chapter context.",
+        "An example where Water Resources is memorised but not applied logically.",
+        "An example where sustainable use is stated without evidence."
       ]
     },
     {
@@ -223,9 +223,9 @@
       "question": "Choose the most defensible correction for this claim in \"Water Resources\": \"resource conservation works without constraints.\"",
       "correct_answer": "Resource Conservation works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Water Resources Application removes the need for all constraints in every case.",
-        "Land Degradation is always equivalent to resource conservation, regardless of context.",
-        "Groundwater Depletion is enough even when data contradict the claim."
+        "Multipurpose Projects removes the need for all constraints in every case.",
+        "Water Resources is always equivalent to resource conservation, regardless of context.",
+        "Water Resources Framework is enough even when data contradict the claim."
       ]
     },
     {
@@ -259,9 +259,9 @@
       "question": "Which inference is most rigorous for Water Resources inference in \"Water Resources\"?",
       "correct_answer": "The inference that links Water Resources inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes groundwater depletion without checking relevance.",
-        "An inference that cites Water Resources framework but skips logical steps.",
-        "An inference that repeats land degradation without interpretation."
+        "An inference that substitutes watershed without checking relevance.",
+        "An inference that cites resource planning but skips logical steps.",
+        "An inference that repeats sustainable use without interpretation."
       ]
     },
     {

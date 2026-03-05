@@ -7,9 +7,9 @@
       "question": "In \"Money and Credit\", which statement is most accurate about scientific principle?",
       "correct_answer": "Scientific Principle is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Cause-Effect Relation can replace all chapter logic without assumptions.",
-        "Money And Credit Inference is valid only if core conditions are ignored.",
-        "Money And Credit Framework is a memory cue, not a defensible explanation."
+        "Money And Credit can replace all chapter logic without assumptions.",
+        "Cause-Effect Relation is valid only if core conditions are ignored.",
+        "Money And Credit Application is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies cause-effect relation in a new problem from \"Money and Credit\". What is the best first step?",
       "correct_answer": "Define conditions, apply cause-effect relation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Money and Credit framework and skip checking constraints.",
-        "Use scientific principle as a shortcut and avoid interpretation.",
-        "Pick Money and Credit inference by intuition and finalise without verification."
+        "Start from Money and Credit inference and skip checking constraints.",
+        "Use data interpretation as a shortcut and avoid interpretation.",
+        "Pick Money and Credit framework by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of experimental logic in \"Money and Credit\"?",
       "correct_answer": "An example where experimental logic is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Money and Credit application is used without relevance to chapter context.",
-        "An example where Money and Credit is memorised but not applied logically.",
-        "An example where Money and Credit framework is stated without evidence."
+        "An example where cause-effect relation is used without relevance to chapter context.",
+        "An example where data interpretation is memorised but not applied logically.",
+        "An example where scientific principle is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Money and Credit\": \"data interpretation works without constraints.\"",
       "correct_answer": "Data Interpretation works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Money And Credit removes the need for all constraints in every case.",
-        "Money And Credit Framework is always equivalent to data interpretation, regardless of context.",
-        "Experimental Logic is enough even when data contradict the claim."
+        "Cause-Effect Relation removes the need for all constraints in every case.",
+        "Money And Credit Inference is always equivalent to data interpretation, regardless of context.",
+        "Money And Credit Application is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Money and Credit\", which mismatch is incorrect?",
       "correct_answer": "Money And Credit Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Cause-Effect Relation - applied without confirming assumptions.",
-        "Data Interpretation - interpreted against contradictory data.",
-        "Experimental Logic - concluded before checking consistency."
+        "Money And Credit Application - applied without confirming assumptions.",
+        "Money And Credit - interpreted against contradictory data.",
+        "Data Interpretation - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Money and Credit inference in \"Money and Credit\"?",
       "correct_answer": "The inference that links Money and Credit inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes data interpretation without checking relevance.",
-        "An inference that cites experimental logic but skips logical steps.",
-        "An inference that repeats Money and Credit without interpretation."
+        "An inference that substitutes Money and Credit without checking relevance.",
+        "An inference that cites cause-effect relation but skips logical steps.",
+        "An inference that repeats Money and Credit application without interpretation."
       ]
     },
     {

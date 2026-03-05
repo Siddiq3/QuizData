@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about algebraic modelling?",
+      "correct_answer": "Algebraic Modelling is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) can replace all chapter logic without assumptions.",
+        "Mathematics Iib (2Nd Year) Inference is valid only if core conditions are ignored.",
+        "Mathematics Iib (2Nd Year) Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies calculus reasoning in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply calculus reasoning stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Mathematics IIB (2nd Year) inference and skip checking constraints.",
+        "Use thermodynamic consistency as a shortcut and avoid interpretation.",
+        "Pick chemical equilibrium by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of vector interpretation in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where vector interpretation is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where thermodynamic consistency is used without relevance to chapter context.",
+        "An example where algebraic modelling is memorised but not applied logically.",
+        "An example where Mathematics IIB (2nd Year) inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"mechanics framework works without constraints.\"",
+      "correct_answer": "Mechanics Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) Inference removes the need for all constraints in every case.",
+        "Chemical Equilibrium is always equivalent to mechanics framework, regardless of context.",
+        "Mathematics Iib (2Nd Year) is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: thermodynamic consistency is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which mismatch is incorrect?",
+      "correct_answer": "Electromagnetic Application - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Calculus Reasoning - applied without confirming assumptions.",
+        "Mathematics Iib (2Nd Year) Application - interpreted against contradictory data.",
+        "Mechanics Framework - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when chemical equilibrium and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for Mathematics IIB (2nd Year) in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links Mathematics IIB (2nd Year) to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes thermodynamic consistency without checking relevance.",
+        "An inference that cites calculus reasoning but skips logical steps.",
+        "An inference that repeats Mathematics IIB (2nd Year) application without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about Mathematics IIB (2nd Year) framework?",
+      "correct_answer": "Mathematics Iib (2Nd Year) Framework is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Electromagnetic Application can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Mathematics Iib (2Nd Year) is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies Mathematics IIB (2nd Year) application in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Mathematics IIB (2nd Year) application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Mathematics IIB (2nd Year) and skip checking constraints.",
+        "Use thermodynamic consistency as a shortcut and avoid interpretation.",
+        "Pick electromagnetic application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of Mathematics IIB (2nd Year) inference in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where Mathematics IIB (2nd Year) inference is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Mathematics IIB (2nd Year) application is used without relevance to chapter context.",
+        "An example where Mathematics IIB (2nd Year) framework is memorised but not applied logically.",
+        "An example where electromagnetic application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"algebraic modelling works without constraints.\"",
+      "correct_answer": "Algebraic Modelling works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Chemical Equilibrium removes the need for all constraints in every case.",
+        "Mathematics Iib (2Nd Year) Application is always equivalent to algebraic modelling, regardless of context.",
+        "Vector Interpretation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: calculus reasoning is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when mechanics framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for thermodynamic consistency in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links thermodynamic consistency to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes mechanics framework without checking relevance.",
+        "An inference that cites electromagnetic application but skips logical steps.",
+        "An inference that repeats algebraic modelling without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about electromagnetic application?",
+      "correct_answer": "Electromagnetic Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Chemical Equilibrium can replace all chapter logic without assumptions.",
+        "Vector Interpretation is valid only if core conditions are ignored.",
+        "Mechanics Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies chemical equilibrium in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply chemical equilibrium stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Mathematics IIB (2nd Year) and skip checking constraints.",
+        "Use calculus reasoning as a shortcut and avoid interpretation.",
+        "Pick electromagnetic application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of Mathematics IIB (2nd Year) in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where Mathematics IIB (2nd Year) is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where mechanics framework is used without relevance to chapter context.",
+        "An example where algebraic modelling is memorised but not applied logically.",
+        "An example where thermodynamic consistency is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"Mathematics IIB (2nd Year) framework works without constraints.\"",
+      "correct_answer": "Mathematics Iib (2Nd Year) Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Thermodynamic Consistency removes the need for all constraints in every case.",
+        "Mathematics Iib (2Nd Year) Application is always equivalent to Mathematics IIB (2nd Year) framework, regardless of context.",
+        "Calculus Reasoning is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: Mathematics IIB (2nd Year) application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when algebraic modelling and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for calculus reasoning in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links calculus reasoning to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Mathematics IIB (2nd Year) application without checking relevance.",
+        "An inference that cites Mathematics IIB (2nd Year) inference but skips logical steps.",
+        "An inference that repeats Mathematics IIB (2nd Year) without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about vector interpretation?",
+      "correct_answer": "Vector Interpretation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) Inference can replace all chapter logic without assumptions.",
+        "Mathematics Iib (2Nd Year) Application is valid only if core conditions are ignored.",
+        "Calculus Reasoning is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies mechanics framework in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply mechanics framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from electromagnetic application and skip checking constraints.",
+        "Use calculus reasoning as a shortcut and avoid interpretation.",
+        "Pick Mathematics IIB (2nd Year) application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of thermodynamic consistency in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where thermodynamic consistency is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where vector interpretation is used without relevance to chapter context.",
+        "An example where algebraic modelling is memorised but not applied logically.",
+        "An example where electromagnetic application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"electromagnetic application works without constraints.\"",
+      "correct_answer": "Electromagnetic Application works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) removes the need for all constraints in every case.",
+        "Mathematics Iib (2Nd Year) Inference is always equivalent to electromagnetic application, regardless of context.",
+        "Mechanics Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: chemical equilibrium is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when Mathematics IIB (2nd Year) framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for Mathematics IIB (2nd Year) application in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links Mathematics IIB (2nd Year) application to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Mathematics IIB (2nd Year) framework without checking relevance.",
+        "An inference that cites calculus reasoning but skips logical steps.",
+        "An inference that repeats vector interpretation without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about Mathematics IIB (2nd Year) inference?",
+      "correct_answer": "Mathematics Iib (2Nd Year) Inference is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Mechanics Framework can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Electromagnetic Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies algebraic modelling in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply algebraic modelling stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Mathematics IIB (2nd Year) application and skip checking constraints.",
+        "Use calculus reasoning as a shortcut and avoid interpretation.",
+        "Pick Mathematics IIB (2nd Year) by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of calculus reasoning in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where calculus reasoning is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where mechanics framework is used without relevance to chapter context.",
+        "An example where chemical equilibrium is memorised but not applied logically.",
+        "An example where vector interpretation is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"vector interpretation works without constraints.\"",
+      "correct_answer": "Vector Interpretation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) Application removes the need for all constraints in every case.",
+        "Mathematics Iib (2Nd Year) is always equivalent to vector interpretation, regardless of context.",
+        "Electromagnetic Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: mechanics framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when electromagnetic application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for chemical equilibrium in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links chemical equilibrium to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes algebraic modelling without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats Mathematics IIB (2nd Year) application without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about Mathematics IIB (2nd Year)?",
+      "correct_answer": "Mathematics Iib (2Nd Year) is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Electromagnetic Application can replace all chapter logic without assumptions.",
+        "Calculus Reasoning is valid only if core conditions are ignored.",
+        "Thermodynamic Consistency is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies Mathematics IIB (2nd Year) framework in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Mathematics IIB (2nd Year) framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from chemical equilibrium and skip checking constraints.",
+        "Use Mathematics IIB (2nd Year) as a shortcut and avoid interpretation.",
+        "Pick Mathematics IIB (2nd Year) application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of Mathematics IIB (2nd Year) application in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where Mathematics IIB (2nd Year) application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where mechanics framework is used without relevance to chapter context.",
+        "An example where Mathematics IIB (2nd Year) is memorised but not applied logically.",
+        "An example where vector interpretation is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"Mathematics IIB (2nd Year) inference works without constraints.\"",
+      "correct_answer": "Mathematics Iib (2Nd Year) Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) Application removes the need for all constraints in every case.",
+        "Mechanics Framework is always equivalent to Mathematics IIB (2nd Year) inference, regardless of context.",
+        "Thermodynamic Consistency is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: algebraic modelling is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when vector interpretation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for mechanics framework in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links mechanics framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Mathematics IIB (2nd Year) framework without checking relevance.",
+        "An inference that cites calculus reasoning but skips logical steps.",
+        "An inference that repeats chemical equilibrium without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about thermodynamic consistency?",
+      "correct_answer": "Thermodynamic Consistency is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Electromagnetic Application can replace all chapter logic without assumptions.",
+        "Mathematics Iib (2Nd Year) Inference is valid only if core conditions are ignored.",
+        "Vector Interpretation is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies electromagnetic application in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply electromagnetic application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Mathematics IIB (2nd Year) framework and skip checking constraints.",
+        "Use chemical equilibrium as a shortcut and avoid interpretation.",
+        "Pick vector interpretation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of chemical equilibrium in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where chemical equilibrium is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where algebraic modelling is used without relevance to chapter context.",
+        "An example where vector interpretation is memorised but not applied logically.",
+        "An example where Mathematics IIB (2nd Year) is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"Mathematics IIB (2nd Year) works without constraints.\"",
+      "correct_answer": "Mathematics Iib (2Nd Year) works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Electromagnetic Application removes the need for all constraints in every case.",
+        "Mathematics Iib (2Nd Year) Framework is always equivalent to Mathematics IIB (2nd Year), regardless of context.",
+        "Algebraic Modelling is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: Mathematics IIB (2nd Year) framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when Mathematics IIB (2nd Year) inference and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for algebraic modelling in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links algebraic modelling to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes electromagnetic application without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats thermodynamic consistency without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about calculus reasoning?",
+      "correct_answer": "Calculus Reasoning is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Algebraic Modelling can replace all chapter logic without assumptions.",
+        "Mathematics Iib (2Nd Year) Inference is valid only if core conditions are ignored.",
+        "Mathematics Iib (2Nd Year) Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies vector interpretation in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply vector interpretation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from thermodynamic consistency and skip checking constraints.",
+        "Use mechanics framework as a shortcut and avoid interpretation.",
+        "Pick algebraic modelling by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of mechanics framework in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where mechanics framework is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Mathematics IIB (2nd Year) framework is used without relevance to chapter context.",
+        "An example where vector interpretation is memorised but not applied logically.",
+        "An example where algebraic modelling is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"thermodynamic consistency works without constraints.\"",
+      "correct_answer": "Thermodynamic Consistency works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) Application removes the need for all constraints in every case.",
+        "Mechanics Framework is always equivalent to thermodynamic consistency, regardless of context.",
+        "Mathematics Iib (2Nd Year) Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: electromagnetic application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when Mathematics IIB (2nd Year) and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for Mathematics IIB (2nd Year) framework in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links Mathematics IIB (2nd Year) framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Mathematics IIB (2nd Year) application without checking relevance.",
+        "An inference that cites Mathematics IIB (2nd Year) inference but skips logical steps.",
+        "An inference that repeats calculus reasoning without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about Mathematics IIB (2nd Year) application?",
+      "correct_answer": "Mathematics Iib (2Nd Year) Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Algebraic Modelling is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies Mathematics IIB (2nd Year) inference in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Mathematics IIB (2nd Year) inference stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from algebraic modelling and skip checking constraints.",
+        "Use electromagnetic application as a shortcut and avoid interpretation.",
+        "Pick mechanics framework by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of algebraic modelling in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where algebraic modelling is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Mathematics IIB (2nd Year) is used without relevance to chapter context.",
+        "An example where mechanics framework is memorised but not applied logically.",
+        "An example where vector interpretation is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"calculus reasoning works without constraints.\"",
+      "correct_answer": "Calculus Reasoning works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Vector Interpretation removes the need for all constraints in every case.",
+        "Thermodynamic Consistency is always equivalent to calculus reasoning, regardless of context.",
+        "Mathematics Iib (2Nd Year) Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: vector interpretation is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when thermodynamic consistency and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for electromagnetic application in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links electromagnetic application to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Mathematics IIB (2nd Year) without checking relevance.",
+        "An inference that cites thermodynamic consistency but skips logical steps.",
+        "An inference that repeats Mathematics IIB (2nd Year) application without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about chemical equilibrium?",
+      "correct_answer": "Chemical Equilibrium is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Calculus Reasoning can replace all chapter logic without assumptions.",
+        "Electromagnetic Application is valid only if core conditions are ignored.",
+        "Algebraic Modelling is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies Mathematics IIB (2nd Year) in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Mathematics IIB (2nd Year) stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from electromagnetic application and skip checking constraints.",
+        "Use algebraic modelling as a shortcut and avoid interpretation.",
+        "Pick vector interpretation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of Mathematics IIB (2nd Year) framework in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where Mathematics IIB (2nd Year) framework is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Mathematics IIB (2nd Year) is used without relevance to chapter context.",
+        "An example where algebraic modelling is memorised but not applied logically.",
+        "An example where Mathematics IIB (2nd Year) inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"Mathematics IIB (2nd Year) application works without constraints.\"",
+      "correct_answer": "Mathematics Iib (2Nd Year) Application works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) Framework removes the need for all constraints in every case.",
+        "Mathematics Iib (2Nd Year) Inference is always equivalent to Mathematics IIB (2nd Year) application, regardless of context.",
+        "Thermodynamic Consistency is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: Mathematics IIB (2nd Year) inference is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when calculus reasoning and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for vector interpretation in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links vector interpretation to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes thermodynamic consistency without checking relevance.",
+        "An inference that cites algebraic modelling but skips logical steps.",
+        "An inference that repeats Mathematics IIB (2nd Year) framework without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which statement is most accurate about mechanics framework?",
+      "correct_answer": "Mechanics Framework is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Chemical Equilibrium can replace all chapter logic without assumptions.",
+        "Thermodynamic Consistency is valid only if core conditions are ignored.",
+        "Electromagnetic Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "A learner applies thermodynamic consistency in a new problem from \"Mathematics IIB (2nd Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply thermodynamic consistency stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from vector interpretation and skip checking constraints.",
+        "Use Mathematics IIB (2nd Year) as a shortcut and avoid interpretation.",
+        "Pick electromagnetic application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which option shows a valid example of electromagnetic application in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "An example where electromagnetic application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where thermodynamic consistency is used without relevance to chapter context.",
+        "An example where chemical equilibrium is memorised but not applied logically.",
+        "An example where Mathematics IIB (2nd Year) framework is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Choose the most defensible correction for this claim in \"Mathematics IIB (2nd Year)\": \"chemical equilibrium works without constraints.\"",
+      "correct_answer": "Chemical Equilibrium works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mathematics Iib (2Nd Year) removes the need for all constraints in every case.",
+        "Mathematics Iib (2Nd Year) Inference is always equivalent to chemical equilibrium, regardless of context.",
+        "Mathematics Iib (2Nd Year) Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Assertion-Reason in \"Mathematics IIB (2nd Year)\": Assertion: Mathematics IIB (2nd Year) is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which interpretation is strongest when Mathematics IIB (2nd Year) application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "Which inference is most rigorous for Mathematics IIB (2nd Year) inference in \"Mathematics IIB (2nd Year)\"?",
+      "correct_answer": "The inference that links Mathematics IIB (2nd Year) inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes mechanics framework without checking relevance.",
+        "An inference that cites algebraic modelling but skips logical steps.",
+        "An inference that repeats electromagnetic application without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies calculus reasoning using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply calculus reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies vector interpretation using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply vector interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies mechanics framework using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply mechanics framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies thermodynamic consistency using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply thermodynamic consistency stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies electromagnetic application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply electromagnetic application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies chemical equilibrium using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply chemical equilibrium stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies Mathematics IIB (2nd Year) using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply Mathematics IIB (2nd Year) stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies Mathematics IIB (2nd Year) framework using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply Mathematics IIB (2nd Year) framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies Mathematics IIB (2nd Year) application using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply Mathematics IIB (2nd Year) application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies Mathematics IIB (2nd Year) inference using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply Mathematics IIB (2nd Year) inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies algebraic modelling using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply algebraic modelling stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies calculus reasoning using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply calculus reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies vector interpretation using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply vector interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies mechanics framework using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply mechanics framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies thermodynamic consistency using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply thermodynamic consistency stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies electromagnetic application using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply electromagnetic application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies chemical equilibrium using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply chemical equilibrium stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies Mathematics IIB (2nd Year) using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Mathematics IIB (2nd Year) stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies Mathematics IIB (2nd Year) framework using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply Mathematics IIB (2nd Year) framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies Mathematics IIB (2nd Year) application using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply Mathematics IIB (2nd Year) application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies Mathematics IIB (2nd Year) inference using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply Mathematics IIB (2nd Year) inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Mathematics IIB (2nd Year)",
+      "question": "In \"Mathematics IIB (2nd Year)\", which response applies algebraic modelling using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply algebraic modelling stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

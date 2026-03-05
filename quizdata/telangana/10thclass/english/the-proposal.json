@@ -7,9 +7,9 @@
       "question": "In \"The Proposal\", which statement is most accurate about theme interpretation?",
       "correct_answer": "Theme Interpretation is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Tone And Mood can replace all chapter logic without assumptions.",
-        "Author Viewpoint is valid only if core conditions are ignored.",
-        "The Proposal Application is a memory cue, not a defensible explanation."
+        "The Proposal Application can replace all chapter logic without assumptions.",
+        "Textual Evidence is valid only if core conditions are ignored.",
+        "Tone And Mood is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies character motivation in a new problem from \"The Proposal\". What is the best first step?",
       "correct_answer": "Define conditions, apply character motivation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from author viewpoint and skip checking constraints.",
-        "Use The Proposal application as a shortcut and avoid interpretation.",
-        "Pick dialogue function by intuition and finalise without verification."
+        "Start from theme interpretation and skip checking constraints.",
+        "Use symbolic meaning as a shortcut and avoid interpretation.",
+        "Pick tone and mood by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of narrative conflict in \"The Proposal\"?",
       "correct_answer": "An example where narrative conflict is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where plot development is used without relevance to chapter context.",
-        "An example where The Proposal framework is memorised but not applied logically.",
-        "An example where contextual vocabulary is stated without evidence."
+        "An example where The Proposal application is used without relevance to chapter context.",
+        "An example where textual evidence is memorised but not applied logically.",
+        "An example where author viewpoint is stated without evidence."
       ]
     },
     {
@@ -44,8 +44,8 @@
       "correct_answer": "Tone And Mood works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
         "The Proposal Inference removes the need for all constraints in every case.",
-        "Critical Inference is always equivalent to tone and mood, regardless of context.",
-        "Contextual Vocabulary is enough even when data contradict the claim."
+        "Textual Evidence is always equivalent to tone and mood, regardless of context.",
+        "The Proposal Application is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,8 +67,8 @@
       "question": "In \"The Proposal\", which mismatch is incorrect?",
       "correct_answer": "Author Viewpoint - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Narrative Conflict - applied without confirming assumptions.",
-        "The Proposal - interpreted against contradictory data.",
+        "Character Motivation - applied without confirming assumptions.",
+        "The Proposal Inference - interpreted against contradictory data.",
         "Textual Evidence - concluded before checking consistency."
       ]
     },
@@ -92,8 +92,8 @@
       "correct_answer": "The inference that links critical inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
         "An inference that substitutes author viewpoint without checking relevance.",
-        "An inference that cites The Proposal application but skips logical steps.",
-        "An inference that repeats ethical perspective without interpretation."
+        "An inference that cites tone and mood but skips logical steps.",
+        "An inference that repeats The Proposal without interpretation."
       ]
     },
     {
@@ -103,9 +103,9 @@
       "question": "In \"The Proposal\", which statement is most accurate about contextual vocabulary?",
       "correct_answer": "Contextual Vocabulary is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "The Proposal Application can replace all chapter logic without assumptions.",
+        "The Proposal can replace all chapter logic without assumptions.",
         "Author Viewpoint is valid only if core conditions are ignored.",
-        "The Proposal Framework is a memory cue, not a defensible explanation."
+        "Theme Interpretation is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -115,9 +115,9 @@
       "question": "A learner applies dialogue function in a new problem from \"The Proposal\". What is the best first step?",
       "correct_answer": "Define conditions, apply dialogue function stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from tone and mood and skip checking constraints.",
-        "Use The Proposal application as a shortcut and avoid interpretation.",
-        "Pick The Proposal framework by intuition and finalise without verification."
+        "Start from The Proposal framework and skip checking constraints.",
+        "Use symbolic meaning as a shortcut and avoid interpretation.",
+        "Pick theme interpretation by intuition and finalise without verification."
       ]
     },
     {
@@ -127,9 +127,9 @@
       "question": "Which option shows a valid example of plot development in \"The Proposal\"?",
       "correct_answer": "An example where plot development is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where character motivation is used without relevance to chapter context.",
-        "An example where symbolic meaning is memorised but not applied logically.",
-        "An example where textual evidence is stated without evidence."
+        "An example where The Proposal framework is used without relevance to chapter context.",
+        "An example where dialogue function is memorised but not applied logically.",
+        "An example where ethical perspective is stated without evidence."
       ]
     },
     {
@@ -139,9 +139,9 @@
       "question": "Choose the most defensible correction for this claim in \"The Proposal\": \"ethical perspective works without constraints.\"",
       "correct_answer": "Ethical Perspective works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Author Viewpoint removes the need for all constraints in every case.",
-        "The Proposal Application is always equivalent to ethical perspective, regardless of context.",
-        "Narrative Conflict is enough even when data contradict the claim."
+        "The Proposal removes the need for all constraints in every case.",
+        "Contextual Vocabulary is always equivalent to ethical perspective, regardless of context.",
+        "The Proposal Inference is enough even when data contradict the claim."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "question": "Which inference is most rigorous for The Proposal inference in \"The Proposal\"?",
       "correct_answer": "The inference that links The Proposal inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes tone and mood without checking relevance.",
-        "An inference that cites critical inference but skips logical steps.",
-        "An inference that repeats character motivation without interpretation."
+        "An inference that substitutes plot development without checking relevance.",
+        "An inference that cites textual evidence but skips logical steps.",
+        "An inference that repeats tone and mood without interpretation."
       ]
     },
     {

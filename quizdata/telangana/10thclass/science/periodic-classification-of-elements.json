@@ -7,9 +7,9 @@
       "question": "In \"Periodic Classification of Elements\", which statement is most accurate about Mendeleev table?",
       "correct_answer": "Mendeleev Table is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Periodic Classification Of Elements can replace all chapter logic without assumptions.",
-        "Periodic Classification Of Elements Application is valid only if core conditions are ignored.",
-        "Periodic Properties is a memory cue, not a defensible explanation."
+        "Periodic Properties can replace all chapter logic without assumptions.",
+        "Modern Periodic Law is valid only if core conditions are ignored.",
+        "Periodic Classification Of Elements Framework is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies modern periodic law in a new problem from \"Periodic Classification of Elements\". What is the best first step?",
       "correct_answer": "Define conditions, apply modern periodic law stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Mendeleev table and skip checking constraints.",
-        "Use valency trend as a shortcut and avoid interpretation.",
-        "Pick periodic properties by intuition and finalise without verification."
+        "Start from valency trend and skip checking constraints.",
+        "Use Periodic Classification of Elements framework as a shortcut and avoid interpretation.",
+        "Pick Mendeleev table by intuition and finalise without verification."
       ]
     },
     {
@@ -33,7 +33,7 @@
       "incorrect_answers": [
         "An example where Periodic Classification of Elements application is used without relevance to chapter context.",
         "An example where Periodic Classification of Elements is memorised but not applied logically.",
-        "An example where modern periodic law is stated without evidence."
+        "An example where Periodic Classification of Elements framework is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Periodic Classification of Elements\": \"periodic properties works without constraints.\"",
       "correct_answer": "Periodic Properties works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Periodic Classification Of Elements removes the need for all constraints in every case.",
+        "Modern Periodic Law removes the need for all constraints in every case.",
         "Valency Trend is always equivalent to periodic properties, regardless of context.",
-        "Periodic Classification Of Elements Inference is enough even when data contradict the claim."
+        "Periodic Classification Of Elements Framework is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,8 +67,8 @@
       "question": "In \"Periodic Classification of Elements\", which mismatch is incorrect?",
       "correct_answer": "Periodic Classification Of Elements Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Periodic Classification Of Elements - applied without confirming assumptions.",
-        "Modern Periodic Law - interpreted against contradictory data.",
+        "Periodic Classification Of Elements Inference - applied without confirming assumptions.",
+        "Periodic Classification Of Elements - interpreted against contradictory data.",
         "Valency Trend - concluded before checking consistency."
       ]
     },
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Periodic Classification of Elements inference in \"Periodic Classification of Elements\"?",
       "correct_answer": "The inference that links Periodic Classification of Elements inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Mendeleev table without checking relevance.",
+        "An inference that substitutes modern periodic law without checking relevance.",
         "An inference that cites Periodic Classification of Elements application but skips logical steps.",
-        "An inference that repeats valency trend without interpretation."
+        "An inference that repeats Periodic Classification of Elements without interpretation."
       ]
     },
     {

@@ -7,9 +7,9 @@
       "question": "In \"Money and Credit\", which statement is most accurate about credit?",
       "correct_answer": "Credit is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Interest can replace all chapter logic without assumptions.",
-        "Money And Credit Inference is valid only if core conditions are ignored.",
-        "Money And Credit Application is a memory cue, not a defensible explanation."
+        "Money And Credit Inference can replace all chapter logic without assumptions.",
+        "Financial Inclusion is valid only if core conditions are ignored.",
+        "Interest is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies interest in a new problem from \"Money and Credit\". What is the best first step?",
       "correct_answer": "Define conditions, apply interest stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from formal banking and skip checking constraints.",
-        "Use Money and Credit application as a shortcut and avoid interpretation.",
-        "Pick Money and Credit inference by intuition and finalise without verification."
+        "Start from financial inclusion and skip checking constraints.",
+        "Use Money and Credit inference as a shortcut and avoid interpretation.",
+        "Pick formal banking by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of formal banking in \"Money and Credit\"?",
       "correct_answer": "An example where formal banking is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Money and Credit application is used without relevance to chapter context.",
-        "An example where Money and Credit framework is memorised but not applied logically.",
-        "An example where credit is stated without evidence."
+        "An example where Money and Credit framework is used without relevance to chapter context.",
+        "An example where credit is memorised but not applied logically.",
+        "An example where Money and Credit application is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Money and Credit\": \"financial inclusion works without constraints.\"",
       "correct_answer": "Financial Inclusion works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Money And Credit removes the need for all constraints in every case.",
-        "Credit is always equivalent to financial inclusion, regardless of context.",
-        "Money And Credit Application is enough even when data contradict the claim."
+        "Money And Credit Framework removes the need for all constraints in every case.",
+        "Money And Credit Inference is always equivalent to financial inclusion, regardless of context.",
+        "Interest is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Money and Credit\", which mismatch is incorrect?",
       "correct_answer": "Money And Credit Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Money And Credit - applied without confirming assumptions.",
-        "Credit - interpreted against contradictory data.",
-        "Money And Credit Application - concluded before checking consistency."
+        "Interest - applied without confirming assumptions.",
+        "Formal Banking - interpreted against contradictory data.",
+        "Credit - concluded before checking consistency."
       ]
     },
     {
@@ -92,8 +92,8 @@
       "correct_answer": "The inference that links Money and Credit inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
         "An inference that substitutes interest without checking relevance.",
-        "An inference that cites financial inclusion but skips logical steps.",
-        "An inference that repeats credit without interpretation."
+        "An inference that cites Money and Credit framework but skips logical steps.",
+        "An inference that repeats Money and Credit without interpretation."
       ]
     },
     {

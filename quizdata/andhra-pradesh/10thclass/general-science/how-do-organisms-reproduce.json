@@ -8,8 +8,8 @@
       "correct_answer": "Asexual Reproduction is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
         "How Do Organisms Reproduce can replace all chapter logic without assumptions.",
-        "How Do Organisms Reproduce Framework is valid only if core conditions are ignored.",
-        "How Do Organisms Reproduce Inference is a memory cue, not a defensible explanation."
+        "Sexual Reproduction is valid only if core conditions are ignored.",
+        "Reproductive Health is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,8 +19,8 @@
       "question": "A learner applies sexual reproduction in a new problem from \"How Do Organisms Reproduce\". What is the best first step?",
       "correct_answer": "Define conditions, apply sexual reproduction stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from How Do Organisms Reproduce inference and skip checking constraints.",
-        "Use fertilisation as a shortcut and avoid interpretation.",
+        "Start from fertilisation and skip checking constraints.",
+        "Use reproductive health as a shortcut and avoid interpretation.",
         "Pick asexual reproduction by intuition and finalise without verification."
       ]
     },
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of fertilisation in \"How Do Organisms Reproduce\"?",
       "correct_answer": "An example where fertilisation is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where reproductive health is used without relevance to chapter context.",
+        "An example where How Do Organisms Reproduce application is used without relevance to chapter context.",
         "An example where sexual reproduction is memorised but not applied logically.",
-        "An example where asexual reproduction is stated without evidence."
+        "An example where How Do Organisms Reproduce inference is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"How Do Organisms Reproduce\": \"reproductive health works without constraints.\"",
       "correct_answer": "Reproductive Health works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Sexual Reproduction removes the need for all constraints in every case.",
-        "How Do Organisms Reproduce Framework is always equivalent to reproductive health, regardless of context.",
-        "Fertilisation is enough even when data contradict the claim."
+        "How Do Organisms Reproduce Inference removes the need for all constraints in every case.",
+        "Fertilisation is always equivalent to reproductive health, regardless of context.",
+        "How Do Organisms Reproduce is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"How Do Organisms Reproduce\", which mismatch is incorrect?",
       "correct_answer": "How Do Organisms Reproduce Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "How Do Organisms Reproduce - applied without confirming assumptions.",
-        "Fertilisation - interpreted against contradictory data.",
-        "Reproductive Health - concluded before checking consistency."
+        "Fertilisation - applied without confirming assumptions.",
+        "How Do Organisms Reproduce Inference - interpreted against contradictory data.",
+        "Asexual Reproduction - concluded before checking consistency."
       ]
     },
     {
@@ -92,8 +92,8 @@
       "correct_answer": "The inference that links How Do Organisms Reproduce inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
         "An inference that substitutes asexual reproduction without checking relevance.",
-        "An inference that cites reproductive health but skips logical steps.",
-        "An inference that repeats fertilisation without interpretation."
+        "An inference that cites How Do Organisms Reproduce framework but skips logical steps.",
+        "An inference that repeats How Do Organisms Reproduce without interpretation."
       ]
     },
     {

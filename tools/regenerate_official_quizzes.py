@@ -19,53 +19,187 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Sequence, Tuple
 
 
-ROOT = Path("QuizData/quizdata")
+ROOT = Path(__file__).resolve().parents[1] / "quizdata"
 TARGET_STATES = ["andhra-pradesh", "telangana", "karnataka"]
 
 
-INTER_CHAPTERS: Dict[str, List[str]] = {
-    "mpc": [
-        "Sets, Relations and Functions",
-        "Trigonometry and Inverse Trigonometry",
-        "Algebra: Complex Numbers and Series",
-        "Coordinate Geometry and Calculus Basics",
-        "Units, Motion and Newtonian Mechanics",
-        "Work, Energy, Power and Rotational Motion",
-        "Oscillations, Waves and Thermodynamics",
-        "Electrostatics, Current Electricity and Magnetism",
-        "Atomic Structure and Chemical Bonding",
-        "States of Matter, Thermodynamics and Equilibrium",
-        "Organic Chemistry Fundamentals and Hydrocarbons",
-        "d-Block, Coordination Compounds and Biomolecules",
-    ],
-    "bipc": [
-        "Cell Structure and Biomolecules",
-        "Plant Physiology and Mineral Nutrition",
-        "Reproduction in Flowering Plants",
-        "Genetics and Evolution",
-        "Diversity of Living Organisms",
-        "Human Physiology: Digestion, Respiration and Circulation",
-        "Neural Control, Endocrine System and Human Reproduction",
-        "Ecology, Environment and Biodiversity",
-        "Atomic Structure and Chemical Bonding",
-        "Thermodynamics, Equilibrium and Redox Reactions",
-        "Organic Chemistry: Hydrocarbons and Biomolecules",
-        "Coordination Compounds, Polymers and Everyday Chemistry",
-    ],
-    "cec": [
-        "Microeconomics: Demand, Supply and Consumer Behaviour",
-        "National Income and Macroeconomic Indicators",
-        "Money, Banking and Public Finance",
-        "Indian Economic Development and Planning",
-        "Indian Constitution: Features and Fundamental Rights",
-        "Legislature, Executive and Judiciary",
-        "Federalism, Local Governance and Elections",
-        "International Relations and Contemporary Politics",
-        "Accounting: Journal, Ledger and Trial Balance",
-        "Final Accounts and Financial Statements",
-        "Business Organisation and Management Principles",
-        "Business Environment, Trade and Entrepreneurship",
-    ],
+OFFICIAL_10TH_CHAPTERS: Dict[str, Dict[str, List[str]]] = {
+    "andhra-pradesh": {
+        "social-studies": [
+            "The Rise of Nationalism in Europe",
+            "Nationalism in India",
+            "The Making of a Global World",
+            "The Age of Industrialisation",
+            "Print Culture and the Modern World",
+            "Resources and Development",
+            "Forest and Wildlife Resources",
+            "Water Resources",
+            "Agriculture",
+            "Minerals and Energy Resources",
+            "Manufacturing Industries",
+            "Lifelines of National Economy",
+            "Power Sharing",
+            "Federalism",
+            "Gender Religion and Caste",
+            "Political Parties",
+            "Outcomes of Democracy",
+            "Development",
+            "Sectors of the Indian Economy",
+            "Money and Credit",
+            "Globalisation and the Indian Economy",
+            "Consumer Rights",
+        ]
+    },
+    "telangana": {
+        "social-studies": [
+            "India: Relief Features",
+            "Ideas on Development",
+            "Production and Employment",
+            "Climate in Indian Context",
+            "Indian Rivers and Water Resources",
+            "The Population",
+            "Settlement and Migration",
+            "Rampur: Village Economy",
+            "Globalisation",
+            "Food Security",
+            "Sustainable Development with Equity",
+            "The World Between Wars (1900-1950)",
+            "National Liberation Movements in the Colonies",
+            "National Movement in India - Partition and Independence (1939-1947)",
+            "Making of Independent India's Constitution",
+            "The Election Process in India",
+            "Independent India (The First 30 Years: 1947-1977)",
+            "Emerging Political Trends (1977-2007)",
+            "Post-War World and India",
+            "Social Movements in Our Times",
+            "The Movement for the Formation of Telangana State",
+        ]
+    },
+    "karnataka": {
+        "social-science": [
+            "The Rise of Nationalism in Europe",
+            "Nationalism in India",
+            "The Making of a Global World",
+            "The Age of Industrialisation",
+            "Print Culture and the Modern World",
+            "Resources and Development",
+            "Forest and Wildlife Resources",
+            "Water Resources",
+            "Agriculture",
+            "Minerals and Energy Resources",
+            "Manufacturing Industries",
+            "Lifelines of National Economy",
+            "Power Sharing",
+            "Federalism",
+            "Gender Religion and Caste",
+            "Political Parties",
+            "Outcomes of Democracy",
+            "Development",
+            "Sectors of the Indian Economy",
+            "Money and Credit",
+            "Globalisation and the Indian Economy",
+            "Consumer Rights",
+        ]
+    },
+}
+
+
+OFFICIAL_INTER_CHAPTERS: Dict[str, Dict[str, List[str]]] = {
+    "andhra-pradesh": {
+        "mpc": [
+            "Mathematics (1st Year)",
+            "Physics (1st Year)",
+            "Chemistry (1st Year)",
+            "Mathematics IIA (2nd Year)",
+            "Mathematics IIB (2nd Year)",
+            "Physics (2nd Year)",
+            "Chemistry (2nd Year)",
+        ],
+        "bipc": [
+            "Botany and Zoology (1st Year)",
+            "Botany (2nd Year)",
+            "Zoology (1st Year)",
+            "Zoology (2nd Year)",
+            "Physics (1st Year)",
+            "Physics (2nd Year)",
+            "Chemistry (1st Year)",
+            "Chemistry (2nd Year)",
+        ],
+        "cec": [
+            "Civics (1st Year)",
+            "Civics (2nd Year)",
+            "Economics (1st Year)",
+            "Economics (2nd Year)",
+            "Commerce and Accountancy (1st Year)",
+            "Commerce (2nd Year)",
+            "History (1st Year)",
+            "History (2nd Year)",
+        ],
+    },
+    "telangana": {
+        "mpc": [
+            "Mathematics IA (1st Year)",
+            "Mathematics IB (1st Year)",
+            "Physics (1st Year)",
+            "Chemistry (1st Year)",
+            "Mathematics IIA (2nd Year)",
+            "Mathematics IIB (2nd Year)",
+            "Physics (2nd Year)",
+            "Chemistry (2nd Year)",
+        ],
+        "bipc": [
+            "Botany (1st Year)",
+            "Zoology (1st Year)",
+            "Physics (1st Year)",
+            "Chemistry (1st Year)",
+            "Botany (2nd Year)",
+            "Zoology (2nd Year)",
+            "Physics (2nd Year)",
+            "Chemistry (2nd Year)",
+        ],
+        "cec": [
+            "Political Science (1st Year)",
+            "Political Science (2nd Year)",
+            "Economics (1st Year)",
+            "Economics (2nd Year)",
+            "Commerce and Accountancy (1st Year)",
+            "Commerce and Accountancy (2nd Year)",
+            "History (1st Year)",
+            "History (2nd Year)",
+        ],
+    },
+    "karnataka": {
+        "mpc": [
+            "Mathematics IA (1st PUC)",
+            "Mathematics IB (1st PUC)",
+            "Physics I (1st PUC)",
+            "Chemistry I (1st PUC)",
+            "Mathematics IIA (2nd PUC)",
+            "Mathematics IIB (2nd PUC)",
+            "Physics II (2nd PUC)",
+            "Chemistry II (2nd PUC)",
+        ],
+        "bipc": [
+            "Botany I (1st PUC)",
+            "Zoology I (1st PUC)",
+            "Physics I (1st PUC)",
+            "Chemistry I (1st PUC)",
+            "Botany II (2nd PUC)",
+            "Zoology II (2nd PUC)",
+            "Physics II (2nd PUC)",
+            "Chemistry II (2nd PUC)",
+        ],
+        "cec": [
+            "Political Science I (1st PUC)",
+            "Economics I (1st PUC)",
+            "Business Studies I (1st PUC)",
+            "Accountancy I (1st PUC)",
+            "Political Science II (2nd PUC)",
+            "Economics II (2nd PUC)",
+            "Business Studies II (2nd PUC)",
+            "Accountancy II (2nd PUC)",
+        ],
+    },
 }
 
 
@@ -778,27 +912,83 @@ def generate_questions(state: str, subject: str, chapter: str, count: int = 100)
     return rows[:count]
 
 
-def update_inter_chapters(state_root: Path) -> None:
+def resolve_subject_label(chapters_path: Path, fallback: str) -> str:
+    if chapters_path.exists():
+        try:
+            data = read_json(chapters_path)
+            rows = data.get("results", [])
+            if rows and rows[0].get("subject"):
+                return str(rows[0]["subject"])
+        except Exception:
+            pass
+    return fallback
+
+
+def rewrite_chapters(chapters_path: Path, subject: str, chapter_titles: Sequence[str]) -> None:
+    rows = []
+    for ch in chapter_titles:
+        slug = slugify(ch)
+        rows.append(
+            {
+                "subject": subject,
+                "chapter": ch,
+                "slug": slug,
+                "file": f"{slug}.json",
+            }
+        )
+    write_json(chapters_path, {"results": rows})
+
+
+def update_10th_chapters(state: str, state_root: Path) -> None:
+    class_root = state_root / "10thclass"
+    if not class_root.exists():
+        return
+    subject_map = OFFICIAL_10TH_CHAPTERS.get(state, {})
+    for subject_dir_name, chapter_titles in subject_map.items():
+        subject_dir = class_root / subject_dir_name
+        if not subject_dir.exists():
+            continue
+        chapters_path = subject_dir / "chapters.json"
+        fallback = subject_dir_name.replace("-", " ").title()
+        subject = resolve_subject_label(chapters_path, fallback)
+        rewrite_chapters(chapters_path, subject, chapter_titles)
+
+
+def update_inter_chapters(state: str, state_root: Path) -> None:
     inter_root = state_root / "inter"
     if not inter_root.exists():
         return
-    for stream, chapter_titles in INTER_CHAPTERS.items():
+    stream_map = OFFICIAL_INTER_CHAPTERS.get(state, {})
+    for stream, chapter_titles in stream_map.items():
         stream_dir = inter_root / stream
         if not stream_dir.exists():
             continue
-        subj = INTER_SUBJECT_LABEL[stream]
-        rows = []
-        for ch in chapter_titles:
-            slug = slugify(ch)
-            rows.append(
-                {
-                    "subject": subj,
-                    "chapter": ch,
-                    "slug": slug,
-                    "file": f"{slug}.json",
-                }
-            )
-        write_json(stream_dir / "chapters.json", {"results": rows})
+        chapters_path = stream_dir / "chapters.json"
+        subject = INTER_SUBJECT_LABEL.get(stream, stream.upper())
+        rewrite_chapters(chapters_path, subject, chapter_titles)
+
+
+def cleanup_unreferenced_chapter_files(state: str, class_name: str) -> int:
+    class_root = ROOT / state / class_name
+    if not class_root.exists():
+        return 0
+    removed = 0
+    for subject_dir in sorted([p for p in class_root.iterdir() if p.is_dir()]):
+        chapters_path = subject_dir / "chapters.json"
+        if not chapters_path.exists():
+            continue
+        try:
+            data = read_json(chapters_path)
+        except Exception:
+            continue
+        refs = {str(row.get("file", "")).strip() for row in data.get("results", []) if str(row.get("file", "")).strip()}
+        for jf in subject_dir.glob("*.json"):
+            if jf.name == "chapters.json":
+                continue
+            if jf.name not in refs:
+                jf.unlink(missing_ok=True)
+                removed += 1
+    return removed
 
 
 def regenerate_class(state: str, class_name: str) -> int:
@@ -828,14 +1018,19 @@ def regenerate_class(state: str, class_name: str) -> int:
 
 def main() -> None:
     total_files = 0
+    total_removed = 0
     for st in TARGET_STATES:
         st_root = ROOT / st
         if not st_root.exists():
             continue
-        update_inter_chapters(st_root)
+        update_10th_chapters(st, st_root)
+        update_inter_chapters(st, st_root)
         total_files += regenerate_class(st, "10thclass")
         total_files += regenerate_class(st, "inter")
+        total_removed += cleanup_unreferenced_chapter_files(st, "10thclass")
+        total_removed += cleanup_unreferenced_chapter_files(st, "inter")
     print(f"Regenerated chapter files: {total_files}")
+    print(f"Removed unreferenced chapter files: {total_removed}")
 
 
 if __name__ == "__main__":

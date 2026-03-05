@@ -4,48 +4,72 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 12 and common difference 5, find the 13th term.",
-      "correct_answer": "72",
+      "question": "In an AP with first term 1 and common difference 7, find the 27th term.",
+      "correct_answer": "183",
       "incorrect_answers": [
-        "77",
-        "67",
-        "156"
+        "190",
+        "176",
+        "27"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 4 and common difference 5, find the 25th term.",
-      "correct_answer": "124",
+      "question": "In an AP with first term 7 and common difference 8, find the 8th term.",
+      "correct_answer": "63",
       "incorrect_answers": [
-        "129",
-        "119",
-        "100"
+        "71",
+        "55",
+        "56"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 4, find the 19th term.",
-      "correct_answer": "83",
+      "question": "In an AP with first term 5 and common difference 5, find the 15th term.",
+      "correct_answer": "75",
       "incorrect_answers": [
-        "87",
-        "79",
-        "209"
+        "80",
+        "70",
+        "Distractor 3"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 3, find the 20th term.",
-      "correct_answer": "66",
+      "question": "In an AP with first term 9 and common difference 8, find the 11th term.",
+      "correct_answer": "89",
       "incorrect_answers": [
-        "69",
-        "63",
-        "180"
+        "97",
+        "81",
+        "99"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 11 and common difference 3, find the 13th term.",
+      "correct_answer": "47",
+      "incorrect_answers": [
+        "50",
+        "44",
+        "143"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 5 and common difference 8, find the 14th term.",
+      "correct_answer": "109",
+      "incorrect_answers": [
+        "117",
+        "101",
+        "70"
       ]
     },
     {
@@ -64,491 +88,35 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 5, find the 26th term.",
-      "correct_answer": "128",
-      "incorrect_answers": [
-        "133",
-        "123",
-        "78"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 10 and common difference 4, find the 13th term.",
-      "correct_answer": "58",
-      "incorrect_answers": [
-        "62",
-        "54",
-        "130"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 6, find the 10th term.",
-      "correct_answer": "57",
-      "incorrect_answers": [
-        "63",
-        "51",
-        "30"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 5, find the 11th term.",
-      "correct_answer": "61",
-      "incorrect_answers": [
-        "66",
-        "56",
-        "121"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 7, find the 9th term.",
-      "correct_answer": "57",
-      "incorrect_answers": [
-        "64",
-        "50",
-        "9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 3, find the 14th term.",
-      "correct_answer": "44",
-      "incorrect_answers": [
-        "47",
-        "41",
-        "70"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 8 and common difference 1, find the 9th term.",
-      "correct_answer": "16",
-      "incorrect_answers": [
-        "17",
-        "15",
-        "72"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 12 and common difference 7, find the 21th term.",
-      "correct_answer": "152",
-      "incorrect_answers": [
-        "159",
-        "145",
-        "252"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 3, find the 13th term.",
+      "question": "In an AP with first term 3 and common difference 2, find the 18th term.",
       "correct_answer": "37",
       "incorrect_answers": [
-        "40",
-        "34",
-        "13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 4 and common difference 4, find the 21th term.",
-      "correct_answer": "84",
-      "incorrect_answers": [
-        "88",
-        "80",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 1, find the 12th term.",
-      "correct_answer": "22",
-      "incorrect_answers": [
-        "23",
-        "21",
-        "132"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 6, find the 24th term.",
-      "correct_answer": "147",
-      "incorrect_answers": [
-        "153",
-        "141",
-        "216"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 10 and common difference 7, find the 15th term.",
-      "correct_answer": "108",
-      "incorrect_answers": [
-        "115",
-        "101",
-        "150"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 8 and common difference 7, find the 14th term.",
-      "correct_answer": "99",
-      "incorrect_answers": [
-        "106",
-        "92",
-        "112"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 4 and common difference 4, find the 25th term.",
-      "correct_answer": "100",
-      "incorrect_answers": [
-        "104",
-        "96",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 2, find the 21th term.",
-      "correct_answer": "45",
-      "incorrect_answers": [
-        "47",
-        "43",
-        "105"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 4, find the 10th term.",
-      "correct_answer": "47",
-      "incorrect_answers": [
-        "51",
-        "43",
-        "110"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 3, find the 9th term.",
-      "correct_answer": "35",
-      "incorrect_answers": [
-        "38",
-        "32",
-        "99"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 1, find the 24th term.",
-      "correct_answer": "34",
-      "incorrect_answers": [
+        "39",
         "35",
-        "33",
-        "264"
+        "54"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 5, find the 20th term.",
-      "correct_answer": "98",
-      "incorrect_answers": [
-        "103",
-        "93",
-        "60"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 2 and common difference 5, find the 16th term.",
-      "correct_answer": "77",
-      "incorrect_answers": [
-        "82",
-        "72",
-        "32"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 8, find the 26th term.",
-      "correct_answer": "203",
-      "incorrect_answers": [
-        "211",
-        "195",
-        "78"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 7 and common difference 3, find the 10th term.",
-      "correct_answer": "34",
-      "incorrect_answers": [
-        "37",
-        "31",
-        "70"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 8 and common difference 1, find the 24th term.",
+      "question": "In an AP with first term 3 and common difference 1, find the 29th term.",
       "correct_answer": "31",
       "incorrect_answers": [
         "32",
         "30",
-        "192"
+        "87"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 10 and common difference 1, find the 9th term.",
-      "correct_answer": "18",
+      "question": "In an AP with first term 6 and common difference 5, find the 24th term.",
+      "correct_answer": "121",
       "incorrect_answers": [
-        "19",
-        "17",
-        "90"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 2, find the 19th term.",
-      "correct_answer": "45",
-      "incorrect_answers": [
-        "47",
-        "43",
-        "171"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 7 and common difference 4, find the 11th term.",
-      "correct_answer": "47",
-      "incorrect_answers": [
-        "51",
-        "43",
-        "77"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 10 and common difference 6, find the 10th term.",
-      "correct_answer": "64",
-      "incorrect_answers": [
-        "70",
-        "58",
-        "100"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 2 and common difference 8, find the 14th term.",
-      "correct_answer": "106",
-      "incorrect_answers": [
-        "114",
-        "98",
-        "28"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 12 and common difference 5, find the 14th term.",
-      "correct_answer": "77",
-      "incorrect_answers": [
-        "82",
-        "72",
-        "168"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 2 and common difference 3, find the 10th term.",
-      "correct_answer": "29",
-      "incorrect_answers": [
-        "32",
-        "26",
-        "20"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 6, find the 14th term.",
-      "correct_answer": "89",
-      "incorrect_answers": [
-        "95",
-        "83",
-        "154"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 8 and common difference 6, find the 13th term.",
-      "correct_answer": "80",
-      "incorrect_answers": [
-        "86",
-        "74",
-        "104"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 6, find the 29th term.",
-      "correct_answer": "169",
-      "incorrect_answers": [
-        "175",
-        "163",
-        "29"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 7 and common difference 2, find the 24th term.",
-      "correct_answer": "53",
-      "incorrect_answers": [
-        "55",
-        "51",
-        "168"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 3, find the 23th term.",
-      "correct_answer": "69",
-      "incorrect_answers": [
-        "72",
-        "66",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 7 and common difference 8, find the 10th term.",
-      "correct_answer": "79",
-      "incorrect_answers": [
-        "87",
-        "71",
-        "70"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 8, find the 9th term.",
-      "correct_answer": "67",
-      "incorrect_answers": [
-        "75",
-        "59",
-        "27"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 2 and common difference 4, find the 30th term.",
-      "correct_answer": "118",
-      "incorrect_answers": [
-        "122",
-        "114",
-        "60"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 1, find the 17th term.",
-      "correct_answer": "25",
-      "incorrect_answers": [
-        "26",
-        "24",
-        "153"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 8 and common difference 7, find the 18th term.",
-      "correct_answer": "127",
-      "incorrect_answers": [
-        "134",
-        "120",
+        "126",
+        "116",
         "144"
       ]
     },
@@ -556,12 +124,588 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 7, find the 26th term.",
-      "correct_answer": "180",
+      "question": "In an AP with first term 3 and common difference 2, find the 20th term.",
+      "correct_answer": "41",
       "incorrect_answers": [
-        "187",
+        "43",
+        "39",
+        "60"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 7 and common difference 7, find the 28th term.",
+      "correct_answer": "196",
+      "incorrect_answers": [
+        "203",
+        "189",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 9 and common difference 2, find the 11th term.",
+      "correct_answer": "29",
+      "incorrect_answers": [
+        "31",
+        "27",
+        "99"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 5 and common difference 3, find the 25th term.",
+      "correct_answer": "77",
+      "incorrect_answers": [
+        "80",
+        "74",
+        "125"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 3 and common difference 7, find the 15th term.",
+      "correct_answer": "101",
+      "incorrect_answers": [
+        "108",
+        "94",
+        "45"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 4 and common difference 4, find the 23th term.",
+      "correct_answer": "92",
+      "incorrect_answers": [
+        "96",
+        "88",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 11 and common difference 7, find the 15th term.",
+      "correct_answer": "109",
+      "incorrect_answers": [
+        "116",
+        "102",
+        "165"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 3 and common difference 8, find the 12th term.",
+      "correct_answer": "91",
+      "incorrect_answers": [
+        "99",
+        "83",
+        "36"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 5 and common difference 4, find the 30th term.",
+      "correct_answer": "121",
+      "incorrect_answers": [
+        "125",
+        "117",
+        "150"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 5 and common difference 1, find the 27th term.",
+      "correct_answer": "31",
+      "incorrect_answers": [
+        "32",
+        "30",
+        "135"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 7 and common difference 1, find the 10th term.",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "17",
+        "15",
+        "70"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 2 and common difference 3, find the 12th term.",
+      "correct_answer": "35",
+      "incorrect_answers": [
+        "38",
+        "32",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 3 and common difference 1, find the 25th term.",
+      "correct_answer": "27",
+      "incorrect_answers": [
+        "28",
+        "26",
+        "75"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 9 and common difference 1, find the 13th term.",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "22",
+        "20",
+        "117"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 4 and common difference 4, find the 19th term.",
+      "correct_answer": "76",
+      "incorrect_answers": [
+        "80",
+        "72",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 11 and common difference 4, find the 11th term.",
+      "correct_answer": "51",
+      "incorrect_answers": [
+        "55",
+        "47",
+        "121"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 12 and common difference 1, find the 30th term.",
+      "correct_answer": "41",
+      "incorrect_answers": [
+        "42",
+        "40",
+        "360"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 10 and common difference 8, find the 22th term.",
+      "correct_answer": "178",
+      "incorrect_answers": [
+        "186",
+        "170",
+        "220"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 5 and common difference 7, find the 24th term.",
+      "correct_answer": "166",
+      "incorrect_answers": [
         "173",
-        "130"
+        "159",
+        "120"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 3 and common difference 7, find the 29th term.",
+      "correct_answer": "199",
+      "incorrect_answers": [
+        "206",
+        "192",
+        "87"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 1 and common difference 8, find the 29th term.",
+      "correct_answer": "225",
+      "incorrect_answers": [
+        "233",
+        "217",
+        "29"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 4 and common difference 6, find the 14th term.",
+      "correct_answer": "82",
+      "incorrect_answers": [
+        "88",
+        "76",
+        "56"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 9 and common difference 5, find the 17th term.",
+      "correct_answer": "89",
+      "incorrect_answers": [
+        "94",
+        "84",
+        "153"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 3 and common difference 4, find the 12th term.",
+      "correct_answer": "47",
+      "incorrect_answers": [
+        "51",
+        "43",
+        "36"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 1 and common difference 2, find the 27th term.",
+      "correct_answer": "53",
+      "incorrect_answers": [
+        "55",
+        "51",
+        "27"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 11 and common difference 4, find the 17th term.",
+      "correct_answer": "75",
+      "incorrect_answers": [
+        "79",
+        "71",
+        "187"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 7 and common difference 2, find the 25th term.",
+      "correct_answer": "55",
+      "incorrect_answers": [
+        "57",
+        "53",
+        "175"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 1 and common difference 7, find the 21th term.",
+      "correct_answer": "141",
+      "incorrect_answers": [
+        "148",
+        "134",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 2 and common difference 5, find the 25th term.",
+      "correct_answer": "122",
+      "incorrect_answers": [
+        "127",
+        "117",
+        "50"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 12 and common difference 5, find the 11th term.",
+      "correct_answer": "62",
+      "incorrect_answers": [
+        "67",
+        "57",
+        "132"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 6 and common difference 1, find the 19th term.",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "25",
+        "23",
+        "114"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 5 and common difference 5, find the 18th term.",
+      "correct_answer": "90",
+      "incorrect_answers": [
+        "95",
+        "85",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 9 and common difference 8, find the 26th term.",
+      "correct_answer": "209",
+      "incorrect_answers": [
+        "217",
+        "201",
+        "234"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 5 and common difference 4, find the 9th term.",
+      "correct_answer": "37",
+      "incorrect_answers": [
+        "41",
+        "33",
+        "45"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 8 and common difference 2, find the 12th term.",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "32",
+        "28",
+        "96"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 1 and common difference 7, find the 12th term.",
+      "correct_answer": "78",
+      "incorrect_answers": [
+        "85",
+        "71",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 9 and common difference 5, find the 30th term.",
+      "correct_answer": "154",
+      "incorrect_answers": [
+        "159",
+        "149",
+        "270"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 4 and common difference 6, find the 18th term.",
+      "correct_answer": "106",
+      "incorrect_answers": [
+        "112",
+        "100",
+        "72"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 8 and common difference 2, find the 29th term.",
+      "correct_answer": "64",
+      "incorrect_answers": [
+        "66",
+        "62",
+        "232"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 4 and common difference 1, find the 24th term.",
+      "correct_answer": "27",
+      "incorrect_answers": [
+        "28",
+        "26",
+        "96"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 4 and common difference 2, find the 16th term.",
+      "correct_answer": "34",
+      "incorrect_answers": [
+        "36",
+        "32",
+        "64"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 12 and common difference 5, find the 16th term.",
+      "correct_answer": "87",
+      "incorrect_answers": [
+        "92",
+        "82",
+        "192"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 8 and common difference 5, find the 27th term.",
+      "correct_answer": "138",
+      "incorrect_answers": [
+        "143",
+        "133",
+        "216"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 6 and common difference 8, find the 27th term.",
+      "correct_answer": "214",
+      "incorrect_answers": [
+        "222",
+        "206",
+        "162"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 6 and common difference 3, find the 27th term.",
+      "correct_answer": "84",
+      "incorrect_answers": [
+        "87",
+        "81",
+        "162"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 1 and common difference 8, find the 21th term.",
+      "correct_answer": "161",
+      "incorrect_answers": [
+        "169",
+        "153",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 12 and common difference 1, find the 27th term.",
+      "correct_answer": "38",
+      "incorrect_answers": [
+        "39",
+        "37",
+        "324"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 8 and common difference 4, find the 8th term.",
+      "correct_answer": "36",
+      "incorrect_answers": [
+        "40",
+        "32",
+        "64"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 6 and common difference 3, find the 30th term.",
+      "correct_answer": "93",
+      "incorrect_answers": [
+        "96",
+        "90",
+        "180"
       ]
     },
     {
@@ -580,227 +724,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 7 and common difference 5, find the 23th term.",
-      "correct_answer": "117",
+      "question": "In an AP with first term 3 and common difference 4, find the 30th term.",
+      "correct_answer": "119",
       "incorrect_answers": [
-        "122",
-        "112",
-        "161"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 10 and common difference 1, find the 25th term.",
-      "correct_answer": "34",
-      "incorrect_answers": [
-        "35",
-        "33",
-        "250"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 12 and common difference 3, find the 14th term.",
-      "correct_answer": "51",
-      "incorrect_answers": [
-        "54",
-        "48",
-        "168"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 7, find the 8th term.",
-      "correct_answer": "58",
-      "incorrect_answers": [
-        "65",
-        "51",
-        "72"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 5, find the 22th term.",
-      "correct_answer": "106",
-      "incorrect_answers": [
-        "111",
-        "101",
-        "22"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 8, find the 17th term.",
-      "correct_answer": "131",
-      "incorrect_answers": [
-        "139",
         "123",
-        "51"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 3, find the 8th term.",
-      "correct_answer": "32",
-      "incorrect_answers": [
-        "35",
-        "29",
-        "88"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 6, find the 29th term.",
-      "correct_answer": "173",
-      "incorrect_answers": [
-        "179",
-        "167",
-        "145"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 12 and common difference 3, find the 16th term.",
-      "correct_answer": "57",
-      "incorrect_answers": [
-        "60",
-        "54",
-        "192"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 1, find the 8th term.",
-      "correct_answer": "12",
-      "incorrect_answers": [
-        "13",
-        "11",
-        "40"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 2, find the 26th term.",
-      "correct_answer": "61",
-      "incorrect_answers": [
-        "63",
-        "59",
-        "286"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 6 and common difference 6, find the 23th term.",
-      "correct_answer": "138",
-      "incorrect_answers": [
-        "144",
-        "132",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 2, find the 11th term.",
-      "correct_answer": "23",
-      "incorrect_answers": [
-        "25",
-        "21",
-        "33"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 3, find the 15th term.",
-      "correct_answer": "47",
-      "incorrect_answers": [
-        "50",
-        "44",
-        "75"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 7 and common difference 8, find the 20th term.",
-      "correct_answer": "159",
-      "incorrect_answers": [
-        "167",
-        "151",
-        "140"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 8, find the 19th term.",
-      "correct_answer": "153",
-      "incorrect_answers": [
-        "161",
-        "145",
-        "171"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 6 and common difference 6, find the 8th term.",
-      "correct_answer": "48",
-      "incorrect_answers": [
-        "54",
-        "42",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 3, find the 22th term.",
-      "correct_answer": "66",
-      "incorrect_answers": [
-        "69",
-        "63",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 3, find the 10th term.",
-      "correct_answer": "36",
-      "incorrect_answers": [
-        "39",
-        "33",
+        "115",
         "90"
       ]
     },
@@ -808,71 +736,35 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 10 and common difference 4, find the 29th term.",
-      "correct_answer": "122",
+      "question": "In an AP with first term 2 and common difference 1, find the 24th term.",
+      "correct_answer": "25",
       "incorrect_answers": [
-        "126",
-        "118",
-        "290"
+        "26",
+        "24",
+        "48"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 2 and common difference 5, find the 11th term.",
-      "correct_answer": "52",
+      "question": "In an AP with first term 9 and common difference 6, find the 29th term.",
+      "correct_answer": "177",
       "incorrect_answers": [
-        "57",
-        "47",
-        "22"
+        "183",
+        "171",
+        "261"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 2 and common difference 8, find the 29th term.",
-      "correct_answer": "226",
+      "question": "In an AP with first term 4 and common difference 1, find the 26th term.",
+      "correct_answer": "29",
       "incorrect_answers": [
-        "234",
-        "218",
-        "58"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 8, find the 24th term.",
-      "correct_answer": "185",
-      "incorrect_answers": [
-        "193",
-        "177",
-        "24"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 4, find the 23th term.",
-      "correct_answer": "97",
-      "incorrect_answers": [
-        "101",
-        "93",
-        "207"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 8 and common difference 4, find the 13th term.",
-      "correct_answer": "56",
-      "incorrect_answers": [
-        "60",
-        "52",
+        "30",
+        "28",
         "104"
       ]
     },
@@ -880,11 +772,35 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 5, find the 21th term.",
-      "correct_answer": "105",
+      "question": "In an AP with first term 2 and common difference 7, find the 13th term.",
+      "correct_answer": "86",
       "incorrect_answers": [
-        "110",
-        "100",
+        "93",
+        "79",
+        "26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 9 and common difference 3, find the 18th term.",
+      "correct_answer": "60",
+      "incorrect_answers": [
+        "63",
+        "57",
+        "162"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 6 and common difference 6, find the 14th term.",
+      "correct_answer": "84",
+      "incorrect_answers": [
+        "90",
+        "78",
         "Distractor 3"
       ]
     },
@@ -892,23 +808,23 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 8 and common difference 4, find the 24th term.",
-      "correct_answer": "100",
+      "question": "In an AP with first term 3 and common difference 4, find the 20th term.",
+      "correct_answer": "79",
       "incorrect_answers": [
-        "104",
-        "96",
-        "192"
+        "83",
+        "75",
+        "60"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 5, find the 10th term.",
-      "correct_answer": "54",
+      "question": "In an AP with first term 3 and common difference 1, find the 30th term.",
+      "correct_answer": "32",
       "incorrect_answers": [
-        "59",
-        "49",
+        "33",
+        "31",
         "90"
       ]
     },
@@ -916,71 +832,71 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 2 and common difference 1, find the 18th term.",
-      "correct_answer": "19",
+      "question": "In an AP with first term 2 and common difference 3, find the 24th term.",
+      "correct_answer": "71",
       "incorrect_answers": [
-        "20",
-        "18",
-        "36"
+        "74",
+        "68",
+        "48"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 11 and common difference 8, find the 9th term.",
-      "correct_answer": "75",
+      "question": "In an AP with first term 11 and common difference 2, find the 11th term.",
+      "correct_answer": "31",
       "incorrect_answers": [
-        "83",
-        "67",
-        "99"
+        "33",
+        "29",
+        "121"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 7, find the 21th term.",
-      "correct_answer": "149",
+      "question": "In an AP with first term 3 and common difference 1, find the 20th term.",
+      "correct_answer": "22",
       "incorrect_answers": [
-        "156",
-        "142",
-        "189"
+        "23",
+        "21",
+        "60"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 8 and common difference 6, find the 27th term.",
-      "correct_answer": "164",
+      "question": "In an AP with first term 3 and common difference 1, find the 28th term.",
+      "correct_answer": "30",
       "incorrect_answers": [
-        "170",
-        "158",
-        "216"
+        "31",
+        "29",
+        "84"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 4, find the 20th term.",
-      "correct_answer": "85",
-      "incorrect_answers": [
-        "89",
-        "81",
-        "180"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 12 and common difference 2, find the 23th term.",
-      "correct_answer": "56",
+      "question": "In an AP with first term 4 and common difference 3, find the 18th term.",
+      "correct_answer": "55",
       "incorrect_answers": [
         "58",
-        "54",
+        "52",
+        "72"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 12 and common difference 1, find the 23th term.",
+      "correct_answer": "34",
+      "incorrect_answers": [
+        "35",
+        "33",
         "276"
       ]
     },
@@ -988,11 +904,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 8 and common difference 7, find the 8th term.",
-      "correct_answer": "57",
+      "question": "In an AP with first term 8 and common difference 8, find the 20th term.",
+      "correct_answer": "160",
       "incorrect_answers": [
-        "64",
-        "50",
+        "168",
+        "152",
         "Distractor 3"
       ]
     },
@@ -1000,167 +916,83 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 6, find the 21th term.",
-      "correct_answer": "125",
+      "question": "In an AP with first term 7 and common difference 7, find the 16th term.",
+      "correct_answer": "112",
       "incorrect_answers": [
-        "131",
         "119",
-        "105"
+        "105",
+        "Distractor 3"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 8, find the 12th term.",
-      "correct_answer": "97",
+      "question": "In an AP with first term 10 and common difference 5, find the 19th term.",
+      "correct_answer": "100",
       "incorrect_answers": [
         "105",
-        "89",
-        "108"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 3, find the 16th term.",
-      "correct_answer": "50",
-      "incorrect_answers": [
-        "53",
-        "47",
-        "80"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 5, find the 9th term.",
-      "correct_answer": "41",
-      "incorrect_answers": [
-        "46",
-        "36",
-        "9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 9 and common difference 5, find the 12th term.",
-      "correct_answer": "64",
-      "incorrect_answers": [
-        "69",
-        "59",
-        "108"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 5, find the 9th term.",
-      "correct_answer": "43",
-      "incorrect_answers": [
-        "48",
-        "38",
-        "27"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 4, find the 13th term.",
-      "correct_answer": "49",
-      "incorrect_answers": [
-        "53",
-        "45",
-        "13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 12 and common difference 6, find the 22th term.",
-      "correct_answer": "138",
-      "incorrect_answers": [
-        "144",
-        "132",
-        "264"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Progressions",
-      "question": "In an AP with first term 3 and common difference 4, find the 25th term.",
-      "correct_answer": "99",
-      "incorrect_answers": [
-        "103",
         "95",
-        "75"
+        "190"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 8, find the 12th term.",
-      "correct_answer": "93",
+      "question": "In an AP with first term 2 and common difference 6, find the 19th term.",
+      "correct_answer": "110",
       "incorrect_answers": [
-        "101",
-        "85",
-        "60"
+        "116",
+        "104",
+        "38"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 5 and common difference 6, find the 12th term.",
-      "correct_answer": "71",
+      "question": "In an AP with first term 7 and common difference 7, find the 20th term.",
+      "correct_answer": "140",
       "incorrect_answers": [
-        "77",
-        "65",
-        "60"
+        "147",
+        "133",
+        "Distractor 3"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 4 and common difference 1, find the 16th term.",
-      "correct_answer": "19",
+      "question": "In an AP with first term 12 and common difference 3, find the 20th term.",
+      "correct_answer": "69",
       "incorrect_answers": [
-        "20",
-        "18",
-        "64"
+        "72",
+        "66",
+        "240"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 5, find the 11th term.",
-      "correct_answer": "51",
+      "question": "In an AP with first term 3 and common difference 4, find the 29th term.",
+      "correct_answer": "115",
       "incorrect_answers": [
-        "56",
-        "46",
-        "11"
+        "119",
+        "111",
+        "87"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 6 and common difference 2, find the 13th term.",
-      "correct_answer": "30",
+      "question": "In an AP with first term 3 and common difference 8, find the 26th term.",
+      "correct_answer": "203",
       "incorrect_answers": [
-        "32",
-        "28",
+        "211",
+        "195",
         "78"
       ]
     },
@@ -1168,36 +1000,204 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 6, find the 17th term.",
-      "correct_answer": "97",
+      "question": "In an AP with first term 2 and common difference 5, find the 17th term.",
+      "correct_answer": "82",
       "incorrect_answers": [
+        "87",
+        "77",
+        "34"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 5 and common difference 7, find the 11th term.",
+      "correct_answer": "75",
+      "incorrect_answers": [
+        "82",
+        "68",
+        "55"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 7 and common difference 4, find the 26th term.",
+      "correct_answer": "107",
+      "incorrect_answers": [
+        "111",
         "103",
-        "91",
-        "17"
+        "182"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 1 and common difference 8, find the 18th term.",
-      "correct_answer": "137",
+      "question": "In an AP with first term 8 and common difference 7, find the 9th term.",
+      "correct_answer": "64",
       "incorrect_answers": [
-        "145",
-        "129",
-        "18"
+        "71",
+        "57",
+        "72"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Progressions",
-      "question": "In an AP with first term 10 and common difference 1, find the 28th term.",
-      "correct_answer": "37",
+      "question": "In an AP with first term 4 and common difference 8, find the 23th term.",
+      "correct_answer": "180",
       "incorrect_answers": [
-        "38",
-        "36",
-        "280"
+        "188",
+        "172",
+        "92"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 11 and common difference 6, find the 26th term.",
+      "correct_answer": "161",
+      "incorrect_answers": [
+        "167",
+        "155",
+        "286"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 11 and common difference 1, find the 28th term.",
+      "correct_answer": "38",
+      "incorrect_answers": [
+        "39",
+        "37",
+        "308"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 1 and common difference 1, find the 22th term.",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "23",
+        "21",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 10 and common difference 5, find the 15th term.",
+      "correct_answer": "80",
+      "incorrect_answers": [
+        "85",
+        "75",
+        "150"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 12 and common difference 2, find the 9th term.",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "30",
+        "26",
+        "108"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 11 and common difference 3, find the 15th term.",
+      "correct_answer": "53",
+      "incorrect_answers": [
+        "56",
+        "50",
+        "165"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 3 and common difference 5, find the 27th term.",
+      "correct_answer": "133",
+      "incorrect_answers": [
+        "138",
+        "128",
+        "81"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 6 and common difference 4, find the 27th term.",
+      "correct_answer": "110",
+      "incorrect_answers": [
+        "114",
+        "106",
+        "162"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 11 and common difference 3, find the 30th term.",
+      "correct_answer": "98",
+      "incorrect_answers": [
+        "101",
+        "95",
+        "330"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 12 and common difference 4, find the 16th term.",
+      "correct_answer": "72",
+      "incorrect_answers": [
+        "76",
+        "68",
+        "192"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 9 and common difference 8, find the 28th term.",
+      "correct_answer": "225",
+      "incorrect_answers": [
+        "233",
+        "217",
+        "252"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "question": "In an AP with first term 8 and common difference 3, find the 18th term.",
+      "correct_answer": "59",
+      "incorrect_answers": [
+        "62",
+        "56",
+        "144"
       ]
     }
   ]

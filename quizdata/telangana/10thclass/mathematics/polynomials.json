@@ -4,178 +4,70 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-4)x + 3, find p(-1).",
-      "correct_answer": "10",
+      "question": "For p(x) = 5x^2 + (-2)x + -5, find p(-3).",
+      "correct_answer": "46",
       "incorrect_answers": [
-        "15",
-        "7",
-        "-10"
+        "48",
+        "45",
+        "-46"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (-2)x + -3, find p(-3).",
-      "correct_answer": "48",
+      "question": "For p(x) = 4x^2 + (-3)x + 2, find p(4).",
+      "correct_answer": "54",
       "incorrect_answers": [
-        "53",
-        "47",
-        "-48"
+        "59",
+        "52",
+        "-54"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (3)x + 6, find p(3).",
-      "correct_answer": "42",
+      "question": "For p(x) = 3x^2 + (5)x + 4, find p(2).",
+      "correct_answer": "26",
       "incorrect_answers": [
-        "43",
-        "40",
-        "-42"
+        "28",
+        "22",
+        "-26"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (0)x + 5, find p(0).",
-      "correct_answer": "5",
+      "question": "For p(x) = 1x^2 + (3)x + 3, find p(-2).",
+      "correct_answer": "1",
       "incorrect_answers": [
-        "10",
-        "-1",
-        "-5"
+        "3",
+        "-3",
+        "-1"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (0)x + 5, find p(2).",
-      "correct_answer": "25",
+      "question": "For p(x) = 1x^2 + (-3)x + -2, find p(-2).",
+      "correct_answer": "8",
       "incorrect_answers": [
-        "27",
-        "23",
-        "-25"
+        "12",
+        "2",
+        "-8"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (-1)x + -3, find p(-2).",
-      "correct_answer": "3",
-      "incorrect_answers": [
-        "4",
-        "-1",
-        "-3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-4)x + 6, find p(0).",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "7",
-        "0",
-        "-6"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (0)x + -2, find p(3).",
-      "correct_answer": "34",
-      "incorrect_answers": [
-        "37",
-        "29",
-        "-34"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (4)x + 0, find p(2).",
-      "correct_answer": "12",
-      "incorrect_answers": [
-        "16",
-        "7",
-        "-12"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (2)x + -4, find p(4).",
-      "correct_answer": "68",
-      "incorrect_answers": [
-        "72",
-        "65",
-        "-68"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (0)x + 4, find p(0).",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "9",
-        "0",
-        "-4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (-1)x + -4, find p(3).",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "6",
-        "0",
-        "-2"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (1)x + -3, find p(-2).",
-      "correct_answer": "11",
-      "incorrect_answers": [
-        "16",
-        "9",
-        "-11"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (2)x + -1, find p(-1).",
-      "correct_answer": "0",
-      "incorrect_answers": [
-        "1",
-        "-2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-4)x + 6, find p(-2).",
+      "question": "For p(x) = 3x^2 + (-3)x + 4, find p(3).",
       "correct_answer": "22",
       "incorrect_answers": [
-        "23",
+        "24",
         "20",
         "-22"
       ]
@@ -184,347 +76,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (3)x + 3, find p(2).",
-      "correct_answer": "29",
-      "incorrect_answers": [
-        "35",
-        "25",
-        "-29"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (-2)x + -1, find p(4).",
-      "correct_answer": "71",
-      "incorrect_answers": [
-        "75",
-        "70",
-        "-71"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-4)x + -4, find p(-1).",
-      "correct_answer": "3",
-      "incorrect_answers": [
-        "6",
-        "-3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (5)x + 2, find p(0).",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "7",
-        "-1",
-        "-2"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (0)x + 5, find p(-1).",
-      "correct_answer": "7",
-      "incorrect_answers": [
-        "10",
-        "2",
-        "-7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-4)x + 1, find p(2).",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "7",
-        "-2",
-        "-1"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-3)x + 3, find p(3).",
-      "correct_answer": "21",
-      "incorrect_answers": [
-        "26",
-        "18",
-        "-21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (3)x + -5, find p(4).",
-      "correct_answer": "71",
-      "incorrect_answers": [
-        "77",
-        "69",
-        "-71"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (1)x + 4, find p(0).",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "9",
-        "0",
-        "-4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-3)x + 2, find p(-2).",
-      "correct_answer": "24",
-      "incorrect_answers": [
-        "29",
-        "21",
-        "-24"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (4)x + 0, find p(2).",
-      "correct_answer": "20",
-      "incorrect_answers": [
-        "22",
-        "19",
-        "-20"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (5)x + -4, find p(3).",
-      "correct_answer": "47",
-      "incorrect_answers": [
-        "51",
-        "44",
-        "-47"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-3)x + 3, find p(1).",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "7",
-        "0",
-        "-2"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-3)x + -4, find p(4).",
-      "correct_answer": "32",
-      "incorrect_answers": [
-        "36",
-        "27",
-        "-32"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (1)x + -5, find p(4).",
-      "correct_answer": "79",
-      "incorrect_answers": [
-        "84",
-        "76",
-        "-79"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (-2)x + 4, find p(1).",
-      "correct_answer": "3",
-      "incorrect_answers": [
-        "5",
-        "-1",
-        "-3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (0)x + 1, find p(0).",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "4",
-        "-1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (4)x + -5, find p(0).",
-      "correct_answer": "-5",
-      "incorrect_answers": [
-        "-3",
-        "-9",
-        "5"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (-1)x + 0, find p(-3).",
-      "correct_answer": "48",
-      "incorrect_answers": [
-        "50",
-        "43",
-        "-48"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (4)x + 6, find p(0).",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "11",
-        "3",
-        "-6"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (2)x + 0, find p(1).",
-      "correct_answer": "5",
-      "incorrect_answers": [
-        "8",
-        "0",
-        "-5"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-4)x + 1, find p(3).",
-      "correct_answer": "7",
-      "incorrect_answers": [
-        "13",
-        "4",
-        "-7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (4)x + 3, find p(0).",
-      "correct_answer": "3",
-      "incorrect_answers": [
-        "5",
-        "-3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (-1)x + 4, find p(0).",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "7",
-        "-1",
-        "-4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-3)x + -2, find p(0).",
-      "correct_answer": "-2",
-      "incorrect_answers": [
-        "2",
-        "-8",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-4)x + -1, find p(4).",
-      "correct_answer": "15",
-      "incorrect_answers": [
-        "20",
-        "13",
-        "-15"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-3)x + 5, find p(3).",
-      "correct_answer": "32",
-      "incorrect_answers": [
-        "38",
-        "27",
-        "-32"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (1)x + 3, find p(4).",
-      "correct_answer": "87",
-      "incorrect_answers": [
-        "93",
-        "83",
-        "-87"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-3)x + 1, find p(3).",
+      "question": "For p(x) = 2x^2 + (-4)x + -2, find p(-3).",
       "correct_answer": "28",
       "incorrect_answers": [
         "30",
-        "26",
+        "27",
         "-28"
       ]
     },
@@ -532,67 +88,43 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (4)x + 6, find p(2).",
-      "correct_answer": "26",
+      "question": "For p(x) = 5x^2 + (-3)x + -6, find p(0).",
+      "correct_answer": "-6",
       "incorrect_answers": [
-        "31",
-        "25",
-        "-26"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-1)x + -4, find p(4).",
-      "correct_answer": "40",
-      "incorrect_answers": [
-        "42",
-        "37",
-        "-40"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (2)x + -1, find p(-3).",
-      "correct_answer": "38",
-      "incorrect_answers": [
-        "44",
-        "36",
-        "-38"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (-3)x + 5, find p(-1).",
-      "correct_answer": "13",
-      "incorrect_answers": [
-        "18",
-        "10",
-        "-13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-2)x + -2, find p(2).",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "3",
         "0",
-        "-2"
+        "-11",
+        "6"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (3)x + -2, find p(-2).",
+      "question": "For p(x) = 3x^2 + (-1)x + -6, find p(0).",
+      "correct_answer": "-6",
+      "incorrect_answers": [
+        "-4",
+        "-7",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (3)x + -5, find p(-1).",
+      "correct_answer": "-7",
+      "incorrect_answers": [
+        "-1",
+        "-8",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (1)x + -4, find p(-1).",
       "correct_answer": "-4",
       "incorrect_answers": [
         "-2",
@@ -604,238 +136,58 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-3)x + 0, find p(3).",
-      "correct_answer": "18",
+      "question": "For p(x) = 1x^2 + (1)x + 0, find p(-3).",
+      "correct_answer": "6",
       "incorrect_answers": [
-        "20",
-        "13",
-        "-18"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (1)x + -4, find p(1).",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "7",
+        "8",
         "0",
-        "-1"
+        "-6"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-3)x + 3, find p(4).",
-      "correct_answer": "55",
+      "question": "For p(x) = 4x^2 + (1)x + -6, find p(0).",
+      "correct_answer": "-6",
       "incorrect_answers": [
-        "59",
-        "50",
-        "-55"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (-4)x + 5, find p(2).",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "4",
-        "-1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (1)x + 3, find p(0).",
-      "correct_answer": "3",
-      "incorrect_answers": [
-        "6",
-        "-3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (2)x + -3, find p(3).",
-      "correct_answer": "21",
-      "incorrect_answers": [
-        "23",
-        "18",
-        "-21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (4)x + 1, find p(0).",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "4",
         "-5",
-        "-1"
+        "-12",
+        "6"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-2)x + 4, find p(4).",
-      "correct_answer": "28",
-      "incorrect_answers": [
-        "31",
-        "25",
-        "-28"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (1)x + 2, find p(0).",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "3",
-        "1",
-        "-2"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (3)x + 2, find p(2).",
-      "correct_answer": "24",
-      "incorrect_answers": [
-        "25",
-        "21",
-        "-24"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (0)x + 1, find p(4).",
-      "correct_answer": "49",
-      "incorrect_answers": [
-        "54",
-        "44",
-        "-49"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (2)x + 3, find p(1).",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "11",
-        "9",
-        "-10"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (4)x + 3, find p(-3).",
-      "correct_answer": "18",
-      "incorrect_answers": [
-        "22",
-        "12",
-        "-18"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (1)x + 5, find p(4).",
-      "correct_answer": "57",
-      "incorrect_answers": [
-        "58",
-        "52",
-        "-57"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (-1)x + 2, find p(-3).",
-      "correct_answer": "50",
-      "incorrect_answers": [
-        "56",
-        "45",
-        "-50"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (4)x + 0, find p(-1).",
-      "correct_answer": "-1",
+      "question": "For p(x) = 5x^2 + (-1)x + -4, find p(0).",
+      "correct_answer": "-4",
       "incorrect_answers": [
         "0",
         "-7",
-        "1"
+        "4"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (2)x + -1, find p(3).",
-      "correct_answer": "32",
+      "question": "For p(x) = 4x^2 + (4)x + -6, find p(-1).",
+      "correct_answer": "-6",
       "incorrect_answers": [
-        "37",
-        "29",
-        "-32"
+        "-4",
+        "-11",
+        "6"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (2)x + 0, find p(3).",
-      "correct_answer": "24",
-      "incorrect_answers": [
-        "26",
-        "21",
-        "-24"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-4)x + -5, find p(-1).",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "7",
-        "-1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (-1)x + 2, find p(3).",
+      "question": "For p(x) = 2x^2 + (2)x + 4, find p(4).",
       "correct_answer": "44",
       "incorrect_answers": [
-        "45",
+        "49",
         "43",
         "-44"
       ]
@@ -844,10 +196,46 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-1)x + 3, find p(0).",
-      "correct_answer": "3",
+      "question": "For p(x) = 4x^2 + (0)x + 2, find p(-2).",
+      "correct_answer": "18",
       "incorrect_answers": [
-        "7",
+        "20",
+        "14",
+        "-18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (-4)x + 6, find p(-2).",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "28",
+        "21",
+        "-26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (-1)x + 3, find p(-3).",
+      "correct_answer": "33",
+      "incorrect_answers": [
+        "36",
+        "29",
+        "-33"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (3)x + -2, find p(-3).",
+      "correct_answer": "-2",
+      "incorrect_answers": [
+        "2",
         "-3",
         "Distractor 3"
       ]
@@ -856,10 +244,274 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (4)x + 4, find p(2).",
+      "question": "For p(x) = 4x^2 + (-3)x + -6, find p(-2).",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "20",
+        "13",
+        "-16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (-3)x + 4, find p(4).",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "41",
+        "38",
+        "-40"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (-3)x + -3, find p(2).",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "6",
+        "-2",
+        "-3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (1)x + -3, find p(-2).",
+      "correct_answer": "-1",
+      "incorrect_answers": [
+        "5",
+        "-7",
+        "1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (-1)x + -1, find p(0).",
+      "correct_answer": "-1",
+      "incorrect_answers": [
+        "2",
+        "-7",
+        "1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (0)x + -4, find p(4).",
       "correct_answer": "28",
       "incorrect_answers": [
-        "32",
+        "29",
+        "25",
+        "-28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 4x^2 + (5)x + 4, find p(3).",
+      "correct_answer": "55",
+      "incorrect_answers": [
+        "58",
+        "52",
+        "-55"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (-2)x + 0, find p(4).",
+      "correct_answer": "72",
+      "incorrect_answers": [
+        "75",
+        "68",
+        "-72"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (4)x + -6, find p(4).",
+      "correct_answer": "58",
+      "incorrect_answers": [
+        "64",
+        "56",
+        "-58"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (-1)x + -2, find p(4).",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "12",
+        "7",
+        "-10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 4x^2 + (5)x + -1, find p(-1).",
+      "correct_answer": "-2",
+      "incorrect_answers": [
+        "-1",
+        "-4",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (-3)x + 3, find p(2).",
+      "correct_answer": "17",
+      "incorrect_answers": [
+        "18",
+        "11",
+        "-17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (0)x + -5, find p(2).",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "9",
+        "4",
+        "-7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (1)x + -4, find p(-1).",
+      "correct_answer": "-3",
+      "incorrect_answers": [
+        "1",
+        "-7",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (1)x + -6, find p(3).",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "19",
+        "10",
+        "-15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (-4)x + -5, find p(-2).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "29",
+        "20",
+        "-23"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (5)x + 4, find p(-2).",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "19",
+        "13",
+        "-14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (-2)x + 4, find p(2).",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "13",
+        "3",
+        "-8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (-4)x + -1, find p(-3).",
+      "correct_answer": "29",
+      "incorrect_answers": [
+        "35",
+        "26",
+        "-29"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (-2)x + -6, find p(-3).",
+      "correct_answer": "27",
+      "incorrect_answers": [
+        "31",
+        "26",
+        "-27"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (1)x + 2, find p(2).",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "14",
+        "7",
+        "-12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (-3)x + 1, find p(4).",
+      "correct_answer": "37",
+      "incorrect_answers": [
+        "43",
+        "36",
+        "-37"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 4x^2 + (-2)x + -2, find p(3).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "33",
         "22",
         "-28"
       ]
@@ -868,107 +520,23 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (4)x + -1, find p(0).",
-      "correct_answer": "-1",
+      "question": "For p(x) = 1x^2 + (0)x + -6, find p(-3).",
+      "correct_answer": "3",
       "incorrect_answers": [
-        "1",
-        "-3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (-1)x + 6, find p(-1).",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "13",
         "4",
-        "-9"
+        "-2",
+        "-3"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (3)x + -2, find p(3).",
-      "correct_answer": "52",
-      "incorrect_answers": [
-        "54",
-        "46",
-        "-52"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-1)x + 1, find p(0).",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "5",
-        "0",
-        "-1"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-4)x + -1, find p(-3).",
-      "correct_answer": "47",
-      "incorrect_answers": [
-        "51",
-        "43",
-        "-47"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (-1)x + 4, find p(0).",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "9",
-        "-1",
-        "-4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-4)x + 0, find p(2).",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "13",
-        "7",
-        "-8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-4)x + 6, find p(-1).",
-      "correct_answer": "14",
-      "incorrect_answers": [
-        "17",
-        "11",
-        "-14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (5)x + 0, find p(-1).",
+      "question": "For p(x) = 1x^2 + (2)x + -6, find p(-3).",
       "correct_answer": "-3",
       "incorrect_answers": [
         "-1",
-        "-4",
+        "-8",
         "3"
       ]
     },
@@ -976,7 +544,55 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (2)x + -5, find p(-2).",
+      "question": "For p(x) = 4x^2 + (3)x + -5, find p(-3).",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "23",
+        "21",
+        "-22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (4)x + -4, find p(3).",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "28",
+        "21",
+        "-26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (0)x + 5, find p(0).",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "6",
+        "-1",
+        "-5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (1)x + 1, find p(-3).",
+      "correct_answer": "43",
+      "incorrect_answers": [
+        "48",
+        "40",
+        "-43"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (-2)x + -5, find p(0).",
       "correct_answer": "-5",
       "incorrect_answers": [
         "0",
@@ -988,71 +604,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (-2)x + 0, find p(2).",
-      "correct_answer": "0",
-      "incorrect_answers": [
-        "3",
-        "-2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (4)x + -1, find p(0).",
-      "correct_answer": "-1",
-      "incorrect_answers": [
-        "4",
-        "-7",
-        "1"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (1)x + -4, find p(0).",
-      "correct_answer": "-4",
-      "incorrect_answers": [
-        "-3",
-        "-6",
-        "4"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (2)x + 1, find p(1).",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "12",
-        "0",
-        "-6"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 2x^2 + (1)x + -4, find p(4).",
-      "correct_answer": "32",
-      "incorrect_answers": [
-        "35",
-        "28",
-        "-32"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-3)x + -5, find p(1).",
+      "question": "For p(x) = 1x^2 + (2)x + -4, find p(-1).",
       "correct_answer": "-5",
       "incorrect_answers": [
-        "0",
-        "-11",
+        "-1",
+        "-8",
         "5"
       ]
     },
@@ -1060,119 +616,227 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (3)x + -4, find p(0).",
-      "correct_answer": "-4",
+      "question": "For p(x) = 2x^2 + (-1)x + 5, find p(-1).",
+      "correct_answer": "8",
       "incorrect_answers": [
-        "-2",
+        "10",
+        "6",
+        "-8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (0)x + 0, find p(1).",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-5",
+        "-1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (-1)x + 0, find p(4).",
+      "correct_answer": "76",
+      "incorrect_answers": [
+        "81",
+        "72",
+        "-76"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (4)x + -5, find p(0).",
+      "correct_answer": "-5",
+      "incorrect_answers": [
+        "0",
         "-8",
-        "4"
+        "5"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 1x^2 + (5)x + 3, find p(2).",
-      "correct_answer": "17",
+      "question": "For p(x) = 3x^2 + (0)x + -2, find p(-1).",
+      "correct_answer": "1",
       "incorrect_answers": [
-        "22",
-        "11",
-        "-17"
+        "5",
+        "-1",
+        "Distractor 3"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-3)x + -1, find p(4).",
-      "correct_answer": "51",
+      "question": "For p(x) = 4x^2 + (1)x + 3, find p(1).",
+      "correct_answer": "8",
       "incorrect_answers": [
-        "56",
-        "50",
-        "-51"
+        "9",
+        "5",
+        "-8"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-4)x + 5, find p(0).",
-      "correct_answer": "5",
+      "question": "For p(x) = 2x^2 + (-4)x + -6, find p(-2).",
+      "correct_answer": "10",
       "incorrect_answers": [
-        "8",
-        "4",
-        "-5"
+        "13",
+        "6",
+        "-10"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (-4)x + 3, find p(4).",
-      "correct_answer": "51",
-      "incorrect_answers": [
-        "54",
-        "46",
-        "-51"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (2)x + -1, find p(-2).",
-      "correct_answer": "11",
+      "question": "For p(x) = 3x^2 + (-4)x + 0, find p(3).",
+      "correct_answer": "15",
       "incorrect_answers": [
         "17",
         "10",
-        "-11"
+        "-15"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (0)x + 0, find p(4).",
-      "correct_answer": "64",
+      "question": "For p(x) = 3x^2 + (3)x + -1, find p(-1).",
+      "correct_answer": "-1",
       "incorrect_answers": [
-        "70",
-        "59",
-        "-64"
+        "5",
+        "-5",
+        "1"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (5)x + 0, find p(2).",
-      "correct_answer": "26",
+      "question": "For p(x) = 5x^2 + (-1)x + -4, find p(4).",
+      "correct_answer": "72",
       "incorrect_answers": [
-        "29",
-        "21",
-        "-26"
+        "77",
+        "67",
+        "-72"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 5x^2 + (3)x + -5, find p(-3).",
-      "correct_answer": "31",
+      "question": "For p(x) = 5x^2 + (1)x + 0, find p(0).",
+      "correct_answer": "0",
       "incorrect_answers": [
-        "37",
+        "5",
+        "-2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (0)x + 1, find p(-3).",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "15",
+        "4",
+        "-10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (-1)x + 2, find p(0).",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "3",
+        "-3",
+        "-2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (0)x + -3, find p(1).",
+      "correct_answer": "-1",
+      "incorrect_answers": [
+        "0",
+        "-6",
+        "1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (2)x + 2, find p(1).",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "3",
+        "-6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (3)x + 4, find p(-3).",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "25",
+        "17",
+        "-22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (5)x + 1, find p(3).",
+      "correct_answer": "34",
+      "incorrect_answers": [
+        "40",
         "28",
-        "-31"
+        "-34"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 3x^2 + (-4)x + -4, find p(4).",
+      "question": "For p(x) = 4x^2 + (3)x + 0, find p(2).",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "28",
+        "20",
+        "-22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 4x^2 + (4)x + 4, find p(2).",
       "correct_answer": "28",
       "incorrect_answers": [
-        "33",
-        "23",
+        "31",
+        "22",
         "-28"
       ]
     },
@@ -1180,11 +844,71 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (2)x + 3, find p(-1).",
+      "question": "For p(x) = 1x^2 + (-2)x + -5, find p(1).",
+      "correct_answer": "-6",
+      "incorrect_answers": [
+        "-2",
+        "-8",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (4)x + 5, find p(-2).",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "3",
+        "-5",
+        "-1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (1)x + -1, find p(-3).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "25",
+        "17",
+        "-23"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (-3)x + -2, find p(0).",
+      "correct_answer": "-2",
+      "incorrect_answers": [
+        "2",
+        "-5",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (-3)x + 6, find p(2).",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "24",
+        "14",
+        "-20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (-3)x + 3, find p(1).",
       "correct_answer": "5",
       "incorrect_answers": [
         "6",
-        "2",
+        "-1",
         "-5"
       ]
     },
@@ -1192,12 +916,288 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Polynomials",
-      "question": "For p(x) = 4x^2 + (1)x + -1, find p(-1).",
-      "correct_answer": "2",
+      "question": "For p(x) = 5x^2 + (-3)x + -1, find p(-2).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "27",
+        "24",
+        "-25"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (-2)x + -2, find p(-3).",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "14",
+        "8",
+        "-13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (-3)x + 1, find p(-2).",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "18",
+        "9",
+        "-15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (2)x + 0, find p(-3).",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "27",
+        "16",
+        "-21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (4)x + -2, find p(1).",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "9",
+        "3",
+        "-5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (1)x + -5, find p(-3).",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "13",
+        "4",
+        "-10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (3)x + 1, find p(4).",
+      "correct_answer": "29",
+      "incorrect_answers": [
+        "30",
+        "25",
+        "-29"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (2)x + 1, find p(4).",
+      "correct_answer": "41",
+      "incorrect_answers": [
+        "42",
+        "36",
+        "-41"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (-2)x + 0, find p(-2).",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "16",
+        "8",
+        "-12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (3)x + -5, find p(-3).",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "19",
+        "8",
+        "-13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (3)x + 2, find p(-3).",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "21",
+        "19",
+        "-20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 4x^2 + (2)x + -2, find p(-3).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "30",
+        "25",
+        "-28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (-3)x + -6, find p(-3).",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "34",
+        "25",
+        "-30"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (-1)x + 5, find p(1).",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "6",
+        "3",
+        "-5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 5x^2 + (0)x + 4, find p(-3).",
+      "correct_answer": "49",
+      "incorrect_answers": [
+        "54",
+        "46",
+        "-49"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 4x^2 + (4)x + 0, find p(-2).",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "12",
+        "2",
+        "-8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 4x^2 + (5)x + -5, find p(0).",
+      "correct_answer": "-5",
+      "incorrect_answers": [
+        "1",
+        "-8",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (-2)x + -4, find p(3).",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "13",
+        "7",
+        "-8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 2x^2 + (-1)x + 2, find p(-1).",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "8",
+        "3",
+        "-5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 3x^2 + (-1)x + -4, find p(-1).",
+      "correct_answer": "0",
       "incorrect_answers": [
         "5",
-        "-2",
+        "-6",
         "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (3)x + -4, find p(-2).",
+      "correct_answer": "-6",
+      "incorrect_answers": [
+        "-2",
+        "-9",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (0)x + 6, find p(3).",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "21",
+        "11",
+        "-15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (3)x + 6, find p(4).",
+      "correct_answer": "34",
+      "incorrect_answers": [
+        "36",
+        "30",
+        "-34"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "question": "For p(x) = 1x^2 + (2)x + -1, find p(0).",
+      "correct_answer": "-1",
+      "incorrect_answers": [
+        "0",
+        "-3",
+        "1"
       ]
     }
   ]

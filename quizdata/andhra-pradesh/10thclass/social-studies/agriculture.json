@@ -9,7 +9,7 @@
       "incorrect_answers": [
         "Farm Inputs can replace all chapter logic without assumptions.",
         "Irrigation is valid only if core conditions are ignored.",
-        "Agriculture Application is a memory cue, not a defensible explanation."
+        "Agriculture Inference is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies irrigation in a new problem from \"Agriculture\". What is the best first step?",
       "correct_answer": "Define conditions, apply irrigation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Agriculture application and skip checking constraints.",
-        "Use food security as a shortcut and avoid interpretation.",
-        "Pick Agriculture inference by intuition and finalise without verification."
+        "Start from Agriculture and skip checking constraints.",
+        "Use cropping pattern as a shortcut and avoid interpretation.",
+        "Pick Agriculture framework by intuition and finalise without verification."
       ]
     },
     {
@@ -33,7 +33,7 @@
       "incorrect_answers": [
         "An example where Agriculture application is used without relevance to chapter context.",
         "An example where cropping pattern is memorised but not applied logically.",
-        "An example where Agriculture framework is stated without evidence."
+        "An example where Agriculture is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Agriculture\": \"food security works without constraints.\"",
       "correct_answer": "Food Security works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Irrigation removes the need for all constraints in every case.",
-        "Agriculture Inference is always equivalent to food security, regardless of context.",
-        "Cropping Pattern is enough even when data contradict the claim."
+        "Agriculture removes the need for all constraints in every case.",
+        "Cropping Pattern is always equivalent to food security, regardless of context.",
+        "Agriculture Framework is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Agriculture\", which mismatch is incorrect?",
       "correct_answer": "Agriculture Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Cropping Pattern - applied without confirming assumptions.",
-        "Farm Inputs - interpreted against contradictory data.",
-        "Agriculture - concluded before checking consistency."
+        "Irrigation - applied without confirming assumptions.",
+        "Agriculture Inference - interpreted against contradictory data.",
+        "Agriculture Application - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Agriculture inference in \"Agriculture\"?",
       "correct_answer": "The inference that links Agriculture inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes farm inputs without checking relevance.",
-        "An inference that cites irrigation but skips logical steps.",
-        "An inference that repeats food security without interpretation."
+        "An inference that substitutes food security without checking relevance.",
+        "An inference that cites farm inputs but skips logical steps.",
+        "An inference that repeats Agriculture without interpretation."
       ]
     },
     {

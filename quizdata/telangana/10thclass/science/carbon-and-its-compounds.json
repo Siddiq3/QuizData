@@ -8,8 +8,8 @@
       "correct_answer": "Catenation is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
         "Isomerism can replace all chapter logic without assumptions.",
-        "Carbon And Its Compounds is valid only if core conditions are ignored.",
-        "Homologous Series is a memory cue, not a defensible explanation."
+        "Homologous Series is valid only if core conditions are ignored.",
+        "Carbon And Its Compounds Inference is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies homologous series in a new problem from \"Carbon and Its Compounds\". What is the best first step?",
       "correct_answer": "Define conditions, apply homologous series stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from functional groups and skip checking constraints.",
-        "Use Carbon and Its Compounds inference as a shortcut and avoid interpretation.",
-        "Pick isomerism by intuition and finalise without verification."
+        "Start from Carbon and Its Compounds application and skip checking constraints.",
+        "Use Carbon and Its Compounds framework as a shortcut and avoid interpretation.",
+        "Pick catenation by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of isomerism in \"Carbon and Its Compounds\"?",
       "correct_answer": "An example where isomerism is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Carbon and Its Compounds application is used without relevance to chapter context.",
+        "An example where Carbon and Its Compounds inference is used without relevance to chapter context.",
         "An example where functional groups is memorised but not applied logically.",
-        "An example where Carbon and Its Compounds inference is stated without evidence."
+        "An example where Carbon and Its Compounds application is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Carbon and Its Compounds\": \"functional groups works without constraints.\"",
       "correct_answer": "Functional Groups works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Carbon And Its Compounds removes the need for all constraints in every case.",
-        "Catenation is always equivalent to functional groups, regardless of context.",
-        "Carbon And Its Compounds Inference is enough even when data contradict the claim."
+        "Carbon And Its Compounds Framework removes the need for all constraints in every case.",
+        "Homologous Series is always equivalent to functional groups, regardless of context.",
+        "Catenation is enough even when data contradict the claim."
       ]
     },
     {
@@ -68,8 +68,8 @@
       "correct_answer": "Carbon And Its Compounds Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
         "Carbon And Its Compounds Application - applied without confirming assumptions.",
-        "Homologous Series - interpreted against contradictory data.",
-        "Isomerism - concluded before checking consistency."
+        "Functional Groups - interpreted against contradictory data.",
+        "Carbon And Its Compounds Inference - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Carbon and Its Compounds inference in \"Carbon and Its Compounds\"?",
       "correct_answer": "The inference that links Carbon and Its Compounds inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Carbon and Its Compounds framework without checking relevance.",
-        "An inference that cites Carbon and Its Compounds but skips logical steps.",
-        "An inference that repeats Carbon and Its Compounds application without interpretation."
+        "An inference that substitutes Carbon and Its Compounds without checking relevance.",
+        "An inference that cites catenation but skips logical steps.",
+        "An inference that repeats functional groups without interpretation."
       ]
     },
     {

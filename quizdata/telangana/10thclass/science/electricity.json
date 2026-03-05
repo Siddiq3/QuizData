@@ -7,9 +7,9 @@
       "question": "In \"Electricity\", which statement is most accurate about Ohm law?",
       "correct_answer": "Ohm Law is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Electricity Application can replace all chapter logic without assumptions.",
+        "Resistance can replace all chapter logic without assumptions.",
         "Series-Parallel Circuits is valid only if core conditions are ignored.",
-        "Electricity Inference is a memory cue, not a defensible explanation."
+        "Electric Power is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies resistance in a new problem from \"Electricity\". What is the best first step?",
       "correct_answer": "Define conditions, apply resistance stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Electricity framework and skip checking constraints.",
-        "Use Electricity as a shortcut and avoid interpretation.",
-        "Pick Ohm law by intuition and finalise without verification."
+        "Start from Electricity inference and skip checking constraints.",
+        "Use Ohm law as a shortcut and avoid interpretation.",
+        "Pick Electricity framework by intuition and finalise without verification."
       ]
     },
     {
@@ -31,7 +31,7 @@
       "question": "Which option shows a valid example of series-parallel circuits in \"Electricity\"?",
       "correct_answer": "An example where series-parallel circuits is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Electricity framework is used without relevance to chapter context.",
+        "An example where resistance is used without relevance to chapter context.",
         "An example where electric power is memorised but not applied logically.",
         "An example where Electricity is stated without evidence."
       ]
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Electricity\": \"electric power works without constraints.\"",
       "correct_answer": "Electric Power works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Electricity removes the need for all constraints in every case.",
-        "Resistance is always equivalent to electric power, regardless of context.",
-        "Electricity Framework is enough even when data contradict the claim."
+        "Series-Parallel Circuits removes the need for all constraints in every case.",
+        "Electricity is always equivalent to electric power, regardless of context.",
+        "Electricity Application is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,8 +67,8 @@
       "question": "In \"Electricity\", which mismatch is incorrect?",
       "correct_answer": "Electricity Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Electric Power - applied without confirming assumptions.",
-        "Ohm Law - interpreted against contradictory data.",
+        "Ohm Law - applied without confirming assumptions.",
+        "Electric Power - interpreted against contradictory data.",
         "Electricity - concluded before checking consistency."
       ]
     },
@@ -91,8 +91,8 @@
       "question": "Which inference is most rigorous for Electricity inference in \"Electricity\"?",
       "correct_answer": "The inference that links Electricity inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Electricity without checking relevance.",
-        "An inference that cites series-parallel circuits but skips logical steps.",
+        "An inference that substitutes series-parallel circuits without checking relevance.",
+        "An inference that cites Electricity application but skips logical steps.",
         "An inference that repeats Ohm law without interpretation."
       ]
     },
