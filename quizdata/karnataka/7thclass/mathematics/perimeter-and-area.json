@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which statement is most accurate about conceptual understanding?",
+      "correct_answer": "Conceptual Understanding is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Perimeter And Area Inference can replace all chapter logic without assumptions.",
+        "Perimeter And Area Framework is valid only if core conditions are ignored.",
+        "Error Analysis is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "A learner applies application logic in a new problem from \"Perimeter and Area\". What is the best first step?",
+      "correct_answer": "Define conditions, apply application logic stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from conceptual understanding and skip checking constraints.",
+        "Use Perimeter and Area framework as a shortcut and avoid interpretation.",
+        "Pick error analysis by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "Which option shows a valid example of error analysis in \"Perimeter and Area\"?",
+      "correct_answer": "An example where error analysis is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Perimeter and Area inference is used without relevance to chapter context.",
+        "An example where Perimeter and Area application is memorised but not applied logically.",
+        "An example where Perimeter and Area is stated without evidence."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "Choose the most defensible correction for this claim in \"Perimeter and Area\": \"multi-step reasoning works without constraints.\"",
+      "correct_answer": "Multi-Step Reasoning works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Perimeter And Area Framework removes the need for all constraints in every case.",
+        "Perimeter And Area Application is always equivalent to multi-step reasoning, regardless of context.",
+        "Perimeter And Area is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "Assertion-Reason in \"Perimeter and Area\": Assertion: Perimeter and Area is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which mismatch is incorrect?",
+      "correct_answer": "Perimeter And Area Framework - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Application Logic - applied without confirming assumptions.",
+        "Multi-Step Reasoning - interpreted against contradictory data.",
+        "Error Analysis - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "Which interpretation is strongest when Perimeter and Area application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "Which inference is most rigorous for Perimeter and Area inference in \"Perimeter and Area\"?",
+      "correct_answer": "The inference that links Perimeter and Area inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes conceptual understanding without checking relevance.",
+        "An inference that cites Perimeter and Area framework but skips logical steps.",
+        "An inference that repeats multi-step reasoning without interpretation."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 9)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 10)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 11)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 12)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 13)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 14)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 15)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 16)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 17)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 18)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 19)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 20)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 21)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 22)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 23)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 24)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 25)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 26)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 27)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 28)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply Perimeter and Area stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area framework using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply Perimeter and Area framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area application using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Perimeter and Area application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies Perimeter and Area inference using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Perimeter and Area inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "question": "In \"Perimeter and Area\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

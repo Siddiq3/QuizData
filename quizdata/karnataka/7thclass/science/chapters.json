@@ -1,0 +1,112 @@
+{
+  "results": [
+    {
+      "subject": "Science",
+      "chapter": "Nutrition in Plants",
+      "slug": "nutrition-in-plants",
+      "file": "nutrition-in-plants.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Nutrition in Animals",
+      "slug": "nutrition-in-animals",
+      "file": "nutrition-in-animals.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Fibre to Fabric",
+      "slug": "fibre-to-fabric",
+      "file": "fibre-to-fabric.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Heat",
+      "slug": "heat",
+      "file": "heat.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "slug": "acids-bases-and-salts",
+      "file": "acids-bases-and-salts.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Physical and Chemical Changes",
+      "slug": "physical-and-chemical-changes",
+      "file": "physical-and-chemical-changes.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Weather Climate and Adaptations of Animals",
+      "slug": "weather-climate-and-adaptations-of-animals",
+      "file": "weather-climate-and-adaptations-of-animals.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Winds Storms and Cyclones",
+      "slug": "winds-storms-and-cyclones",
+      "file": "winds-storms-and-cyclones.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Soil",
+      "slug": "soil",
+      "file": "soil.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Respiration in Organisms",
+      "slug": "respiration-in-organisms",
+      "file": "respiration-in-organisms.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Transportation in Animals and Plants",
+      "slug": "transportation-in-animals-and-plants",
+      "file": "transportation-in-animals-and-plants.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Reproduction in Plants",
+      "slug": "reproduction-in-plants",
+      "file": "reproduction-in-plants.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Motion and Time",
+      "slug": "motion-and-time",
+      "file": "motion-and-time.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Electric Current and Its Effects",
+      "slug": "electric-current-and-its-effects",
+      "file": "electric-current-and-its-effects.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Light",
+      "slug": "light",
+      "file": "light.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Water A Precious Resource",
+      "slug": "water-a-precious-resource",
+      "file": "water-a-precious-resource.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Forests Our Lifeline",
+      "slug": "forests-our-lifeline",
+      "file": "forests-our-lifeline.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Wastewater Story",
+      "slug": "wastewater-story",
+      "file": "wastewater-story.json"
+    }
+  ]
+}

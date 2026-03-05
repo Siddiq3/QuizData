@@ -1,0 +1,94 @@
+{
+  "results": [
+    {
+      "subject": "Mathematics",
+      "chapter": "Number Systems",
+      "slug": "number-systems",
+      "file": "number-systems.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "slug": "polynomials",
+      "file": "polynomials.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "slug": "coordinate-geometry",
+      "file": "coordinate-geometry.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Linear Equations in Two Variables",
+      "slug": "linear-equations-in-two-variables",
+      "file": "linear-equations-in-two-variables.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Introduction to Euclids Geometry",
+      "slug": "introduction-to-euclids-geometry",
+      "file": "introduction-to-euclids-geometry.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Lines and Angles",
+      "slug": "lines-and-angles",
+      "file": "lines-and-angles.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Triangles",
+      "slug": "triangles",
+      "file": "triangles.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Quadrilaterals",
+      "slug": "quadrilaterals",
+      "file": "quadrilaterals.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Areas of Parallelograms and Triangles",
+      "slug": "areas-of-parallelograms-and-triangles",
+      "file": "areas-of-parallelograms-and-triangles.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Circles",
+      "slug": "circles",
+      "file": "circles.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Constructions",
+      "slug": "constructions",
+      "file": "constructions.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Herons Formula",
+      "slug": "herons-formula",
+      "file": "herons-formula.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Surface Areas and Volumes",
+      "slug": "surface-areas-and-volumes",
+      "file": "surface-areas-and-volumes.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "slug": "statistics",
+      "file": "statistics.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "slug": "probability",
+      "file": "probability.json"
+    }
+  ]
+}

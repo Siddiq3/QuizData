@@ -1,0 +1,112 @@
+{
+  "results": [
+    {
+      "subject": "Science",
+      "chapter": "Crop Production and Management",
+      "slug": "crop-production-and-management",
+      "file": "crop-production-and-management.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Microorganisms Friend and Foe",
+      "slug": "microorganisms-friend-and-foe",
+      "file": "microorganisms-friend-and-foe.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Synthetic Fibres and Plastics",
+      "slug": "synthetic-fibres-and-plastics",
+      "file": "synthetic-fibres-and-plastics.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Materials Metals and Non Metals",
+      "slug": "materials-metals-and-non-metals",
+      "file": "materials-metals-and-non-metals.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Coal and Petroleum",
+      "slug": "coal-and-petroleum",
+      "file": "coal-and-petroleum.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Combustion and Flame",
+      "slug": "combustion-and-flame",
+      "file": "combustion-and-flame.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Conservation of Plants and Animals",
+      "slug": "conservation-of-plants-and-animals",
+      "file": "conservation-of-plants-and-animals.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Cell Structure and Functions",
+      "slug": "cell-structure-and-functions",
+      "file": "cell-structure-and-functions.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Reproduction in Animals",
+      "slug": "reproduction-in-animals",
+      "file": "reproduction-in-animals.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Reaching the Age of Adolescence",
+      "slug": "reaching-the-age-of-adolescence",
+      "file": "reaching-the-age-of-adolescence.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Force and Pressure",
+      "slug": "force-and-pressure",
+      "file": "force-and-pressure.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Friction",
+      "slug": "friction",
+      "file": "friction.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Sound",
+      "slug": "sound",
+      "file": "sound.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Chemical Effects of Electric Current",
+      "slug": "chemical-effects-of-electric-current",
+      "file": "chemical-effects-of-electric-current.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Some Natural Phenomena",
+      "slug": "some-natural-phenomena",
+      "file": "some-natural-phenomena.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Light",
+      "slug": "light",
+      "file": "light.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Stars and the Solar System",
+      "slug": "stars-and-the-solar-system",
+      "file": "stars-and-the-solar-system.json"
+    },
+    {
+      "subject": "Science",
+      "chapter": "Pollution of Air and Water",
+      "slug": "pollution-of-air-and-water",
+      "file": "pollution-of-air-and-water.json"
+    }
+  ]
+}

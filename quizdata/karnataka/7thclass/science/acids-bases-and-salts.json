@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which statement is most accurate about pH scale?",
+      "correct_answer": "Ph Scale is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Basicity can replace all chapter logic without assumptions.",
+        "Neutralisation is valid only if core conditions are ignored.",
+        "Acids Bases And Salts Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "A learner applies neutralisation in a new problem from \"Acids Bases and Salts\". What is the best first step?",
+      "correct_answer": "Define conditions, apply neutralisation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from pH scale and skip checking constraints.",
+        "Use common salt as a shortcut and avoid interpretation.",
+        "Pick base strength by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Which option shows a valid example of indicators in \"Acids Bases and Salts\"?",
+      "correct_answer": "An example where indicators is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where alkalis is used without relevance to chapter context.",
+        "An example where base strength is memorised but not applied logically.",
+        "An example where soap reaction is stated without evidence."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Choose the most defensible correction for this claim in \"Acids Bases and Salts\": \"acidic oxides works without constraints.\"",
+      "correct_answer": "Acidic Oxides works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Crystallisation removes the need for all constraints in every case.",
+        "Acids Bases And Salts Application is always equivalent to acidic oxides, regardless of context.",
+        "Indicators is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Assertion-Reason in \"Acids Bases and Salts\": Assertion: alkalis is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which mismatch is incorrect?",
+      "correct_answer": "Basicity - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Acids Bases And Salts - applied without confirming assumptions.",
+        "Acids Bases And Salts Application - interpreted against contradictory data.",
+        "Crystallisation - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Which interpretation is strongest when soap reaction and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Which inference is most rigorous for base strength in \"Acids Bases and Salts\"?",
+      "correct_answer": "The inference that links base strength to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes soap reaction without checking relevance.",
+        "An inference that cites acidic oxides but skips logical steps.",
+        "An inference that repeats salt hydrolysis without interpretation."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which statement is most accurate about salt hydrolysis?",
+      "correct_answer": "Salt Hydrolysis is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Acids Bases And Salts Framework can replace all chapter logic without assumptions.",
+        "Soap Reaction is valid only if core conditions are ignored.",
+        "Indicators is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "A learner applies crystallisation in a new problem from \"Acids Bases and Salts\". What is the best first step?",
+      "correct_answer": "Define conditions, apply crystallisation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from baking soda and skip checking constraints.",
+        "Use base strength as a shortcut and avoid interpretation.",
+        "Pick Acids Bases and Salts by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Which option shows a valid example of common salt in \"Acids Bases and Salts\"?",
+      "correct_answer": "An example where common salt is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where indicators is used without relevance to chapter context.",
+        "An example where pH scale is memorised but not applied logically.",
+        "An example where Acids Bases and Salts inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Choose the most defensible correction for this claim in \"Acids Bases and Salts\": \"baking soda works without constraints.\"",
+      "correct_answer": "Baking Soda works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Ph Scale removes the need for all constraints in every case.",
+        "Crystallisation is always equivalent to baking soda, regardless of context.",
+        "Neutralisation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Assertion-Reason in \"Acids Bases and Salts\": Assertion: Acids Bases and Salts is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Which interpretation is strongest when Acids Bases and Salts application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "Which inference is most rigorous for Acids Bases and Salts inference in \"Acids Bases and Salts\"?",
+      "correct_answer": "The inference that links Acids Bases and Salts inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes basicity without checking relevance.",
+        "An inference that cites Acids Bases and Salts application but skips logical steps.",
+        "An inference that repeats soap reaction without interpretation."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts inference using correct assumptions, evidence, and verification? (Practice Set 16)",
+      "correct_answer": "Apply Acids Bases and Salts inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies pH scale using correct assumptions, evidence, and verification? (Practice Set 17)",
+      "correct_answer": "Apply pH scale stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies neutralisation using correct assumptions, evidence, and verification? (Practice Set 18)",
+      "correct_answer": "Apply neutralisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies indicators using correct assumptions, evidence, and verification? (Practice Set 19)",
+      "correct_answer": "Apply indicators stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies acidic oxides using correct assumptions, evidence, and verification? (Practice Set 20)",
+      "correct_answer": "Apply acidic oxides stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies alkalis using correct assumptions, evidence, and verification? (Practice Set 21)",
+      "correct_answer": "Apply alkalis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies basicity using correct assumptions, evidence, and verification? (Practice Set 22)",
+      "correct_answer": "Apply basicity stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies soap reaction using correct assumptions, evidence, and verification? (Practice Set 23)",
+      "correct_answer": "Apply soap reaction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies base strength using correct assumptions, evidence, and verification? (Practice Set 24)",
+      "correct_answer": "Apply base strength stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies salt hydrolysis using correct assumptions, evidence, and verification? (Practice Set 25)",
+      "correct_answer": "Apply salt hydrolysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies crystallisation using correct assumptions, evidence, and verification? (Practice Set 26)",
+      "correct_answer": "Apply crystallisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies common salt using correct assumptions, evidence, and verification? (Practice Set 27)",
+      "correct_answer": "Apply common salt stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies baking soda using correct assumptions, evidence, and verification? (Practice Set 28)",
+      "correct_answer": "Apply baking soda stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply Acids Bases and Salts stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts framework using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply Acids Bases and Salts framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts application using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply Acids Bases and Salts application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts inference using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply Acids Bases and Salts inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies pH scale using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply pH scale stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies neutralisation using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply neutralisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies indicators using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply indicators stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies acidic oxides using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply acidic oxides stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies alkalis using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply alkalis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies basicity using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply basicity stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies soap reaction using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply soap reaction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies base strength using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply base strength stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies salt hydrolysis using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply salt hydrolysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies crystallisation using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply crystallisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies common salt using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply common salt stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies baking soda using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply baking soda stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply Acids Bases and Salts stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts framework using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply Acids Bases and Salts framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts application using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply Acids Bases and Salts application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts inference using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply Acids Bases and Salts inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies pH scale using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply pH scale stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies neutralisation using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply neutralisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies indicators using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply indicators stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies acidic oxides using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply acidic oxides stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies alkalis using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply alkalis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies basicity using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply basicity stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies soap reaction using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply soap reaction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies base strength using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply base strength stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies salt hydrolysis using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply salt hydrolysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies crystallisation using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply crystallisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies common salt using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply common salt stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies baking soda using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply baking soda stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply Acids Bases and Salts stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts framework using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply Acids Bases and Salts framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts application using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply Acids Bases and Salts application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts inference using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply Acids Bases and Salts inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies pH scale using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply pH scale stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies neutralisation using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply neutralisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies indicators using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply indicators stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies acidic oxides using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply acidic oxides stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies alkalis using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply alkalis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies basicity using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply basicity stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies soap reaction using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply soap reaction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies base strength using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply base strength stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies salt hydrolysis using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply salt hydrolysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies crystallisation using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply crystallisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies common salt using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply common salt stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies baking soda using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply baking soda stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply Acids Bases and Salts stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts framework using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply Acids Bases and Salts framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts application using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply Acids Bases and Salts application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts inference using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply Acids Bases and Salts inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies pH scale using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply pH scale stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies neutralisation using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply neutralisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies indicators using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply indicators stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies acidic oxides using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply acidic oxides stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies alkalis using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply alkalis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies basicity using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply basicity stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies soap reaction using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply soap reaction stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies base strength using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply base strength stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies salt hydrolysis using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply salt hydrolysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies crystallisation using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply crystallisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies common salt using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply common salt stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies baking soda using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply baking soda stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply Acids Bases and Salts stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts framework using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply Acids Bases and Salts framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts application using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Acids Bases and Salts application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies Acids Bases and Salts inference using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Acids Bases and Salts inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies pH scale using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply pH scale stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies neutralisation using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply neutralisation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies indicators using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply indicators stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Science",
+      "subject": "Science",
+      "chapter": "Acids Bases and Salts",
+      "question": "In \"Acids Bases and Salts\", which response applies acidic oxides using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply acidic oxides stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}
