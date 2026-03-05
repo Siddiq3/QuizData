@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about reaction types?",
+      "correct_answer": "Reaction Types is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding can replace all chapter logic without assumptions.",
+        "Mechanics Framework is valid only if core conditions are ignored.",
+        "Chemical Equilibrium is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies balancing equations in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply balancing equations stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from calculus reasoning and skip checking constraints.",
+        "Use Atomic Structure and Chemical Bonding inference as a shortcut and avoid interpretation.",
+        "Pick mechanics framework by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of oxidation in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where oxidation is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where reduction is used without relevance to chapter context.",
+        "An example where balancing equations is memorised but not applied logically.",
+        "An example where mechanics framework is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"reduction works without constraints.\"",
+      "correct_answer": "Reduction works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Chemical Equilibrium removes the need for all constraints in every case.",
+        "Algebraic Modelling is always equivalent to reduction, regardless of context.",
+        "Atomic Structure And Chemical Bonding Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: algebraic modelling is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which mismatch is incorrect?",
+      "correct_answer": "Calculus Reasoning - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding Inference - applied without confirming assumptions.",
+        "Algebraic Modelling - interpreted against contradictory data.",
+        "Balancing Equations - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when vector interpretation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for mechanics framework in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links mechanics framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes reduction without checking relevance.",
+        "An inference that cites chemical equilibrium but skips logical steps.",
+        "An inference that repeats Atomic Structure and Chemical Bonding framework without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about thermodynamic consistency?",
+      "correct_answer": "Thermodynamic Consistency is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Algebraic Modelling can replace all chapter logic without assumptions.",
+        "Mechanics Framework is valid only if core conditions are ignored.",
+        "Atomic Structure And Chemical Bonding Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies electromagnetic application in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply electromagnetic application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Atomic Structure and Chemical Bonding and skip checking constraints.",
+        "Use calculus reasoning as a shortcut and avoid interpretation.",
+        "Pick mechanics framework by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of chemical equilibrium in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where chemical equilibrium is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where calculus reasoning is used without relevance to chapter context.",
+        "An example where reaction types is memorised but not applied logically.",
+        "An example where Atomic Structure and Chemical Bonding application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"Atomic Structure and Chemical Bonding works without constraints.\"",
+      "correct_answer": "Atomic Structure And Chemical Bonding works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding Application removes the need for all constraints in every case.",
+        "Thermodynamic Consistency is always equivalent to Atomic Structure and Chemical Bonding, regardless of context.",
+        "Atomic Structure And Chemical Bonding Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: Atomic Structure and Chemical Bonding framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when Atomic Structure and Chemical Bonding inference and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for reaction types in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links reaction types to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Atomic Structure and Chemical Bonding without checking relevance.",
+        "An inference that cites reduction but skips logical steps.",
+        "An inference that repeats chemical equilibrium without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about balancing equations?",
+      "correct_answer": "Balancing Equations is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding can replace all chapter logic without assumptions.",
+        "Atomic Structure And Chemical Bonding Application is valid only if core conditions are ignored.",
+        "Reduction is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies oxidation in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply oxidation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from algebraic modelling and skip checking constraints.",
+        "Use Atomic Structure and Chemical Bonding framework as a shortcut and avoid interpretation.",
+        "Pick balancing equations by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of reduction in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where reduction is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where algebraic modelling is used without relevance to chapter context.",
+        "An example where oxidation is memorised but not applied logically.",
+        "An example where Atomic Structure and Chemical Bonding inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"algebraic modelling works without constraints.\"",
+      "correct_answer": "Algebraic Modelling works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Oxidation removes the need for all constraints in every case.",
+        "Atomic Structure And Chemical Bonding Framework is always equivalent to algebraic modelling, regardless of context.",
+        "Reduction is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: calculus reasoning is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when mechanics framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for thermodynamic consistency in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links thermodynamic consistency to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes calculus reasoning without checking relevance.",
+        "An inference that cites oxidation but skips logical steps.",
+        "An inference that repeats algebraic modelling without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about electromagnetic application?",
+      "correct_answer": "Electromagnetic Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Oxidation can replace all chapter logic without assumptions.",
+        "Atomic Structure And Chemical Bonding is valid only if core conditions are ignored.",
+        "Balancing Equations is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies chemical equilibrium in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply chemical equilibrium stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Atomic Structure and Chemical Bonding and skip checking constraints.",
+        "Use reduction as a shortcut and avoid interpretation.",
+        "Pick thermodynamic consistency by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of Atomic Structure and Chemical Bonding in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where Atomic Structure and Chemical Bonding is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where mechanics framework is used without relevance to chapter context.",
+        "An example where chemical equilibrium is memorised but not applied logically.",
+        "An example where oxidation is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"Atomic Structure and Chemical Bonding framework works without constraints.\"",
+      "correct_answer": "Atomic Structure And Chemical Bonding Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Vector Interpretation removes the need for all constraints in every case.",
+        "Atomic Structure And Chemical Bonding Inference is always equivalent to Atomic Structure and Chemical Bonding framework, regardless of context.",
+        "Atomic Structure And Chemical Bonding is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: Atomic Structure and Chemical Bonding application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when reaction types and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for balancing equations in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links balancing equations to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes algebraic modelling without checking relevance.",
+        "An inference that cites Atomic Structure and Chemical Bonding but skips logical steps.",
+        "An inference that repeats Atomic Structure and Chemical Bonding framework without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about oxidation?",
+      "correct_answer": "Oxidation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding Inference can replace all chapter logic without assumptions.",
+        "Calculus Reasoning is valid only if core conditions are ignored.",
+        "Algebraic Modelling is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies reduction in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply reduction stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Atomic Structure and Chemical Bonding inference and skip checking constraints.",
+        "Use vector interpretation as a shortcut and avoid interpretation.",
+        "Pick balancing equations by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of algebraic modelling in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where algebraic modelling is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where calculus reasoning is used without relevance to chapter context.",
+        "An example where Atomic Structure and Chemical Bonding inference is memorised but not applied logically.",
+        "An example where reduction is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"calculus reasoning works without constraints.\"",
+      "correct_answer": "Calculus Reasoning works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Reaction Types removes the need for all constraints in every case.",
+        "Vector Interpretation is always equivalent to calculus reasoning, regardless of context.",
+        "Algebraic Modelling is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: vector interpretation is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when thermodynamic consistency and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for electromagnetic application in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links electromagnetic application to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes thermodynamic consistency without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats reaction types without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about chemical equilibrium?",
+      "correct_answer": "Chemical Equilibrium is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Atomic Structure And Chemical Bonding Inference can replace all chapter logic without assumptions.",
+        "Atomic Structure And Chemical Bonding Application is valid only if core conditions are ignored.",
+        "Reaction Types is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies Atomic Structure and Chemical Bonding in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Atomic Structure and Chemical Bonding stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from mechanics framework and skip checking constraints.",
+        "Use reaction types as a shortcut and avoid interpretation.",
+        "Pick Atomic Structure and Chemical Bonding application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of Atomic Structure and Chemical Bonding framework in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where Atomic Structure and Chemical Bonding framework is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where oxidation is used without relevance to chapter context.",
+        "An example where Atomic Structure and Chemical Bonding is memorised but not applied logically.",
+        "An example where mechanics framework is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"Atomic Structure and Chemical Bonding application works without constraints.\"",
+      "correct_answer": "Atomic Structure And Chemical Bonding Application works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Reaction Types removes the need for all constraints in every case.",
+        "Vector Interpretation is always equivalent to Atomic Structure and Chemical Bonding application, regardless of context.",
+        "Atomic Structure And Chemical Bonding Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: Atomic Structure and Chemical Bonding inference is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when balancing equations and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for oxidation in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links oxidation to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes thermodynamic consistency without checking relevance.",
+        "An inference that cites calculus reasoning but skips logical steps.",
+        "An inference that repeats electromagnetic application without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about reduction?",
+      "correct_answer": "Reduction is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Chemical Equilibrium can replace all chapter logic without assumptions.",
+        "Thermodynamic Consistency is valid only if core conditions are ignored.",
+        "Vector Interpretation is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies algebraic modelling in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply algebraic modelling stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from vector interpretation and skip checking constraints.",
+        "Use balancing equations as a shortcut and avoid interpretation.",
+        "Pick electromagnetic application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of calculus reasoning in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where calculus reasoning is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Atomic Structure and Chemical Bonding is used without relevance to chapter context.",
+        "An example where oxidation is memorised but not applied logically.",
+        "An example where Atomic Structure and Chemical Bonding application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"vector interpretation works without constraints.\"",
+      "correct_answer": "Vector Interpretation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Balancing Equations removes the need for all constraints in every case.",
+        "Algebraic Modelling is always equivalent to vector interpretation, regardless of context.",
+        "Reduction is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: mechanics framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when electromagnetic application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for chemical equilibrium in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links chemical equilibrium to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes thermodynamic consistency without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats Atomic Structure and Chemical Bonding application without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about Atomic Structure and Chemical Bonding?",
+      "correct_answer": "Atomic Structure And Chemical Bonding is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Vector Interpretation can replace all chapter logic without assumptions.",
+        "Mechanics Framework is valid only if core conditions are ignored.",
+        "Oxidation is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies Atomic Structure and Chemical Bonding framework in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Atomic Structure and Chemical Bonding framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from chemical equilibrium and skip checking constraints.",
+        "Use oxidation as a shortcut and avoid interpretation.",
+        "Pick calculus reasoning by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of Atomic Structure and Chemical Bonding application in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where Atomic Structure and Chemical Bonding application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where reaction types is used without relevance to chapter context.",
+        "An example where reduction is memorised but not applied logically.",
+        "An example where electromagnetic application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"Atomic Structure and Chemical Bonding inference works without constraints.\"",
+      "correct_answer": "Atomic Structure And Chemical Bonding Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Algebraic Modelling removes the need for all constraints in every case.",
+        "Calculus Reasoning is always equivalent to Atomic Structure and Chemical Bonding inference, regardless of context.",
+        "Balancing Equations is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: reaction types is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when oxidation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for reduction in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links reduction to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes mechanics framework without checking relevance.",
+        "An inference that cites chemical equilibrium but skips logical steps.",
+        "An inference that repeats thermodynamic consistency without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about algebraic modelling?",
+      "correct_answer": "Algebraic Modelling is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Mechanics Framework can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Atomic Structure And Chemical Bonding is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies calculus reasoning in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply calculus reasoning stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Atomic Structure and Chemical Bonding application and skip checking constraints.",
+        "Use oxidation as a shortcut and avoid interpretation.",
+        "Pick electromagnetic application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of vector interpretation in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where vector interpretation is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where reduction is used without relevance to chapter context.",
+        "An example where thermodynamic consistency is memorised but not applied logically.",
+        "An example where Atomic Structure and Chemical Bonding framework is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"mechanics framework works without constraints.\"",
+      "correct_answer": "Mechanics Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Calculus Reasoning removes the need for all constraints in every case.",
+        "Algebraic Modelling is always equivalent to mechanics framework, regardless of context.",
+        "Reduction is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: thermodynamic consistency is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when chemical equilibrium and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for Atomic Structure and Chemical Bonding in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links Atomic Structure and Chemical Bonding to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes reaction types without checking relevance.",
+        "An inference that cites reduction but skips logical steps.",
+        "An inference that repeats Atomic Structure and Chemical Bonding inference without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about Atomic Structure and Chemical Bonding framework?",
+      "correct_answer": "Atomic Structure And Chemical Bonding Framework is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Balancing Equations can replace all chapter logic without assumptions.",
+        "Atomic Structure And Chemical Bonding Application is valid only if core conditions are ignored.",
+        "Thermodynamic Consistency is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies Atomic Structure and Chemical Bonding application in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Atomic Structure and Chemical Bonding application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from oxidation and skip checking constraints.",
+        "Use Atomic Structure and Chemical Bonding inference as a shortcut and avoid interpretation.",
+        "Pick Atomic Structure and Chemical Bonding by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of Atomic Structure and Chemical Bonding inference in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where Atomic Structure and Chemical Bonding inference is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where reaction types is used without relevance to chapter context.",
+        "An example where calculus reasoning is memorised but not applied logically.",
+        "An example where mechanics framework is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"reaction types works without constraints.\"",
+      "correct_answer": "Reaction Types works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Chemical Equilibrium removes the need for all constraints in every case.",
+        "Calculus Reasoning is always equivalent to reaction types, regardless of context.",
+        "Atomic Structure And Chemical Bonding Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: balancing equations is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when reduction and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for algebraic modelling in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links algebraic modelling to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes thermodynamic consistency without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats electromagnetic application without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about calculus reasoning?",
+      "correct_answer": "Calculus Reasoning is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Thermodynamic Consistency can replace all chapter logic without assumptions.",
+        "Mechanics Framework is valid only if core conditions are ignored.",
+        "Balancing Equations is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies vector interpretation in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply vector interpretation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Atomic Structure and Chemical Bonding inference and skip checking constraints.",
+        "Use Atomic Structure and Chemical Bonding framework as a shortcut and avoid interpretation.",
+        "Pick calculus reasoning by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of mechanics framework in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where mechanics framework is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where balancing equations is used without relevance to chapter context.",
+        "An example where vector interpretation is memorised but not applied logically.",
+        "An example where reduction is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"thermodynamic consistency works without constraints.\"",
+      "correct_answer": "Thermodynamic Consistency works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Electromagnetic Application removes the need for all constraints in every case.",
+        "Reduction is always equivalent to thermodynamic consistency, regardless of context.",
+        "Mechanics Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: electromagnetic application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when Atomic Structure and Chemical Bonding and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for Atomic Structure and Chemical Bonding framework in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links Atomic Structure and Chemical Bonding framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes balancing equations without checking relevance.",
+        "An inference that cites algebraic modelling but skips logical steps.",
+        "An inference that repeats thermodynamic consistency without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about Atomic Structure and Chemical Bonding application?",
+      "correct_answer": "Atomic Structure And Chemical Bonding Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Electromagnetic Application can replace all chapter logic without assumptions.",
+        "Thermodynamic Consistency is valid only if core conditions are ignored.",
+        "Atomic Structure And Chemical Bonding Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies Atomic Structure and Chemical Bonding inference in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Atomic Structure and Chemical Bonding inference stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from oxidation and skip checking constraints.",
+        "Use Atomic Structure and Chemical Bonding framework as a shortcut and avoid interpretation.",
+        "Pick thermodynamic consistency by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of reaction types in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where reaction types is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where vector interpretation is used without relevance to chapter context.",
+        "An example where Atomic Structure and Chemical Bonding application is memorised but not applied logically.",
+        "An example where Atomic Structure and Chemical Bonding is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"balancing equations works without constraints.\"",
+      "correct_answer": "Balancing Equations works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Reaction Types removes the need for all constraints in every case.",
+        "Electromagnetic Application is always equivalent to balancing equations, regardless of context.",
+        "Vector Interpretation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: oxidation is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when algebraic modelling and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for calculus reasoning in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links calculus reasoning to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes electromagnetic application without checking relevance.",
+        "An inference that cites algebraic modelling but skips logical steps.",
+        "An inference that repeats Atomic Structure and Chemical Bonding inference without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about vector interpretation?",
+      "correct_answer": "Vector Interpretation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Reduction can replace all chapter logic without assumptions.",
+        "Electromagnetic Application is valid only if core conditions are ignored.",
+        "Atomic Structure And Chemical Bonding is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies mechanics framework in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply mechanics framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from balancing equations and skip checking constraints.",
+        "Use reaction types as a shortcut and avoid interpretation.",
+        "Pick oxidation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of thermodynamic consistency in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where thermodynamic consistency is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where vector interpretation is used without relevance to chapter context.",
+        "An example where balancing equations is memorised but not applied logically.",
+        "An example where Atomic Structure and Chemical Bonding inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"electromagnetic application works without constraints.\"",
+      "correct_answer": "Electromagnetic Application works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Thermodynamic Consistency removes the need for all constraints in every case.",
+        "Reduction is always equivalent to electromagnetic application, regardless of context.",
+        "Reaction Types is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: chemical equilibrium is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when Atomic Structure and Chemical Bonding framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for Atomic Structure and Chemical Bonding application in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links Atomic Structure and Chemical Bonding application to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes chemical equilibrium without checking relevance.",
+        "An inference that cites algebraic modelling but skips logical steps.",
+        "An inference that repeats calculus reasoning without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about Atomic Structure and Chemical Bonding inference?",
+      "correct_answer": "Atomic Structure And Chemical Bonding Inference is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Reduction can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Atomic Structure And Chemical Bonding Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "A learner applies reaction types in a new problem from \"Atomic Structure and Chemical Bonding\". What is the best first step?",
+      "correct_answer": "Define conditions, apply reaction types stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from reduction and skip checking constraints.",
+        "Use Atomic Structure and Chemical Bonding as a shortcut and avoid interpretation.",
+        "Pick Atomic Structure and Chemical Bonding application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which option shows a valid example of balancing equations in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "An example where balancing equations is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where reaction types is used without relevance to chapter context.",
+        "An example where vector interpretation is memorised but not applied logically.",
+        "An example where Atomic Structure and Chemical Bonding application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Choose the most defensible correction for this claim in \"Atomic Structure and Chemical Bonding\": \"oxidation works without constraints.\"",
+      "correct_answer": "Oxidation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Electromagnetic Application removes the need for all constraints in every case.",
+        "Reaction Types is always equivalent to oxidation, regardless of context.",
+        "Atomic Structure And Chemical Bonding Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Assertion-Reason in \"Atomic Structure and Chemical Bonding\": Assertion: reduction is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which interpretation is strongest when calculus reasoning and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "Which inference is most rigorous for vector interpretation in \"Atomic Structure and Chemical Bonding\"?",
+      "correct_answer": "The inference that links vector interpretation to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Atomic Structure and Chemical Bonding framework without checking relevance.",
+        "An inference that cites balancing equations but skips logical steps.",
+        "An inference that repeats calculus reasoning without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Atomic Structure and Chemical Bonding",
+      "question": "In \"Atomic Structure and Chemical Bonding\", which statement is most accurate about mechanics framework?",
+      "correct_answer": "Mechanics Framework is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Chemical Equilibrium can replace all chapter logic without assumptions.",
+        "Balancing Equations is valid only if core conditions are ignored.",
+        "Calculus Reasoning is a memory cue, not a defensible explanation."
+      ]
+    }
+  ]
+}

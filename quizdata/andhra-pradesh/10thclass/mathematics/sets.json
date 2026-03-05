@@ -4,143 +4,23 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Sets",
-      "question": "If n(A)=22, n(B)=21, n(A\u2229B)=8, find n(A\u222aB).",
-      "correct_answer": "35",
-      "incorrect_answers": [
-        "43",
-        "33",
-        "37"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "For n(A)=22 and n(A\u2229B)=8, n(A\u2212B) equals:",
-      "correct_answer": "14",
-      "incorrect_answers": [
-        "8",
-        "30",
-        "13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(U)=45 and n(A\u222aB)=35, then n((A\u222aB)') is:",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "35",
-        "12",
-        "11"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of elements in power set of a set with 4 elements is:",
+      "question": "In a universal set of 42 elements, n(A)=16, n(B)=12, n(A∩B)=12. Find n(A∪B).",
       "correct_answer": "16",
       "incorrect_answers": [
-        "8",
-        "32",
-        "17"
+        "40",
+        "28",
+        "4"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Sets",
-      "question": "Number of proper subsets of a set with 4 elements is:",
-      "correct_answer": "15",
+      "question": "In a universal set of 32 elements, n(A)=18, n(B)=8, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "21",
       "incorrect_answers": [
-        "16",
-        "4",
-        "14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of subsets containing a particular fixed element in a 4-element set is:",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "16",
-        "4",
-        "7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If A and B are disjoint, n(A)=10, n(B)=7. Then n(A\u222aB)=",
-      "correct_answer": "17",
-      "incorrect_answers": [
-        "70",
-        "3",
-        "-3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(A\u222aB)=35 and n(A\u2229B)=8, elements in exactly one of A or B are:",
-      "correct_answer": "27",
-      "incorrect_answers": [
-        "35",
-        "8",
-        "28"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Given n(A)=15, n(B)=11, n(A\u2229B)=5, find n(B\u2212A).",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "10",
-        "16",
-        "5"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(U)=45 and n(A)=22, then n(A') is:",
-      "correct_answer": "23",
-      "incorrect_answers": [
-        "22",
-        "25",
-        "45"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(A)=24, n(B)=24, n(A\u2229B)=9, find n(A\u222aB).",
-      "correct_answer": "39",
-      "incorrect_answers": [
-        "48",
-        "37",
-        "41"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "For n(A)=24 and n(A\u2229B)=9, n(A\u2212B) equals:",
-      "correct_answer": "15",
-      "incorrect_answers": [
-        "9",
-        "33",
+        "31",
+        "26",
         "16"
       ]
     },
@@ -148,119 +28,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Sets",
-      "question": "If n(U)=50 and n(A\u222aB)=39, then n((A\u222aB)') is:",
-      "correct_answer": "11",
+      "question": "In a universal set of 51 elements, n(A)=24, n(B)=9, n(A∩B)=8. Find n(A∪B).",
+      "correct_answer": "25",
       "incorrect_answers": [
-        "39",
-        "13",
-        "12"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of elements in power set of a set with 5 elements is:",
-      "correct_answer": "32",
-      "incorrect_answers": [
-        "10",
-        "16",
-        "64"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of proper subsets of a set with 5 elements is:",
-      "correct_answer": "31",
-      "incorrect_answers": [
-        "32",
-        "5",
-        "30"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of subsets containing a particular fixed element in a 5-element set is:",
-      "correct_answer": "16",
-      "incorrect_answers": [
-        "32",
-        "5",
-        "15"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If A and B are disjoint, n(A)=11, n(B)=8. Then n(A\u222aB)=",
-      "correct_answer": "19",
-      "incorrect_answers": [
-        "88",
-        "3",
-        "-3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(A\u222aB)=39 and n(A\u2229B)=9, elements in exactly one of A or B are:",
-      "correct_answer": "30",
-      "incorrect_answers": [
-        "39",
-        "9",
-        "31"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Given n(A)=16, n(B)=12, n(A\u2229B)=6, find n(B\u2212A).",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "10",
-        "18",
-        "7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(U)=50 and n(A)=24, then n(A') is:",
-      "correct_answer": "26",
-      "incorrect_answers": [
-        "24",
-        "28",
-        "50"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(A)=26, n(B)=27, n(A\u2229B)=10, find n(A\u222aB).",
-      "correct_answer": "43",
-      "incorrect_answers": [
-        "53",
         "41",
-        "45"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "For n(A)=26 and n(A\u2229B)=10, n(A\u2212B) equals:",
-      "correct_answer": "16",
-      "incorrect_answers": [
-        "10",
-        "36",
+        "33",
         "17"
       ]
     },
@@ -268,47 +40,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Sets",
-      "question": "If n(U)=55 and n(A\u222aB)=43, then n((A\u222aB)') is:",
-      "correct_answer": "12",
+      "question": "In a universal set of 31 elements, n(A)=21, n(B)=20, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "36",
       "incorrect_answers": [
-        "43",
-        "14",
-        "13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of elements in power set of a set with 6 elements is:",
-      "correct_answer": "64",
-      "incorrect_answers": [
-        "12",
-        "32",
-        "128"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of proper subsets of a set with 6 elements is:",
-      "correct_answer": "63",
-      "incorrect_answers": [
-        "64",
-        "6",
-        "62"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of subsets containing a particular fixed element in a 6-element set is:",
-      "correct_answer": "32",
-      "incorrect_answers": [
-        "64",
-        "6",
+        "46",
+        "41",
         "31"
       ]
     },
@@ -316,275 +52,47 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Sets",
-      "question": "If A and B are disjoint, n(A)=12, n(B)=9. Then n(A\u222aB)=",
+      "question": "In a universal set of 30 elements, n(A)=13, n(B)=20, n(A∩B)=11. Find n(A∪B).",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "44",
+        "33",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 36 elements, n(A)=12, n(B)=22, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "38",
+        "34",
+        "26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 49 elements, n(A)=13, n(B)=18, n(A∩B)=10. Find n(A∪B).",
       "correct_answer": "21",
       "incorrect_answers": [
-        "108",
-        "3",
-        "-3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(A\u222aB)=43 and n(A\u2229B)=10, elements in exactly one of A or B are:",
-      "correct_answer": "33",
-      "incorrect_answers": [
-        "43",
-        "10",
-        "34"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Given n(A)=17, n(B)=13, n(A\u2229B)=7, find n(B\u2212A).",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "10",
-        "20",
-        "7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(U)=55 and n(A)=26, then n(A') is:",
-      "correct_answer": "29",
-      "incorrect_answers": [
-        "26",
+        "41",
         "31",
-        "55"
+        "11"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Sets",
-      "question": "If n(A)=28, n(B)=30, n(A\u2229B)=11, find n(A\u222aB).",
-      "correct_answer": "47",
-      "incorrect_answers": [
-        "58",
-        "45",
-        "49"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "For n(A)=28 and n(A\u2229B)=11, n(A\u2212B) equals:",
-      "correct_answer": "17",
-      "incorrect_answers": [
-        "11",
-        "39",
-        "19"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(U)=60 and n(A\u222aB)=47, then n((A\u222aB)') is:",
-      "correct_answer": "13",
-      "incorrect_answers": [
-        "47",
-        "15",
-        "14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of elements in power set of a set with 7 elements is:",
-      "correct_answer": "128",
-      "incorrect_answers": [
-        "14",
-        "64",
-        "256"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of proper subsets of a set with 7 elements is:",
-      "correct_answer": "127",
-      "incorrect_answers": [
-        "128",
-        "7",
-        "126"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of subsets containing a particular fixed element in a 7-element set is:",
-      "correct_answer": "64",
-      "incorrect_answers": [
-        "128",
-        "7",
-        "63"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If A and B are disjoint, n(A)=13, n(B)=10. Then n(A\u222aB)=",
+      "question": "In a universal set of 33 elements, n(A)=15, n(B)=22, n(A∩B)=14. Find n(A∪B).",
       "correct_answer": "23",
       "incorrect_answers": [
-        "130",
-        "3",
-        "-3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(A\u222aB)=47 and n(A\u2229B)=11, elements in exactly one of A or B are:",
-      "correct_answer": "36",
-      "incorrect_answers": [
-        "47",
-        "11",
-        "37"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Given n(A)=18, n(B)=14, n(A\u2229B)=8, find n(B\u2212A).",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "10",
-        "22",
-        "8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(U)=60 and n(A)=28, then n(A') is:",
-      "correct_answer": "32",
-      "incorrect_answers": [
-        "28",
-        "34",
-        "60"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(A)=30, n(B)=33, n(A\u2229B)=12, find n(A\u222aB).",
-      "correct_answer": "51",
-      "incorrect_answers": [
-        "63",
-        "49",
-        "53"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "For n(A)=30 and n(A\u2229B)=12, n(A\u2212B) equals:",
-      "correct_answer": "18",
-      "incorrect_answers": [
-        "12",
-        "42",
-        "21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(U)=65 and n(A\u222aB)=51, then n((A\u222aB)') is:",
-      "correct_answer": "14",
-      "incorrect_answers": [
         "51",
-        "16",
-        "15"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of elements in power set of a set with 8 elements is:",
-      "correct_answer": "256",
-      "incorrect_answers": [
-        "16",
-        "128",
-        "512"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of proper subsets of a set with 8 elements is:",
-      "correct_answer": "255",
-      "incorrect_answers": [
-        "256",
-        "8",
-        "254"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Number of subsets containing a particular fixed element in a 8-element set is:",
-      "correct_answer": "128",
-      "incorrect_answers": [
-        "256",
-        "8",
-        "127"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If A and B are disjoint, n(A)=14, n(B)=11. Then n(A\u222aB)=",
-      "correct_answer": "25",
-      "incorrect_answers": [
-        "154",
-        "3",
-        "-3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "If n(A\u222aB)=51 and n(A\u2229B)=12, elements in exactly one of A or B are:",
-      "correct_answer": "39",
-      "incorrect_answers": [
-        "51",
-        "12",
-        "40"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Sets",
-      "question": "Given n(A)=19, n(B)=15, n(A\u2229B)=9, find n(B\u2212A).",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "10",
-        "24",
+        "37",
         "9"
       ]
     },
@@ -592,12 +100,1104 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Sets",
-      "question": "If n(U)=65 and n(A)=30, then n(A') is:",
-      "correct_answer": "35",
+      "question": "In a universal set of 30 elements, n(A)=23, n(B)=12, n(A∩B)=9. Find n(A∪B).",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "44",
+        "35",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 53 elements, n(A)=13, n(B)=18, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "36",
+        "31",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 52 elements, n(A)=14, n(B)=20, n(A∩B)=13. Find n(A∪B).",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "47",
+        "34",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 34 elements, n(A)=22, n(B)=21, n(A∩B)=21. Find n(A∪B).",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "64",
+        "43",
+        "1"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 41 elements, n(A)=20, n(B)=15, n(A∩B)=12. Find n(A∪B).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "47",
+        "35",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 47 elements, n(A)=11, n(B)=13, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "17",
+      "incorrect_answers": [
+        "31",
+        "24",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 49 elements, n(A)=23, n(B)=11, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "29",
+      "incorrect_answers": [
+        "39",
+        "34",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 38 elements, n(A)=17, n(B)=19, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "31",
+      "incorrect_answers": [
+        "41",
+        "36",
+        "26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 36 elements, n(A)=17, n(B)=18, n(A∩B)=11. Find n(A∪B).",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "46",
+        "35",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 37 elements, n(A)=17, n(B)=16, n(A∩B)=12. Find n(A∪B).",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "45",
+        "33",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 44 elements, n(A)=12, n(B)=8, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "27",
+        "20",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 35 elements, n(A)=23, n(B)=13, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "40",
+        "36",
+        "28"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 58 elements, n(A)=12, n(B)=8, n(A∩B)=8. Find n(A∪B).",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "28",
+        "20",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 50 elements, n(A)=24, n(B)=14, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "34",
+      "incorrect_answers": [
+        "42",
+        "38",
+        "30"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 45 elements, n(A)=23, n(B)=11, n(A∩B)=10. Find n(A∪B).",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "44",
+        "34",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 46 elements, n(A)=20, n(B)=15, n(A∩B)=3. Find n(A∪B).",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "38",
+        "35",
+        "29"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 53 elements, n(A)=23, n(B)=17, n(A∩B)=8. Find n(A∪B).",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "48",
+        "40",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 33 elements, n(A)=12, n(B)=19, n(A∩B)=8. Find n(A∪B).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "39",
+        "31",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 33 elements, n(A)=16, n(B)=11, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "32",
+        "27",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 40 elements, n(A)=10, n(B)=13, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "16",
       "incorrect_answers": [
         "30",
+        "23",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 39 elements, n(A)=14, n(B)=17, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "38",
+        "31",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 45 elements, n(A)=19, n(B)=11, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "34",
+        "30",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 60 elements, n(A)=23, n(B)=16, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "33",
+      "incorrect_answers": [
+        "45",
+        "39",
+        "27"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 52 elements, n(A)=13, n(B)=21, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "27",
+      "incorrect_answers": [
+        "41",
+        "34",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 52 elements, n(A)=21, n(B)=8, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "34",
+        "29",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 55 elements, n(A)=22, n(B)=9, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
         "37",
-        "65"
+        "31",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 50 elements, n(A)=20, n(B)=22, n(A∩B)=12. Find n(A∪B).",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "54",
+        "42",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 42 elements, n(A)=16, n(B)=22, n(A∩B)=8. Find n(A∪B).",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "46",
+        "38",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 38 elements, n(A)=22, n(B)=18, n(A∩B)=14. Find n(A∪B).",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "54",
+        "40",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 49 elements, n(A)=16, n(B)=19, n(A∩B)=8. Find n(A∪B).",
+      "correct_answer": "27",
+      "incorrect_answers": [
+        "43",
+        "35",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 51 elements, n(A)=18, n(B)=21, n(A∩B)=17. Find n(A∪B).",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "56",
+        "39",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 33 elements, n(A)=24, n(B)=18, n(A∩B)=18. Find n(A∪B).",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "60",
+        "42",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 39 elements, n(A)=12, n(B)=11, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "30",
+        "23",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 34 elements, n(A)=17, n(B)=11, n(A∩B)=3. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "31",
+        "28",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 44 elements, n(A)=19, n(B)=15, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "40",
+        "34",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 37 elements, n(A)=13, n(B)=15, n(A∩B)=12. Find n(A∪B).",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "40",
+        "28",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 52 elements, n(A)=10, n(B)=9, n(A∩B)=3. Find n(A∪B).",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "22",
+        "19",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 30 elements, n(A)=15, n(B)=13, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "35",
+        "28",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 31 elements, n(A)=15, n(B)=15, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "34",
+        "30",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 60 elements, n(A)=12, n(B)=12, n(A∩B)=11. Find n(A∪B).",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "35",
+        "24",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 39 elements, n(A)=12, n(B)=20, n(A∩B)=9. Find n(A∪B).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "41",
+        "32",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 32 elements, n(A)=16, n(B)=17, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "27",
+      "incorrect_answers": [
+        "39",
+        "33",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 30 elements, n(A)=25, n(B)=21, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "39",
+      "incorrect_answers": [
+        "53",
+        "46",
+        "32"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 43 elements, n(A)=23, n(B)=12, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "42",
+        "35",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 60 elements, n(A)=24, n(B)=9, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "38",
+        "33",
+        "23"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 32 elements, n(A)=19, n(B)=14, n(A∩B)=14. Find n(A∪B).",
+      "correct_answer": "19",
+      "incorrect_answers": [
+        "47",
+        "33",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 44 elements, n(A)=21, n(B)=9, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "35",
+        "30",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 37 elements, n(A)=16, n(B)=15, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "38",
+        "31",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 47 elements, n(A)=10, n(B)=18, n(A∩B)=3. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "31",
+        "28",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 46 elements, n(A)=25, n(B)=10, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "42",
+        "35",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 52 elements, n(A)=16, n(B)=17, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "40",
+        "33",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 47 elements, n(A)=22, n(B)=11, n(A∩B)=8. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "41",
+        "33",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 55 elements, n(A)=10, n(B)=22, n(A∩B)=9. Find n(A∪B).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "41",
+        "32",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 54 elements, n(A)=21, n(B)=17, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "31",
+      "incorrect_answers": [
+        "45",
+        "38",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 44 elements, n(A)=20, n(B)=14, n(A∩B)=10. Find n(A∪B).",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "44",
+        "34",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 47 elements, n(A)=25, n(B)=22, n(A∩B)=3. Find n(A∪B).",
+      "correct_answer": "44",
+      "incorrect_answers": [
+        "50",
+        "47",
+        "41"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 46 elements, n(A)=13, n(B)=8, n(A∩B)=3. Find n(A∪B).",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "24",
+        "21",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 49 elements, n(A)=19, n(B)=16, n(A∩B)=14. Find n(A∪B).",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "49",
+        "35",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 39 elements, n(A)=15, n(B)=15, n(A∩B)=13. Find n(A∪B).",
+      "correct_answer": "17",
+      "incorrect_answers": [
+        "43",
+        "30",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 59 elements, n(A)=25, n(B)=16, n(A∩B)=8. Find n(A∪B).",
+      "correct_answer": "33",
+      "incorrect_answers": [
+        "49",
+        "41",
+        "25"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 55 elements, n(A)=22, n(B)=16, n(A∩B)=10. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "48",
+        "38",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 55 elements, n(A)=20, n(B)=10, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "35",
+        "30",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 46 elements, n(A)=16, n(B)=9, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "21",
+      "incorrect_answers": [
+        "29",
+        "25",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 44 elements, n(A)=11, n(B)=18, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "33",
+        "29",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 39 elements, n(A)=11, n(B)=8, n(A∩B)=3. Find n(A∪B).",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "22",
+        "19",
+        "13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 59 elements, n(A)=25, n(B)=18, n(A∩B)=13. Find n(A∪B).",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "56",
+        "43",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 36 elements, n(A)=13, n(B)=22, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "40",
+        "35",
+        "25"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 51 elements, n(A)=18, n(B)=16, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "40",
+        "34",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 37 elements, n(A)=13, n(B)=9, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "26",
+        "22",
+        "14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 59 elements, n(A)=25, n(B)=19, n(A∩B)=16. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "60",
+        "44",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 52 elements, n(A)=10, n(B)=18, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "32",
+        "28",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 39 elements, n(A)=22, n(B)=14, n(A∩B)=13. Find n(A∪B).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "49",
+        "36",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 50 elements, n(A)=20, n(B)=12, n(A∩B)=10. Find n(A∪B).",
+      "correct_answer": "22",
+      "incorrect_answers": [
+        "42",
+        "32",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 56 elements, n(A)=17, n(B)=15, n(A∩B)=13. Find n(A∪B).",
+      "correct_answer": "19",
+      "incorrect_answers": [
+        "45",
+        "32",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 54 elements, n(A)=24, n(B)=8, n(A∩B)=7. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "39",
+        "32",
+        "18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 34 elements, n(A)=21, n(B)=18, n(A∩B)=9. Find n(A∪B).",
+      "correct_answer": "30",
+      "incorrect_answers": [
+        "48",
+        "39",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 55 elements, n(A)=13, n(B)=19, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "36",
+        "32",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 60 elements, n(A)=20, n(B)=18, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "32",
+      "incorrect_answers": [
+        "44",
+        "38",
+        "26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 40 elements, n(A)=15, n(B)=18, n(A∩B)=15. Find n(A∪B).",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "48",
+        "33",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 32 elements, n(A)=22, n(B)=10, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "38",
+        "32",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 49 elements, n(A)=13, n(B)=19, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "36",
+        "32",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 58 elements, n(A)=22, n(B)=8, n(A∩B)=5. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "35",
+        "30",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 47 elements, n(A)=21, n(B)=20, n(A∩B)=13. Find n(A∪B).",
+      "correct_answer": "28",
+      "incorrect_answers": [
+        "54",
+        "41",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 32 elements, n(A)=19, n(B)=18, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "31",
+      "incorrect_answers": [
+        "43",
+        "37",
+        "25"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 33 elements, n(A)=23, n(B)=8, n(A∩B)=8. Find n(A∪B).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "39",
+        "31",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 35 elements, n(A)=11, n(B)=15, n(A∩B)=3. Find n(A∪B).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "29",
+        "26",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 45 elements, n(A)=13, n(B)=14, n(A∩B)=12. Find n(A∪B).",
+      "correct_answer": "15",
+      "incorrect_answers": [
+        "39",
+        "27",
+        "3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 43 elements, n(A)=13, n(B)=19, n(A∩B)=3. Find n(A∪B).",
+      "correct_answer": "29",
+      "incorrect_answers": [
+        "35",
+        "32",
+        "26"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 54 elements, n(A)=12, n(B)=15, n(A∩B)=4. Find n(A∪B).",
+      "correct_answer": "23",
+      "incorrect_answers": [
+        "31",
+        "27",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 53 elements, n(A)=19, n(B)=21, n(A∩B)=15. Find n(A∪B).",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "55",
+        "40",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 42 elements, n(A)=10, n(B)=14, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "30",
+        "24",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "question": "In a universal set of 33 elements, n(A)=17, n(B)=18, n(A∩B)=6. Find n(A∪B).",
+      "correct_answer": "29",
+      "incorrect_answers": [
+        "41",
+        "35",
+        "23"
       ]
     }
   ]

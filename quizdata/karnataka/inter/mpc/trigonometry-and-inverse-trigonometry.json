@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about algebraic modelling?",
+      "correct_answer": "Algebraic Modelling is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Chemical Equilibrium can replace all chapter logic without assumptions.",
+        "Mechanics Framework is valid only if core conditions are ignored.",
+        "Calculus Reasoning is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies calculus reasoning in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply calculus reasoning stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Trigonometry and Inverse Trigonometry framework and skip checking constraints.",
+        "Use Trigonometry and Inverse Trigonometry inference as a shortcut and avoid interpretation.",
+        "Pick Trigonometry and Inverse Trigonometry application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of vector interpretation in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where vector interpretation is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where thermodynamic consistency is used without relevance to chapter context.",
+        "An example where chemical equilibrium is memorised but not applied logically.",
+        "An example where mechanics framework is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"mechanics framework works without constraints.\"",
+      "correct_answer": "Mechanics Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Algebraic Modelling removes the need for all constraints in every case.",
+        "Trigonometry And Inverse Trigonometry Framework is always equivalent to mechanics framework, regardless of context.",
+        "Thermodynamic Consistency is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: thermodynamic consistency is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which mismatch is incorrect?",
+      "correct_answer": "Electromagnetic Application - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Mechanics Framework - applied without confirming assumptions.",
+        "Trigonometry And Inverse Trigonometry - interpreted against contradictory data.",
+        "Chemical Equilibrium - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when chemical equilibrium and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for Trigonometry and Inverse Trigonometry in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links Trigonometry and Inverse Trigonometry to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Trigonometry and Inverse Trigonometry framework without checking relevance.",
+        "An inference that cites calculus reasoning but skips logical steps.",
+        "An inference that repeats vector interpretation without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about Trigonometry and Inverse Trigonometry framework?",
+      "correct_answer": "Trigonometry And Inverse Trigonometry Framework is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Trigonometry And Inverse Trigonometry Inference can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Mechanics Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies Trigonometry and Inverse Trigonometry application in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Trigonometry and Inverse Trigonometry application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from algebraic modelling and skip checking constraints.",
+        "Use Trigonometry and Inverse Trigonometry as a shortcut and avoid interpretation.",
+        "Pick thermodynamic consistency by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of Trigonometry and Inverse Trigonometry inference in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where Trigonometry and Inverse Trigonometry inference is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where electromagnetic application is used without relevance to chapter context.",
+        "An example where Trigonometry and Inverse Trigonometry framework is memorised but not applied logically.",
+        "An example where calculus reasoning is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"algebraic modelling works without constraints.\"",
+      "correct_answer": "Algebraic Modelling works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Electromagnetic Application removes the need for all constraints in every case.",
+        "Thermodynamic Consistency is always equivalent to algebraic modelling, regardless of context.",
+        "Trigonometry And Inverse Trigonometry is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: calculus reasoning is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when mechanics framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for thermodynamic consistency in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links thermodynamic consistency to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes electromagnetic application without checking relevance.",
+        "An inference that cites Trigonometry and Inverse Trigonometry but skips logical steps.",
+        "An inference that repeats calculus reasoning without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about electromagnetic application?",
+      "correct_answer": "Electromagnetic Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Thermodynamic Consistency can replace all chapter logic without assumptions.",
+        "Mechanics Framework is valid only if core conditions are ignored.",
+        "Trigonometry And Inverse Trigonometry is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies chemical equilibrium in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply chemical equilibrium stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from vector interpretation and skip checking constraints.",
+        "Use Trigonometry and Inverse Trigonometry application as a shortcut and avoid interpretation.",
+        "Pick Trigonometry and Inverse Trigonometry inference by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of Trigonometry and Inverse Trigonometry in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where Trigonometry and Inverse Trigonometry is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where chemical equilibrium is used without relevance to chapter context.",
+        "An example where algebraic modelling is memorised but not applied logically.",
+        "An example where thermodynamic consistency is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"Trigonometry and Inverse Trigonometry framework works without constraints.\"",
+      "correct_answer": "Trigonometry And Inverse Trigonometry Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Chemical Equilibrium removes the need for all constraints in every case.",
+        "Trigonometry And Inverse Trigonometry Application is always equivalent to Trigonometry and Inverse Trigonometry framework, regardless of context.",
+        "Vector Interpretation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: Trigonometry and Inverse Trigonometry application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when algebraic modelling and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for calculus reasoning in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links calculus reasoning to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes electromagnetic application without checking relevance.",
+        "An inference that cites vector interpretation but skips logical steps.",
+        "An inference that repeats algebraic modelling without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about vector interpretation?",
+      "correct_answer": "Vector Interpretation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Trigonometry And Inverse Trigonometry can replace all chapter logic without assumptions.",
+        "Trigonometry And Inverse Trigonometry Framework is valid only if core conditions are ignored.",
+        "Trigonometry And Inverse Trigonometry Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies mechanics framework in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply mechanics framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from calculus reasoning and skip checking constraints.",
+        "Use Trigonometry and Inverse Trigonometry application as a shortcut and avoid interpretation.",
+        "Pick vector interpretation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of thermodynamic consistency in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where thermodynamic consistency is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Trigonometry and Inverse Trigonometry is used without relevance to chapter context.",
+        "An example where Trigonometry and Inverse Trigonometry framework is memorised but not applied logically.",
+        "An example where Trigonometry and Inverse Trigonometry inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"electromagnetic application works without constraints.\"",
+      "correct_answer": "Electromagnetic Application works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Algebraic Modelling removes the need for all constraints in every case.",
+        "Trigonometry And Inverse Trigonometry Framework is always equivalent to electromagnetic application, regardless of context.",
+        "Trigonometry And Inverse Trigonometry Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: chemical equilibrium is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when Trigonometry and Inverse Trigonometry framework and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for Trigonometry and Inverse Trigonometry application in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links Trigonometry and Inverse Trigonometry application to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes algebraic modelling without checking relevance.",
+        "An inference that cites chemical equilibrium but skips logical steps.",
+        "An inference that repeats Trigonometry and Inverse Trigonometry without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about Trigonometry and Inverse Trigonometry inference?",
+      "correct_answer": "Trigonometry And Inverse Trigonometry Inference is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Trigonometry And Inverse Trigonometry Application can replace all chapter logic without assumptions.",
+        "Vector Interpretation is valid only if core conditions are ignored.",
+        "Thermodynamic Consistency is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies algebraic modelling in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply algebraic modelling stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Trigonometry and Inverse Trigonometry framework and skip checking constraints.",
+        "Use electromagnetic application as a shortcut and avoid interpretation.",
+        "Pick Trigonometry and Inverse Trigonometry inference by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of calculus reasoning in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where calculus reasoning is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where algebraic modelling is used without relevance to chapter context.",
+        "An example where vector interpretation is memorised but not applied logically.",
+        "An example where Trigonometry and Inverse Trigonometry inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"vector interpretation works without constraints.\"",
+      "correct_answer": "Vector Interpretation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mechanics Framework removes the need for all constraints in every case.",
+        "Trigonometry And Inverse Trigonometry Application is always equivalent to vector interpretation, regardless of context.",
+        "Electromagnetic Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: mechanics framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when electromagnetic application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for chemical equilibrium in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links chemical equilibrium to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Trigonometry and Inverse Trigonometry application without checking relevance.",
+        "An inference that cites mechanics framework but skips logical steps.",
+        "An inference that repeats calculus reasoning without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about Trigonometry and Inverse Trigonometry?",
+      "correct_answer": "Trigonometry And Inverse Trigonometry is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Calculus Reasoning can replace all chapter logic without assumptions.",
+        "Thermodynamic Consistency is valid only if core conditions are ignored.",
+        "Chemical Equilibrium is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies Trigonometry and Inverse Trigonometry framework in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Trigonometry and Inverse Trigonometry framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from calculus reasoning and skip checking constraints.",
+        "Use chemical equilibrium as a shortcut and avoid interpretation.",
+        "Pick algebraic modelling by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of Trigonometry and Inverse Trigonometry application in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where Trigonometry and Inverse Trigonometry application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where vector interpretation is used without relevance to chapter context.",
+        "An example where Trigonometry and Inverse Trigonometry framework is memorised but not applied logically.",
+        "An example where thermodynamic consistency is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"Trigonometry and Inverse Trigonometry inference works without constraints.\"",
+      "correct_answer": "Trigonometry And Inverse Trigonometry Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Vector Interpretation removes the need for all constraints in every case.",
+        "Thermodynamic Consistency is always equivalent to Trigonometry and Inverse Trigonometry inference, regardless of context.",
+        "Calculus Reasoning is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: algebraic modelling is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when vector interpretation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for mechanics framework in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links mechanics framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Trigonometry and Inverse Trigonometry without checking relevance.",
+        "An inference that cites algebraic modelling but skips logical steps.",
+        "An inference that repeats chemical equilibrium without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about thermodynamic consistency?",
+      "correct_answer": "Thermodynamic Consistency is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Calculus Reasoning can replace all chapter logic without assumptions.",
+        "Chemical Equilibrium is valid only if core conditions are ignored.",
+        "Electromagnetic Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies electromagnetic application in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply electromagnetic application stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from vector interpretation and skip checking constraints.",
+        "Use Trigonometry and Inverse Trigonometry inference as a shortcut and avoid interpretation.",
+        "Pick Trigonometry and Inverse Trigonometry application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of chemical equilibrium in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where chemical equilibrium is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where calculus reasoning is used without relevance to chapter context.",
+        "An example where Trigonometry and Inverse Trigonometry framework is memorised but not applied logically.",
+        "An example where electromagnetic application is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"Trigonometry and Inverse Trigonometry works without constraints.\"",
+      "correct_answer": "Trigonometry And Inverse Trigonometry works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Trigonometry And Inverse Trigonometry Inference removes the need for all constraints in every case.",
+        "Mechanics Framework is always equivalent to Trigonometry and Inverse Trigonometry, regardless of context.",
+        "Vector Interpretation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: Trigonometry and Inverse Trigonometry framework is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when Trigonometry and Inverse Trigonometry inference and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for algebraic modelling in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links algebraic modelling to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Trigonometry and Inverse Trigonometry without checking relevance.",
+        "An inference that cites calculus reasoning but skips logical steps.",
+        "An inference that repeats thermodynamic consistency without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about calculus reasoning?",
+      "correct_answer": "Calculus Reasoning is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Trigonometry And Inverse Trigonometry can replace all chapter logic without assumptions.",
+        "Trigonometry And Inverse Trigonometry Application is valid only if core conditions are ignored.",
+        "Thermodynamic Consistency is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies vector interpretation in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply vector interpretation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Trigonometry and Inverse Trigonometry application and skip checking constraints.",
+        "Use Trigonometry and Inverse Trigonometry framework as a shortcut and avoid interpretation.",
+        "Pick Trigonometry and Inverse Trigonometry inference by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of mechanics framework in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where mechanics framework is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where thermodynamic consistency is used without relevance to chapter context.",
+        "An example where Trigonometry and Inverse Trigonometry framework is memorised but not applied logically.",
+        "An example where Trigonometry and Inverse Trigonometry inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"thermodynamic consistency works without constraints.\"",
+      "correct_answer": "Thermodynamic Consistency works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Algebraic Modelling removes the need for all constraints in every case.",
+        "Trigonometry And Inverse Trigonometry Application is always equivalent to thermodynamic consistency, regardless of context.",
+        "Vector Interpretation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: electromagnetic application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when Trigonometry and Inverse Trigonometry and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for Trigonometry and Inverse Trigonometry framework in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links Trigonometry and Inverse Trigonometry framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Trigonometry and Inverse Trigonometry inference without checking relevance.",
+        "An inference that cites algebraic modelling but skips logical steps.",
+        "An inference that repeats mechanics framework without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about Trigonometry and Inverse Trigonometry application?",
+      "correct_answer": "Trigonometry And Inverse Trigonometry Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Trigonometry And Inverse Trigonometry Framework can replace all chapter logic without assumptions.",
+        "Trigonometry And Inverse Trigonometry is valid only if core conditions are ignored.",
+        "Calculus Reasoning is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies Trigonometry and Inverse Trigonometry inference in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Trigonometry and Inverse Trigonometry inference stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from chemical equilibrium and skip checking constraints.",
+        "Use Trigonometry and Inverse Trigonometry as a shortcut and avoid interpretation.",
+        "Pick electromagnetic application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of algebraic modelling in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where algebraic modelling is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where mechanics framework is used without relevance to chapter context.",
+        "An example where Trigonometry and Inverse Trigonometry application is memorised but not applied logically.",
+        "An example where Trigonometry and Inverse Trigonometry inference is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"calculus reasoning works without constraints.\"",
+      "correct_answer": "Calculus Reasoning works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Electromagnetic Application removes the need for all constraints in every case.",
+        "Algebraic Modelling is always equivalent to calculus reasoning, regardless of context.",
+        "Mechanics Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: vector interpretation is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when thermodynamic consistency and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for electromagnetic application in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links electromagnetic application to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes algebraic modelling without checking relevance.",
+        "An inference that cites Trigonometry and Inverse Trigonometry application but skips logical steps.",
+        "An inference that repeats mechanics framework without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about chemical equilibrium?",
+      "correct_answer": "Chemical Equilibrium is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Trigonometry And Inverse Trigonometry Inference can replace all chapter logic without assumptions.",
+        "Trigonometry And Inverse Trigonometry is valid only if core conditions are ignored.",
+        "Vector Interpretation is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies Trigonometry and Inverse Trigonometry in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Trigonometry and Inverse Trigonometry stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from thermodynamic consistency and skip checking constraints.",
+        "Use vector interpretation as a shortcut and avoid interpretation.",
+        "Pick Trigonometry and Inverse Trigonometry application by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of Trigonometry and Inverse Trigonometry framework in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where Trigonometry and Inverse Trigonometry framework is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where chemical equilibrium is used without relevance to chapter context.",
+        "An example where mechanics framework is memorised but not applied logically.",
+        "An example where thermodynamic consistency is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"Trigonometry and Inverse Trigonometry application works without constraints.\"",
+      "correct_answer": "Trigonometry And Inverse Trigonometry Application works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Mechanics Framework removes the need for all constraints in every case.",
+        "Trigonometry And Inverse Trigonometry Inference is always equivalent to Trigonometry and Inverse Trigonometry application, regardless of context.",
+        "Electromagnetic Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: Trigonometry and Inverse Trigonometry inference is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when calculus reasoning and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for vector interpretation in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links vector interpretation to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes thermodynamic consistency without checking relevance.",
+        "An inference that cites Trigonometry and Inverse Trigonometry framework but skips logical steps.",
+        "An inference that repeats Trigonometry and Inverse Trigonometry application without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which statement is most accurate about mechanics framework?",
+      "correct_answer": "Mechanics Framework is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Electromagnetic Application can replace all chapter logic without assumptions.",
+        "Thermodynamic Consistency is valid only if core conditions are ignored.",
+        "Chemical Equilibrium is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "A learner applies thermodynamic consistency in a new problem from \"Trigonometry and Inverse Trigonometry\". What is the best first step?",
+      "correct_answer": "Define conditions, apply thermodynamic consistency stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from chemical equilibrium and skip checking constraints.",
+        "Use vector interpretation as a shortcut and avoid interpretation.",
+        "Pick Trigonometry and Inverse Trigonometry inference by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which option shows a valid example of electromagnetic application in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "An example where electromagnetic application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Trigonometry and Inverse Trigonometry framework is used without relevance to chapter context.",
+        "An example where mechanics framework is memorised but not applied logically.",
+        "An example where algebraic modelling is stated without evidence."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Choose the most defensible correction for this claim in \"Trigonometry and Inverse Trigonometry\": \"chemical equilibrium works without constraints.\"",
+      "correct_answer": "Chemical Equilibrium works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Vector Interpretation removes the need for all constraints in every case.",
+        "Thermodynamic Consistency is always equivalent to chemical equilibrium, regardless of context.",
+        "Algebraic Modelling is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Assertion-Reason in \"Trigonometry and Inverse Trigonometry\": Assertion: Trigonometry and Inverse Trigonometry is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which interpretation is strongest when Trigonometry and Inverse Trigonometry application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "Which inference is most rigorous for Trigonometry and Inverse Trigonometry inference in \"Trigonometry and Inverse Trigonometry\"?",
+      "correct_answer": "The inference that links Trigonometry and Inverse Trigonometry inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes chemical equilibrium without checking relevance.",
+        "An inference that cites mechanics framework but skips logical steps.",
+        "An inference that repeats Trigonometry and Inverse Trigonometry without interpretation."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies calculus reasoning using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply calculus reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies vector interpretation using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply vector interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies mechanics framework using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply mechanics framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies thermodynamic consistency using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply thermodynamic consistency stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies electromagnetic application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply electromagnetic application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies chemical equilibrium using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply chemical equilibrium stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies Trigonometry and Inverse Trigonometry using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply Trigonometry and Inverse Trigonometry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies Trigonometry and Inverse Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply Trigonometry and Inverse Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies Trigonometry and Inverse Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply Trigonometry and Inverse Trigonometry application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies Trigonometry and Inverse Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply Trigonometry and Inverse Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies algebraic modelling using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply algebraic modelling stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies calculus reasoning using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply calculus reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies vector interpretation using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply vector interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies mechanics framework using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply mechanics framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies thermodynamic consistency using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply thermodynamic consistency stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies electromagnetic application using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply electromagnetic application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies chemical equilibrium using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply chemical equilibrium stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies Trigonometry and Inverse Trigonometry using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Trigonometry and Inverse Trigonometry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies Trigonometry and Inverse Trigonometry framework using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply Trigonometry and Inverse Trigonometry framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies Trigonometry and Inverse Trigonometry application using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply Trigonometry and Inverse Trigonometry application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies Trigonometry and Inverse Trigonometry inference using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply Trigonometry and Inverse Trigonometry inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "MPC",
+      "subject": "MPC",
+      "chapter": "Trigonometry and Inverse Trigonometry",
+      "question": "In \"Trigonometry and Inverse Trigonometry\", which response applies algebraic modelling using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply algebraic modelling stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

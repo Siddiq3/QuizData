@@ -4,600 +4,1200 @@
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", which concept best matches: small holding farming with high labour input and multiple cropping pressure?",
-      "correct_answer": "Intensive Subsistence Farming",
+      "question": "In \"Agriculture\", which statement is most accurate about cropping pattern?",
+      "correct_answer": "Cropping Pattern is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Commercial Farming",
-        "Cropping Season",
-        "Green Revolution"
+        "Farm Inputs can replace all chapter logic without assumptions.",
+        "Irrigation is valid only if core conditions are ignored.",
+        "Agriculture Application is a memory cue, not a defensible explanation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "A case described as \"densely populated regions cultivate tiny plots intensively to meet family food demand\" is the best example of:",
-      "correct_answer": "Intensive Subsistence Farming",
+      "question": "A learner applies irrigation in a new problem from \"Agriculture\". What is the best first step?",
+      "correct_answer": "Define conditions, apply irrigation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Cropping Season",
-        "Green Revolution",
-        "Commercial Farming"
+        "Start from Agriculture application and skip checking constraints.",
+        "Use food security as a shortcut and avoid interpretation.",
+        "Pick Agriculture inference by intuition and finalise without verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", the term \"Intensive Subsistence Farming\" is most closely associated with:",
-      "correct_answer": "Small holding farming with high labour input and multiple cropping pressure",
+      "question": "Which option shows a valid example of farm inputs in \"Agriculture\"?",
+      "correct_answer": "An example where farm inputs is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "Market oriented farming using capital intensive inputs and modern technology",
-        "Agricultural calendar division into kharif rabi and zaid cycles",
-        "High yielding varieties backed by irrigation fertilisers and institutional support"
+        "An example where Agriculture application is used without relevance to chapter context.",
+        "An example where cropping pattern is memorised but not applied logically.",
+        "An example where Agriculture framework is stated without evidence."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "The immediate policy focus of \"Intensive Subsistence Farming\" is usually:",
-      "correct_answer": "High land use intensity with limited marketable surplus",
+      "question": "Choose the most defensible correction for this claim in \"Agriculture\": \"food security works without constraints.\"",
+      "correct_answer": "Food Security works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Food grain growth with regional disparity concerns",
-        "Season specific production planning",
-        "Higher output geared to profit and market chains"
+        "Irrigation removes the need for all constraints in every case.",
+        "Agriculture Inference is always equivalent to food security, regardless of context.",
+        "Cropping Pattern is enough even when data contradict the claim."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "If an examiner asks for a concept linked to \"high land use intensity with limited marketable surplus\", the most accurate answer is:",
-      "correct_answer": "Intensive Subsistence Farming",
+      "question": "Assertion-Reason in \"Agriculture\": Assertion: Agriculture is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
       "incorrect_answers": [
-        "Green Revolution",
-        "Commercial Farming",
-        "Cropping Season"
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which term correctly completes this statement: Small holding farming with high labour input and multiple cropping pressure.",
-      "correct_answer": "Intensive Subsistence Farming",
+      "question": "In \"Agriculture\", which mismatch is incorrect?",
+      "correct_answer": "Agriculture Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Cropping Season",
-        "Commercial Farming",
-        "Green Revolution"
+        "Cropping Pattern - applied without confirming assumptions.",
+        "Farm Inputs - interpreted against contradictory data.",
+        "Agriculture - concluded before checking consistency."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Choose the correctly matched pair from \"Agriculture\".",
-      "correct_answer": "Intensive Subsistence Farming - high land use intensity with limited marketable surplus",
+      "question": "Which interpretation is strongest when Agriculture application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
       "incorrect_answers": [
-        "Commercial Farming - high land use intensity with limited marketable surplus",
-        "Intensive Subsistence Farming - season specific production planning",
-        "Green Revolution - higher output geared to profit and market chains"
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which of the following is a valid application of \"Intensive Subsistence Farming\"?",
-      "correct_answer": "Densely populated regions cultivate tiny plots intensively to meet family food demand",
+      "question": "Which inference is most rigorous for Agriculture inference in \"Agriculture\"?",
+      "correct_answer": "The inference that links Agriculture inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "Large farms rely on mechanisation seeds fertilisers and contract marketing",
-        "Crop choice shifts with monsoon onset winter moisture and short summer windows",
-        "Wheat and rice yields rise sharply in regions with assured input infrastructure"
+        "An inference that substitutes farm inputs without checking relevance.",
+        "An inference that cites irrigation but skips logical steps.",
+        "An inference that repeats food security without interpretation."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", which concept best matches: market oriented farming using capital intensive inputs and modern technology?",
-      "correct_answer": "Commercial Farming",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 9)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Cropping Season",
-        "Green Revolution",
-        "Minimum Support Price"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "A case described as \"large farms rely on mechanisation seeds fertilisers and contract marketing\" is the best example of:",
-      "correct_answer": "Commercial Farming",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 10)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Green Revolution",
-        "Minimum Support Price",
-        "Cropping Season"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", the term \"Commercial Farming\" is most closely associated with:",
-      "correct_answer": "Market oriented farming using capital intensive inputs and modern technology",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 11)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Agricultural calendar division into kharif rabi and zaid cycles",
-        "High yielding varieties backed by irrigation fertilisers and institutional support",
-        "A pre announced procurement price to protect farmers from sharp price falls"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "The immediate policy focus of \"Commercial Farming\" is usually:",
-      "correct_answer": "Higher output geared to profit and market chains",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 12)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Income stabilisation for selected crop producers",
-        "Food grain growth with regional disparity concerns",
-        "Season specific production planning"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "If an examiner asks for a concept linked to \"higher output geared to profit and market chains\", the most accurate answer is:",
-      "correct_answer": "Commercial Farming",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 13)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Minimum Support Price",
-        "Cropping Season",
-        "Green Revolution"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which term correctly completes this statement: Market oriented farming using capital intensive inputs and modern technology.",
-      "correct_answer": "Commercial Farming",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 14)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Green Revolution",
-        "Cropping Season",
-        "Minimum Support Price"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Choose the correctly matched pair from \"Agriculture\".",
-      "correct_answer": "Commercial Farming - higher output geared to profit and market chains",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 15)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Cropping Season - higher output geared to profit and market chains",
-        "Commercial Farming - food grain growth with regional disparity concerns",
-        "Minimum Support Price - season specific production planning"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which of the following is a valid application of \"Commercial Farming\"?",
-      "correct_answer": "Large farms rely on mechanisation seeds fertilisers and contract marketing",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 16)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Crop choice shifts with monsoon onset winter moisture and short summer windows",
-        "Wheat and rice yields rise sharply in regions with assured input infrastructure",
-        "Government agencies purchase grains when market prices drop below assurance levels"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", which concept best matches: agricultural calendar division into kharif rabi and zaid cycles?",
-      "correct_answer": "Cropping Season",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 17)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Green Revolution",
-        "Minimum Support Price",
-        "Institutional Credit"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "A case described as \"crop choice shifts with monsoon onset winter moisture and short summer windows\" is the best example of:",
-      "correct_answer": "Cropping Season",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 18)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Minimum Support Price",
-        "Institutional Credit",
-        "Green Revolution"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", the term \"Cropping Season\" is most closely associated with:",
-      "correct_answer": "Agricultural calendar division into kharif rabi and zaid cycles",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 19)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "High yielding varieties backed by irrigation fertilisers and institutional support",
-        "A pre announced procurement price to protect farmers from sharp price falls",
-        "Formal farm loans through banks cooperatives and regulated financial channels"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "The immediate policy focus of \"Cropping Season\" is usually:",
-      "correct_answer": "Season specific production planning",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 20)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Reduced dependence on high cost moneylenders",
-        "Income stabilisation for selected crop producers",
-        "Food grain growth with regional disparity concerns"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "If an examiner asks for a concept linked to \"season specific production planning\", the most accurate answer is:",
-      "correct_answer": "Cropping Season",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 21)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Institutional Credit",
-        "Green Revolution",
-        "Minimum Support Price"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which term correctly completes this statement: Agricultural calendar division into kharif rabi and zaid cycles.",
-      "correct_answer": "Cropping Season",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 22)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Minimum Support Price",
-        "Green Revolution",
-        "Institutional Credit"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Choose the correctly matched pair from \"Agriculture\".",
-      "correct_answer": "Cropping Season - season specific production planning",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 23)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Green Revolution - season specific production planning",
-        "Cropping Season - income stabilisation for selected crop producers",
-        "Institutional Credit - food grain growth with regional disparity concerns"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which of the following is a valid application of \"Cropping Season\"?",
-      "correct_answer": "Crop choice shifts with monsoon onset winter moisture and short summer windows",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 24)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Wheat and rice yields rise sharply in regions with assured input infrastructure",
-        "Government agencies purchase grains when market prices drop below assurance levels",
-        "Farmers finance seeds irrigation and machinery through low interest formal borrowing"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", which concept best matches: high yielding varieties backed by irrigation fertilisers and institutional support?",
-      "correct_answer": "Green Revolution",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 25)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Minimum Support Price",
-        "Institutional Credit",
-        "Intensive Subsistence Farming"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "A case described as \"wheat and rice yields rise sharply in regions with assured input infrastructure\" is the best example of:",
-      "correct_answer": "Green Revolution",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 26)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Institutional Credit",
-        "Intensive Subsistence Farming",
-        "Minimum Support Price"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", the term \"Green Revolution\" is most closely associated with:",
-      "correct_answer": "High yielding varieties backed by irrigation fertilisers and institutional support",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 27)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "A pre announced procurement price to protect farmers from sharp price falls",
-        "Formal farm loans through banks cooperatives and regulated financial channels",
-        "Small holding farming with high labour input and multiple cropping pressure"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "The immediate policy focus of \"Green Revolution\" is usually:",
-      "correct_answer": "Food grain growth with regional disparity concerns",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 28)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "High land use intensity with limited marketable surplus",
-        "Reduced dependence on high cost moneylenders",
-        "Income stabilisation for selected crop producers"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "If an examiner asks for a concept linked to \"food grain growth with regional disparity concerns\", the most accurate answer is:",
-      "correct_answer": "Green Revolution",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Intensive Subsistence Farming",
-        "Minimum Support Price",
-        "Institutional Credit"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which term correctly completes this statement: High yielding varieties backed by irrigation fertilisers and institutional support.",
-      "correct_answer": "Green Revolution",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Institutional Credit",
-        "Minimum Support Price",
-        "Intensive Subsistence Farming"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Choose the correctly matched pair from \"Agriculture\".",
-      "correct_answer": "Green Revolution - food grain growth with regional disparity concerns",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Minimum Support Price - food grain growth with regional disparity concerns",
-        "Green Revolution - reduced dependence on high cost moneylenders",
-        "Intensive Subsistence Farming - income stabilisation for selected crop producers"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which of the following is a valid application of \"Green Revolution\"?",
-      "correct_answer": "Wheat and rice yields rise sharply in regions with assured input infrastructure",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Government agencies purchase grains when market prices drop below assurance levels",
-        "Farmers finance seeds irrigation and machinery through low interest formal borrowing",
-        "Densely populated regions cultivate tiny plots intensively to meet family food demand"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", which concept best matches: a pre announced procurement price to protect farmers from sharp price falls?",
-      "correct_answer": "Minimum Support Price",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Institutional Credit",
-        "Intensive Subsistence Farming",
-        "Commercial Farming"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "A case described as \"government agencies purchase grains when market prices drop below assurance levels\" is the best example of:",
-      "correct_answer": "Minimum Support Price",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Intensive Subsistence Farming",
-        "Commercial Farming",
-        "Institutional Credit"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", the term \"Minimum Support Price\" is most closely associated with:",
-      "correct_answer": "A pre announced procurement price to protect farmers from sharp price falls",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Formal farm loans through banks cooperatives and regulated financial channels",
-        "Small holding farming with high labour input and multiple cropping pressure",
-        "Market oriented farming using capital intensive inputs and modern technology"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "The immediate policy focus of \"Minimum Support Price\" is usually:",
-      "correct_answer": "Income stabilisation for selected crop producers",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Higher output geared to profit and market chains",
-        "High land use intensity with limited marketable surplus",
-        "Reduced dependence on high cost moneylenders"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "If an examiner asks for a concept linked to \"income stabilisation for selected crop producers\", the most accurate answer is:",
-      "correct_answer": "Minimum Support Price",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Commercial Farming",
-        "Institutional Credit",
-        "Intensive Subsistence Farming"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which term correctly completes this statement: A pre announced procurement price to protect farmers from sharp price falls.",
-      "correct_answer": "Minimum Support Price",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Intensive Subsistence Farming",
-        "Institutional Credit",
-        "Commercial Farming"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Choose the correctly matched pair from \"Agriculture\".",
-      "correct_answer": "Minimum Support Price - income stabilisation for selected crop producers",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Institutional Credit - income stabilisation for selected crop producers",
-        "Minimum Support Price - high land use intensity with limited marketable surplus",
-        "Commercial Farming - reduced dependence on high cost moneylenders"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which of the following is a valid application of \"Minimum Support Price\"?",
-      "correct_answer": "Government agencies purchase grains when market prices drop below assurance levels",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Farmers finance seeds irrigation and machinery through low interest formal borrowing",
-        "Densely populated regions cultivate tiny plots intensively to meet family food demand",
-        "Large farms rely on mechanisation seeds fertilisers and contract marketing"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", which concept best matches: formal farm loans through banks cooperatives and regulated financial channels?",
-      "correct_answer": "Institutional Credit",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Intensive Subsistence Farming",
-        "Commercial Farming",
-        "Cropping Season"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "A case described as \"farmers finance seeds irrigation and machinery through low interest formal borrowing\" is the best example of:",
-      "correct_answer": "Institutional Credit",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Commercial Farming",
-        "Cropping Season",
-        "Intensive Subsistence Farming"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "In \"Agriculture\", the term \"Institutional Credit\" is most closely associated with:",
-      "correct_answer": "Formal farm loans through banks cooperatives and regulated financial channels",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Small holding farming with high labour input and multiple cropping pressure",
-        "Market oriented farming using capital intensive inputs and modern technology",
-        "Agricultural calendar division into kharif rabi and zaid cycles"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "The immediate policy focus of \"Institutional Credit\" is usually:",
-      "correct_answer": "Reduced dependence on high cost moneylenders",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Season specific production planning",
-        "Higher output geared to profit and market chains",
-        "High land use intensity with limited marketable surplus"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "If an examiner asks for a concept linked to \"reduced dependence on high cost moneylenders\", the most accurate answer is:",
-      "correct_answer": "Institutional Credit",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Cropping Season",
-        "Intensive Subsistence Farming",
-        "Commercial Farming"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which term correctly completes this statement: Formal farm loans through banks cooperatives and regulated financial channels.",
-      "correct_answer": "Institutional Credit",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Commercial Farming",
-        "Intensive Subsistence Farming",
-        "Cropping Season"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Choose the correctly matched pair from \"Agriculture\".",
-      "correct_answer": "Institutional Credit - reduced dependence on high cost moneylenders",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Intensive Subsistence Farming - reduced dependence on high cost moneylenders",
-        "Institutional Credit - higher output geared to profit and market chains",
-        "Cropping Season - high land use intensity with limited marketable surplus"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Which of the following is a valid application of \"Institutional Credit\"?",
-      "correct_answer": "Farmers finance seeds irrigation and machinery through low interest formal borrowing",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Densely populated regions cultivate tiny plots intensively to meet family food demand",
-        "Large farms rely on mechanisation seeds fertilisers and contract marketing",
-        "Crop choice shifts with monsoon onset winter moisture and short summer windows"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "Plantation agriculture differs from subsistence farming mainly because plantations are",
-      "correct_answer": "large estates focused on single cash crops for market processing chains",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "small holdings producing only food grains",
-        "rainfed systems with no hired labour",
-        "collective commons without private management"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Social Studies",
       "subject": "Social Studies",
       "chapter": "Agriculture",
-      "question": "A major challenge of input intensive agriculture is that it can",
-      "correct_answer": "degrade soil and groundwater when chemicals and extraction are excessive",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "eliminate all pest outbreaks permanently",
-        "remove need for crop rotation",
-        "avoid regional inequality in productivity"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply Agriculture stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture framework using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply Agriculture framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture application using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Agriculture application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies Agriculture inference using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Agriculture inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies cropping pattern using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply cropping pattern stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies irrigation using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply irrigation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies farm inputs using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply farm inputs stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Social Studies",
+      "subject": "Social Studies",
+      "chapter": "Agriculture",
+      "question": "In \"Agriculture\", which response applies food security using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply food security stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     }
   ]

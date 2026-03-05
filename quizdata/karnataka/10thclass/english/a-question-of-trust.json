@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which statement is most accurate about theme interpretation?",
+      "correct_answer": "Theme Interpretation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "A Question Of Trust Inference can replace all chapter logic without assumptions.",
+        "Plot Development is valid only if core conditions are ignored.",
+        "Textual Evidence is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "A learner applies character motivation in a new problem from \"A Question of Trust\". What is the best first step?",
+      "correct_answer": "Define conditions, apply character motivation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from tone and mood and skip checking constraints.",
+        "Use dialogue function as a shortcut and avoid interpretation.",
+        "Pick ethical perspective by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Which option shows a valid example of narrative conflict in \"A Question of Trust\"?",
+      "correct_answer": "An example where narrative conflict is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where symbolic meaning is used without relevance to chapter context.",
+        "An example where dialogue function is memorised but not applied logically.",
+        "An example where textual evidence is stated without evidence."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Choose the most defensible correction for this claim in \"A Question of Trust\": \"tone and mood works without constraints.\"",
+      "correct_answer": "Tone And Mood works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Author Viewpoint removes the need for all constraints in every case.",
+        "Textual Evidence is always equivalent to tone and mood, regardless of context.",
+        "Narrative Conflict is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Assertion-Reason in \"A Question of Trust\": Assertion: symbolic meaning is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which mismatch is incorrect?",
+      "correct_answer": "Author Viewpoint - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Contextual Vocabulary - applied without confirming assumptions.",
+        "A Question Of Trust - interpreted against contradictory data.",
+        "Plot Development - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Which interpretation is strongest when textual evidence and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Which inference is most rigorous for critical inference in \"A Question of Trust\"?",
+      "correct_answer": "The inference that links critical inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes plot development without checking relevance.",
+        "An inference that cites A Question of Trust application but skips logical steps.",
+        "An inference that repeats symbolic meaning without interpretation."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which statement is most accurate about contextual vocabulary?",
+      "correct_answer": "Contextual Vocabulary is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Ethical Perspective can replace all chapter logic without assumptions.",
+        "Textual Evidence is valid only if core conditions are ignored.",
+        "Symbolic Meaning is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "A learner applies dialogue function in a new problem from \"A Question of Trust\". What is the best first step?",
+      "correct_answer": "Define conditions, apply dialogue function stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from symbolic meaning and skip checking constraints.",
+        "Use textual evidence as a shortcut and avoid interpretation.",
+        "Pick A Question of Trust inference by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Which option shows a valid example of plot development in \"A Question of Trust\"?",
+      "correct_answer": "An example where plot development is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where A Question of Trust application is used without relevance to chapter context.",
+        "An example where contextual vocabulary is memorised but not applied logically.",
+        "An example where narrative conflict is stated without evidence."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Choose the most defensible correction for this claim in \"A Question of Trust\": \"ethical perspective works without constraints.\"",
+      "correct_answer": "Ethical Perspective works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Theme Interpretation removes the need for all constraints in every case.",
+        "Symbolic Meaning is always equivalent to ethical perspective, regardless of context.",
+        "A Question Of Trust Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Assertion-Reason in \"A Question of Trust\": Assertion: A Question of Trust is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Which interpretation is strongest when A Question of Trust application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "Which inference is most rigorous for A Question of Trust inference in \"A Question of Trust\"?",
+      "correct_answer": "The inference that links A Question of Trust inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes ethical perspective without checking relevance.",
+        "An inference that cites author viewpoint but skips logical steps.",
+        "An inference that repeats contextual vocabulary without interpretation."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust inference using correct assumptions, evidence, and verification? (Practice Set 16)",
+      "correct_answer": "Apply A Question of Trust inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies theme interpretation using correct assumptions, evidence, and verification? (Practice Set 17)",
+      "correct_answer": "Apply theme interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies character motivation using correct assumptions, evidence, and verification? (Practice Set 18)",
+      "correct_answer": "Apply character motivation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies narrative conflict using correct assumptions, evidence, and verification? (Practice Set 19)",
+      "correct_answer": "Apply narrative conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies tone and mood using correct assumptions, evidence, and verification? (Practice Set 20)",
+      "correct_answer": "Apply tone and mood stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies symbolic meaning using correct assumptions, evidence, and verification? (Practice Set 21)",
+      "correct_answer": "Apply symbolic meaning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies author viewpoint using correct assumptions, evidence, and verification? (Practice Set 22)",
+      "correct_answer": "Apply author viewpoint stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies textual evidence using correct assumptions, evidence, and verification? (Practice Set 23)",
+      "correct_answer": "Apply textual evidence stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies critical inference using correct assumptions, evidence, and verification? (Practice Set 24)",
+      "correct_answer": "Apply critical inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies contextual vocabulary using correct assumptions, evidence, and verification? (Practice Set 25)",
+      "correct_answer": "Apply contextual vocabulary stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies dialogue function using correct assumptions, evidence, and verification? (Practice Set 26)",
+      "correct_answer": "Apply dialogue function stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies plot development using correct assumptions, evidence, and verification? (Practice Set 27)",
+      "correct_answer": "Apply plot development stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies ethical perspective using correct assumptions, evidence, and verification? (Practice Set 28)",
+      "correct_answer": "Apply ethical perspective stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply A Question of Trust stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust framework using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply A Question of Trust framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust application using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply A Question of Trust application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust inference using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply A Question of Trust inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies theme interpretation using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply theme interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies character motivation using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply character motivation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies narrative conflict using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply narrative conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies tone and mood using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply tone and mood stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies symbolic meaning using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply symbolic meaning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies author viewpoint using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply author viewpoint stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies textual evidence using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply textual evidence stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies critical inference using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply critical inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies contextual vocabulary using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply contextual vocabulary stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies dialogue function using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply dialogue function stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies plot development using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply plot development stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies ethical perspective using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply ethical perspective stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply A Question of Trust stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust framework using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply A Question of Trust framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust application using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply A Question of Trust application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust inference using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply A Question of Trust inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies theme interpretation using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply theme interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies character motivation using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply character motivation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies narrative conflict using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply narrative conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies tone and mood using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply tone and mood stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies symbolic meaning using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply symbolic meaning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies author viewpoint using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply author viewpoint stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies textual evidence using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply textual evidence stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies critical inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply critical inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies contextual vocabulary using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply contextual vocabulary stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies dialogue function using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply dialogue function stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies plot development using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply plot development stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies ethical perspective using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply ethical perspective stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply A Question of Trust stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust framework using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply A Question of Trust framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust application using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply A Question of Trust application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust inference using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply A Question of Trust inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies theme interpretation using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply theme interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies character motivation using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply character motivation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies narrative conflict using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply narrative conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies tone and mood using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply tone and mood stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies symbolic meaning using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply symbolic meaning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies author viewpoint using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply author viewpoint stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies textual evidence using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply textual evidence stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies critical inference using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply critical inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies contextual vocabulary using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply contextual vocabulary stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies dialogue function using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply dialogue function stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies plot development using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply plot development stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies ethical perspective using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply ethical perspective stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply A Question of Trust stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust framework using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply A Question of Trust framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust application using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply A Question of Trust application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust inference using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply A Question of Trust inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies theme interpretation using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply theme interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies character motivation using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply character motivation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies narrative conflict using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply narrative conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies tone and mood using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply tone and mood stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies symbolic meaning using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply symbolic meaning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies author viewpoint using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply author viewpoint stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies textual evidence using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply textual evidence stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies critical inference using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply critical inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies contextual vocabulary using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply contextual vocabulary stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies dialogue function using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply dialogue function stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies plot development using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply plot development stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies ethical perspective using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply ethical perspective stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply A Question of Trust stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust framework using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply A Question of Trust framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust application using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply A Question of Trust application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies A Question of Trust inference using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply A Question of Trust inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies theme interpretation using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply theme interpretation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies character motivation using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply character motivation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies narrative conflict using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply narrative conflict stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "English",
+      "subject": "English",
+      "chapter": "A Question of Trust",
+      "question": "In \"A Question of Trust\", which response applies tone and mood using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply tone and mood stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

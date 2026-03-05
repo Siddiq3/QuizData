@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "subject": "Kannada",
+      "chapter": "ಉನ್ನತ ಗದ್ಯ ವಿಶ್ಲೇಷಣೆ",
+      "slug": "unnata-gadya-vishleshhane",
+      "file": "unnata-gadya-vishleshhane.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ಉನ್ನತ ಪದ್ಯ ವಿಶ್ಲೇಷಣೆ",
+      "slug": "unnata-padya-vishleshhane",
+      "file": "unnata-padya-vishleshhane.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ವ್ಯಾಕರಣ ಮತ್ತು ಭಾಷಾ ಬಳಕೆ",
+      "slug": "vyakarana-mattu-bhaasha-balake",
+      "file": "vyakarana-mattu-bhaasha-balake.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ಪದಸಂಪತ್ತು ಮತ್ತು ಬಳಕೆ",
+      "slug": "pada-sampattu-mattu-balake",
+      "file": "pada-sampattu-mattu-balake.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ಗಾದೆಗಳು ಮತ್ತು ನುಡಿಗಟ್ಟುಗಳು",
+      "slug": "gaadegalu-mattu-nudigattugalu",
+      "file": "gaadegalu-mattu-nudigattugalu.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ಅನುಚ್ಛೇದ ಬರವಣಿಗೆ",
+      "slug": "anuchchedha-baravanige",
+      "file": "anuchchedha-baravanige.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ಪತ್ರ ಮತ್ತು ಸೂಚನೆ ಬರವಣಿಗೆ",
+      "slug": "patra-mattu-soochane-baravanige",
+      "file": "patra-mattu-soochane-baravanige.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ಸಂವಾದ ಬರವಣಿಗೆ",
+      "slug": "samvaada-baravanige",
+      "file": "samvaada-baravanige.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ಅನುವಾದ ಕೌಶಲ್ಯ",
+      "slug": "anuvaada-kaushalya",
+      "file": "anuvaada-kaushalya.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ವಾಚನ ಗ್ರಹಿಕೆ ಮತ್ತು ವಿಶ್ಲೇಷಣೆ",
+      "slug": "vaachana-grahike-mattu-vishleshhane",
+      "file": "vaachana-grahike-mattu-vishleshhane.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ಸೃಜನಾತ್ಮಕ ಬರವಣಿಗೆ",
+      "slug": "srujanatmaka-baravanige",
+      "file": "srujanatmaka-baravanige.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "ಸಮಗ್ರ ಕನ್ನಡ ಅಭ್ಯಾಸ",
+      "slug": "samagra-kannada-abhyasa",
+      "file": "samagra-kannada-abhyasa.json"
+    }
+  ]
+}

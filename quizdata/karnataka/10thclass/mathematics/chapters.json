@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "slug": "real-numbers",
+      "file": "real-numbers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Sets",
+      "slug": "sets",
+      "file": "sets.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Polynomials",
+      "slug": "polynomials",
+      "file": "polynomials.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Pair of Linear Equations in Two Variables",
+      "slug": "pair-of-linear-equations-in-two-variables",
+      "file": "pair-of-linear-equations-in-two-variables.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "slug": "quadratic-equations",
+      "file": "quadratic-equations.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Progressions",
+      "slug": "progressions",
+      "file": "progressions.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "slug": "coordinate-geometry",
+      "file": "coordinate-geometry.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Similar Triangles",
+      "slug": "similar-triangles",
+      "file": "similar-triangles.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "slug": "tangents-and-secants-to-a-circle",
+      "file": "tangents-and-secants-to-a-circle.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "slug": "mensuration",
+      "file": "mensuration.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "slug": "trigonometry",
+      "file": "trigonometry.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Applications of Trigonometry",
+      "slug": "applications-of-trigonometry",
+      "file": "applications-of-trigonometry.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "slug": "probability",
+      "file": "probability.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Statistics",
+      "slug": "statistics",
+      "file": "statistics.json"
+    }
+  ]
+}

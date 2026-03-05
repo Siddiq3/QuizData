@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which statement is most accurate about natural selection?",
+      "correct_answer": "Natural Selection is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Fossil Evidence can replace all chapter logic without assumptions.",
+        "Genetics And Evolution Inference is valid only if core conditions are ignored.",
+        "Physiological Regulation is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "A learner applies common ancestry in a new problem from \"Genetics and Evolution\". What is the best first step?",
+      "correct_answer": "Define conditions, apply common ancestry stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from physiological regulation and skip checking constraints.",
+        "Use ecological balance as a shortcut and avoid interpretation.",
+        "Pick Genetics and Evolution by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which option shows a valid example of adaptation in \"Genetics and Evolution\"?",
+      "correct_answer": "An example where adaptation is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where cellular process is used without relevance to chapter context.",
+        "An example where Genetics and Evolution inference is memorised but not applied logically.",
+        "An example where Genetics and Evolution application is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Choose the most defensible correction for this claim in \"Genetics and Evolution\": \"fossil evidence works without constraints.\"",
+      "correct_answer": "Fossil Evidence works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Biochemical Pathway removes the need for all constraints in every case.",
+        "Cellular Process is always equivalent to fossil evidence, regardless of context.",
+        "Genetics And Evolution Framework is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Assertion-Reason in \"Genetics and Evolution\": Assertion: cellular process is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which mismatch is incorrect?",
+      "correct_answer": "Physiological Regulation - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Ecological Balance - applied without confirming assumptions.",
+        "Genetics And Evolution Inference - interpreted against contradictory data.",
+        "Genetics And Evolution - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which interpretation is strongest when genetic inheritance and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which inference is most rigorous for ecological balance in \"Genetics and Evolution\"?",
+      "correct_answer": "The inference that links ecological balance to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes genetic inheritance without checking relevance.",
+        "An inference that cites Genetics and Evolution inference but skips logical steps.",
+        "An inference that repeats physiological regulation without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which statement is most accurate about biochemical pathway?",
+      "correct_answer": "Biochemical Pathway is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Genetics And Evolution Inference can replace all chapter logic without assumptions.",
+        "Adaptation is valid only if core conditions are ignored.",
+        "Cellular Process is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "A learner applies organic reaction logic in a new problem from \"Genetics and Evolution\". What is the best first step?",
+      "correct_answer": "Define conditions, apply organic reaction logic stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from adaptation and skip checking constraints.",
+        "Use ecological balance as a shortcut and avoid interpretation.",
+        "Pick cellular process by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which option shows a valid example of Genetics and Evolution in \"Genetics and Evolution\"?",
+      "correct_answer": "An example where Genetics and Evolution is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Genetics and Evolution inference is used without relevance to chapter context.",
+        "An example where adaptation is memorised but not applied logically.",
+        "An example where genetic inheritance is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Choose the most defensible correction for this claim in \"Genetics and Evolution\": \"Genetics and Evolution framework works without constraints.\"",
+      "correct_answer": "Genetics And Evolution Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Ecological Balance removes the need for all constraints in every case.",
+        "Physiological Regulation is always equivalent to Genetics and Evolution framework, regardless of context.",
+        "Fossil Evidence is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Assertion-Reason in \"Genetics and Evolution\": Assertion: Genetics and Evolution application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which interpretation is strongest when natural selection and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which inference is most rigorous for common ancestry in \"Genetics and Evolution\"?",
+      "correct_answer": "The inference that links common ancestry to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes biochemical pathway without checking relevance.",
+        "An inference that cites Genetics and Evolution inference but skips logical steps.",
+        "An inference that repeats cellular process without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which statement is most accurate about adaptation?",
+      "correct_answer": "Adaptation is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Ecological Balance can replace all chapter logic without assumptions.",
+        "Common Ancestry is valid only if core conditions are ignored.",
+        "Cellular Process is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "A learner applies fossil evidence in a new problem from \"Genetics and Evolution\". What is the best first step?",
+      "correct_answer": "Define conditions, apply fossil evidence stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Genetics and Evolution inference and skip checking constraints.",
+        "Use cellular process as a shortcut and avoid interpretation.",
+        "Pick Genetics and Evolution framework by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which option shows a valid example of cellular process in \"Genetics and Evolution\"?",
+      "correct_answer": "An example where cellular process is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Genetics and Evolution inference is used without relevance to chapter context.",
+        "An example where ecological balance is memorised but not applied logically.",
+        "An example where fossil evidence is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Choose the most defensible correction for this claim in \"Genetics and Evolution\": \"physiological regulation works without constraints.\"",
+      "correct_answer": "Physiological Regulation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Cellular Process removes the need for all constraints in every case.",
+        "Genetic Inheritance is always equivalent to physiological regulation, regardless of context.",
+        "Genetics And Evolution is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Assertion-Reason in \"Genetics and Evolution\": Assertion: genetic inheritance is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which interpretation is strongest when biochemical pathway and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which inference is most rigorous for organic reaction logic in \"Genetics and Evolution\"?",
+      "correct_answer": "The inference that links organic reaction logic to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes fossil evidence without checking relevance.",
+        "An inference that cites physiological regulation but skips logical steps.",
+        "An inference that repeats genetic inheritance without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which statement is most accurate about Genetics and Evolution?",
+      "correct_answer": "Genetics And Evolution is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Genetic Inheritance can replace all chapter logic without assumptions.",
+        "Genetics And Evolution Framework is valid only if core conditions are ignored.",
+        "Genetics And Evolution Application is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "A learner applies Genetics and Evolution framework in a new problem from \"Genetics and Evolution\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Genetics and Evolution framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from biochemical pathway and skip checking constraints.",
+        "Use common ancestry as a shortcut and avoid interpretation.",
+        "Pick physiological regulation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which option shows a valid example of Genetics and Evolution application in \"Genetics and Evolution\"?",
+      "correct_answer": "An example where Genetics and Evolution application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where physiological regulation is used without relevance to chapter context.",
+        "An example where Genetics and Evolution inference is memorised but not applied logically.",
+        "An example where natural selection is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Choose the most defensible correction for this claim in \"Genetics and Evolution\": \"Genetics and Evolution inference works without constraints.\"",
+      "correct_answer": "Genetics And Evolution Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Natural Selection removes the need for all constraints in every case.",
+        "Adaptation is always equivalent to Genetics and Evolution inference, regardless of context.",
+        "Ecological Balance is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Assertion-Reason in \"Genetics and Evolution\": Assertion: natural selection is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which interpretation is strongest when adaptation and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which inference is most rigorous for fossil evidence in \"Genetics and Evolution\"?",
+      "correct_answer": "The inference that links fossil evidence to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Genetics and Evolution without checking relevance.",
+        "An inference that cites ecological balance but skips logical steps.",
+        "An inference that repeats Genetics and Evolution application without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which statement is most accurate about cellular process?",
+      "correct_answer": "Cellular Process is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Genetics And Evolution Application can replace all chapter logic without assumptions.",
+        "Natural Selection is valid only if core conditions are ignored.",
+        "Ecological Balance is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "A learner applies physiological regulation in a new problem from \"Genetics and Evolution\". What is the best first step?",
+      "correct_answer": "Define conditions, apply physiological regulation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from cellular process and skip checking constraints.",
+        "Use fossil evidence as a shortcut and avoid interpretation.",
+        "Pick natural selection by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which option shows a valid example of genetic inheritance in \"Genetics and Evolution\"?",
+      "correct_answer": "An example where genetic inheritance is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where fossil evidence is used without relevance to chapter context.",
+        "An example where Genetics and Evolution inference is memorised but not applied logically.",
+        "An example where natural selection is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Choose the most defensible correction for this claim in \"Genetics and Evolution\": \"ecological balance works without constraints.\"",
+      "correct_answer": "Ecological Balance works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Natural Selection removes the need for all constraints in every case.",
+        "Fossil Evidence is always equivalent to ecological balance, regardless of context.",
+        "Adaptation is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Assertion-Reason in \"Genetics and Evolution\": Assertion: biochemical pathway is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which interpretation is strongest when Genetics and Evolution and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which inference is most rigorous for Genetics and Evolution framework in \"Genetics and Evolution\"?",
+      "correct_answer": "The inference that links Genetics and Evolution framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes natural selection without checking relevance.",
+        "An inference that cites biochemical pathway but skips logical steps.",
+        "An inference that repeats Genetics and Evolution application without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which statement is most accurate about Genetics and Evolution application?",
+      "correct_answer": "Genetics And Evolution Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Common Ancestry can replace all chapter logic without assumptions.",
+        "Cellular Process is valid only if core conditions are ignored.",
+        "Ecological Balance is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "A learner applies Genetics and Evolution inference in a new problem from \"Genetics and Evolution\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Genetics and Evolution inference stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from cellular process and skip checking constraints.",
+        "Use ecological balance as a shortcut and avoid interpretation.",
+        "Pick organic reaction logic by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which option shows a valid example of natural selection in \"Genetics and Evolution\"?",
+      "correct_answer": "An example where natural selection is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where physiological regulation is used without relevance to chapter context.",
+        "An example where cellular process is memorised but not applied logically.",
+        "An example where organic reaction logic is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Choose the most defensible correction for this claim in \"Genetics and Evolution\": \"common ancestry works without constraints.\"",
+      "correct_answer": "Common Ancestry works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Fossil Evidence removes the need for all constraints in every case.",
+        "Genetic Inheritance is always equivalent to common ancestry, regardless of context.",
+        "Natural Selection is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Assertion-Reason in \"Genetics and Evolution\": Assertion: adaptation is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which interpretation is strongest when cellular process and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which inference is most rigorous for physiological regulation in \"Genetics and Evolution\"?",
+      "correct_answer": "The inference that links physiological regulation to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes organic reaction logic without checking relevance.",
+        "An inference that cites biochemical pathway but skips logical steps.",
+        "An inference that repeats Genetics and Evolution without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which statement is most accurate about genetic inheritance?",
+      "correct_answer": "Genetic Inheritance is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Genetics And Evolution Framework can replace all chapter logic without assumptions.",
+        "Physiological Regulation is valid only if core conditions are ignored.",
+        "Common Ancestry is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "A learner applies ecological balance in a new problem from \"Genetics and Evolution\". What is the best first step?",
+      "correct_answer": "Define conditions, apply ecological balance stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Genetics and Evolution and skip checking constraints.",
+        "Use adaptation as a shortcut and avoid interpretation.",
+        "Pick natural selection by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which option shows a valid example of biochemical pathway in \"Genetics and Evolution\"?",
+      "correct_answer": "An example where biochemical pathway is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where common ancestry is used without relevance to chapter context.",
+        "An example where physiological regulation is memorised but not applied logically.",
+        "An example where cellular process is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Choose the most defensible correction for this claim in \"Genetics and Evolution\": \"organic reaction logic works without constraints.\"",
+      "correct_answer": "Organic Reaction Logic works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Genetics And Evolution Framework removes the need for all constraints in every case.",
+        "Physiological Regulation is always equivalent to organic reaction logic, regardless of context.",
+        "Genetics And Evolution Inference is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Assertion-Reason in \"Genetics and Evolution\": Assertion: Genetics and Evolution is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which interpretation is strongest when Genetics and Evolution application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "Which inference is most rigorous for Genetics and Evolution inference in \"Genetics and Evolution\"?",
+      "correct_answer": "The inference that links Genetics and Evolution inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Genetics and Evolution framework without checking relevance.",
+        "An inference that cites ecological balance but skips logical steps.",
+        "An inference that repeats genetic inheritance without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply Genetics and Evolution stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply Genetics and Evolution framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply Genetics and Evolution application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply Genetics and Evolution inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies natural selection using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply natural selection stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies common ancestry using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply common ancestry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies adaptation using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply adaptation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies fossil evidence using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply fossil evidence stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply Genetics and Evolution stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution framework using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply Genetics and Evolution framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution application using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Genetics and Evolution application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution inference using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Genetics and Evolution inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies natural selection using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply natural selection stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies common ancestry using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply common ancestry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies adaptation using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply adaptation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies fossil evidence using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply fossil evidence stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply Genetics and Evolution stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution framework using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply Genetics and Evolution framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply Genetics and Evolution application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution inference using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply Genetics and Evolution inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies natural selection using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply natural selection stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies common ancestry using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply common ancestry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies adaptation using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply adaptation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies fossil evidence using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply fossil evidence stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Genetics and Evolution stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution framework using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Genetics and Evolution framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution application using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply Genetics and Evolution application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies Genetics and Evolution inference using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply Genetics and Evolution inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies natural selection using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply natural selection stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Genetics and Evolution",
+      "question": "In \"Genetics and Evolution\", which response applies common ancestry using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply common ancestry stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

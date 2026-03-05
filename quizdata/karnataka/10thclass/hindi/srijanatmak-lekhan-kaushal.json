@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "अध्याय \"सृजनात्मक लेखन कौशल\" के संदर्भ में \"मुख्य विचार\" का सबसे उचित उपयोग कौन-सा है?",
+      "correct_answer": "वह विकल्प जिसमें \"मुख्य विचार\" को प्रसंग, तर्क और पाठ-साक्ष्य के साथ लागू किया गया हो।",
+      "incorrect_answers": [
+        "वह विकल्प जो \"सृजनात्मक लेखन कौशल inference\" को बिना संदर्भ के लागू करता है।",
+        "वह विकल्प जो \"शैली और अभिव्यक्ति\" को रटकर लिखता है, पर तर्क नहीं देता।",
+        "वह विकल्प जो \"संदर्भानुसार शब्द चयन\" कहता है, पर प्रमाण नहीं देता।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"भावार्थ विश्लेषण\" पर आधारित निष्कर्ष निकालते समय पहला आवश्यक कदम क्या है?",
+      "correct_answer": "\"भावार्थ विश्लेषण\" की परिभाषा स्पष्ट कर प्रसंगानुसार पाठ-साक्ष्य की जाँच करना।",
+      "incorrect_answers": [
+        "\"तर्कपूर्ण निष्कर्ष\" चुनकर सीधे निष्कर्ष लिख देना।",
+        "\"सृजनात्मक लेखन कौशल inference\" का प्रयोग कर व्याकरण जाँच बिना उत्तर तय करना।",
+        "\"मुख्य विचार\" को मुख्य मानकर शेष तर्क छोड़ देना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"संदर्भानुसार शब्द चयन\" से जुड़ी त्रुटि-सुधार की सही दिशा कौन-सी है?",
+      "correct_answer": "त्रुटि की पहचान करके \"संदर्भानुसार शब्द चयन\" को अर्थ, शैली और तर्क के साथ पुनर्लेखित करना।",
+      "incorrect_answers": [
+        "\"सृजनात्मक लेखन कौशल inference\" को जोड़कर मूल संदर्भ बदल देना।",
+        "\"व्याकरणिक शुद्धता\" और \"सृजनात्मक लेखन कौशल framework\" मिलाकर बिना साक्ष्य नया अर्थ बना देना।",
+        "त्रुटि को अनदेखा करके केवल शब्द-गणना सुधारना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "Assertion-Reason (अध्याय \"सृजनात्मक लेखन कौशल\"): Assertion: \"वाक्य संरचना\" समझना आवश्यक है। Reason: इससे व्याख्या प्रमाण-आधारित होती है। सही विकल्प चुनिए।",
+      "correct_answer": "Assertion और Reason दोनों सत्य हैं तथा Reason, Assertion का सही समर्थन करता है।",
+      "incorrect_answers": [
+        "Assertion और Reason दोनों सत्य हैं, पर Reason समर्थन नहीं करता।",
+        "Assertion सत्य है, Reason असत्य है।",
+        "Assertion असत्य है, Reason सत्य है।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "अध्याय \"सृजनात्मक लेखन कौशल\" के संदर्भ में \"व्याकरणिक शुद्धता\" का सबसे उचित उपयोग कौन-सा है?",
+      "correct_answer": "वह विकल्प जिसमें \"व्याकरणिक शुद्धता\" को प्रसंग, तर्क और पाठ-साक्ष्य के साथ लागू किया गया हो।",
+      "incorrect_answers": [
+        "वह विकल्प जो \"संदर्भानुसार शब्द चयन\" को बिना संदर्भ के लागू करता है।",
+        "वह विकल्प जो \"पाठ-साक्ष्य का प्रयोग\" को रटकर लिखता है, पर तर्क नहीं देता।",
+        "वह विकल्प जो \"सृजनात्मक लेखन कौशल application\" कहता है, पर प्रमाण नहीं देता।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"शैली और अभिव्यक्ति\" पर आधारित निष्कर्ष निकालते समय पहला आवश्यक कदम क्या है?",
+      "correct_answer": "\"शैली और अभिव्यक्ति\" की परिभाषा स्पष्ट कर प्रसंगानुसार पाठ-साक्ष्य की जाँच करना।",
+      "incorrect_answers": [
+        "\"संदर्भानुसार शब्द चयन\" चुनकर सीधे निष्कर्ष लिख देना।",
+        "\"सृजनात्मक लेखन कौशल application\" का प्रयोग कर व्याकरण जाँच बिना उत्तर तय करना।",
+        "\"अर्थ-छाया की पहचान\" को मुख्य मानकर शेष तर्क छोड़ देना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"तर्कपूर्ण निष्कर्ष\" से जुड़ी त्रुटि-सुधार की सही दिशा कौन-सी है?",
+      "correct_answer": "त्रुटि की पहचान करके \"तर्कपूर्ण निष्कर्ष\" को अर्थ, शैली और तर्क के साथ पुनर्लेखित करना।",
+      "incorrect_answers": [
+        "\"सृजनात्मक लेखन कौशल\" को जोड़कर मूल संदर्भ बदल देना।",
+        "\"शैली और अभिव्यक्ति\" और \"मुख्य विचार\" मिलाकर बिना साक्ष्य नया अर्थ बना देना।",
+        "त्रुटि को अनदेखा करके केवल शब्द-गणना सुधारना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "Assertion-Reason (अध्याय \"सृजनात्मक लेखन कौशल\"): Assertion: \"पाठ-साक्ष्य का प्रयोग\" समझना आवश्यक है। Reason: इससे व्याख्या प्रमाण-आधारित होती है। सही विकल्प चुनिए।",
+      "correct_answer": "Assertion और Reason दोनों सत्य हैं तथा Reason, Assertion का सही समर्थन करता है।",
+      "incorrect_answers": [
+        "Assertion और Reason दोनों सत्य हैं, पर Reason समर्थन नहीं करता।",
+        "Assertion सत्य है, Reason असत्य है।",
+        "Assertion असत्य है, Reason सत्य है।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "अध्याय \"सृजनात्मक लेखन कौशल\" के संदर्भ में \"अर्थ-छाया की पहचान\" का सबसे उचित उपयोग कौन-सा है?",
+      "correct_answer": "वह विकल्प जिसमें \"अर्थ-छाया की पहचान\" को प्रसंग, तर्क और पाठ-साक्ष्य के साथ लागू किया गया हो।",
+      "incorrect_answers": [
+        "वह विकल्प जो \"शैली और अभिव्यक्ति\" को बिना संदर्भ के लागू करता है।",
+        "वह विकल्प जो \"सृजनात्मक लेखन कौशल inference\" को रटकर लिखता है, पर तर्क नहीं देता।",
+        "वह विकल्प जो \"मुख्य विचार\" कहता है, पर प्रमाण नहीं देता।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"आलोचनात्मक व्याख्या\" पर आधारित निष्कर्ष निकालते समय पहला आवश्यक कदम क्या है?",
+      "correct_answer": "\"आलोचनात्मक व्याख्या\" की परिभाषा स्पष्ट कर प्रसंगानुसार पाठ-साक्ष्य की जाँच करना।",
+      "incorrect_answers": [
+        "\"सृजनात्मक लेखन कौशल framework\" चुनकर सीधे निष्कर्ष लिख देना।",
+        "\"शैली और अभिव्यक्ति\" का प्रयोग कर व्याकरण जाँच बिना उत्तर तय करना।",
+        "\"मुख्य विचार\" को मुख्य मानकर शेष तर्क छोड़ देना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"सृजनात्मक लेखन कौशल\" से जुड़ी त्रुटि-सुधार की सही दिशा कौन-सी है?",
+      "correct_answer": "त्रुटि की पहचान करके \"सृजनात्मक लेखन कौशल\" को अर्थ, शैली और तर्क के साथ पुनर्लेखित करना।",
+      "incorrect_answers": [
+        "\"व्याकरणिक शुद्धता\" को जोड़कर मूल संदर्भ बदल देना।",
+        "\"भावार्थ विश्लेषण\" और \"पाठ-साक्ष्य का प्रयोग\" मिलाकर बिना साक्ष्य नया अर्थ बना देना।",
+        "त्रुटि को अनदेखा करके केवल शब्द-गणना सुधारना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "Assertion-Reason (अध्याय \"सृजनात्मक लेखन कौशल\"): Assertion: \"सृजनात्मक लेखन कौशल framework\" समझना आवश्यक है। Reason: इससे व्याख्या प्रमाण-आधारित होती है। सही विकल्प चुनिए।",
+      "correct_answer": "Assertion और Reason दोनों सत्य हैं तथा Reason, Assertion का सही समर्थन करता है।",
+      "incorrect_answers": [
+        "Assertion और Reason दोनों सत्य हैं, पर Reason समर्थन नहीं करता।",
+        "Assertion सत्य है, Reason असत्य है।",
+        "Assertion असत्य है, Reason सत्य है।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "अध्याय \"सृजनात्मक लेखन कौशल\" के संदर्भ में \"सृजनात्मक लेखन कौशल application\" का सबसे उचित उपयोग कौन-सा है?",
+      "correct_answer": "वह विकल्प जिसमें \"सृजनात्मक लेखन कौशल application\" को प्रसंग, तर्क और पाठ-साक्ष्य के साथ लागू किया गया हो।",
+      "incorrect_answers": [
+        "वह विकल्प जो \"तर्कपूर्ण निष्कर्ष\" को बिना संदर्भ के लागू करता है।",
+        "वह विकल्प जो \"सृजनात्मक लेखन कौशल inference\" को रटकर लिखता है, पर तर्क नहीं देता।",
+        "वह विकल्प जो \"शैली और अभिव्यक्ति\" कहता है, पर प्रमाण नहीं देता।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"सृजनात्मक लेखन कौशल inference\" पर आधारित निष्कर्ष निकालते समय पहला आवश्यक कदम क्या है?",
+      "correct_answer": "\"सृजनात्मक लेखन कौशल inference\" की परिभाषा स्पष्ट कर प्रसंगानुसार पाठ-साक्ष्य की जाँच करना।",
+      "incorrect_answers": [
+        "\"मुख्य विचार\" चुनकर सीधे निष्कर्ष लिख देना।",
+        "\"तर्कपूर्ण निष्कर्ष\" का प्रयोग कर व्याकरण जाँच बिना उत्तर तय करना।",
+        "\"सृजनात्मक लेखन कौशल\" को मुख्य मानकर शेष तर्क छोड़ देना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"मुख्य विचार\" से जुड़ी त्रुटि-सुधार की सही दिशा कौन-सी है?",
+      "correct_answer": "त्रुटि की पहचान करके \"मुख्य विचार\" को अर्थ, शैली और तर्क के साथ पुनर्लेखित करना।",
+      "incorrect_answers": [
+        "\"अर्थ-छाया की पहचान\" को जोड़कर मूल संदर्भ बदल देना।",
+        "\"व्याकरणिक शुद्धता\" और \"सृजनात्मक लेखन कौशल\" मिलाकर बिना साक्ष्य नया अर्थ बना देना।",
+        "त्रुटि को अनदेखा करके केवल शब्द-गणना सुधारना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "Assertion-Reason (अध्याय \"सृजनात्मक लेखन कौशल\"): Assertion: \"भावार्थ विश्लेषण\" समझना आवश्यक है। Reason: इससे व्याख्या प्रमाण-आधारित होती है। सही विकल्प चुनिए।",
+      "correct_answer": "Assertion और Reason दोनों सत्य हैं तथा Reason, Assertion का सही समर्थन करता है।",
+      "incorrect_answers": [
+        "Assertion और Reason दोनों सत्य हैं, पर Reason समर्थन नहीं करता।",
+        "Assertion सत्य है, Reason असत्य है।",
+        "Assertion असत्य है, Reason सत्य है।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "अध्याय \"सृजनात्मक लेखन कौशल\" के संदर्भ में \"संदर्भानुसार शब्द चयन\" का सबसे उचित उपयोग कौन-सा है?",
+      "correct_answer": "वह विकल्प जिसमें \"संदर्भानुसार शब्द चयन\" को प्रसंग, तर्क और पाठ-साक्ष्य के साथ लागू किया गया हो।",
+      "incorrect_answers": [
+        "वह विकल्प जो \"अर्थ-छाया की पहचान\" को बिना संदर्भ के लागू करता है।",
+        "वह विकल्प जो \"वाक्य संरचना\" को रटकर लिखता है, पर तर्क नहीं देता।",
+        "वह विकल्प जो \"शैली और अभिव्यक्ति\" कहता है, पर प्रमाण नहीं देता।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"वाक्य संरचना\" पर आधारित निष्कर्ष निकालते समय पहला आवश्यक कदम क्या है?",
+      "correct_answer": "\"वाक्य संरचना\" की परिभाषा स्पष्ट कर प्रसंगानुसार पाठ-साक्ष्य की जाँच करना।",
+      "incorrect_answers": [
+        "\"भावार्थ विश्लेषण\" चुनकर सीधे निष्कर्ष लिख देना।",
+        "\"अर्थ-छाया की पहचान\" का प्रयोग कर व्याकरण जाँच बिना उत्तर तय करना।",
+        "\"सृजनात्मक लेखन कौशल\" को मुख्य मानकर शेष तर्क छोड़ देना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"व्याकरणिक शुद्धता\" से जुड़ी त्रुटि-सुधार की सही दिशा कौन-सी है?",
+      "correct_answer": "त्रुटि की पहचान करके \"व्याकरणिक शुद्धता\" को अर्थ, शैली और तर्क के साथ पुनर्लेखित करना।",
+      "incorrect_answers": [
+        "\"मुख्य विचार\" को जोड़कर मूल संदर्भ बदल देना।",
+        "\"तर्कपूर्ण निष्कर्ष\" और \"सृजनात्मक लेखन कौशल framework\" मिलाकर बिना साक्ष्य नया अर्थ बना देना।",
+        "त्रुटि को अनदेखा करके केवल शब्द-गणना सुधारना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "Assertion-Reason (अध्याय \"सृजनात्मक लेखन कौशल\"): Assertion: \"शैली और अभिव्यक्ति\" समझना आवश्यक है। Reason: इससे व्याख्या प्रमाण-आधारित होती है। सही विकल्प चुनिए।",
+      "correct_answer": "Assertion और Reason दोनों सत्य हैं तथा Reason, Assertion का सही समर्थन करता है।",
+      "incorrect_answers": [
+        "Assertion और Reason दोनों सत्य हैं, पर Reason समर्थन नहीं करता।",
+        "Assertion सत्य है, Reason असत्य है।",
+        "Assertion असत्य है, Reason सत्य है।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "अध्याय \"सृजनात्मक लेखन कौशल\" के संदर्भ में \"तर्कपूर्ण निष्कर्ष\" का सबसे उचित उपयोग कौन-सा है?",
+      "correct_answer": "वह विकल्प जिसमें \"तर्कपूर्ण निष्कर्ष\" को प्रसंग, तर्क और पाठ-साक्ष्य के साथ लागू किया गया हो।",
+      "incorrect_answers": [
+        "वह विकल्प जो \"सृजनात्मक लेखन कौशल framework\" को बिना संदर्भ के लागू करता है।",
+        "वह विकल्प जो \"सृजनात्मक लेखन कौशल application\" को रटकर लिखता है, पर तर्क नहीं देता।",
+        "वह विकल्प जो \"वाक्य संरचना\" कहता है, पर प्रमाण नहीं देता।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"पाठ-साक्ष्य का प्रयोग\" पर आधारित निष्कर्ष निकालते समय पहला आवश्यक कदम क्या है?",
+      "correct_answer": "\"पाठ-साक्ष्य का प्रयोग\" की परिभाषा स्पष्ट कर प्रसंगानुसार पाठ-साक्ष्य की जाँच करना।",
+      "incorrect_answers": [
+        "\"सृजनात्मक लेखन कौशल application\" चुनकर सीधे निष्कर्ष लिख देना।",
+        "\"संदर्भानुसार शब्द चयन\" का प्रयोग कर व्याकरण जाँच बिना उत्तर तय करना।",
+        "\"मुख्य विचार\" को मुख्य मानकर शेष तर्क छोड़ देना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"अर्थ-छाया की पहचान\" से जुड़ी त्रुटि-सुधार की सही दिशा कौन-सी है?",
+      "correct_answer": "त्रुटि की पहचान करके \"अर्थ-छाया की पहचान\" को अर्थ, शैली और तर्क के साथ पुनर्लेखित करना।",
+      "incorrect_answers": [
+        "\"संदर्भानुसार शब्द चयन\" को जोड़कर मूल संदर्भ बदल देना।",
+        "\"सृजनात्मक लेखन कौशल application\" और \"आलोचनात्मक व्याख्या\" मिलाकर बिना साक्ष्य नया अर्थ बना देना।",
+        "त्रुटि को अनदेखा करके केवल शब्द-गणना सुधारना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "Assertion-Reason (अध्याय \"सृजनात्मक लेखन कौशल\"): Assertion: \"आलोचनात्मक व्याख्या\" समझना आवश्यक है। Reason: इससे व्याख्या प्रमाण-आधारित होती है। सही विकल्प चुनिए।",
+      "correct_answer": "Assertion और Reason दोनों सत्य हैं तथा Reason, Assertion का सही समर्थन करता है।",
+      "incorrect_answers": [
+        "Assertion और Reason दोनों सत्य हैं, पर Reason समर्थन नहीं करता।",
+        "Assertion सत्य है, Reason असत्य है।",
+        "Assertion असत्य है, Reason सत्य है।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "अध्याय \"सृजनात्मक लेखन कौशल\" के संदर्भ में \"सृजनात्मक लेखन कौशल\" का सबसे उचित उपयोग कौन-सा है?",
+      "correct_answer": "वह विकल्प जिसमें \"सृजनात्मक लेखन कौशल\" को प्रसंग, तर्क और पाठ-साक्ष्य के साथ लागू किया गया हो।",
+      "incorrect_answers": [
+        "वह विकल्प जो \"आलोचनात्मक व्याख्या\" को बिना संदर्भ के लागू करता है।",
+        "वह विकल्प जो \"पाठ-साक्ष्य का प्रयोग\" को रटकर लिखता है, पर तर्क नहीं देता।",
+        "वह विकल्प जो \"व्याकरणिक शुद्धता\" कहता है, पर प्रमाण नहीं देता।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"सृजनात्मक लेखन कौशल framework\" पर आधारित निष्कर्ष निकालते समय पहला आवश्यक कदम क्या है?",
+      "correct_answer": "\"सृजनात्मक लेखन कौशल framework\" की परिभाषा स्पष्ट कर प्रसंगानुसार पाठ-साक्ष्य की जाँच करना।",
+      "incorrect_answers": [
+        "\"शैली और अभिव्यक्ति\" चुनकर सीधे निष्कर्ष लिख देना।",
+        "\"सृजनात्मक लेखन कौशल inference\" का प्रयोग कर व्याकरण जाँच बिना उत्तर तय करना।",
+        "\"व्याकरणिक शुद्धता\" को मुख्य मानकर शेष तर्क छोड़ देना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "\"सृजनात्मक लेखन कौशल\" में \"सृजनात्मक लेखन कौशल application\" से जुड़ी त्रुटि-सुधार की सही दिशा कौन-सी है?",
+      "correct_answer": "त्रुटि की पहचान करके \"सृजनात्मक लेखन कौशल application\" को अर्थ, शैली और तर्क के साथ पुनर्लेखित करना।",
+      "incorrect_answers": [
+        "\"शैली और अभिव्यक्ति\" को जोड़कर मूल संदर्भ बदल देना।",
+        "\"वाक्य संरचना\" और \"आलोचनात्मक व्याख्या\" मिलाकर बिना साक्ष्य नया अर्थ बना देना।",
+        "त्रुटि को अनदेखा करके केवल शब्द-गणना सुधारना।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "Assertion-Reason (अध्याय \"सृजनात्मक लेखन कौशल\"): Assertion: \"सृजनात्मक लेखन कौशल inference\" समझना आवश्यक है। Reason: इससे व्याख्या प्रमाण-आधारित होती है। सही विकल्प चुनिए।",
+      "correct_answer": "Assertion और Reason दोनों सत्य हैं तथा Reason, Assertion का सही समर्थन करता है।",
+      "incorrect_answers": [
+        "Assertion और Reason दोनों सत्य हैं, पर Reason समर्थन नहीं करता।",
+        "Assertion सत्य है, Reason असत्य है।",
+        "Assertion असत्य है, Reason सत्य है।"
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies मुख्य विचार using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply मुख्य विचार stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies भावार्थ विश्लेषण using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply भावार्थ विश्लेषण stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies संदर्भानुसार शब्द चयन using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply संदर्भानुसार शब्द चयन stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies वाक्य संरचना using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply वाक्य संरचना stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies व्याकरणिक शुद्धता using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply व्याकरणिक शुद्धता stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies शैली और अभिव्यक्ति using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply शैली और अभिव्यक्ति stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies तर्कपूर्ण निष्कर्ष using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply तर्कपूर्ण निष्कर्ष stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies पाठ-साक्ष्य का प्रयोग using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply पाठ-साक्ष्य का प्रयोग stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies अर्थ-छाया की पहचान using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply अर्थ-छाया की पहचान stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies आलोचनात्मक व्याख्या using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply आलोचनात्मक व्याख्या stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल framework using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल application using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल inference using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies मुख्य विचार using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply मुख्य विचार stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies भावार्थ विश्लेषण using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply भावार्थ विश्लेषण stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies संदर्भानुसार शब्द चयन using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply संदर्भानुसार शब्द चयन stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies वाक्य संरचना using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply वाक्य संरचना stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies व्याकरणिक शुद्धता using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply व्याकरणिक शुद्धता stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies शैली और अभिव्यक्ति using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply शैली और अभिव्यक्ति stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies तर्कपूर्ण निष्कर्ष using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply तर्कपूर्ण निष्कर्ष stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies पाठ-साक्ष्य का प्रयोग using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply पाठ-साक्ष्य का प्रयोग stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies अर्थ-छाया की पहचान using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply अर्थ-छाया की पहचान stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies आलोचनात्मक व्याख्या using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply आलोचनात्मक व्याख्या stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies मुख्य विचार using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply मुख्य विचार stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies भावार्थ विश्लेषण using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply भावार्थ विश्लेषण stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies संदर्भानुसार शब्द चयन using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply संदर्भानुसार शब्द चयन stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies वाक्य संरचना using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply वाक्य संरचना stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies व्याकरणिक शुद्धता using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply व्याकरणिक शुद्धता stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies शैली और अभिव्यक्ति using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply शैली और अभिव्यक्ति stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies तर्कपूर्ण निष्कर्ष using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply तर्कपूर्ण निष्कर्ष stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies पाठ-साक्ष्य का प्रयोग using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply पाठ-साक्ष्य का प्रयोग stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies अर्थ-छाया की पहचान using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply अर्थ-छाया की पहचान stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies आलोचनात्मक व्याख्या using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply आलोचनात्मक व्याख्या stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल framework using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल application using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल inference using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies मुख्य विचार using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply मुख्य विचार stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies भावार्थ विश्लेषण using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply भावार्थ विश्लेषण stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies संदर्भानुसार शब्द चयन using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply संदर्भानुसार शब्द चयन stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies वाक्य संरचना using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply वाक्य संरचना stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies व्याकरणिक शुद्धता using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply व्याकरणिक शुद्धता stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies शैली और अभिव्यक्ति using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply शैली और अभिव्यक्ति stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies तर्कपूर्ण निष्कर्ष using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply तर्कपूर्ण निष्कर्ष stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies पाठ-साक्ष्य का प्रयोग using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply पाठ-साक्ष्य का प्रयोग stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies अर्थ-छाया की पहचान using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply अर्थ-छाया की पहचान stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies आलोचनात्मक व्याख्या using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply आलोचनात्मक व्याख्या stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल framework using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल inference using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies मुख्य विचार using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply मुख्य विचार stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies भावार्थ विश्लेषण using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply भावार्थ विश्लेषण stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies संदर्भानुसार शब्द चयन using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply संदर्भानुसार शब्द चयन stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies वाक्य संरचना using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply वाक्य संरचना stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies व्याकरणिक शुद्धता using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply व्याकरणिक शुद्धता stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies शैली और अभिव्यक्ति using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply शैली और अभिव्यक्ति stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies तर्कपूर्ण निष्कर्ष using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply तर्कपूर्ण निष्कर्ष stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies पाठ-साक्ष्य का प्रयोग using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply पाठ-साक्ष्य का प्रयोग stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies अर्थ-छाया की पहचान using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply अर्थ-छाया की पहचान stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies आलोचनात्मक व्याख्या using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply आलोचनात्मक व्याख्या stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल framework using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल application using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies सृजनात्मक लेखन कौशल inference using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply सृजनात्मक लेखन कौशल inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies मुख्य विचार using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply मुख्य विचार stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi",
+      "chapter": "सृजनात्मक लेखन कौशल",
+      "question": "In \"सृजनात्मक लेखन कौशल\", which response applies भावार्थ विश्लेषण using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply भावार्थ विश्लेषण stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

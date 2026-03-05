@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 58 and 47.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 51 and 55.",
+      "correct_answer": "2805",
+      "incorrect_answers": [
+        "2813",
+        "2799",
+        "2836"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 50 and 43.",
+      "correct_answer": "2150",
+      "incorrect_answers": [
+        "2158",
+        "2142",
+        "2179"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 60 and 74.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "6",
+        "-2",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 43 and 82.",
+      "correct_answer": "3526",
+      "incorrect_answers": [
+        "3527",
+        "3520",
+        "3540"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 83 and 31.",
+      "correct_answer": "2573",
+      "incorrect_answers": [
+        "2575",
+        "2568",
+        "2603"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 44 and 17.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 47 and 63.",
+      "correct_answer": "2961",
+      "incorrect_answers": [
+        "2973",
+        "2952",
+        "2976"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 27 and 53.",
+      "correct_answer": "1431",
+      "incorrect_answers": [
+        "1439",
+        "1429",
+        "1466"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 51 and 60.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "7",
+        "-1",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 50 and 82.",
+      "correct_answer": "2050",
+      "incorrect_answers": [
+        "2057",
+        "2043",
+        "2069"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 56 and 44.",
+      "correct_answer": "616",
+      "incorrect_answers": [
+        "622",
+        "613",
+        "644"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 12 and 56.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "8",
+        "0",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 70 and 32.",
+      "correct_answer": "1120",
+      "incorrect_answers": [
+        "1125",
+        "1112",
+        "1133"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 14 and 41.",
+      "correct_answer": "574",
+      "incorrect_answers": [
+        "575",
+        "572",
+        "608"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 40 and 63.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 44 and 89.",
+      "correct_answer": "3916",
+      "incorrect_answers": [
+        "3919",
+        "3907",
+        "3941"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 72 and 42.",
+      "correct_answer": "504",
+      "incorrect_answers": [
+        "511",
+        "494",
+        "525"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 74 and 65.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 24 and 24.",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "25",
+        "21",
+        "42"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 47 and 57.",
+      "correct_answer": "2679",
+      "incorrect_answers": [
+        "2688",
+        "2678",
+        "2699"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 42 and 55.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 56 and 78.",
+      "correct_answer": "2184",
+      "incorrect_answers": [
+        "2189",
+        "2175",
+        "2203"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 72 and 74.",
+      "correct_answer": "2664",
+      "incorrect_answers": [
+        "2674",
+        "2663",
+        "2694"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 58 and 15.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 71 and 42.",
+      "correct_answer": "2982",
+      "incorrect_answers": [
+        "2988",
+        "2975",
+        "3016"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 76 and 34.",
+      "correct_answer": "1292",
+      "incorrect_answers": [
+        "1298",
+        "1280",
+        "1311"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 34 and 34.",
+      "correct_answer": "34",
+      "incorrect_answers": [
+        "38",
+        "30",
+        "37"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 57 and 85.",
+      "correct_answer": "4845",
+      "incorrect_answers": [
+        "4856",
+        "4844",
+        "4877"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 48 and 70.",
+      "correct_answer": "1680",
+      "incorrect_answers": [
+        "1685",
+        "1672",
+        "1696"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 31 and 82.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 84 and 29.",
+      "correct_answer": "2436",
+      "incorrect_answers": [
+        "2448",
+        "2431",
+        "2463"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 32 and 23.",
+      "correct_answer": "736",
+      "incorrect_answers": [
+        "747",
+        "726",
+        "767"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 66 and 33.",
+      "correct_answer": "33",
+      "incorrect_answers": [
+        "37",
+        "29",
+        "36"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 37 and 49.",
+      "correct_answer": "1813",
+      "incorrect_answers": [
+        "1815",
+        "1812",
+        "1834"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 41 and 43.",
+      "correct_answer": "1763",
+      "incorrect_answers": [
+        "1766",
+        "1754",
+        "1789"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 79 and 45.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 82 and 63.",
+      "correct_answer": "5166",
+      "incorrect_answers": [
+        "5176",
+        "5159",
+        "5188"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 36 and 55.",
+      "correct_answer": "1980",
+      "incorrect_answers": [
+        "1988",
+        "1969",
+        "1999"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 78 and 41.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 33 and 39.",
+      "correct_answer": "429",
+      "incorrect_answers": [
+        "432",
+        "425",
+        "448"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 24 and 26.",
+      "correct_answer": "312",
+      "incorrect_answers": [
+        "317",
+        "308",
+        "325"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 35 and 59.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 23 and 59.",
+      "correct_answer": "1357",
+      "incorrect_answers": [
+        "1365",
+        "1347",
+        "1386"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 21 and 41.",
+      "correct_answer": "861",
+      "incorrect_answers": [
+        "868",
+        "851",
+        "882"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 79 and 70.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 29 and 80.",
+      "correct_answer": "2320",
+      "incorrect_answers": [
+        "2321",
+        "2317",
+        "2342"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 80 and 50.",
+      "correct_answer": "400",
+      "incorrect_answers": [
+        "403",
+        "399",
+        "427"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 34 and 69.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 53 and 54.",
+      "correct_answer": "2862",
+      "incorrect_answers": [
+        "2869",
+        "2850",
+        "2876"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 50 and 26.",
+      "correct_answer": "650",
+      "incorrect_answers": [
+        "656",
+        "645",
+        "667"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 20 and 74.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "6",
+        "-2",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 46 and 89.",
+      "correct_answer": "4094",
+      "incorrect_answers": [
+        "4106",
+        "4092",
+        "4115"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 80 and 48.",
+      "correct_answer": "240",
+      "incorrect_answers": [
+        "251",
+        "234",
+        "264"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 43 and 72.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 67 and 17.",
+      "correct_answer": "1139",
+      "incorrect_answers": [
+        "1143",
+        "1135",
+        "1172"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 28 and 80.",
+      "correct_answer": "560",
+      "incorrect_answers": [
+        "564",
+        "551",
+        "577"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 33 and 16.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 31 and 77.",
+      "correct_answer": "2387",
+      "incorrect_answers": [
+        "2391",
+        "2386",
+        "2408"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 64 and 58.",
+      "correct_answer": "1856",
+      "incorrect_answers": [
+        "1859",
+        "1851",
+        "1884"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 39 and 68.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 25 and 27.",
+      "correct_answer": "675",
+      "incorrect_answers": [
+        "683",
+        "671",
+        "688"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 74 and 21.",
+      "correct_answer": "1554",
+      "incorrect_answers": [
+        "1562",
+        "1544",
+        "1585"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 38 and 41.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 35 and 61.",
+      "correct_answer": "2135",
+      "incorrect_answers": [
+        "2141",
+        "2128",
+        "2167"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 45 and 40.",
+      "correct_answer": "360",
+      "incorrect_answers": [
+        "366",
+        "348",
+        "382"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 74 and 32.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "6",
+        "-2",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 70 and 55.",
+      "correct_answer": "770",
+      "incorrect_answers": [
+        "773",
+        "766",
+        "784"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 58 and 41.",
+      "correct_answer": "2378",
+      "incorrect_answers": [
+        "2390",
+        "2377",
+        "2411"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 58 and 18.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "6",
+        "-2",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 32 and 24.",
+      "correct_answer": "96",
+      "incorrect_answers": [
+        "97",
+        "95",
+        "109"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 35 and 58.",
+      "correct_answer": "2030",
+      "incorrect_answers": [
+        "2040",
+        "2018",
+        "2062"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 69 and 70.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 12 and 58.",
+      "correct_answer": "348",
+      "incorrect_answers": [
+        "357",
+        "336",
+        "373"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 35 and 22.",
+      "correct_answer": "770",
+      "incorrect_answers": [
+        "780",
+        "765",
+        "792"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 75 and 41.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 82 and 64.",
+      "correct_answer": "2624",
+      "incorrect_answers": [
+        "2632",
+        "2612",
+        "2657"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 13 and 27.",
+      "correct_answer": "351",
+      "incorrect_answers": [
+        "363",
+        "350",
+        "377"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 76 and 79.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 23 and 24.",
+      "correct_answer": "552",
+      "incorrect_answers": [
+        "554",
+        "541",
+        "573"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 83 and 55.",
+      "correct_answer": "4565",
+      "incorrect_answers": [
+        "4566",
+        "4560",
+        "4598"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 24 and 36.",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "16",
+        "8",
+        "15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 54 and 56.",
+      "correct_answer": "1512",
+      "incorrect_answers": [
+        "1520",
+        "1502",
+        "1530"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 73 and 62.",
+      "correct_answer": "4526",
+      "incorrect_answers": [
+        "4532",
+        "4523",
+        "4546"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 21 and 73.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 34 and 69.",
+      "correct_answer": "2346",
+      "incorrect_answers": [
+        "2357",
+        "2338",
+        "2368"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 16 and 66.",
+      "correct_answer": "528",
+      "incorrect_answers": [
+        "540",
+        "517",
+        "552"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 80 and 81.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 18 and 66.",
+      "correct_answer": "198",
+      "incorrect_answers": [
+        "210",
+        "193",
+        "214"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 50 and 85.",
+      "correct_answer": "850",
+      "incorrect_answers": [
+        "856",
+        "839",
+        "873"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 29 and 28.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 47 and 35.",
+      "correct_answer": "1645",
+      "incorrect_answers": [
+        "1647",
+        "1644",
+        "1672"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 40 and 51.",
+      "correct_answer": "2040",
+      "incorrect_answers": [
+        "2049",
+        "2036",
+        "2062"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 81 and 58.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 54 and 45.",
+      "correct_answer": "270",
+      "incorrect_answers": [
+        "276",
+        "262",
+        "295"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 32 and 37.",
+      "correct_answer": "1184",
+      "incorrect_answers": [
+        "1194",
+        "1181",
+        "1218"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 84 and 52.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "8",
+        "0",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 82 and 32.",
+      "correct_answer": "1312",
+      "incorrect_answers": [
+        "1320",
+        "1304",
+        "1346"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the LCM of 33 and 80.",
+      "correct_answer": "2640",
+      "incorrect_answers": [
+        "2643",
+        "2630",
+        "2654"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Real Numbers",
+      "question": "Find the HCF of 33 and 62.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "5",
+        "-3",
+        "4"
+      ]
+    }
+  ]
+}

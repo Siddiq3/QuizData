@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (4,-7) and (4,-4) is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "3",
+        "12",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-4,4) and (1,8) is:",
+      "correct_answer": "41",
+      "incorrect_answers": [
+        "9",
+        "44",
+        "32"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-2,8) and (2,-4) is:",
+      "correct_answer": "160",
+      "incorrect_answers": [
+        "16",
+        "161",
+        "158"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-3,5) and (4,-3) is:",
+      "correct_answer": "113",
+      "incorrect_answers": [
+        "15",
+        "115",
+        "106"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (3,7) and (-8,8) is:",
+      "correct_answer": "122",
+      "incorrect_answers": [
+        "12",
+        "125",
+        "115"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (7,3) and (-7,-3) is:",
+      "correct_answer": "232",
+      "incorrect_answers": [
+        "20",
+        "239",
+        "225"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-8,-4) and (4,7) is:",
+      "correct_answer": "265",
+      "incorrect_answers": [
+        "23",
+        "267",
+        "258"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,6) and (-5,-2) is:",
+      "correct_answer": "89",
+      "incorrect_answers": [
+        "13",
+        "96",
+        "84"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-6,5) and (-6,4) is:",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "4",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (2,4) and (5,-6) is:",
+      "correct_answer": "109",
+      "incorrect_answers": [
+        "13",
+        "115",
+        "104"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-7,5) and (2,8) is:",
+      "correct_answer": "90",
+      "incorrect_answers": [
+        "12",
+        "99",
+        "81"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (2,2) and (-6,-2) is:",
+      "correct_answer": "80",
+      "incorrect_answers": [
+        "12",
+        "86",
+        "78"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-2,-5) and (2,7) is:",
+      "correct_answer": "160",
+      "incorrect_answers": [
+        "16",
+        "165",
+        "151"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-2,-7) and (-7,7) is:",
+      "correct_answer": "221",
+      "incorrect_answers": [
+        "19",
+        "226",
+        "216"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (5,1) and (-1,8) is:",
+      "correct_answer": "85",
+      "incorrect_answers": [
+        "13",
+        "94",
+        "83"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-6,2) and (-1,1) is:",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "6",
+        "31",
+        "24"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-3,-5) and (-8,4) is:",
+      "correct_answer": "106",
+      "incorrect_answers": [
+        "14",
+        "109",
+        "98"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (2,-1) and (3,4) is:",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "6",
+        "30",
+        "23"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,4) and (1,-1) is:",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "6",
+        "29",
+        "21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (4,-1) and (1,0) is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "4",
+        "17",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-7,8) and (0,-4) is:",
+      "correct_answer": "193",
+      "incorrect_answers": [
+        "19",
+        "194",
+        "187"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-4,3) and (-2,4) is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "3",
+        "14",
+        "4"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-7,7) and (4,5) is:",
+      "correct_answer": "125",
+      "incorrect_answers": [
+        "13",
+        "129",
+        "123"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (4,-5) and (-3,7) is:",
+      "correct_answer": "193",
+      "incorrect_answers": [
+        "19",
+        "200",
+        "186"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-5,-3) and (-6,-4) is:",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "3",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (1,0) and (2,5) is:",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "6",
+        "31",
+        "23"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-3,0) and (7,-7) is:",
+      "correct_answer": "149",
+      "incorrect_answers": [
+        "17",
+        "156",
+        "143"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (8,5) and (7,-3) is:",
+      "correct_answer": "65",
+      "incorrect_answers": [
+        "9",
+        "66",
+        "62"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (6,-7) and (-4,-1) is:",
+      "correct_answer": "136",
+      "incorrect_answers": [
+        "16",
+        "144",
+        "132"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-8,-3) and (5,-5) is:",
+      "correct_answer": "173",
+      "incorrect_answers": [
+        "15",
+        "177",
+        "170"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (7,-2) and (7,1) is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "3",
+        "13",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (8,-4) and (-2,0) is:",
+      "correct_answer": "116",
+      "incorrect_answers": [
+        "14",
+        "125",
+        "112"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (5,5) and (-3,7) is:",
+      "correct_answer": "68",
+      "incorrect_answers": [
+        "10",
+        "70",
+        "64"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (1,4) and (-2,7) is:",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "6",
+        "25",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-6,3) and (4,2) is:",
+      "correct_answer": "101",
+      "incorrect_answers": [
+        "11",
+        "109",
+        "99"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,-3) and (-1,-1) is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "3",
+        "9",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-1,2) and (-4,3) is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "4",
+        "13",
+        "8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-1,-7) and (3,-2) is:",
+      "correct_answer": "41",
+      "incorrect_answers": [
+        "9",
+        "49",
+        "37"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (8,0) and (7,3) is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "4",
+        "11",
+        "6"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,6) and (-8,1) is:",
+      "correct_answer": "89",
+      "incorrect_answers": [
+        "13",
+        "94",
+        "88"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-2,-3) and (6,7) is:",
+      "correct_answer": "164",
+      "incorrect_answers": [
+        "18",
+        "167",
+        "157"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,-3) and (-1,6) is:",
+      "correct_answer": "82",
+      "incorrect_answers": [
+        "10",
+        "87",
+        "75"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (3,-8) and (0,-3) is:",
+      "correct_answer": "34",
+      "incorrect_answers": [
+        "8",
+        "41",
+        "27"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-6,-5) and (-5,-4) is:",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "8",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (1,7) and (0,1) is:",
+      "correct_answer": "37",
+      "incorrect_answers": [
+        "7",
+        "43",
+        "32"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-3,-7) and (-8,8) is:",
+      "correct_answer": "250",
+      "incorrect_answers": [
+        "20",
+        "257",
+        "244"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (6,4) and (-6,5) is:",
+      "correct_answer": "145",
+      "incorrect_answers": [
+        "13",
+        "149",
+        "140"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-2,5) and (-1,2) is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "4",
+        "18",
+        "9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-7,-4) and (7,8) is:",
+      "correct_answer": "340",
+      "incorrect_answers": [
+        "26",
+        "349",
+        "337"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-8,-8) and (-4,-5) is:",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "7",
+        "27",
+        "19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (3,-5) and (1,-2) is:",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "5",
+        "17",
+        "7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,-2) and (-4,6) is:",
+      "correct_answer": "80",
+      "incorrect_answers": [
+        "12",
+        "85",
+        "75"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-2,5) and (8,-2) is:",
+      "correct_answer": "149",
+      "incorrect_answers": [
+        "17",
+        "157",
+        "147"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (2,-7) and (-1,0) is:",
+      "correct_answer": "58",
+      "incorrect_answers": [
+        "10",
+        "64",
+        "50"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (8,3) and (6,7) is:",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "6",
+        "23",
+        "12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (2,-1) and (-6,1) is:",
+      "correct_answer": "68",
+      "incorrect_answers": [
+        "10",
+        "70",
+        "65"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (6,-4) and (-5,-6) is:",
+      "correct_answer": "125",
+      "incorrect_answers": [
+        "13",
+        "134",
+        "116"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (5,-1) and (2,8) is:",
+      "correct_answer": "90",
+      "incorrect_answers": [
+        "12",
+        "95",
+        "85"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (5,-3) and (8,6) is:",
+      "correct_answer": "90",
+      "incorrect_answers": [
+        "12",
+        "98",
+        "84"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,5) and (7,5) is:",
+      "correct_answer": "49",
+      "incorrect_answers": [
+        "7",
+        "53",
+        "42"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (7,7) and (8,5) is:",
+      "correct_answer": "5",
+      "incorrect_answers": [
+        "3",
+        "7",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,-1) and (5,-6) is:",
+      "correct_answer": "50",
+      "incorrect_answers": [
+        "10",
+        "55",
+        "46"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-4,-1) and (4,0) is:",
+      "correct_answer": "65",
+      "incorrect_answers": [
+        "9",
+        "67",
+        "63"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-7,7) and (6,7) is:",
+      "correct_answer": "169",
+      "incorrect_answers": [
+        "13",
+        "174",
+        "167"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-3,-4) and (-6,-3) is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "4",
+        "16",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-3,-2) and (2,-6) is:",
+      "correct_answer": "41",
+      "incorrect_answers": [
+        "9",
+        "46",
+        "34"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-2,7) and (4,-6) is:",
+      "correct_answer": "205",
+      "incorrect_answers": [
+        "19",
+        "208",
+        "199"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (6,7) and (-6,1) is:",
+      "correct_answer": "180",
+      "incorrect_answers": [
+        "18",
+        "188",
+        "173"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (7,0) and (2,1) is:",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "6",
+        "27",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (3,-8) and (0,4) is:",
+      "correct_answer": "153",
+      "incorrect_answers": [
+        "15",
+        "161",
+        "149"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (2,-6) and (5,6) is:",
+      "correct_answer": "153",
+      "incorrect_answers": [
+        "15",
+        "156",
+        "150"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (7,7) and (3,-1) is:",
+      "correct_answer": "80",
+      "incorrect_answers": [
+        "12",
+        "81",
+        "78"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-2,-7) and (2,0) is:",
+      "correct_answer": "65",
+      "incorrect_answers": [
+        "11",
+        "68",
+        "56"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,0) and (-5,-4) is:",
+      "correct_answer": "41",
+      "incorrect_answers": [
+        "9",
+        "44",
+        "38"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (0,6) and (5,-4) is:",
+      "correct_answer": "125",
+      "incorrect_answers": [
+        "15",
+        "126",
+        "124"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (4,0) and (4,4) is:",
+      "correct_answer": "16",
+      "incorrect_answers": [
+        "4",
+        "19",
+        "11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (5,-7) and (-4,6) is:",
+      "correct_answer": "250",
+      "incorrect_answers": [
+        "22",
+        "256",
+        "246"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-1,-8) and (3,-7) is:",
+      "correct_answer": "17",
+      "incorrect_answers": [
+        "5",
+        "23",
+        "10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-8,3) and (8,5) is:",
+      "correct_answer": "260",
+      "incorrect_answers": [
+        "18",
+        "264",
+        "259"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (5,-6) and (3,-8) is:",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "4",
+        "11",
+        "2"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (6,-1) and (3,8) is:",
+      "correct_answer": "90",
+      "incorrect_answers": [
+        "12",
+        "93",
+        "85"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-5,8) and (-7,4) is:",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "6",
+        "28",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (2,2) and (7,-4) is:",
+      "correct_answer": "61",
+      "incorrect_answers": [
+        "11",
+        "64",
+        "53"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-3,2) and (0,-2) is:",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "7",
+        "32",
+        "22"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-4,-5) and (-8,-2) is:",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "7",
+        "30",
+        "20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-1,6) and (5,2) is:",
+      "correct_answer": "52",
+      "incorrect_answers": [
+        "10",
+        "54",
+        "49"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-7,5) and (1,-4) is:",
+      "correct_answer": "145",
+      "incorrect_answers": [
+        "17",
+        "147",
+        "142"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (2,3) and (-5,7) is:",
+      "correct_answer": "65",
+      "incorrect_answers": [
+        "11",
+        "69",
+        "60"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (4,2) and (5,-4) is:",
+      "correct_answer": "37",
+      "incorrect_answers": [
+        "7",
+        "41",
+        "31"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (8,-8) and (-4,8) is:",
+      "correct_answer": "400",
+      "incorrect_answers": [
+        "28",
+        "403",
+        "397"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (6,5) and (-2,-5) is:",
+      "correct_answer": "164",
+      "incorrect_answers": [
+        "18",
+        "170",
+        "163"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-1,-7) and (2,-8) is:",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "4",
+        "13",
+        "5"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-1,-5) and (8,3) is:",
+      "correct_answer": "145",
+      "incorrect_answers": [
+        "17",
+        "151",
+        "136"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (7,7) and (-5,2) is:",
+      "correct_answer": "169",
+      "incorrect_answers": [
+        "17",
+        "175",
+        "168"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (5,-4) and (1,1) is:",
+      "correct_answer": "41",
+      "incorrect_answers": [
+        "9",
+        "45",
+        "33"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-6,7) and (2,1) is:",
+      "correct_answer": "100",
+      "incorrect_answers": [
+        "14",
+        "105",
+        "93"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (2,4) and (-2,6) is:",
+      "correct_answer": "20",
+      "incorrect_answers": [
+        "6",
+        "28",
+        "17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-5,-6) and (7,-1) is:",
+      "correct_answer": "169",
+      "incorrect_answers": [
+        "17",
+        "175",
+        "168"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-3,-3) and (-6,-3) is:",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "3",
+        "18",
+        "0"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "question": "Distance squared between points (-1,1) and (0,6) is:",
+      "correct_answer": "26",
+      "incorrect_answers": [
+        "6",
+        "28",
+        "22"
+      ]
+    }
+  ]
+}

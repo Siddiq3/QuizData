@@ -5,8 +5,24 @@
       "subject": "Mathematics"
     },
     {
+      "name": "General Science",
+      "subject": "General Science"
+    },
+    {
       "name": "Social Studies",
       "subject": "Social Studies"
+    },
+    {
+      "name": "English",
+      "subject": "English"
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi"
+    },
+    {
+      "name": "Telugu",
+      "subject": "Telugu"
     }
   ]
 }

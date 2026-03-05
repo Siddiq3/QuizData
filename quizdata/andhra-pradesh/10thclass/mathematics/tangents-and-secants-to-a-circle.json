@@ -4,600 +4,1200 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From external point P1, two tangents PA and PB are drawn. If PA=6 cm, PB=",
-      "correct_answer": "6",
+      "question": "A tangent is drawn to a circle of radius 3 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "7",
-        "5",
-        "12"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C1, radius at point of contact with tangent is:",
-      "correct_answer": "Perpendicular to tangent",
+      "question": "A tangent is drawn to a circle of radius 14 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "Parallel to tangent",
-        "Equal to tangent",
-        "Bisector of tangent"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "How many tangents can be drawn from point P1 outside a circle?",
-      "correct_answer": "2",
+      "question": "A tangent is drawn to a circle of radius 6 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "0",
-        "1",
-        "3"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "If PA=3, PB=11 and PT is tangent from same point, then PT =",
-      "correct_answer": "5.74",
+      "question": "A tangent is drawn to a circle of radius 8 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "6.74",
-        "4.74",
-        "33"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For circle C1, OP=13 cm and radius=5 cm. Tangent length from P is:",
-      "correct_answer": "12",
+      "question": "A tangent is drawn to a circle of radius 12 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "13",
-        "11",
-        "8"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Angle between radius and tangent in figure 1 is:",
-      "correct_answer": "90\u00b0",
+      "question": "A tangent is drawn to a circle of radius 7 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "45\u00b0",
-        "60\u00b0",
-        "30\u00b0"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For two secants from P1: PA=2, PB=8, PC=4. Find PD using PA\u00d7PB=PC\u00d7PD.",
-      "correct_answer": "4",
+      "question": "A tangent is drawn to a circle of radius 11 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "5",
-        "3",
-        "10"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From a point inside circle C1, number of tangents possible is:",
-      "correct_answer": "0",
+      "question": "A tangent is drawn to a circle of radius 10 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "1",
-        "2",
-        "Infinite"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C1, OA=13 cm and radius=5 cm. Tangent length from A is:",
-      "correct_answer": "12",
+      "question": "A tangent is drawn to a circle of radius 9 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "14",
-        "10",
-        "18"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Correct tangent-secant relation in set 1 is:",
-      "correct_answer": "PT^2 = PA \u00d7 PB",
+      "question": "A tangent is drawn to a circle of radius 13 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "PT = PA + PB",
-        "PT^2 = PA + PB",
-        "PT = PA \u2212 PB"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From external point P2, two tangents PA and PB are drawn. If PA=7 cm, PB=",
-      "correct_answer": "7",
+      "question": "A tangent is drawn to a circle of radius 4 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "8",
-        "6",
-        "14"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C2, radius at point of contact with tangent is:",
-      "correct_answer": "Perpendicular to tangent",
+      "question": "A tangent is drawn to a circle of radius 5 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
       "incorrect_answers": [
-        "Parallel to tangent",
-        "Equal to tangent",
-        "Bisector of tangent"
+        "45°",
+        "60°",
+        "120°"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "How many tangents can be drawn from point P2 outside a circle?",
-      "correct_answer": "2",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 13)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1",
-        "3"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "If PA=4, PB=12 and PT is tangent from same point, then PT =",
-      "correct_answer": "6.93",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 14)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "7.93",
-        "5.93",
-        "48"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For circle C2, OP=17 cm and radius=8 cm. Tangent length from P is:",
-      "correct_answer": "15",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 15)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "16",
-        "14",
-        "9"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Angle between radius and tangent in figure 2 is:",
-      "correct_answer": "90\u00b0",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 16)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "45\u00b0",
-        "60\u00b0",
-        "30\u00b0"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For two secants from P2: PA=3, PB=12, PC=6. Find PD using PA\u00d7PB=PC\u00d7PD.",
-      "correct_answer": "6",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 17)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "7",
-        "5",
-        "15"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From a point inside circle C2, number of tangents possible is:",
-      "correct_answer": "0",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 18)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1",
-        "2",
-        "Infinite"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C2, OA=17 cm and radius=8 cm. Tangent length from A is:",
-      "correct_answer": "15",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 19)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "17",
-        "13",
-        "25"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Correct tangent-secant relation in set 2 is:",
-      "correct_answer": "PT^2 = PA \u00d7 PB",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 20)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "PT = PA + PB",
-        "PT^2 = PA + PB",
-        "PT = PA \u2212 PB"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From external point P3, two tangents PA and PB are drawn. If PA=8 cm, PB=",
-      "correct_answer": "8",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 21)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "9",
-        "7",
-        "16"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C3, radius at point of contact with tangent is:",
-      "correct_answer": "Perpendicular to tangent",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 22)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Parallel to tangent",
-        "Equal to tangent",
-        "Bisector of tangent"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "How many tangents can be drawn from point P3 outside a circle?",
-      "correct_answer": "2",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 23)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1",
-        "3"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "If PA=5, PB=13 and PT is tangent from same point, then PT =",
-      "correct_answer": "8.06",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 24)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "9.06",
-        "7.06",
-        "65"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For circle C3, OP=25 cm and radius=7 cm. Tangent length from P is:",
-      "correct_answer": "24",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 25)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "25",
-        "23",
-        "18"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Angle between radius and tangent in figure 3 is:",
-      "correct_answer": "90\u00b0",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 26)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "45\u00b0",
-        "60\u00b0",
-        "30\u00b0"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For two secants from P3: PA=4, PB=9, PC=3. Find PD using PA\u00d7PB=PC\u00d7PD.",
-      "correct_answer": "12",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 27)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "13",
-        "11",
-        "None of these"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From a point inside circle C3, number of tangents possible is:",
-      "correct_answer": "0",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 28)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1",
-        "2",
-        "Infinite"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C3, OA=25 cm and radius=7 cm. Tangent length from A is:",
-      "correct_answer": "24",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "26",
-        "22",
-        "32"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Correct tangent-secant relation in set 3 is:",
-      "correct_answer": "PT^2 = PA \u00d7 PB",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "PT = PA + PB",
-        "PT^2 = PA + PB",
-        "PT = PA \u2212 PB"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From external point P4, two tangents PA and PB are drawn. If PA=9 cm, PB=",
-      "correct_answer": "9",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "10",
-        "8",
-        "18"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C4, radius at point of contact with tangent is:",
-      "correct_answer": "Perpendicular to tangent",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Parallel to tangent",
-        "Equal to tangent",
-        "Bisector of tangent"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "How many tangents can be drawn from point P4 outside a circle?",
-      "correct_answer": "2",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1",
-        "3"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "If PA=6, PB=14 and PT is tangent from same point, then PT =",
-      "correct_answer": "9.17",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "10.17",
-        "8.17",
-        "84"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For circle C4, OP=41 cm and radius=9 cm. Tangent length from P is:",
-      "correct_answer": "40",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "41",
-        "39",
-        "32"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Angle between radius and tangent in figure 4 is:",
-      "correct_answer": "90\u00b0",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "45\u00b0",
-        "60\u00b0",
-        "30\u00b0"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For two secants from P4: PA=5, PB=10, PC=4. Find PD using PA\u00d7PB=PC\u00d7PD.",
-      "correct_answer": "12.5",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "13.5",
-        "11.5",
-        "15"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From a point inside circle C4, number of tangents possible is:",
-      "correct_answer": "0",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1",
-        "2",
-        "Infinite"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C4, OA=41 cm and radius=9 cm. Tangent length from A is:",
-      "correct_answer": "40",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "42",
-        "38",
-        "50"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Correct tangent-secant relation in set 4 is:",
-      "correct_answer": "PT^2 = PA \u00d7 PB",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "PT = PA + PB",
-        "PT^2 = PA + PB",
-        "PT = PA \u2212 PB"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From external point P5, two tangents PA and PB are drawn. If PA=10 cm, PB=",
-      "correct_answer": "10",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "11",
-        "9",
-        "20"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C5, radius at point of contact with tangent is:",
-      "correct_answer": "Perpendicular to tangent",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "Parallel to tangent",
-        "Equal to tangent",
-        "Bisector of tangent"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "How many tangents can be drawn from point P5 outside a circle?",
-      "correct_answer": "2",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "0",
-        "1",
-        "3"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "If PA=7, PB=15 and PT is tangent from same point, then PT =",
-      "correct_answer": "10.25",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "11.25",
-        "9.25",
-        "105"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For circle C5, OP=37 cm and radius=12 cm. Tangent length from P is:",
-      "correct_answer": "35",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "36",
-        "34",
-        "25"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Angle between radius and tangent in figure 5 is:",
-      "correct_answer": "90\u00b0",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "45\u00b0",
-        "60\u00b0",
-        "30\u00b0"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "For two secants from P5: PA=6, PB=12, PC=8. Find PD using PA\u00d7PB=PC\u00d7PD.",
-      "correct_answer": "9",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "10",
-        "8",
-        "18"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "From a point inside circle C5, number of tangents possible is:",
-      "correct_answer": "0",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "1",
-        "2",
-        "Infinite"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "In circle C5, OA=37 cm and radius=12 cm. Tangent length from A is:",
-      "correct_answer": "35",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "37",
-        "33",
-        "49"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "Correct tangent-secant relation in set 5 is:",
-      "correct_answer": "PT^2 = PA \u00d7 PB",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
       "incorrect_answers": [
-        "PT = PA + PB",
-        "PT^2 = PA + PB",
-        "PT = PA \u2212 PB"
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply Tangents and Secants to a Circle stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle framework using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply Tangents and Secants to a Circle framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle application using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Tangents and Secants to a Circle application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies Tangents and Secants to a Circle inference using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Tangents and Secants to a Circle inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies conceptual understanding using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply conceptual understanding stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies application logic using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply application logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies error analysis using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply error analysis stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "In \"Tangents and Secants to a Circle\", which response applies multi-step reasoning using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply multi-step reasoning stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
       ]
     }
   ]
