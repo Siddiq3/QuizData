@@ -1,0 +1,12 @@
+{
+  "id": "1772704065153-mac486",
+  "name": "Siddiq",
+  "email": "siddiqkolimi03@gmail.com",
+  "phone": "9705116606",
+  "voucherType": "UPI",
+  "provider": "upi",
+  "amount": 10,
+  "coinsUsed": 10,
+  "status": "pending",
+  "createdAt": "2026-03-05T09:47:45.153Z"
+}
