@@ -1,0 +1,94 @@
+{
+  "results": [
+    {
+      "subject": "Mathematics",
+      "chapter": "Integers",
+      "slug": "integers",
+      "file": "integers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Fractions and Decimals",
+      "slug": "fractions-and-decimals",
+      "file": "fractions-and-decimals.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Data Handling",
+      "slug": "data-handling",
+      "file": "data-handling.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Simple Equations",
+      "slug": "simple-equations",
+      "file": "simple-equations.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Lines and Angles",
+      "slug": "lines-and-angles",
+      "file": "lines-and-angles.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "The Triangle and Its Properties",
+      "slug": "the-triangle-and-its-properties",
+      "file": "the-triangle-and-its-properties.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Congruence of Triangles",
+      "slug": "congruence-of-triangles",
+      "file": "congruence-of-triangles.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Comparing Quantities",
+      "slug": "comparing-quantities",
+      "file": "comparing-quantities.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Rational Numbers",
+      "slug": "rational-numbers",
+      "file": "rational-numbers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Practical Geometry",
+      "slug": "practical-geometry",
+      "file": "practical-geometry.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Perimeter and Area",
+      "slug": "perimeter-and-area",
+      "file": "perimeter-and-area.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Algebraic Expressions",
+      "slug": "algebraic-expressions",
+      "file": "algebraic-expressions.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Exponents and Powers",
+      "slug": "exponents-and-powers",
+      "file": "exponents-and-powers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Symmetry",
+      "slug": "symmetry",
+      "file": "symmetry.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Visualising Solid Shapes",
+      "slug": "visualising-solid-shapes",
+      "file": "visualising-solid-shapes.json"
+    }
+  ]
+}

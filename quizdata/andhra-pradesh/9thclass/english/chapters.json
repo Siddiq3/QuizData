@@ -1,0 +1,70 @@
+{
+  "results": [
+    {
+      "subject": "English",
+      "chapter": "The Fun They Had",
+      "slug": "the-fun-they-had",
+      "file": "the-fun-they-had.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "The Sound of Music",
+      "slug": "the-sound-of-music",
+      "file": "the-sound-of-music.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "The Little Girl",
+      "slug": "the-little-girl",
+      "file": "the-little-girl.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "A Truly Beautiful Mind",
+      "slug": "a-truly-beautiful-mind",
+      "file": "a-truly-beautiful-mind.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "The Snake and the Mirror",
+      "slug": "the-snake-and-the-mirror",
+      "file": "the-snake-and-the-mirror.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "My Childhood",
+      "slug": "my-childhood",
+      "file": "my-childhood.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "Packing",
+      "slug": "packing",
+      "file": "packing.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "Reach for the Top",
+      "slug": "reach-for-the-top",
+      "file": "reach-for-the-top.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "The Bond of Love",
+      "slug": "the-bond-of-love",
+      "file": "the-bond-of-love.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "Kathmandu",
+      "slug": "kathmandu",
+      "file": "kathmandu.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "If I Were You",
+      "slug": "if-i-were-you",
+      "file": "if-i-were-you.json"
+    }
+  ]
+}

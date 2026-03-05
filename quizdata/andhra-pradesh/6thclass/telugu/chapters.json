@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "subject": "Telugu",
+      "chapter": "Gadya Patha Vivechanam",
+      "slug": "gadya-patha-vivechanam",
+      "file": "gadya-patha-vivechanam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "Padya Patha Artha Grahanam",
+      "slug": "padya-patha-artha-grahanam",
+      "file": "padya-patha-artha-grahanam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "Vyakaranam Prayogam",
+      "slug": "vyakaranam-prayogam",
+      "file": "vyakaranam-prayogam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "Pada Sampada Abhivruddhi",
+      "slug": "pada-sampada-abhivruddhi",
+      "file": "pada-sampada-abhivruddhi.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "Rachana Kaushalyam",
+      "slug": "rachana-kaushalyam",
+      "file": "rachana-kaushalyam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "Samvadha Rachana",
+      "slug": "samvadha-rachana",
+      "file": "samvadha-rachana.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "Patrika Rachana",
+      "slug": "patrika-rachana",
+      "file": "patrika-rachana.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "Bhasha Prayoga Nipunata",
+      "slug": "bhasha-prayoga-nipunata",
+      "file": "bhasha-prayoga-nipunata.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "Sahitya Moulyankanam",
+      "slug": "sahitya-moulyankanam",
+      "file": "sahitya-moulyankanam.json"
+    },
+    {
+      "subject": "Telugu",
+      "chapter": "Samagra Telugu Abhyasam",
+      "slug": "samagra-telugu-abhyasam",
+      "file": "samagra-telugu-abhyasam.json"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "subject": "English",
+      "chapter": "Who Did Patricks Homework",
+      "slug": "who-did-patricks-homework",
+      "file": "who-did-patricks-homework.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "How the Dog Found Himself a New Master",
+      "slug": "how-the-dog-found-himself-a-new-master",
+      "file": "how-the-dog-found-himself-a-new-master.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "Taro Reward",
+      "slug": "taro-reward",
+      "file": "taro-reward.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "An Indian American Woman in Space",
+      "slug": "an-indian-american-woman-in-space",
+      "file": "an-indian-american-woman-in-space.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "A Different Kind of School",
+      "slug": "a-different-kind-of-school",
+      "file": "a-different-kind-of-school.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "Who I Am",
+      "slug": "who-i-am",
+      "file": "who-i-am.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "Fair Play",
+      "slug": "fair-play",
+      "file": "fair-play.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "A Game of Chance",
+      "slug": "a-game-of-chance",
+      "file": "a-game-of-chance.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "Desert Animals",
+      "slug": "desert-animals",
+      "file": "desert-animals.json"
+    },
+    {
+      "subject": "English",
+      "chapter": "The Banyan Tree",
+      "slug": "the-banyan-tree",
+      "file": "the-banyan-tree.json"
+    }
+  ]
+}
