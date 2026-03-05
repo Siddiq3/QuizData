@@ -1,0 +1,12 @@
+{
+  "id": "1772694383965-cle1wv",
+  "name": "Siddiq",
+  "email": "siddiqkolimi03@gmail.com",
+  "phone": "6484848554",
+  "voucherType": "UPI",
+  "provider": "upi",
+  "amount": 10,
+  "coinsUsed": 10,
+  "status": "pending",
+  "createdAt": "2026-03-05T07:06:23.965Z"
+}
