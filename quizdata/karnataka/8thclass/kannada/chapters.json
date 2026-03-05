@@ -1,0 +1,64 @@
+{
+  "results": [
+    {
+      "subject": "Kannada",
+      "chapter": "Samagra Kannada Abhyasa",
+      "slug": "samagra-kannada-abhyasa",
+      "file": "samagra-kannada-abhyasa.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "slug": "gadya-patha-vivechane",
+      "file": "gadya-patha-vivechane.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "slug": "padya-patha-artha-grahike",
+      "file": "padya-patha-artha-grahike.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "Vyakarana Prayoga",
+      "slug": "vyakarana-prayoga",
+      "file": "vyakarana-prayoga.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "Shabda Sampattu Mattu Balake",
+      "slug": "shabda-sampattu-mattu-balake",
+      "file": "shabda-sampattu-mattu-balake.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "Samvaada Baravanige",
+      "slug": "samvaada-baravanige",
+      "file": "samvaada-baravanige.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "Patra Baravanige",
+      "slug": "patra-baravanige",
+      "file": "patra-baravanige.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "Anuchchedha Baravanige",
+      "slug": "anuchchedha-baravanige",
+      "file": "anuchchedha-baravanige.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "Anuvadha Kaushalya",
+      "slug": "anuvadha-kaushalya",
+      "file": "anuvadha-kaushalya.json"
+    },
+    {
+      "subject": "Kannada",
+      "chapter": "Sahitya Moulyamapana",
+      "slug": "sahitya-moulyamapana",
+      "file": "sahitya-moulyamapana.json"
+    }
+  ]
+}

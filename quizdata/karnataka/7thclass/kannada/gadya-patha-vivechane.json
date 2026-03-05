@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ಮುಖ್ಯ ಆಶಯ\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ಮುಖ್ಯ ಆಶಯ\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"Gadya Patha Vivechane application\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ನಲ್ಲಿ \"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"Gadya Patha Vivechane application\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಸಂಬಂಧಿಸಿದ \"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಮತ್ತು \"Gadya Patha Vivechane\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "Assertion-Reason (\"Gadya Patha Vivechane\"): Assertion: \"ವಾಕ್ಯ ರಚನೆ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"Gadya Patha Vivechane framework\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ನಲ್ಲಿ \"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"Gadya Patha Vivechane\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ವಾಕ್ಯ ರಚನೆ\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ಮುಖ್ಯ ಆಶಯ\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಸಂಬಂಧಿಸಿದ \"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"ವಾಕ್ಯ ರಚನೆ\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಮತ್ತು \"ಅರ್ಥಭೇದ ಗುರುತು\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "Assertion-Reason (\"Gadya Patha Vivechane\"): Assertion: \"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ಅರ್ಥಭೇದ ಗುರುತು\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ಅರ್ಥಭೇದ ಗುರುತು\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ಮುಖ್ಯ ಆಶಯ\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ನಲ್ಲಿ \"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ಮುಖ್ಯ ಆಶಯ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"Gadya Patha Vivechane inference\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"Gadya Patha Vivechane application\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಸಂಬಂಧಿಸಿದ \"Gadya Patha Vivechane\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"Gadya Patha Vivechane\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"Gadya Patha Vivechane inference\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ಮುಖ್ಯ ಆಶಯ\" ಮತ್ತು \"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "Assertion-Reason (\"Gadya Patha Vivechane\"): Assertion: \"Gadya Patha Vivechane framework\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"Gadya Patha Vivechane application\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"Gadya Patha Vivechane application\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"ವಾಕ್ಯ ರಚನೆ\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"Gadya Patha Vivechane\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ನಲ್ಲಿ \"Gadya Patha Vivechane inference\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"Gadya Patha Vivechane inference\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ಅರ್ಥಭೇದ ಗುರುತು\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಸಂಬಂಧಿಸಿದ \"ಮುಖ್ಯ ಆಶಯ\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ಮುಖ್ಯ ಆಶಯ\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"Gadya Patha Vivechane framework\" ಮತ್ತು \"Gadya Patha Vivechane\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "Assertion-Reason (\"Gadya Patha Vivechane\"): Assertion: \"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"Gadya Patha Vivechane framework\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ನಲ್ಲಿ \"ವಾಕ್ಯ ರಚನೆ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ವಾಕ್ಯ ರಚನೆ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಸಂಬಂಧಿಸಿದ \"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಮತ್ತು \"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "Assertion-Reason (\"Gadya Patha Vivechane\"): Assertion: \"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"Gadya Patha Vivechane\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"Gadya Patha Vivechane framework\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ನಲ್ಲಿ \"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"Gadya Patha Vivechane framework\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಸಂಬಂಧಿಸಿದ \"ಅರ್ಥಭೇದ ಗುರುತು\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ಅರ್ಥಭೇದ ಗುರುತು\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"Gadya Patha Vivechane inference\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ಮತ್ತು \"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "Assertion-Reason (\"Gadya Patha Vivechane\"): Assertion: \"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"Gadya Patha Vivechane\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"Gadya Patha Vivechane\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"Gadya Patha Vivechane application\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ನಲ್ಲಿ \"Gadya Patha Vivechane framework\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"Gadya Patha Vivechane framework\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ವಾಕ್ಯ ರಚನೆ\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "\"Gadya Patha Vivechane\" ಸಂಬಂಧಿಸಿದ \"Gadya Patha Vivechane application\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"Gadya Patha Vivechane application\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ವಾಕ್ಯ ರಚನೆ\" ಮತ್ತು \"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "Assertion-Reason (\"Gadya Patha Vivechane\"): Assertion: \"Gadya Patha Vivechane inference\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply Gadya Patha Vivechane stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane framework using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply Gadya Patha Vivechane framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane application using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply Gadya Patha Vivechane application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane inference using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply Gadya Patha Vivechane inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply Gadya Patha Vivechane stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply Gadya Patha Vivechane framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply Gadya Patha Vivechane application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply Gadya Patha Vivechane inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply Gadya Patha Vivechane stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane framework using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply Gadya Patha Vivechane framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane application using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Gadya Patha Vivechane application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane inference using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Gadya Patha Vivechane inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply Gadya Patha Vivechane stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane framework using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply Gadya Patha Vivechane framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply Gadya Patha Vivechane application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane inference using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply Gadya Patha Vivechane inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Gadya Patha Vivechane stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane framework using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Gadya Patha Vivechane framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane application using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply Gadya Patha Vivechane application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies Gadya Patha Vivechane inference using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply Gadya Patha Vivechane inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Gadya Patha Vivechane",
+      "question": "In \"Gadya Patha Vivechane\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

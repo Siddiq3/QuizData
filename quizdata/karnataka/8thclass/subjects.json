@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics"
+    },
+    {
+      "name": "Social Science",
+      "subject": "Social Science"
+    },
+    {
+      "name": "Science",
+      "subject": "Science"
+    },
+    {
+      "name": "English",
+      "subject": "English"
+    },
+    {
+      "name": "Hindi",
+      "subject": "Hindi"
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada"
+    }
+  ]
+}

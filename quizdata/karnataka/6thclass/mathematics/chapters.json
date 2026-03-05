@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "subject": "Mathematics",
+      "chapter": "Knowing Our Numbers",
+      "slug": "knowing-our-numbers",
+      "file": "knowing-our-numbers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Whole Numbers",
+      "slug": "whole-numbers",
+      "file": "whole-numbers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Playing with Numbers",
+      "slug": "playing-with-numbers",
+      "file": "playing-with-numbers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Basic Geometrical Ideas",
+      "slug": "basic-geometrical-ideas",
+      "file": "basic-geometrical-ideas.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Understanding Elementary Shapes",
+      "slug": "understanding-elementary-shapes",
+      "file": "understanding-elementary-shapes.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Integers",
+      "slug": "integers",
+      "file": "integers.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Fractions",
+      "slug": "fractions",
+      "file": "fractions.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Decimals",
+      "slug": "decimals",
+      "file": "decimals.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Data Handling",
+      "slug": "data-handling",
+      "file": "data-handling.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "slug": "mensuration",
+      "file": "mensuration.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "slug": "algebra",
+      "file": "algebra.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Ratio and Proportion",
+      "slug": "ratio-and-proportion",
+      "file": "ratio-and-proportion.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Symmetry",
+      "slug": "symmetry",
+      "file": "symmetry.json"
+    },
+    {
+      "subject": "Mathematics",
+      "chapter": "Practical Geometry",
+      "slug": "practical-geometry",
+      "file": "practical-geometry.json"
+    }
+  ]
+}

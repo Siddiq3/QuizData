@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ಮುಖ್ಯ ಆಶಯ\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ಮುಖ್ಯ ಆಶಯ\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"Padya Patha Artha Grahike inference\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ಅರ್ಥಭೇದ ಗುರುತು\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ನಲ್ಲಿ \"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ಮುಖ್ಯ ಆಶಯ\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"Padya Patha Artha Grahike\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಸಂಬಂಧಿಸಿದ \"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"Padya Patha Artha Grahike\" ಮತ್ತು \"ಅರ್ಥಭೇದ ಗುರುತು\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "Assertion-Reason (\"Padya Patha Artha Grahike\"): Assertion: \"ವಾಕ್ಯ ರಚನೆ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"Padya Patha Artha Grahike\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ನಲ್ಲಿ \"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"Padya Patha Artha Grahike\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ಅರ್ಥಭೇದ ಗುರುತು\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಸಂಬಂಧಿಸಿದ \"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ವಾಕ್ಯ ರಚನೆ\" ಮತ್ತು \"Padya Patha Artha Grahike application\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "Assertion-Reason (\"Padya Patha Artha Grahike\"): Assertion: \"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ಅರ್ಥಭೇದ ಗುರುತು\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ಅರ್ಥಭೇದ ಗುರುತು\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"Padya Patha Artha Grahike application\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ವಾಕ್ಯ ರಚನೆ\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ನಲ್ಲಿ \"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"Padya Patha Artha Grahike\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ಅರ್ಥಭೇದ ಗುರುತು\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಸಂಬಂಧಿಸಿದ \"Padya Patha Artha Grahike\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"Padya Patha Artha Grahike\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"Padya Patha Artha Grahike application\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಮತ್ತು \"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "Assertion-Reason (\"Padya Patha Artha Grahike\"): Assertion: \"Padya Patha Artha Grahike framework\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"Padya Patha Artha Grahike application\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"Padya Patha Artha Grahike application\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ನಲ್ಲಿ \"Padya Patha Artha Grahike inference\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"Padya Patha Artha Grahike inference\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ಮುಖ್ಯ ಆಶಯ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ವಾಕ್ಯ ರಚನೆ\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಸಂಬಂಧಿಸಿದ \"ಮುಖ್ಯ ಆಶಯ\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ಮುಖ್ಯ ಆಶಯ\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"Padya Patha Artha Grahike application\" ಮತ್ತು \"ಅರ್ಥಭೇದ ಗುರುತು\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "Assertion-Reason (\"Padya Patha Artha Grahike\"): Assertion: \"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"Padya Patha Artha Grahike\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ನಲ್ಲಿ \"ವಾಕ್ಯ ರಚನೆ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ವಾಕ್ಯ ರಚನೆ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಸಂಬಂಧಿಸಿದ \"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"Padya Patha Artha Grahike\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಮತ್ತು \"ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "Assertion-Reason (\"Padya Patha Artha Grahike\"): Assertion: \"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"ವಾಕ್ಯ ರಚನೆ\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"Padya Patha Artha Grahike inference\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ನಲ್ಲಿ \"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"Padya Patha Artha Grahike framework\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಸಂಬಂಧಿಸಿದ \"ಅರ್ಥಭೇದ ಗುರುತು\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"ಅರ್ಥಭೇದ ಗುರುತು\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"Padya Patha Artha Grahike inference\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ\" ಮತ್ತು \"Padya Patha Artha Grahike framework\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "Assertion-Reason (\"Padya Patha Artha Grahike\"): Assertion: \"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಅಧ್ಯಾಯದ ಹಿನ್ನೆಲೆಯಲ್ಲೇ \"Padya Patha Artha Grahike\" ಅನ್ನು ಸರಿಯಾಗಿ ತೋರಿಸುವ ಆಯ್ಕೆ ಯಾವುದು?",
+      "correct_answer": "\"Padya Patha Artha Grahike\" ಅನ್ನು ಸಂದರ್ಭ, ತಾರ್ಕಿಕತೆ ಮತ್ತು ಪಾಠ್ಯಾಧಾರದೊಂದಿಗೆ ಅನ್ವಯಿಸುವ ಆಯ್ಕೆ.",
+      "incorrect_answers": [
+        "\"Padya Patha Artha Grahike framework\" ಅನ್ನು ಸಂದರ್ಭವಿಲ್ಲದೆ ಬಳಸುವ ಆಯ್ಕೆ.",
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಕೇವಲ ಕಂಠಪಾಠವಾಗಿ ಹೇಳಿ ಕಾರಣ ನೀಡದ ಆಯ್ಕೆ.",
+        "\"Padya Patha Artha Grahike inference\" ಅನ್ನು ಸಾಕ್ಷ್ಯವಿಲ್ಲದೆ ನಿರ್ಣಯವಾಗಿ ಹೇಳುವ ಆಯ್ಕೆ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ನಲ್ಲಿ \"Padya Patha Artha Grahike framework\" ಆಧಾರವಾಗಿ ಉತ್ತರಿಸುವ ಮೊದಲು ಅತ್ಯವಶ್ಯಕ ಮೊದಲ ಹಂತ ಯಾವುದು?",
+      "correct_answer": "\"Padya Patha Artha Grahike framework\" ಅರ್ಥವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿ ಪಠ್ಯಾಧಾರವನ್ನು ಪರಿಶೀಲಿಸುವುದು.",
+      "incorrect_answers": [
+        "\"ಅರ್ಥಭೇದ ಗುರುತು\" ಆಯ್ದು ನೇರವಾಗಿ ಉತ್ತರ ನಿಗದಿಪಡಿಸುವುದು.",
+        "\"ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ\" ಮೇಲೆ ಮಾತ್ರ ಒತ್ತು ನೀಡಿ ಆಶಯವನ್ನು ಬಿಟ್ಟುಬಿಡುವುದು.",
+        "\"ತಾರ್ಕಿಕ ನಿರ್ಣಯ\" ಅನ್ನು ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿ ಉಳಿದ ತರ್ಕವನ್ನು ಕೈಬಿಡುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "\"Padya Patha Artha Grahike\" ಸಂಬಂಧಿಸಿದ \"Padya Patha Artha Grahike application\" ದೋಷಸೂಧಾರಣೆಗೆ ಸರಿಯಾದ ವಿಧಾನ ಯಾವುದು?",
+      "correct_answer": "ದೋಷವನ್ನು ಗುರುತಿಸಿ \"Padya Patha Artha Grahike application\" ಅನ್ನು ಅರ್ಥ-ಶೈಲಿ-ತರ್ಕದ ಜೊತೆ ಮರುಬರೆಯುವುದು.",
+      "incorrect_answers": [
+        "\"ವ್ಯಾಕರಣ ಶುದ್ಧತೆ\" ಸೇರಿಸಿ ಮೂಲ ಸಂದರ್ಭ ಬದಲಿಸುವುದು.",
+        "\"ಅರ್ಥಭೇದ ಗುರುತು\" ಮತ್ತು \"ಮುಖ್ಯ ಆಶಯ\" ಸೇರಿಸಿ ಆಧಾರವಿಲ್ಲದ ವಿವರಣೆ ಬರೆಯುವುದು.",
+        "ದೋಷವನ್ನು ಬಿಟ್ಟು ಪದರಚನೆಗೆ ಮಾತ್ರ ಸೀಮಿತವಾಗುವುದು."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "Assertion-Reason (\"Padya Patha Artha Grahike\"): Assertion: \"Padya Patha Artha Grahike inference\" ತಿಳಿದುಕೊಳ್ಳುವುದು ಅಗತ್ಯ. Reason: ಇದು ಸಾಕ್ಷ್ಯಾಧಾರಿತ ವ್ಯಾಖ್ಯಾನಕ್ಕೆ ನೆರವಾಗುತ್ತದೆ. ಸರಿಯಾದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",
+      "correct_answer": "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; Reason, Assertion ಅನ್ನು ಸರಿಯಾಗಿ ಸಮರ್ಥಿಸುತ್ತದೆ.",
+      "incorrect_answers": [
+        "Assertion ಮತ್ತು Reason ಎರಡೂ ಸತ್ಯ; ಆದರೆ Reason ಸಮರ್ಥನೆ ನೀಡುವುದಿಲ್ಲ.",
+        "Assertion ಸತ್ಯ, Reason ಅಸತ್ಯ.",
+        "Assertion ಅಸತ್ಯ, Reason ಸತ್ಯ."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 29)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 30)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 31)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 32)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 33)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 34)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 35)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 36)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply Padya Patha Artha Grahike stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike framework using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply Padya Patha Artha Grahike framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike application using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply Padya Patha Artha Grahike application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike inference using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply Padya Patha Artha Grahike inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply Padya Patha Artha Grahike stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike framework using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply Padya Patha Artha Grahike framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike application using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply Padya Patha Artha Grahike application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike inference using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply Padya Patha Artha Grahike inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply Padya Patha Artha Grahike stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike framework using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply Padya Patha Artha Grahike framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike application using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Padya Patha Artha Grahike application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike inference using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Padya Patha Artha Grahike inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply Padya Patha Artha Grahike stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike framework using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply Padya Patha Artha Grahike framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike application using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply Padya Patha Artha Grahike application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike inference using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply Padya Patha Artha Grahike inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply ಸಂದರ್ಭೋಚಿತ ಪದಬಳಕೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಾಕ್ಯ ರಚನೆ using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply ವಾಕ್ಯ ರಚನೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವ್ಯಾಕರಣ ಶುದ್ಧತೆ using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply ವ್ಯಾಕರಣ ಶುದ್ಧತೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply ಶೈಲಿ ಮತ್ತು ಅಭಿವ್ಯಕ್ತಿ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ತಾರ್ಕಿಕ ನಿರ್ಣಯ using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply ತಾರ್ಕಿಕ ನಿರ್ಣಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply ಪಾಠ್ಯಾಧಾರಿತ ವಿವರಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಅರ್ಥಭೇದ ಗುರುತು using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply ಅರ್ಥಭೇದ ಗುರುತು stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply ವಿಮರ್ಶಾತ್ಮಕ ಅರ್ಥಾನುಸಂಧಾನ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply Padya Patha Artha Grahike stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike framework using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply Padya Patha Artha Grahike framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike application using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply Padya Patha Artha Grahike application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies Padya Patha Artha Grahike inference using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply Padya Patha Artha Grahike inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಮುಖ್ಯ ಆಶಯ using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply ಮುಖ್ಯ ಆಶಯ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "Kannada",
+      "subject": "Kannada",
+      "chapter": "Padya Patha Artha Grahike",
+      "question": "In \"Padya Patha Artha Grahike\", which response applies ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply ಭಾವಾರ್ಥ ವಿಶ್ಲೇಷಣೆ stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}
