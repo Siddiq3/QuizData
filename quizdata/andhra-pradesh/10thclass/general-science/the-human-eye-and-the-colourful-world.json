@@ -8,7 +8,7 @@
       "correct_answer": "Eye Defects is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
         "The Human Eye And The Colourful World Application can replace all chapter logic without assumptions.",
-        "Accommodation is valid only if core conditions are ignored.",
+        "The Human Eye And The Colourful World Inference is valid only if core conditions are ignored.",
         "The Human Eye And The Colourful World is a memory cue, not a defensible explanation."
       ]
     },
@@ -19,9 +19,9 @@
       "question": "A learner applies colour perception in a new problem from \"The Human Eye and the Colourful World\". What is the best first step?",
       "correct_answer": "Define conditions, apply colour perception stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from The Human Eye and the Colourful World and skip checking constraints.",
-        "Use correction lenses as a shortcut and avoid interpretation.",
-        "Pick eye defects by intuition and finalise without verification."
+        "Start from The Human Eye and the Colourful World application and skip checking constraints.",
+        "Use The Human Eye and the Colourful World inference as a shortcut and avoid interpretation.",
+        "Pick accommodation by intuition and finalise without verification."
       ]
     },
     {
@@ -32,8 +32,8 @@
       "correct_answer": "An example where accommodation is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
         "An example where The Human Eye and the Colourful World is used without relevance to chapter context.",
-        "An example where The Human Eye and the Colourful World framework is memorised but not applied logically.",
-        "An example where The Human Eye and the Colourful World application is stated without evidence."
+        "An example where correction lenses is memorised but not applied logically.",
+        "An example where eye defects is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"The Human Eye and the Colourful World\": \"correction lenses works without constraints.\"",
       "correct_answer": "Correction Lenses works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Accommodation removes the need for all constraints in every case.",
-        "Colour Perception is always equivalent to correction lenses, regardless of context.",
-        "Eye Defects is enough even when data contradict the claim."
+        "Eye Defects removes the need for all constraints in every case.",
+        "The Human Eye And The Colourful World Inference is always equivalent to correction lenses, regardless of context.",
+        "The Human Eye And The Colourful World Framework is enough even when data contradict the claim."
       ]
     },
     {
@@ -68,8 +68,8 @@
       "correct_answer": "The Human Eye And The Colourful World Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
         "The Human Eye And The Colourful World - applied without confirming assumptions.",
-        "Eye Defects - interpreted against contradictory data.",
-        "Accommodation - concluded before checking consistency."
+        "The Human Eye And The Colourful World Inference - interpreted against contradictory data.",
+        "Colour Perception - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for The Human Eye and the Colourful World inference in \"The Human Eye and the Colourful World\"?",
       "correct_answer": "The inference that links The Human Eye and the Colourful World inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes The Human Eye and the Colourful World framework without checking relevance.",
-        "An inference that cites accommodation but skips logical steps.",
-        "An inference that repeats eye defects without interpretation."
+        "An inference that substitutes The Human Eye and the Colourful World without checking relevance.",
+        "An inference that cites The Human Eye and the Colourful World framework but skips logical steps.",
+        "An inference that repeats accommodation without interpretation."
       ]
     },
     {

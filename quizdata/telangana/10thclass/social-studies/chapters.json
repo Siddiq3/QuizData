@@ -2,135 +2,129 @@
   "results": [
     {
       "subject": "Social Studies",
-      "chapter": "The Rise of Nationalism in Europe",
-      "slug": "the-rise-of-nationalism-in-europe",
-      "file": "the-rise-of-nationalism-in-europe.json"
+      "chapter": "India: Relief Features",
+      "slug": "india-relief-features",
+      "file": "india-relief-features.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Nationalism in India",
-      "slug": "nationalism-in-india",
-      "file": "nationalism-in-india.json"
+      "chapter": "Ideas on Development",
+      "slug": "ideas-on-development",
+      "file": "ideas-on-development.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "The Making of a Global World",
-      "slug": "the-making-of-a-global-world",
-      "file": "the-making-of-a-global-world.json"
+      "chapter": "Production and Employment",
+      "slug": "production-and-employment",
+      "file": "production-and-employment.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "The Age of Industrialisation",
-      "slug": "the-age-of-industrialisation",
-      "file": "the-age-of-industrialisation.json"
+      "chapter": "Climate in Indian Context",
+      "slug": "climate-in-indian-context",
+      "file": "climate-in-indian-context.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Print Culture and the Modern World",
-      "slug": "print-culture-and-the-modern-world",
-      "file": "print-culture-and-the-modern-world.json"
+      "chapter": "Indian Rivers and Water Resources",
+      "slug": "indian-rivers-and-water-resources",
+      "file": "indian-rivers-and-water-resources.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Resources and Development",
-      "slug": "resources-and-development",
-      "file": "resources-and-development.json"
+      "chapter": "The Population",
+      "slug": "the-population",
+      "file": "the-population.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Forest and Wildlife Resources",
-      "slug": "forest-and-wildlife-resources",
-      "file": "forest-and-wildlife-resources.json"
+      "chapter": "Settlement and Migration",
+      "slug": "settlement-and-migration",
+      "file": "settlement-and-migration.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Water Resources",
-      "slug": "water-resources",
-      "file": "water-resources.json"
+      "chapter": "Rampur: Village Economy",
+      "slug": "rampur-village-economy",
+      "file": "rampur-village-economy.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Agriculture",
-      "slug": "agriculture",
-      "file": "agriculture.json"
+      "chapter": "Globalisation",
+      "slug": "globalisation",
+      "file": "globalisation.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Minerals and Energy Resources",
-      "slug": "minerals-and-energy-resources",
-      "file": "minerals-and-energy-resources.json"
+      "chapter": "Food Security",
+      "slug": "food-security",
+      "file": "food-security.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Manufacturing Industries",
-      "slug": "manufacturing-industries",
-      "file": "manufacturing-industries.json"
+      "chapter": "Sustainable Development with Equity",
+      "slug": "sustainable-development-with-equity",
+      "file": "sustainable-development-with-equity.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Lifelines of National Economy",
-      "slug": "lifelines-of-national-economy",
-      "file": "lifelines-of-national-economy.json"
+      "chapter": "The World Between Wars (1900-1950)",
+      "slug": "the-world-between-wars-1900-1950",
+      "file": "the-world-between-wars-1900-1950.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Power Sharing",
-      "slug": "power-sharing",
-      "file": "power-sharing.json"
+      "chapter": "National Liberation Movements in the Colonies",
+      "slug": "national-liberation-movements-in-the-colonies",
+      "file": "national-liberation-movements-in-the-colonies.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Federalism",
-      "slug": "federalism",
-      "file": "federalism.json"
+      "chapter": "National Movement in India - Partition and Independence (1939-1947)",
+      "slug": "national-movement-in-india-partition-and-independence-1939-1947",
+      "file": "national-movement-in-india-partition-and-independence-1939-1947.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Gender Religion and Caste",
-      "slug": "gender-religion-and-caste",
-      "file": "gender-religion-and-caste.json"
+      "chapter": "Making of Independent India's Constitution",
+      "slug": "making-of-independent-indias-constitution",
+      "file": "making-of-independent-indias-constitution.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Political Parties",
-      "slug": "political-parties",
-      "file": "political-parties.json"
+      "chapter": "The Election Process in India",
+      "slug": "the-election-process-in-india",
+      "file": "the-election-process-in-india.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Outcomes of Democracy",
-      "slug": "outcomes-of-democracy",
-      "file": "outcomes-of-democracy.json"
+      "chapter": "Independent India (The First 30 Years: 1947-1977)",
+      "slug": "independent-india-the-first-30-years-1947-1977",
+      "file": "independent-india-the-first-30-years-1947-1977.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Development",
-      "slug": "development",
-      "file": "development.json"
+      "chapter": "Emerging Political Trends (1977-2007)",
+      "slug": "emerging-political-trends-1977-2007",
+      "file": "emerging-political-trends-1977-2007.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Sectors of the Indian Economy",
-      "slug": "sectors-of-the-indian-economy",
-      "file": "sectors-of-the-indian-economy.json"
+      "chapter": "Post-War World and India",
+      "slug": "post-war-world-and-india",
+      "file": "post-war-world-and-india.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Money and Credit",
-      "slug": "money-and-credit",
-      "file": "money-and-credit.json"
+      "chapter": "Social Movements in Our Times",
+      "slug": "social-movements-in-our-times",
+      "file": "social-movements-in-our-times.json"
     },
     {
       "subject": "Social Studies",
-      "chapter": "Globalisation and the Indian Economy",
-      "slug": "globalisation-and-the-indian-economy",
-      "file": "globalisation-and-the-indian-economy.json"
-    },
-    {
-      "subject": "Social Studies",
-      "chapter": "Consumer Rights",
-      "slug": "consumer-rights",
-      "file": "consumer-rights.json"
+      "chapter": "The Movement for the Formation of Telangana State",
+      "slug": "the-movement-for-the-formation-of-telangana-state",
+      "file": "the-movement-for-the-formation-of-telangana-state.json"
     }
   ]
 }

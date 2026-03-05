@@ -8,8 +8,8 @@
       "correct_answer": "Nervous Coordination is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
         "Control And Coordination Inference can replace all chapter logic without assumptions.",
-        "Plant Hormones is valid only if core conditions are ignored.",
-        "Control And Coordination Application is a memory cue, not a defensible explanation."
+        "Control And Coordination Framework is valid only if core conditions are ignored.",
+        "Control And Coordination is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies hormonal control in a new problem from \"Control and Coordination\". What is the best first step?",
       "correct_answer": "Define conditions, apply hormonal control stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from nervous coordination and skip checking constraints.",
-        "Use Control and Coordination inference as a shortcut and avoid interpretation.",
-        "Pick plant hormones by intuition and finalise without verification."
+        "Start from Control and Coordination application and skip checking constraints.",
+        "Use plant hormones as a shortcut and avoid interpretation.",
+        "Pick Control and Coordination framework by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of reflex action in \"Control and Coordination\"?",
       "correct_answer": "An example where reflex action is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Control and Coordination application is used without relevance to chapter context.",
-        "An example where Control and Coordination framework is memorised but not applied logically.",
-        "An example where Control and Coordination inference is stated without evidence."
+        "An example where Control and Coordination framework is used without relevance to chapter context.",
+        "An example where hormonal control is memorised but not applied logically.",
+        "An example where Control and Coordination application is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Control and Coordination\": \"plant hormones works without constraints.\"",
       "correct_answer": "Plant Hormones works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Control And Coordination Application removes the need for all constraints in every case.",
+        "Hormonal Control removes the need for all constraints in every case.",
         "Reflex Action is always equivalent to plant hormones, regardless of context.",
-        "Hormonal Control is enough even when data contradict the claim."
+        "Control And Coordination Inference is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Control and Coordination\", which mismatch is incorrect?",
       "correct_answer": "Control And Coordination Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Nervous Coordination - applied without confirming assumptions.",
-        "Plant Hormones - interpreted against contradictory data.",
-        "Reflex Action - concluded before checking consistency."
+        "Control And Coordination Application - applied without confirming assumptions.",
+        "Reflex Action - interpreted against contradictory data.",
+        "Nervous Coordination - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Control and Coordination inference in \"Control and Coordination\"?",
       "correct_answer": "The inference that links Control and Coordination inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes nervous coordination without checking relevance.",
-        "An inference that cites reflex action but skips logical steps.",
-        "An inference that repeats Control and Coordination without interpretation."
+        "An inference that substitutes Control and Coordination application without checking relevance.",
+        "An inference that cites nervous coordination but skips logical steps.",
+        "An inference that repeats plant hormones without interpretation."
       ]
     },
     {

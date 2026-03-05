@@ -7,9 +7,9 @@
       "question": "In \"Resources and Development\", which statement is most accurate about scientific principle?",
       "correct_answer": "Scientific Principle is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Resources And Development can replace all chapter logic without assumptions.",
-        "Experimental Logic is valid only if core conditions are ignored.",
-        "Cause-Effect Relation is a memory cue, not a defensible explanation."
+        "Resources And Development Inference can replace all chapter logic without assumptions.",
+        "Data Interpretation is valid only if core conditions are ignored.",
+        "Resources And Development Application is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies cause-effect relation in a new problem from \"Resources and Development\". What is the best first step?",
       "correct_answer": "Define conditions, apply cause-effect relation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from experimental logic and skip checking constraints.",
-        "Use Resources and Development as a shortcut and avoid interpretation.",
-        "Pick Resources and Development application by intuition and finalise without verification."
+        "Start from scientific principle and skip checking constraints.",
+        "Use Resources and Development inference as a shortcut and avoid interpretation.",
+        "Pick Resources and Development by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of experimental logic in \"Resources and Development\"?",
       "correct_answer": "An example where experimental logic is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Resources and Development is used without relevance to chapter context.",
-        "An example where cause-effect relation is memorised but not applied logically.",
-        "An example where scientific principle is stated without evidence."
+        "An example where Resources and Development inference is used without relevance to chapter context.",
+        "An example where Resources and Development framework is memorised but not applied logically.",
+        "An example where Resources and Development application is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Resources and Development\": \"data interpretation works without constraints.\"",
       "correct_answer": "Data Interpretation works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Resources And Development Inference removes the need for all constraints in every case.",
-        "Resources And Development Framework is always equivalent to data interpretation, regardless of context.",
-        "Cause-Effect Relation is enough even when data contradict the claim."
+        "Resources And Development Framework removes the need for all constraints in every case.",
+        "Resources And Development Application is always equivalent to data interpretation, regardless of context.",
+        "Resources And Development Inference is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Resources and Development\", which mismatch is incorrect?",
       "correct_answer": "Resources And Development Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Data Interpretation - applied without confirming assumptions.",
-        "Resources And Development - interpreted against contradictory data.",
-        "Scientific Principle - concluded before checking consistency."
+        "Resources And Development - applied without confirming assumptions.",
+        "Cause-Effect Relation - interpreted against contradictory data.",
+        "Resources And Development Application - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Resources and Development inference in \"Resources and Development\"?",
       "correct_answer": "The inference that links Resources and Development inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Resources and Development application without checking relevance.",
-        "An inference that cites Resources and Development but skips logical steps.",
-        "An inference that repeats data interpretation without interpretation."
+        "An inference that substitutes Resources and Development framework without checking relevance.",
+        "An inference that cites cause-effect relation but skips logical steps.",
+        "An inference that repeats experimental logic without interpretation."
       ]
     },
     {

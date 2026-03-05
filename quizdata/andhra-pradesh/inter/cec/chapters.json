@@ -2,75 +2,51 @@
   "results": [
     {
       "subject": "CEC",
-      "chapter": "Microeconomics: Demand, Supply and Consumer Behaviour",
-      "slug": "microeconomics-demand-supply-and-consumer-behaviour",
-      "file": "microeconomics-demand-supply-and-consumer-behaviour.json"
+      "chapter": "Civics (1st Year)",
+      "slug": "civics-1st-year",
+      "file": "civics-1st-year.json"
     },
     {
       "subject": "CEC",
-      "chapter": "National Income and Macroeconomic Indicators",
-      "slug": "national-income-and-macroeconomic-indicators",
-      "file": "national-income-and-macroeconomic-indicators.json"
+      "chapter": "Civics (2nd Year)",
+      "slug": "civics-2nd-year",
+      "file": "civics-2nd-year.json"
     },
     {
       "subject": "CEC",
-      "chapter": "Money, Banking and Public Finance",
-      "slug": "money-banking-and-public-finance",
-      "file": "money-banking-and-public-finance.json"
+      "chapter": "Economics (1st Year)",
+      "slug": "economics-1st-year",
+      "file": "economics-1st-year.json"
     },
     {
       "subject": "CEC",
-      "chapter": "Indian Economic Development and Planning",
-      "slug": "indian-economic-development-and-planning",
-      "file": "indian-economic-development-and-planning.json"
+      "chapter": "Economics (2nd Year)",
+      "slug": "economics-2nd-year",
+      "file": "economics-2nd-year.json"
     },
     {
       "subject": "CEC",
-      "chapter": "Indian Constitution: Features and Fundamental Rights",
-      "slug": "indian-constitution-features-and-fundamental-rights",
-      "file": "indian-constitution-features-and-fundamental-rights.json"
+      "chapter": "Commerce and Accountancy (1st Year)",
+      "slug": "commerce-and-accountancy-1st-year",
+      "file": "commerce-and-accountancy-1st-year.json"
     },
     {
       "subject": "CEC",
-      "chapter": "Legislature, Executive and Judiciary",
-      "slug": "legislature-executive-and-judiciary",
-      "file": "legislature-executive-and-judiciary.json"
+      "chapter": "Commerce (2nd Year)",
+      "slug": "commerce-2nd-year",
+      "file": "commerce-2nd-year.json"
     },
     {
       "subject": "CEC",
-      "chapter": "Federalism, Local Governance and Elections",
-      "slug": "federalism-local-governance-and-elections",
-      "file": "federalism-local-governance-and-elections.json"
+      "chapter": "History (1st Year)",
+      "slug": "history-1st-year",
+      "file": "history-1st-year.json"
     },
     {
       "subject": "CEC",
-      "chapter": "International Relations and Contemporary Politics",
-      "slug": "international-relations-and-contemporary-politics",
-      "file": "international-relations-and-contemporary-politics.json"
-    },
-    {
-      "subject": "CEC",
-      "chapter": "Accounting: Journal, Ledger and Trial Balance",
-      "slug": "accounting-journal-ledger-and-trial-balance",
-      "file": "accounting-journal-ledger-and-trial-balance.json"
-    },
-    {
-      "subject": "CEC",
-      "chapter": "Final Accounts and Financial Statements",
-      "slug": "final-accounts-and-financial-statements",
-      "file": "final-accounts-and-financial-statements.json"
-    },
-    {
-      "subject": "CEC",
-      "chapter": "Business Organisation and Management Principles",
-      "slug": "business-organisation-and-management-principles",
-      "file": "business-organisation-and-management-principles.json"
-    },
-    {
-      "subject": "CEC",
-      "chapter": "Business Environment, Trade and Entrepreneurship",
-      "slug": "business-environment-trade-and-entrepreneurship",
-      "file": "business-environment-trade-and-entrepreneurship.json"
+      "chapter": "History (2nd Year)",
+      "slug": "history-2nd-year",
+      "file": "history-2nd-year.json"
     }
   ]
 }

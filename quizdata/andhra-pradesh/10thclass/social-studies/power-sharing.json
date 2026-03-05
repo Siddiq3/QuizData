@@ -7,8 +7,8 @@
       "question": "In \"Power Sharing\", which statement is most accurate about majoritarianism?",
       "correct_answer": "Majoritarianism is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Power Sharing Application can replace all chapter logic without assumptions.",
-        "Minority Rights is valid only if core conditions are ignored.",
+        "Power Sharing Inference can replace all chapter logic without assumptions.",
+        "Consensus Democracy is valid only if core conditions are ignored.",
         "Institutional Design is a memory cue, not a defensible explanation."
       ]
     },
@@ -19,9 +19,9 @@
       "question": "A learner applies minority rights in a new problem from \"Power Sharing\". What is the best first step?",
       "correct_answer": "Define conditions, apply minority rights stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Power Sharing and skip checking constraints.",
-        "Use Power Sharing application as a shortcut and avoid interpretation.",
-        "Pick institutional design by intuition and finalise without verification."
+        "Start from Power Sharing inference and skip checking constraints.",
+        "Use Power Sharing as a shortcut and avoid interpretation.",
+        "Pick Power Sharing framework by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of institutional design in \"Power Sharing\"?",
       "correct_answer": "An example where institutional design is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Power Sharing framework is used without relevance to chapter context.",
-        "An example where Power Sharing application is memorised but not applied logically.",
-        "An example where Power Sharing is stated without evidence."
+        "An example where Power Sharing is used without relevance to chapter context.",
+        "An example where majoritarianism is memorised but not applied logically.",
+        "An example where Power Sharing framework is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Power Sharing\": \"consensus democracy works without constraints.\"",
       "correct_answer": "Consensus Democracy works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Power Sharing removes the need for all constraints in every case.",
-        "Power Sharing Application is always equivalent to consensus democracy, regardless of context.",
-        "Power Sharing Framework is enough even when data contradict the claim."
+        "Power Sharing Inference removes the need for all constraints in every case.",
+        "Power Sharing Framework is always equivalent to consensus democracy, regardless of context.",
+        "Institutional Design is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Power Sharing\", which mismatch is incorrect?",
       "correct_answer": "Power Sharing Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Power Sharing Inference - applied without confirming assumptions.",
-        "Majoritarianism - interpreted against contradictory data.",
-        "Institutional Design - concluded before checking consistency."
+        "Minority Rights - applied without confirming assumptions.",
+        "Power Sharing - interpreted against contradictory data.",
+        "Majoritarianism - concluded before checking consistency."
       ]
     },
     {
@@ -93,7 +93,7 @@
       "incorrect_answers": [
         "An inference that substitutes consensus democracy without checking relevance.",
         "An inference that cites institutional design but skips logical steps.",
-        "An inference that repeats Power Sharing framework without interpretation."
+        "An inference that repeats Power Sharing application without interpretation."
       ]
     },
     {

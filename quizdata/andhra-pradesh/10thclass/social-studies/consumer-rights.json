@@ -7,9 +7,9 @@
       "question": "In \"Consumer Rights\", which statement is most accurate about consumer rights?",
       "correct_answer": "Consumer Rights is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Quality Standards can replace all chapter logic without assumptions.",
-        "Consumer Rights Framework is valid only if core conditions are ignored.",
-        "Redressal Mechanism is a memory cue, not a defensible explanation."
+        "Consumer Rights Inference can replace all chapter logic without assumptions.",
+        "Market Transparency is valid only if core conditions are ignored.",
+        "Quality Standards is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies quality standards in a new problem from \"Consumer Rights\". What is the best first step?",
       "correct_answer": "Define conditions, apply quality standards stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Consumer Rights application and skip checking constraints.",
-        "Use market transparency as a shortcut and avoid interpretation.",
-        "Pick redressal mechanism by intuition and finalise without verification."
+        "Start from consumer rights and skip checking constraints.",
+        "Use Consumer Rights application as a shortcut and avoid interpretation.",
+        "Pick Consumer Rights inference by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of redressal mechanism in \"Consumer Rights\"?",
       "correct_answer": "An example where redressal mechanism is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Consumer Rights application is used without relevance to chapter context.",
-        "An example where quality standards is memorised but not applied logically.",
-        "An example where market transparency is stated without evidence."
+        "An example where consumer rights is used without relevance to chapter context.",
+        "An example where market transparency is memorised but not applied logically.",
+        "An example where Consumer Rights application is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Consumer Rights\": \"market transparency works without constraints.\"",
       "correct_answer": "Market Transparency works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Redressal Mechanism removes the need for all constraints in every case.",
+        "Consumer Rights removes the need for all constraints in every case.",
         "Consumer Rights Inference is always equivalent to market transparency, regardless of context.",
-        "Consumer Rights Framework is enough even when data contradict the claim."
+        "Quality Standards is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,8 +67,8 @@
       "question": "In \"Consumer Rights\", which mismatch is incorrect?",
       "correct_answer": "Consumer Rights Application - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Redressal Mechanism - applied without confirming assumptions.",
-        "Consumer Rights Inference - interpreted against contradictory data.",
+        "Quality Standards - applied without confirming assumptions.",
+        "Market Transparency - interpreted against contradictory data.",
         "Consumer Rights - concluded before checking consistency."
       ]
     },
@@ -92,7 +92,7 @@
       "correct_answer": "The inference that links consumer rights to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
         "An inference that substitutes market transparency without checking relevance.",
-        "An inference that cites quality standards but skips logical steps.",
+        "An inference that cites Consumer Rights inference but skips logical steps.",
         "An inference that repeats Consumer Rights framework without interpretation."
       ]
     },
@@ -103,9 +103,9 @@
       "question": "In \"Consumer Rights\", which statement is most accurate about quality standards?",
       "correct_answer": "Quality Standards is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Redressal Mechanism can replace all chapter logic without assumptions.",
-        "Consumer Rights Inference is valid only if core conditions are ignored.",
-        "Market Transparency is a memory cue, not a defensible explanation."
+        "Consumer Rights Application can replace all chapter logic without assumptions.",
+        "Redressal Mechanism is valid only if core conditions are ignored.",
+        "Consumer Rights is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -115,9 +115,9 @@
       "question": "A learner applies redressal mechanism in a new problem from \"Consumer Rights\". What is the best first step?",
       "correct_answer": "Define conditions, apply redressal mechanism stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from market transparency and skip checking constraints.",
-        "Use consumer rights as a shortcut and avoid interpretation.",
-        "Pick Consumer Rights application by intuition and finalise without verification."
+        "Start from Consumer Rights framework and skip checking constraints.",
+        "Use Consumer Rights inference as a shortcut and avoid interpretation.",
+        "Pick consumer rights by intuition and finalise without verification."
       ]
     },
     {
@@ -127,9 +127,9 @@
       "question": "Which option shows a valid example of market transparency in \"Consumer Rights\"?",
       "correct_answer": "An example where market transparency is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where quality standards is used without relevance to chapter context.",
-        "An example where Consumer Rights framework is memorised but not applied logically.",
-        "An example where redressal mechanism is stated without evidence."
+        "An example where Consumer Rights framework is used without relevance to chapter context.",
+        "An example where Consumer Rights inference is memorised but not applied logically.",
+        "An example where consumer rights is stated without evidence."
       ]
     },
     {
@@ -139,9 +139,9 @@
       "question": "Choose the most defensible correction for this claim in \"Consumer Rights\": \"Consumer Rights framework works without constraints.\"",
       "correct_answer": "Consumer Rights Framework works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Market Transparency removes the need for all constraints in every case.",
+        "Consumer Rights Inference removes the need for all constraints in every case.",
         "Redressal Mechanism is always equivalent to Consumer Rights framework, regardless of context.",
-        "Quality Standards is enough even when data contradict the claim."
+        "Consumer Rights Application is enough even when data contradict the claim."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "question": "Which inference is most rigorous for quality standards in \"Consumer Rights\"?",
       "correct_answer": "The inference that links quality standards to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes consumer rights without checking relevance.",
-        "An inference that cites redressal mechanism but skips logical steps.",
-        "An inference that repeats Consumer Rights inference without interpretation."
+        "An inference that substitutes Consumer Rights framework without checking relevance.",
+        "An inference that cites market transparency but skips logical steps.",
+        "An inference that repeats Consumer Rights application without interpretation."
       ]
     },
     {
@@ -187,9 +187,9 @@
       "question": "In \"Consumer Rights\", which statement is most accurate about redressal mechanism?",
       "correct_answer": "Redressal Mechanism is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Consumer Rights Framework can replace all chapter logic without assumptions.",
-        "Consumer Rights Application is valid only if core conditions are ignored.",
-        "Market Transparency is a memory cue, not a defensible explanation."
+        "Consumer Rights can replace all chapter logic without assumptions.",
+        "Consumer Rights Framework is valid only if core conditions are ignored.",
+        "Consumer Rights Inference is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -199,8 +199,8 @@
       "question": "A learner applies market transparency in a new problem from \"Consumer Rights\". What is the best first step?",
       "correct_answer": "Define conditions, apply market transparency stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from redressal mechanism and skip checking constraints.",
-        "Use Consumer Rights application as a shortcut and avoid interpretation.",
+        "Start from consumer rights and skip checking constraints.",
+        "Use Consumer Rights inference as a shortcut and avoid interpretation.",
         "Pick quality standards by intuition and finalise without verification."
       ]
     },
@@ -211,9 +211,9 @@
       "question": "Which option shows a valid example of Consumer Rights framework in \"Consumer Rights\"?",
       "correct_answer": "An example where Consumer Rights framework is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Consumer Rights inference is used without relevance to chapter context.",
-        "An example where Consumer Rights application is memorised but not applied logically.",
-        "An example where redressal mechanism is stated without evidence."
+        "An example where Consumer Rights application is used without relevance to chapter context.",
+        "An example where consumer rights is memorised but not applied logically.",
+        "An example where Consumer Rights inference is stated without evidence."
       ]
     },
     {
@@ -223,9 +223,9 @@
       "question": "Choose the most defensible correction for this claim in \"Consumer Rights\": \"Consumer Rights application works without constraints.\"",
       "correct_answer": "Consumer Rights Application works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Consumer Rights removes the need for all constraints in every case.",
-        "Market Transparency is always equivalent to Consumer Rights application, regardless of context.",
-        "Consumer Rights Framework is enough even when data contradict the claim."
+        "Consumer Rights Framework removes the need for all constraints in every case.",
+        "Consumer Rights is always equivalent to Consumer Rights application, regardless of context.",
+        "Redressal Mechanism is enough even when data contradict the claim."
       ]
     },
     {
@@ -259,9 +259,9 @@
       "question": "Which inference is most rigorous for redressal mechanism in \"Consumer Rights\"?",
       "correct_answer": "The inference that links redressal mechanism to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Consumer Rights framework without checking relevance.",
-        "An inference that cites consumer rights but skips logical steps.",
-        "An inference that repeats market transparency without interpretation."
+        "An inference that substitutes market transparency without checking relevance.",
+        "An inference that cites Consumer Rights framework but skips logical steps.",
+        "An inference that repeats Consumer Rights inference without interpretation."
       ]
     },
     {
@@ -271,8 +271,8 @@
       "question": "In \"Consumer Rights\", which statement is most accurate about market transparency?",
       "correct_answer": "Market Transparency is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Consumer Rights can replace all chapter logic without assumptions.",
-        "Consumer Rights Application is valid only if core conditions are ignored.",
+        "Quality Standards can replace all chapter logic without assumptions.",
+        "Consumer Rights Framework is valid only if core conditions are ignored.",
         "Redressal Mechanism is a memory cue, not a defensible explanation."
       ]
     },
@@ -283,9 +283,9 @@
       "question": "A learner applies Consumer Rights framework in a new problem from \"Consumer Rights\". What is the best first step?",
       "correct_answer": "Define conditions, apply Consumer Rights framework stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from market transparency and skip checking constraints.",
-        "Use redressal mechanism as a shortcut and avoid interpretation.",
-        "Pick Consumer Rights inference by intuition and finalise without verification."
+        "Start from Consumer Rights application and skip checking constraints.",
+        "Use consumer rights as a shortcut and avoid interpretation.",
+        "Pick market transparency by intuition and finalise without verification."
       ]
     },
     {
@@ -295,9 +295,9 @@
       "question": "Which option shows a valid example of Consumer Rights application in \"Consumer Rights\"?",
       "correct_answer": "An example where Consumer Rights application is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where consumer rights is used without relevance to chapter context.",
-        "An example where redressal mechanism is memorised but not applied logically.",
-        "An example where Consumer Rights inference is stated without evidence."
+        "An example where redressal mechanism is used without relevance to chapter context.",
+        "An example where market transparency is memorised but not applied logically.",
+        "An example where Consumer Rights framework is stated without evidence."
       ]
     },
     {
@@ -307,9 +307,9 @@
       "question": "Choose the most defensible correction for this claim in \"Consumer Rights\": \"Consumer Rights inference works without constraints.\"",
       "correct_answer": "Consumer Rights Inference works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Quality Standards removes the need for all constraints in every case.",
-        "Market Transparency is always equivalent to Consumer Rights inference, regardless of context.",
-        "Consumer Rights is enough even when data contradict the claim."
+        "Consumer Rights Framework removes the need for all constraints in every case.",
+        "Redressal Mechanism is always equivalent to Consumer Rights inference, regardless of context.",
+        "Consumer Rights Application is enough even when data contradict the claim."
       ]
     },
     {
@@ -343,9 +343,9 @@
       "question": "Which inference is most rigorous for market transparency in \"Consumer Rights\"?",
       "correct_answer": "The inference that links market transparency to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Consumer Rights inference without checking relevance.",
-        "An inference that cites quality standards but skips logical steps.",
-        "An inference that repeats redressal mechanism without interpretation."
+        "An inference that substitutes quality standards without checking relevance.",
+        "An inference that cites Consumer Rights application but skips logical steps.",
+        "An inference that repeats Consumer Rights framework without interpretation."
       ]
     },
     {
@@ -356,8 +356,8 @@
       "correct_answer": "Consumer Rights Framework is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
         "Consumer Rights can replace all chapter logic without assumptions.",
-        "Quality Standards is valid only if core conditions are ignored.",
-        "Redressal Mechanism is a memory cue, not a defensible explanation."
+        "Consumer Rights Application is valid only if core conditions are ignored.",
+        "Quality Standards is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -368,8 +368,8 @@
       "correct_answer": "Define conditions, apply Consumer Rights application stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
         "Start from Consumer Rights framework and skip checking constraints.",
-        "Use consumer rights as a shortcut and avoid interpretation.",
-        "Pick redressal mechanism by intuition and finalise without verification."
+        "Use Consumer Rights inference as a shortcut and avoid interpretation.",
+        "Pick market transparency by intuition and finalise without verification."
       ]
     },
     {
@@ -379,9 +379,9 @@
       "question": "Which option shows a valid example of Consumer Rights inference in \"Consumer Rights\"?",
       "correct_answer": "An example where Consumer Rights inference is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where quality standards is used without relevance to chapter context.",
+        "An example where consumer rights is used without relevance to chapter context.",
         "An example where Consumer Rights framework is memorised but not applied logically.",
-        "An example where consumer rights is stated without evidence."
+        "An example where quality standards is stated without evidence."
       ]
     },
     {
@@ -391,9 +391,9 @@
       "question": "Choose the most defensible correction for this claim in \"Consumer Rights\": \"consumer rights works without constraints.\"",
       "correct_answer": "Consumer Rights works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Redressal Mechanism removes the need for all constraints in every case.",
-        "Market Transparency is always equivalent to consumer rights, regardless of context.",
-        "Quality Standards is enough even when data contradict the claim."
+        "Consumer Rights Framework removes the need for all constraints in every case.",
+        "Consumer Rights Application is always equivalent to consumer rights, regardless of context.",
+        "Market Transparency is enough even when data contradict the claim."
       ]
     },
     {
@@ -428,8 +428,8 @@
       "correct_answer": "The inference that links Consumer Rights framework to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
         "An inference that substitutes redressal mechanism without checking relevance.",
-        "An inference that cites consumer rights but skips logical steps.",
-        "An inference that repeats quality standards without interpretation."
+        "An inference that cites Consumer Rights inference but skips logical steps.",
+        "An inference that repeats market transparency without interpretation."
       ]
     },
     {
@@ -439,9 +439,9 @@
       "question": "In \"Consumer Rights\", which statement is most accurate about Consumer Rights application?",
       "correct_answer": "Consumer Rights Application is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Market Transparency can replace all chapter logic without assumptions.",
-        "Consumer Rights Framework is valid only if core conditions are ignored.",
-        "Consumer Rights is a memory cue, not a defensible explanation."
+        "Consumer Rights Framework can replace all chapter logic without assumptions.",
+        "Redressal Mechanism is valid only if core conditions are ignored.",
+        "Quality Standards is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -451,9 +451,9 @@
       "question": "A learner applies Consumer Rights inference in a new problem from \"Consumer Rights\". What is the best first step?",
       "correct_answer": "Define conditions, apply Consumer Rights inference stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Consumer Rights framework and skip checking constraints.",
-        "Use Consumer Rights application as a shortcut and avoid interpretation.",
-        "Pick redressal mechanism by intuition and finalise without verification."
+        "Start from redressal mechanism and skip checking constraints.",
+        "Use consumer rights as a shortcut and avoid interpretation.",
+        "Pick Consumer Rights application by intuition and finalise without verification."
       ]
     },
     {
@@ -463,9 +463,9 @@
       "question": "Which option shows a valid example of consumer rights in \"Consumer Rights\"?",
       "correct_answer": "An example where consumer rights is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Consumer Rights inference is used without relevance to chapter context.",
-        "An example where Consumer Rights framework is memorised but not applied logically.",
-        "An example where quality standards is stated without evidence."
+        "An example where quality standards is used without relevance to chapter context.",
+        "An example where Consumer Rights inference is memorised but not applied logically.",
+        "An example where redressal mechanism is stated without evidence."
       ]
     },
     {
@@ -476,8 +476,8 @@
       "correct_answer": "Quality Standards works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
         "Consumer Rights removes the need for all constraints in every case.",
-        "Consumer Rights Framework is always equivalent to quality standards, regardless of context.",
-        "Market Transparency is enough even when data contradict the claim."
+        "Market Transparency is always equivalent to quality standards, regardless of context.",
+        "Consumer Rights Inference is enough even when data contradict the claim."
       ]
     },
     {
@@ -511,9 +511,9 @@
       "question": "Which inference is most rigorous for Consumer Rights application in \"Consumer Rights\"?",
       "correct_answer": "The inference that links Consumer Rights application to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Consumer Rights framework without checking relevance.",
-        "An inference that cites Consumer Rights inference but skips logical steps.",
-        "An inference that repeats market transparency without interpretation."
+        "An inference that substitutes consumer rights without checking relevance.",
+        "An inference that cites market transparency but skips logical steps.",
+        "An inference that repeats Consumer Rights framework without interpretation."
       ]
     },
     {
@@ -523,8 +523,8 @@
       "question": "In \"Consumer Rights\", which statement is most accurate about Consumer Rights inference?",
       "correct_answer": "Consumer Rights Inference is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Quality Standards can replace all chapter logic without assumptions.",
-        "Consumer Rights is valid only if core conditions are ignored.",
+        "Market Transparency can replace all chapter logic without assumptions.",
+        "Redressal Mechanism is valid only if core conditions are ignored.",
         "Consumer Rights Application is a memory cue, not a defensible explanation."
       ]
     },
@@ -535,8 +535,8 @@
       "question": "A learner applies consumer rights in a new problem from \"Consumer Rights\". What is the best first step?",
       "correct_answer": "Define conditions, apply consumer rights stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from quality standards and skip checking constraints.",
-        "Use Consumer Rights application as a shortcut and avoid interpretation.",
+        "Start from Consumer Rights application and skip checking constraints.",
+        "Use quality standards as a shortcut and avoid interpretation.",
         "Pick Consumer Rights framework by intuition and finalise without verification."
       ]
     },
@@ -547,8 +547,8 @@
       "question": "Which option shows a valid example of quality standards in \"Consumer Rights\"?",
       "correct_answer": "An example where quality standards is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where market transparency is used without relevance to chapter context.",
-        "An example where consumer rights is memorised but not applied logically.",
+        "An example where redressal mechanism is used without relevance to chapter context.",
+        "An example where Consumer Rights inference is memorised but not applied logically.",
         "An example where Consumer Rights application is stated without evidence."
       ]
     },
@@ -559,9 +559,9 @@
       "question": "Choose the most defensible correction for this claim in \"Consumer Rights\": \"redressal mechanism works without constraints.\"",
       "correct_answer": "Redressal Mechanism works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Consumer Rights Application removes the need for all constraints in every case.",
-        "Consumer Rights is always equivalent to redressal mechanism, regardless of context.",
-        "Market Transparency is enough even when data contradict the claim."
+        "Consumer Rights Inference removes the need for all constraints in every case.",
+        "Consumer Rights Framework is always equivalent to redressal mechanism, regardless of context.",
+        "Quality Standards is enough even when data contradict the claim."
       ]
     },
     {
@@ -595,8 +595,8 @@
       "question": "Which inference is most rigorous for Consumer Rights inference in \"Consumer Rights\"?",
       "correct_answer": "The inference that links Consumer Rights inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes quality standards without checking relevance.",
-        "An inference that cites consumer rights but skips logical steps.",
+        "An inference that substitutes consumer rights without checking relevance.",
+        "An inference that cites Consumer Rights framework but skips logical steps.",
         "An inference that repeats market transparency without interpretation."
       ]
     },

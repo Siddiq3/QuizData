@@ -7,9 +7,9 @@
       "question": "In \"Heredity and Evolution\", which statement is most accurate about Mendel laws?",
       "correct_answer": "Mendel Laws is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Inheritance Pattern can replace all chapter logic without assumptions.",
-        "Heredity And Evolution Application is valid only if core conditions are ignored.",
-        "Speciation is a memory cue, not a defensible explanation."
+        "Heredity And Evolution Application can replace all chapter logic without assumptions.",
+        "Speciation is valid only if core conditions are ignored.",
+        "Heredity And Evolution Inference is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies variation in a new problem from \"Heredity and Evolution\". What is the best first step?",
       "correct_answer": "Define conditions, apply variation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from common ancestry and skip checking constraints.",
-        "Use Mendel laws as a shortcut and avoid interpretation.",
-        "Pick natural selection by intuition and finalise without verification."
+        "Start from Heredity and Evolution inference and skip checking constraints.",
+        "Use Heredity and Evolution framework as a shortcut and avoid interpretation.",
+        "Pick Heredity and Evolution application by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of speciation in \"Heredity and Evolution\"?",
       "correct_answer": "An example where speciation is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where fossil evidence is used without relevance to chapter context.",
-        "An example where inheritance pattern is memorised but not applied logically.",
-        "An example where Heredity and Evolution application is stated without evidence."
+        "An example where adaptation is used without relevance to chapter context.",
+        "An example where natural selection is memorised but not applied logically.",
+        "An example where fossil evidence is stated without evidence."
       ]
     },
     {
@@ -44,8 +44,8 @@
       "correct_answer": "Inheritance Pattern works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
         "Heredity And Evolution Inference removes the need for all constraints in every case.",
-        "Fossil Evidence is always equivalent to inheritance pattern, regardless of context.",
-        "Adaptation is enough even when data contradict the claim."
+        "Adaptation is always equivalent to inheritance pattern, regardless of context.",
+        "Variation is enough even when data contradict the claim."
       ]
     },
     {
@@ -68,8 +68,8 @@
       "correct_answer": "Common Ancestry - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
         "Variation - applied without confirming assumptions.",
-        "Inheritance Pattern - interpreted against contradictory data.",
-        "Natural Selection - concluded before checking consistency."
+        "Mendel Laws - interpreted against contradictory data.",
+        "Heredity And Evolution Inference - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for fossil evidence in \"Heredity and Evolution\"?",
       "correct_answer": "The inference that links fossil evidence to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes natural selection without checking relevance.",
-        "An inference that cites speciation but skips logical steps.",
-        "An inference that repeats Mendel laws without interpretation."
+        "An inference that substitutes Heredity and Evolution framework without checking relevance.",
+        "An inference that cites Mendel laws but skips logical steps.",
+        "An inference that repeats speciation without interpretation."
       ]
     },
     {
@@ -103,8 +103,8 @@
       "question": "In \"Heredity and Evolution\", which statement is most accurate about Heredity and Evolution?",
       "correct_answer": "Heredity And Evolution is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Common Ancestry can replace all chapter logic without assumptions.",
-        "Heredity And Evolution Inference is valid only if core conditions are ignored.",
+        "Variation can replace all chapter logic without assumptions.",
+        "Natural Selection is valid only if core conditions are ignored.",
         "Mendel Laws is a memory cue, not a defensible explanation."
       ]
     },
@@ -116,8 +116,8 @@
       "correct_answer": "Define conditions, apply Heredity and Evolution framework stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
         "Start from speciation and skip checking constraints.",
-        "Use natural selection as a shortcut and avoid interpretation.",
-        "Pick Heredity and Evolution inference by intuition and finalise without verification."
+        "Use adaptation as a shortcut and avoid interpretation.",
+        "Pick inheritance pattern by intuition and finalise without verification."
       ]
     },
     {
@@ -127,9 +127,9 @@
       "question": "Which option shows a valid example of Heredity and Evolution application in \"Heredity and Evolution\"?",
       "correct_answer": "An example where Heredity and Evolution application is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where common ancestry is used without relevance to chapter context.",
-        "An example where natural selection is memorised but not applied logically.",
-        "An example where adaptation is stated without evidence."
+        "An example where fossil evidence is used without relevance to chapter context.",
+        "An example where Mendel laws is memorised but not applied logically.",
+        "An example where natural selection is stated without evidence."
       ]
     },
     {
@@ -139,9 +139,9 @@
       "question": "Choose the most defensible correction for this claim in \"Heredity and Evolution\": \"Heredity and Evolution inference works without constraints.\"",
       "correct_answer": "Heredity And Evolution Inference works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Fossil Evidence removes the need for all constraints in every case.",
-        "Common Ancestry is always equivalent to Heredity and Evolution inference, regardless of context.",
-        "Mendel Laws is enough even when data contradict the claim."
+        "Heredity And Evolution Application removes the need for all constraints in every case.",
+        "Mendel Laws is always equivalent to Heredity and Evolution inference, regardless of context.",
+        "Speciation is enough even when data contradict the claim."
       ]
     },
     {
@@ -176,8 +176,8 @@
       "correct_answer": "The inference that links inheritance pattern to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
         "An inference that substitutes Mendel laws without checking relevance.",
-        "An inference that cites natural selection but skips logical steps.",
-        "An inference that repeats Heredity and Evolution inference without interpretation."
+        "An inference that cites variation but skips logical steps.",
+        "An inference that repeats Heredity and Evolution application without interpretation."
       ]
     },
     {
@@ -187,9 +187,9 @@
       "question": "In \"Heredity and Evolution\", which statement is most accurate about natural selection?",
       "correct_answer": "Natural Selection is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Heredity And Evolution Framework can replace all chapter logic without assumptions.",
-        "Adaptation is valid only if core conditions are ignored.",
-        "Speciation is a memory cue, not a defensible explanation."
+        "Mendel Laws can replace all chapter logic without assumptions.",
+        "Inheritance Pattern is valid only if core conditions are ignored.",
+        "Adaptation is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -199,9 +199,9 @@
       "question": "A learner applies common ancestry in a new problem from \"Heredity and Evolution\". What is the best first step?",
       "correct_answer": "Define conditions, apply common ancestry stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from variation and skip checking constraints.",
-        "Use speciation as a shortcut and avoid interpretation.",
-        "Pick fossil evidence by intuition and finalise without verification."
+        "Start from inheritance pattern and skip checking constraints.",
+        "Use adaptation as a shortcut and avoid interpretation.",
+        "Pick Heredity and Evolution by intuition and finalise without verification."
       ]
     },
     {
@@ -211,9 +211,9 @@
       "question": "Which option shows a valid example of adaptation in \"Heredity and Evolution\"?",
       "correct_answer": "An example where adaptation is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Heredity and Evolution is used without relevance to chapter context.",
-        "An example where natural selection is memorised but not applied logically.",
-        "An example where Heredity and Evolution framework is stated without evidence."
+        "An example where Mendel laws is used without relevance to chapter context.",
+        "An example where Heredity and Evolution framework is memorised but not applied logically.",
+        "An example where inheritance pattern is stated without evidence."
       ]
     },
     {
@@ -223,9 +223,9 @@
       "question": "Choose the most defensible correction for this claim in \"Heredity and Evolution\": \"fossil evidence works without constraints.\"",
       "correct_answer": "Fossil Evidence works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Heredity And Evolution Application removes the need for all constraints in every case.",
-        "Speciation is always equivalent to fossil evidence, regardless of context.",
-        "Common Ancestry is enough even when data contradict the claim."
+        "Variation removes the need for all constraints in every case.",
+        "Heredity And Evolution is always equivalent to fossil evidence, regardless of context.",
+        "Inheritance Pattern is enough even when data contradict the claim."
       ]
     },
     {
@@ -259,9 +259,9 @@
       "question": "Which inference is most rigorous for Heredity and Evolution inference in \"Heredity and Evolution\"?",
       "correct_answer": "The inference that links Heredity and Evolution inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Heredity and Evolution application without checking relevance.",
-        "An inference that cites variation but skips logical steps.",
-        "An inference that repeats natural selection without interpretation."
+        "An inference that substitutes common ancestry without checking relevance.",
+        "An inference that cites Heredity and Evolution application but skips logical steps.",
+        "An inference that repeats inheritance pattern without interpretation."
       ]
     },
     {

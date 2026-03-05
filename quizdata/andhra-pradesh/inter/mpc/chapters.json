@@ -2,75 +2,45 @@
   "results": [
     {
       "subject": "MPC",
-      "chapter": "Sets, Relations and Functions",
-      "slug": "sets-relations-and-functions",
-      "file": "sets-relations-and-functions.json"
+      "chapter": "Mathematics (1st Year)",
+      "slug": "mathematics-1st-year",
+      "file": "mathematics-1st-year.json"
     },
     {
       "subject": "MPC",
-      "chapter": "Trigonometry and Inverse Trigonometry",
-      "slug": "trigonometry-and-inverse-trigonometry",
-      "file": "trigonometry-and-inverse-trigonometry.json"
+      "chapter": "Physics (1st Year)",
+      "slug": "physics-1st-year",
+      "file": "physics-1st-year.json"
     },
     {
       "subject": "MPC",
-      "chapter": "Algebra: Complex Numbers and Series",
-      "slug": "algebra-complex-numbers-and-series",
-      "file": "algebra-complex-numbers-and-series.json"
+      "chapter": "Chemistry (1st Year)",
+      "slug": "chemistry-1st-year",
+      "file": "chemistry-1st-year.json"
     },
     {
       "subject": "MPC",
-      "chapter": "Coordinate Geometry and Calculus Basics",
-      "slug": "coordinate-geometry-and-calculus-basics",
-      "file": "coordinate-geometry-and-calculus-basics.json"
+      "chapter": "Mathematics IIA (2nd Year)",
+      "slug": "mathematics-iia-2nd-year",
+      "file": "mathematics-iia-2nd-year.json"
     },
     {
       "subject": "MPC",
-      "chapter": "Units, Motion and Newtonian Mechanics",
-      "slug": "units-motion-and-newtonian-mechanics",
-      "file": "units-motion-and-newtonian-mechanics.json"
+      "chapter": "Mathematics IIB (2nd Year)",
+      "slug": "mathematics-iib-2nd-year",
+      "file": "mathematics-iib-2nd-year.json"
     },
     {
       "subject": "MPC",
-      "chapter": "Work, Energy, Power and Rotational Motion",
-      "slug": "work-energy-power-and-rotational-motion",
-      "file": "work-energy-power-and-rotational-motion.json"
+      "chapter": "Physics (2nd Year)",
+      "slug": "physics-2nd-year",
+      "file": "physics-2nd-year.json"
     },
     {
       "subject": "MPC",
-      "chapter": "Oscillations, Waves and Thermodynamics",
-      "slug": "oscillations-waves-and-thermodynamics",
-      "file": "oscillations-waves-and-thermodynamics.json"
-    },
-    {
-      "subject": "MPC",
-      "chapter": "Electrostatics, Current Electricity and Magnetism",
-      "slug": "electrostatics-current-electricity-and-magnetism",
-      "file": "electrostatics-current-electricity-and-magnetism.json"
-    },
-    {
-      "subject": "MPC",
-      "chapter": "Atomic Structure and Chemical Bonding",
-      "slug": "atomic-structure-and-chemical-bonding",
-      "file": "atomic-structure-and-chemical-bonding.json"
-    },
-    {
-      "subject": "MPC",
-      "chapter": "States of Matter, Thermodynamics and Equilibrium",
-      "slug": "states-of-matter-thermodynamics-and-equilibrium",
-      "file": "states-of-matter-thermodynamics-and-equilibrium.json"
-    },
-    {
-      "subject": "MPC",
-      "chapter": "Organic Chemistry Fundamentals and Hydrocarbons",
-      "slug": "organic-chemistry-fundamentals-and-hydrocarbons",
-      "file": "organic-chemistry-fundamentals-and-hydrocarbons.json"
-    },
-    {
-      "subject": "MPC",
-      "chapter": "d-Block, Coordination Compounds and Biomolecules",
-      "slug": "d-block-coordination-compounds-and-biomolecules",
-      "file": "d-block-coordination-compounds-and-biomolecules.json"
+      "chapter": "Chemistry (2nd Year)",
+      "slug": "chemistry-2nd-year",
+      "file": "chemistry-2nd-year.json"
     }
   ]
 }

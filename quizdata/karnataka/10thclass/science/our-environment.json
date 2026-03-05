@@ -8,8 +8,8 @@
       "correct_answer": "Ecosystem is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
         "Our Environment Framework can replace all chapter logic without assumptions.",
-        "Our Environment Application is valid only if core conditions are ignored.",
-        "Our Environment is a memory cue, not a defensible explanation."
+        "Resource Cycling is valid only if core conditions are ignored.",
+        "Biodegradable Waste is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,7 +19,7 @@
       "question": "A learner applies food chain in a new problem from \"Our Environment\". What is the best first step?",
       "correct_answer": "Define conditions, apply food chain stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from resource cycling and skip checking constraints.",
+        "Start from biodegradable waste and skip checking constraints.",
         "Use Our Environment inference as a shortcut and avoid interpretation.",
         "Pick Our Environment framework by intuition and finalise without verification."
       ]
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of biodegradable waste in \"Our Environment\"?",
       "correct_answer": "An example where biodegradable waste is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Our Environment is used without relevance to chapter context.",
-        "An example where food chain is memorised but not applied logically.",
-        "An example where Our Environment application is stated without evidence."
+        "An example where Our Environment inference is used without relevance to chapter context.",
+        "An example where Our Environment is memorised but not applied logically.",
+        "An example where resource cycling is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Our Environment\": \"resource cycling works without constraints.\"",
       "correct_answer": "Resource Cycling works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Our Environment Application removes the need for all constraints in every case.",
-        "Food Chain is always equivalent to resource cycling, regardless of context.",
-        "Our Environment Inference is enough even when data contradict the claim."
+        "Our Environment removes the need for all constraints in every case.",
+        "Biodegradable Waste is always equivalent to resource cycling, regardless of context.",
+        "Our Environment Application is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Our Environment\", which mismatch is incorrect?",
       "correct_answer": "Our Environment Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Biodegradable Waste - applied without confirming assumptions.",
-        "Our Environment - interpreted against contradictory data.",
-        "Our Environment Inference - concluded before checking consistency."
+        "Our Environment - applied without confirming assumptions.",
+        "Resource Cycling - interpreted against contradictory data.",
+        "Ecosystem - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Our Environment inference in \"Our Environment\"?",
       "correct_answer": "The inference that links Our Environment inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes ecosystem without checking relevance.",
-        "An inference that cites Our Environment but skips logical steps.",
-        "An inference that repeats resource cycling without interpretation."
+        "An inference that substitutes Our Environment without checking relevance.",
+        "An inference that cites resource cycling but skips logical steps.",
+        "An inference that repeats Our Environment application without interpretation."
       ]
     },
     {

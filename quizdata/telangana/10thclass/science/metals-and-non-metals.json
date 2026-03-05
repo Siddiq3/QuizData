@@ -7,9 +7,9 @@
       "question": "In \"Metals and Non Metals\", which statement is most accurate about reactivity series?",
       "correct_answer": "Reactivity Series is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Corrosion can replace all chapter logic without assumptions.",
-        "Covalent Bonding is valid only if core conditions are ignored.",
-        "Metals And Non Metals is a memory cue, not a defensible explanation."
+        "Electron Gain can replace all chapter logic without assumptions.",
+        "Non-Metal Oxides is valid only if core conditions are ignored.",
+        "Alloying is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies electrolytic refining in a new problem from \"Metals and Non Metals\". What is the best first step?",
       "correct_answer": "Define conditions, apply electrolytic refining stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Metals and Non Metals inference and skip checking constraints.",
-        "Use Metals and Non Metals application as a shortcut and avoid interpretation.",
-        "Pick alloying by intuition and finalise without verification."
+        "Start from electron gain and skip checking constraints.",
+        "Use Metals and Non Metals inference as a shortcut and avoid interpretation.",
+        "Pick reactivity series by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of alloying in \"Metals and Non Metals\"?",
       "correct_answer": "An example where alloying is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Metals and Non Metals application is used without relevance to chapter context.",
-        "An example where corrosion is memorised but not applied logically.",
-        "An example where covalent bonding is stated without evidence."
+        "An example where allotropy is used without relevance to chapter context.",
+        "An example where electron gain is memorised but not applied logically.",
+        "An example where Metals and Non Metals application is stated without evidence."
       ]
     },
     {
@@ -44,8 +44,8 @@
       "correct_answer": "Corrosion works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
         "Electron Gain removes the need for all constraints in every case.",
-        "Non-Metal Oxides is always equivalent to corrosion, regardless of context.",
-        "Metals And Non Metals Framework is enough even when data contradict the claim."
+        "Covalent Bonding is always equivalent to corrosion, regardless of context.",
+        "Electrolytic Refining is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Metals and Non Metals\", which mismatch is incorrect?",
       "correct_answer": "Allotropy - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Electron Gain - applied without confirming assumptions.",
+        "Electrolytic Refining - applied without confirming assumptions.",
         "Metals And Non Metals Framework - interpreted against contradictory data.",
-        "Electrolytic Refining - concluded before checking consistency."
+        "Metals And Non Metals Application - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for electron gain in \"Metals and Non Metals\"?",
       "correct_answer": "The inference that links electron gain to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes corrosion without checking relevance.",
-        "An inference that cites non-metal oxides but skips logical steps.",
-        "An inference that repeats reactivity series without interpretation."
+        "An inference that substitutes electrolytic refining without checking relevance.",
+        "An inference that cites Metals and Non Metals inference but skips logical steps.",
+        "An inference that repeats corrosion without interpretation."
       ]
     },
     {
@@ -103,9 +103,9 @@
       "question": "In \"Metals and Non Metals\", which statement is most accurate about Metals and Non Metals?",
       "correct_answer": "Metals And Non Metals is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Electrolytic Refining can replace all chapter logic without assumptions.",
-        "Corrosion is valid only if core conditions are ignored.",
-        "Metals And Non Metals Application is a memory cue, not a defensible explanation."
+        "Alloying can replace all chapter logic without assumptions.",
+        "Reactivity Series is valid only if core conditions are ignored.",
+        "Electrolytic Refining is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -115,9 +115,9 @@
       "question": "A learner applies Metals and Non Metals framework in a new problem from \"Metals and Non Metals\". What is the best first step?",
       "correct_answer": "Define conditions, apply Metals and Non Metals framework stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from electron gain and skip checking constraints.",
-        "Use Metals and Non Metals application as a shortcut and avoid interpretation.",
-        "Pick Metals and Non Metals inference by intuition and finalise without verification."
+        "Start from corrosion and skip checking constraints.",
+        "Use allotropy as a shortcut and avoid interpretation.",
+        "Pick Metals and Non Metals application by intuition and finalise without verification."
       ]
     },
     {
@@ -127,9 +127,9 @@
       "question": "Which option shows a valid example of Metals and Non Metals application in \"Metals and Non Metals\"?",
       "correct_answer": "An example where Metals and Non Metals application is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where electron gain is used without relevance to chapter context.",
-        "An example where Metals and Non Metals framework is memorised but not applied logically.",
-        "An example where covalent bonding is stated without evidence."
+        "An example where Metals and Non Metals inference is used without relevance to chapter context.",
+        "An example where allotropy is memorised but not applied logically.",
+        "An example where electron gain is stated without evidence."
       ]
     },
     {
@@ -139,9 +139,9 @@
       "question": "Choose the most defensible correction for this claim in \"Metals and Non Metals\": \"Metals and Non Metals inference works without constraints.\"",
       "correct_answer": "Metals And Non Metals Inference works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Metals And Non Metals removes the need for all constraints in every case.",
-        "Covalent Bonding is always equivalent to Metals and Non Metals inference, regardless of context.",
-        "Metals And Non Metals Application is enough even when data contradict the claim."
+        "Covalent Bonding removes the need for all constraints in every case.",
+        "Alloying is always equivalent to Metals and Non Metals inference, regardless of context.",
+        "Non-Metal Oxides is enough even when data contradict the claim."
       ]
     },
     {
@@ -175,8 +175,8 @@
       "question": "Which inference is most rigorous for corrosion in \"Metals and Non Metals\"?",
       "correct_answer": "The inference that links corrosion to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Metals and Non Metals inference without checking relevance.",
-        "An inference that cites alloying but skips logical steps.",
+        "An inference that substitutes reactivity series without checking relevance.",
+        "An inference that cites allotropy but skips logical steps.",
         "An inference that repeats covalent bonding without interpretation."
       ]
     },
@@ -187,9 +187,9 @@
       "question": "In \"Metals and Non Metals\", which statement is most accurate about covalent bonding?",
       "correct_answer": "Covalent Bonding is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Alloying can replace all chapter logic without assumptions.",
-        "Electrolytic Refining is valid only if core conditions are ignored.",
-        "Non-Metal Oxides is a memory cue, not a defensible explanation."
+        "Metals And Non Metals Application can replace all chapter logic without assumptions.",
+        "Electron Gain is valid only if core conditions are ignored.",
+        "Metals And Non Metals Inference is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -199,9 +199,9 @@
       "question": "A learner applies allotropy in a new problem from \"Metals and Non Metals\". What is the best first step?",
       "correct_answer": "Define conditions, apply allotropy stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from corrosion and skip checking constraints.",
-        "Use Metals and Non Metals application as a shortcut and avoid interpretation.",
-        "Pick electron gain by intuition and finalise without verification."
+        "Start from non-metal oxides and skip checking constraints.",
+        "Use electrolytic refining as a shortcut and avoid interpretation.",
+        "Pick Metals and Non Metals framework by intuition and finalise without verification."
       ]
     },
     {
@@ -211,9 +211,9 @@
       "question": "Which option shows a valid example of non-metal oxides in \"Metals and Non Metals\"?",
       "correct_answer": "An example where non-metal oxides is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where allotropy is used without relevance to chapter context.",
-        "An example where reactivity series is memorised but not applied logically.",
-        "An example where covalent bonding is stated without evidence."
+        "An example where alloying is used without relevance to chapter context.",
+        "An example where allotropy is memorised but not applied logically.",
+        "An example where corrosion is stated without evidence."
       ]
     },
     {
@@ -223,9 +223,9 @@
       "question": "Choose the most defensible correction for this claim in \"Metals and Non Metals\": \"electron gain works without constraints.\"",
       "correct_answer": "Electron Gain works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Reactivity Series removes the need for all constraints in every case.",
-        "Covalent Bonding is always equivalent to electron gain, regardless of context.",
-        "Alloying is enough even when data contradict the claim."
+        "Allotropy removes the need for all constraints in every case.",
+        "Non-Metal Oxides is always equivalent to electron gain, regardless of context.",
+        "Metals And Non Metals is enough even when data contradict the claim."
       ]
     },
     {
@@ -259,9 +259,9 @@
       "question": "Which inference is most rigorous for Metals and Non Metals inference in \"Metals and Non Metals\"?",
       "correct_answer": "The inference that links Metals and Non Metals inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes electron gain without checking relevance.",
-        "An inference that cites electrolytic refining but skips logical steps.",
-        "An inference that repeats non-metal oxides without interpretation."
+        "An inference that substitutes corrosion without checking relevance.",
+        "An inference that cites Metals and Non Metals framework but skips logical steps.",
+        "An inference that repeats reactivity series without interpretation."
       ]
     },
     {

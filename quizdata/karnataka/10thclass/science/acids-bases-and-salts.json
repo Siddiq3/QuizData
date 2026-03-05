@@ -7,9 +7,9 @@
       "question": "In \"Acids Bases and Salts\", which statement is most accurate about pH scale?",
       "correct_answer": "Ph Scale is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Baking Soda can replace all chapter logic without assumptions.",
-        "Acids Bases And Salts Application is valid only if core conditions are ignored.",
-        "Acidic Oxides is a memory cue, not a defensible explanation."
+        "Soap Reaction can replace all chapter logic without assumptions.",
+        "Salt Hydrolysis is valid only if core conditions are ignored.",
+        "Neutralisation is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies neutralisation in a new problem from \"Acids Bases and Salts\". What is the best first step?",
       "correct_answer": "Define conditions, apply neutralisation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from common salt and skip checking constraints.",
-        "Use basicity as a shortcut and avoid interpretation.",
-        "Pick base strength by intuition and finalise without verification."
+        "Start from pH scale and skip checking constraints.",
+        "Use Acids Bases and Salts application as a shortcut and avoid interpretation.",
+        "Pick salt hydrolysis by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of indicators in \"Acids Bases and Salts\"?",
       "correct_answer": "An example where indicators is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where soap reaction is used without relevance to chapter context.",
-        "An example where base strength is memorised but not applied logically.",
-        "An example where Acids Bases and Salts framework is stated without evidence."
+        "An example where pH scale is used without relevance to chapter context.",
+        "An example where baking soda is memorised but not applied logically.",
+        "An example where salt hydrolysis is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Acids Bases and Salts\": \"acidic oxides works without constraints.\"",
       "correct_answer": "Acidic Oxides works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Acids Bases And Salts Framework removes the need for all constraints in every case.",
-        "Baking Soda is always equivalent to acidic oxides, regardless of context.",
-        "Acids Bases And Salts Application is enough even when data contradict the claim."
+        "Common Salt removes the need for all constraints in every case.",
+        "Crystallisation is always equivalent to acidic oxides, regardless of context.",
+        "Ph Scale is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Acids Bases and Salts\", which mismatch is incorrect?",
       "correct_answer": "Basicity - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Common Salt - applied without confirming assumptions.",
+        "Acids Bases And Salts Application - applied without confirming assumptions.",
         "Acids Bases And Salts Framework - interpreted against contradictory data.",
-        "Acids Bases And Salts Application - concluded before checking consistency."
+        "Crystallisation - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for base strength in \"Acids Bases and Salts\"?",
       "correct_answer": "The inference that links base strength to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes indicators without checking relevance.",
-        "An inference that cites baking soda but skips logical steps.",
-        "An inference that repeats common salt without interpretation."
+        "An inference that substitutes Acids Bases and Salts framework without checking relevance.",
+        "An inference that cites soap reaction but skips logical steps.",
+        "An inference that repeats basicity without interpretation."
       ]
     },
     {
@@ -103,9 +103,9 @@
       "question": "In \"Acids Bases and Salts\", which statement is most accurate about salt hydrolysis?",
       "correct_answer": "Salt Hydrolysis is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Common Salt can replace all chapter logic without assumptions.",
-        "Ph Scale is valid only if core conditions are ignored.",
-        "Crystallisation is a memory cue, not a defensible explanation."
+        "Crystallisation can replace all chapter logic without assumptions.",
+        "Basicity is valid only if core conditions are ignored.",
+        "Acidic Oxides is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -115,9 +115,9 @@
       "question": "A learner applies crystallisation in a new problem from \"Acids Bases and Salts\". What is the best first step?",
       "correct_answer": "Define conditions, apply crystallisation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from indicators and skip checking constraints.",
-        "Use Acids Bases and Salts application as a shortcut and avoid interpretation.",
-        "Pick Acids Bases and Salts framework by intuition and finalise without verification."
+        "Start from Acids Bases and Salts inference and skip checking constraints.",
+        "Use alkalis as a shortcut and avoid interpretation.",
+        "Pick neutralisation by intuition and finalise without verification."
       ]
     },
     {
@@ -127,9 +127,9 @@
       "question": "Which option shows a valid example of common salt in \"Acids Bases and Salts\"?",
       "correct_answer": "An example where common salt is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where indicators is used without relevance to chapter context.",
-        "An example where pH scale is memorised but not applied logically.",
-        "An example where baking soda is stated without evidence."
+        "An example where neutralisation is used without relevance to chapter context.",
+        "An example where basicity is memorised but not applied logically.",
+        "An example where Acids Bases and Salts application is stated without evidence."
       ]
     },
     {
@@ -139,9 +139,9 @@
       "question": "Choose the most defensible correction for this claim in \"Acids Bases and Salts\": \"baking soda works without constraints.\"",
       "correct_answer": "Baking Soda works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Acids Bases And Salts Inference removes the need for all constraints in every case.",
-        "Soap Reaction is always equivalent to baking soda, regardless of context.",
-        "Crystallisation is enough even when data contradict the claim."
+        "Acids Bases And Salts Framework removes the need for all constraints in every case.",
+        "Acids Bases And Salts Application is always equivalent to baking soda, regardless of context.",
+        "Acids Bases And Salts Inference is enough even when data contradict the claim."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "question": "Which inference is most rigorous for Acids Bases and Salts inference in \"Acids Bases and Salts\"?",
       "correct_answer": "The inference that links Acids Bases and Salts inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes indicators without checking relevance.",
-        "An inference that cites neutralisation but skips logical steps.",
-        "An inference that repeats Acids Bases and Salts framework without interpretation."
+        "An inference that substitutes base strength without checking relevance.",
+        "An inference that cites alkalis but skips logical steps.",
+        "An inference that repeats soap reaction without interpretation."
       ]
     },
     {

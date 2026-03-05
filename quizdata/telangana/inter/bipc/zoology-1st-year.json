@@ -1,0 +1,1204 @@
+{
+  "results": [
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which statement is most accurate about cellular process?",
+      "correct_answer": "Cellular Process is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Zoology (1St Year) can replace all chapter logic without assumptions.",
+        "Zoology (1St Year) Framework is valid only if core conditions are ignored.",
+        "Biochemical Pathway is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "A learner applies physiological regulation in a new problem from \"Zoology (1st Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply physiological regulation stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from cellular process and skip checking constraints.",
+        "Use Zoology (1st Year) framework as a shortcut and avoid interpretation.",
+        "Pick ecological balance by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which option shows a valid example of genetic inheritance in \"Zoology (1st Year)\"?",
+      "correct_answer": "An example where genetic inheritance is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where organic reaction logic is used without relevance to chapter context.",
+        "An example where cellular process is memorised but not applied logically.",
+        "An example where Zoology (1st Year) is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Choose the most defensible correction for this claim in \"Zoology (1st Year)\": \"ecological balance works without constraints.\"",
+      "correct_answer": "Ecological Balance works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Cellular Process removes the need for all constraints in every case.",
+        "Zoology (1St Year) Application is always equivalent to ecological balance, regardless of context.",
+        "Genetic Inheritance is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Assertion-Reason in \"Zoology (1st Year)\": Assertion: biochemical pathway is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which mismatch is incorrect?",
+      "correct_answer": "Organic Reaction Logic - applied with definitions, constraints, and evidence.",
+      "incorrect_answers": [
+        "Cellular Process - applied without confirming assumptions.",
+        "Zoology (1St Year) - interpreted against contradictory data.",
+        "Biochemical Pathway - concluded before checking consistency."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which interpretation is strongest when Zoology (1st Year) and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which inference is most rigorous for Zoology (1st Year) framework in \"Zoology (1st Year)\"?",
+      "correct_answer": "The inference that links Zoology (1st Year) framework to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes ecological balance without checking relevance.",
+        "An inference that cites biochemical pathway but skips logical steps.",
+        "An inference that repeats organic reaction logic without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which statement is most accurate about Zoology (1st Year) application?",
+      "correct_answer": "Zoology (1St Year) Application is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Organic Reaction Logic can replace all chapter logic without assumptions.",
+        "Physiological Regulation is valid only if core conditions are ignored.",
+        "Zoology (1St Year) Inference is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "A learner applies Zoology (1st Year) inference in a new problem from \"Zoology (1st Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Zoology (1st Year) inference stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Zoology (1st Year) application and skip checking constraints.",
+        "Use genetic inheritance as a shortcut and avoid interpretation.",
+        "Pick organic reaction logic by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which option shows a valid example of cellular process in \"Zoology (1st Year)\"?",
+      "correct_answer": "An example where cellular process is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Zoology (1st Year) inference is used without relevance to chapter context.",
+        "An example where Zoology (1st Year) application is memorised but not applied logically.",
+        "An example where Zoology (1st Year) is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Choose the most defensible correction for this claim in \"Zoology (1st Year)\": \"physiological regulation works without constraints.\"",
+      "correct_answer": "Physiological Regulation works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Zoology (1St Year) Application removes the need for all constraints in every case.",
+        "Organic Reaction Logic is always equivalent to physiological regulation, regardless of context.",
+        "Cellular Process is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Assertion-Reason in \"Zoology (1st Year)\": Assertion: genetic inheritance is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which interpretation is strongest when biochemical pathway and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which inference is most rigorous for organic reaction logic in \"Zoology (1st Year)\"?",
+      "correct_answer": "The inference that links organic reaction logic to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes genetic inheritance without checking relevance.",
+        "An inference that cites physiological regulation but skips logical steps.",
+        "An inference that repeats biochemical pathway without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which statement is most accurate about Zoology (1st Year)?",
+      "correct_answer": "Zoology (1St Year) is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Cellular Process can replace all chapter logic without assumptions.",
+        "Zoology (1St Year) Inference is valid only if core conditions are ignored.",
+        "Physiological Regulation is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "A learner applies Zoology (1st Year) framework in a new problem from \"Zoology (1st Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply Zoology (1st Year) framework stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Zoology (1st Year) inference and skip checking constraints.",
+        "Use ecological balance as a shortcut and avoid interpretation.",
+        "Pick Zoology (1st Year) by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which option shows a valid example of Zoology (1st Year) application in \"Zoology (1st Year)\"?",
+      "correct_answer": "An example where Zoology (1st Year) application is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Zoology (1st Year) is used without relevance to chapter context.",
+        "An example where Zoology (1st Year) inference is memorised but not applied logically.",
+        "An example where Zoology (1st Year) framework is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Choose the most defensible correction for this claim in \"Zoology (1st Year)\": \"Zoology (1st Year) inference works without constraints.\"",
+      "correct_answer": "Zoology (1St Year) Inference works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Biochemical Pathway removes the need for all constraints in every case.",
+        "Genetic Inheritance is always equivalent to Zoology (1st Year) inference, regardless of context.",
+        "Ecological Balance is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Assertion-Reason in \"Zoology (1st Year)\": Assertion: cellular process is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which interpretation is strongest when genetic inheritance and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which inference is most rigorous for ecological balance in \"Zoology (1st Year)\"?",
+      "correct_answer": "The inference that links ecological balance to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes physiological regulation without checking relevance.",
+        "An inference that cites genetic inheritance but skips logical steps.",
+        "An inference that repeats organic reaction logic without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which statement is most accurate about biochemical pathway?",
+      "correct_answer": "Biochemical Pathway is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Zoology (1St Year) Inference can replace all chapter logic without assumptions.",
+        "Zoology (1St Year) Application is valid only if core conditions are ignored.",
+        "Genetic Inheritance is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "A learner applies organic reaction logic in a new problem from \"Zoology (1st Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply organic reaction logic stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from Zoology (1st Year) framework and skip checking constraints.",
+        "Use Zoology (1st Year) as a shortcut and avoid interpretation.",
+        "Pick physiological regulation by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which option shows a valid example of Zoology (1st Year) in \"Zoology (1st Year)\"?",
+      "correct_answer": "An example where Zoology (1st Year) is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where Zoology (1st Year) inference is used without relevance to chapter context.",
+        "An example where organic reaction logic is memorised but not applied logically.",
+        "An example where physiological regulation is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Choose the most defensible correction for this claim in \"Zoology (1st Year)\": \"Zoology (1st Year) framework works without constraints.\"",
+      "correct_answer": "Zoology (1St Year) Framework works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Genetic Inheritance removes the need for all constraints in every case.",
+        "Physiological Regulation is always equivalent to Zoology (1st Year) framework, regardless of context.",
+        "Zoology (1St Year) Application is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Assertion-Reason in \"Zoology (1st Year)\": Assertion: Zoology (1st Year) application is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which interpretation is strongest when cellular process and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which inference is most rigorous for physiological regulation in \"Zoology (1st Year)\"?",
+      "correct_answer": "The inference that links physiological regulation to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes Zoology (1st Year) inference without checking relevance.",
+        "An inference that cites Zoology (1st Year) application but skips logical steps.",
+        "An inference that repeats cellular process without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which statement is most accurate about genetic inheritance?",
+      "correct_answer": "Genetic Inheritance is central when assumptions are stated clearly and checked against context.",
+      "incorrect_answers": [
+        "Zoology (1St Year) can replace all chapter logic without assumptions.",
+        "Organic Reaction Logic is valid only if core conditions are ignored.",
+        "Zoology (1St Year) Framework is a memory cue, not a defensible explanation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "A learner applies ecological balance in a new problem from \"Zoology (1st Year)\". What is the best first step?",
+      "correct_answer": "Define conditions, apply ecological balance stepwise, and verify the conclusion with evidence.",
+      "incorrect_answers": [
+        "Start from cellular process and skip checking constraints.",
+        "Use physiological regulation as a shortcut and avoid interpretation.",
+        "Pick Zoology (1st Year) inference by intuition and finalise without verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which option shows a valid example of biochemical pathway in \"Zoology (1st Year)\"?",
+      "correct_answer": "An example where biochemical pathway is used with correct assumptions and justified reasoning.",
+      "incorrect_answers": [
+        "An example where physiological regulation is used without relevance to chapter context.",
+        "An example where Zoology (1st Year) inference is memorised but not applied logically.",
+        "An example where ecological balance is stated without evidence."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Choose the most defensible correction for this claim in \"Zoology (1st Year)\": \"organic reaction logic works without constraints.\"",
+      "correct_answer": "Organic Reaction Logic works only when chapter-specific constraints and definitions are satisfied.",
+      "incorrect_answers": [
+        "Zoology (1St Year) Framework removes the need for all constraints in every case.",
+        "Zoology (1St Year) is always equivalent to organic reaction logic, regardless of context.",
+        "Ecological Balance is enough even when data contradict the claim."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Assertion-Reason in \"Zoology (1st Year)\": Assertion: Zoology (1st Year) is useful. Reason: It must still be validated. Pick the correct option.",
+      "correct_answer": "Both Assertion and Reason are true, and the Reason correctly supports the Assertion.",
+      "incorrect_answers": [
+        "Both are true, but the Reason does not explain the Assertion.",
+        "Assertion is true, but Reason is false.",
+        "Assertion is false, but Reason is true."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which interpretation is strongest when Zoology (1st Year) application and chapter evidence appear to conflict?",
+      "correct_answer": "Re-examine assumptions, validate data quality, and reconcile using chapter principles.",
+      "incorrect_answers": [
+        "Retain the first answer and ignore conflicting evidence.",
+        "Discard chapter logic and choose the shortest statement.",
+        "Treat all options as equivalent without analysis."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "Which inference is most rigorous for Zoology (1st Year) inference in \"Zoology (1st Year)\"?",
+      "correct_answer": "The inference that links Zoology (1st Year) inference to evidence, limits, and justified conclusion.",
+      "incorrect_answers": [
+        "An inference that substitutes organic reaction logic without checking relevance.",
+        "An inference that cites Zoology (1st Year) application but skips logical steps.",
+        "An inference that repeats ecological balance without interpretation."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) using correct assumptions, evidence, and verification? (Practice Set 37)",
+      "correct_answer": "Apply Zoology (1st Year) stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) framework using correct assumptions, evidence, and verification? (Practice Set 38)",
+      "correct_answer": "Apply Zoology (1st Year) framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) application using correct assumptions, evidence, and verification? (Practice Set 39)",
+      "correct_answer": "Apply Zoology (1st Year) application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) inference using correct assumptions, evidence, and verification? (Practice Set 40)",
+      "correct_answer": "Apply Zoology (1st Year) inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 41)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 42)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 43)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 44)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 45)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 46)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) using correct assumptions, evidence, and verification? (Practice Set 47)",
+      "correct_answer": "Apply Zoology (1st Year) stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) framework using correct assumptions, evidence, and verification? (Practice Set 48)",
+      "correct_answer": "Apply Zoology (1st Year) framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) application using correct assumptions, evidence, and verification? (Practice Set 49)",
+      "correct_answer": "Apply Zoology (1st Year) application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) inference using correct assumptions, evidence, and verification? (Practice Set 50)",
+      "correct_answer": "Apply Zoology (1st Year) inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 51)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 52)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 53)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 54)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 55)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 56)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) using correct assumptions, evidence, and verification? (Practice Set 57)",
+      "correct_answer": "Apply Zoology (1st Year) stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) framework using correct assumptions, evidence, and verification? (Practice Set 58)",
+      "correct_answer": "Apply Zoology (1st Year) framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) application using correct assumptions, evidence, and verification? (Practice Set 59)",
+      "correct_answer": "Apply Zoology (1st Year) application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) inference using correct assumptions, evidence, and verification? (Practice Set 60)",
+      "correct_answer": "Apply Zoology (1st Year) inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 61)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 62)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 63)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 64)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 65)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 66)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) using correct assumptions, evidence, and verification? (Practice Set 67)",
+      "correct_answer": "Apply Zoology (1st Year) stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) framework using correct assumptions, evidence, and verification? (Practice Set 68)",
+      "correct_answer": "Apply Zoology (1st Year) framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) application using correct assumptions, evidence, and verification? (Practice Set 69)",
+      "correct_answer": "Apply Zoology (1st Year) application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) inference using correct assumptions, evidence, and verification? (Practice Set 70)",
+      "correct_answer": "Apply Zoology (1st Year) inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 71)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 72)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 73)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 74)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 75)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 76)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) using correct assumptions, evidence, and verification? (Practice Set 77)",
+      "correct_answer": "Apply Zoology (1st Year) stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) framework using correct assumptions, evidence, and verification? (Practice Set 78)",
+      "correct_answer": "Apply Zoology (1st Year) framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) application using correct assumptions, evidence, and verification? (Practice Set 79)",
+      "correct_answer": "Apply Zoology (1st Year) application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) inference using correct assumptions, evidence, and verification? (Practice Set 80)",
+      "correct_answer": "Apply Zoology (1st Year) inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 81)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 82)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 83)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 84)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 85)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 86)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) using correct assumptions, evidence, and verification? (Practice Set 87)",
+      "correct_answer": "Apply Zoology (1st Year) stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) framework using correct assumptions, evidence, and verification? (Practice Set 88)",
+      "correct_answer": "Apply Zoology (1st Year) framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) application using correct assumptions, evidence, and verification? (Practice Set 89)",
+      "correct_answer": "Apply Zoology (1st Year) application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) inference using correct assumptions, evidence, and verification? (Practice Set 90)",
+      "correct_answer": "Apply Zoology (1st Year) inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies cellular process using correct assumptions, evidence, and verification? (Practice Set 91)",
+      "correct_answer": "Apply cellular process stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies physiological regulation using correct assumptions, evidence, and verification? (Practice Set 92)",
+      "correct_answer": "Apply physiological regulation stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies genetic inheritance using correct assumptions, evidence, and verification? (Practice Set 93)",
+      "correct_answer": "Apply genetic inheritance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies ecological balance using correct assumptions, evidence, and verification? (Practice Set 94)",
+      "correct_answer": "Apply ecological balance stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies biochemical pathway using correct assumptions, evidence, and verification? (Practice Set 95)",
+      "correct_answer": "Apply biochemical pathway stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies organic reaction logic using correct assumptions, evidence, and verification? (Practice Set 96)",
+      "correct_answer": "Apply organic reaction logic stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) using correct assumptions, evidence, and verification? (Practice Set 97)",
+      "correct_answer": "Apply Zoology (1st Year) stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) framework using correct assumptions, evidence, and verification? (Practice Set 98)",
+      "correct_answer": "Apply Zoology (1st Year) framework stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) application using correct assumptions, evidence, and verification? (Practice Set 99)",
+      "correct_answer": "Apply Zoology (1st Year) application stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    },
+    {
+      "name": "BiPC",
+      "subject": "BiPC",
+      "chapter": "Zoology (1st Year)",
+      "question": "In \"Zoology (1st Year)\", which response applies Zoology (1st Year) inference using correct assumptions, evidence, and verification? (Practice Set 100)",
+      "correct_answer": "Apply Zoology (1st Year) inference stepwise, validate constraints, and justify with chapter context.",
+      "incorrect_answers": [
+        "Choose a memorised rule and skip condition checks.",
+        "Use an unrelated idea and finalise without evidence.",
+        "State a conclusion first and avoid verification."
+      ]
+    }
+  ]
+}

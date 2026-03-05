@@ -7,9 +7,9 @@
       "question": "In \"Sources of Energy\", which statement is most accurate about renewable energy?",
       "correct_answer": "Renewable Energy is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Sources Of Energy Inference can replace all chapter logic without assumptions.",
-        "Sources Of Energy Framework is valid only if core conditions are ignored.",
-        "Non-Renewable Energy is a memory cue, not a defensible explanation."
+        "Sources Of Energy can replace all chapter logic without assumptions.",
+        "Sources Of Energy Inference is valid only if core conditions are ignored.",
+        "Efficiency is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies non-renewable energy in a new problem from \"Sources of Energy\". What is the best first step?",
       "correct_answer": "Define conditions, apply non-renewable energy stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Sources of Energy and skip checking constraints.",
-        "Use environment impact as a shortcut and avoid interpretation.",
-        "Pick Sources of Energy framework by intuition and finalise without verification."
+        "Start from environment impact and skip checking constraints.",
+        "Use efficiency as a shortcut and avoid interpretation.",
+        "Pick Sources of Energy application by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of efficiency in \"Sources of Energy\"?",
       "correct_answer": "An example where efficiency is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where non-renewable energy is used without relevance to chapter context.",
-        "An example where environment impact is memorised but not applied logically.",
-        "An example where renewable energy is stated without evidence."
+        "An example where Sources of Energy inference is used without relevance to chapter context.",
+        "An example where Sources of Energy application is memorised but not applied logically.",
+        "An example where environment impact is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Sources of Energy\": \"environment impact works without constraints.\"",
       "correct_answer": "Environment Impact works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Renewable Energy removes the need for all constraints in every case.",
-        "Non-Renewable Energy is always equivalent to environment impact, regardless of context.",
-        "Efficiency is enough even when data contradict the claim."
+        "Non-Renewable Energy removes the need for all constraints in every case.",
+        "Sources Of Energy Inference is always equivalent to environment impact, regardless of context.",
+        "Renewable Energy is enough even when data contradict the claim."
       ]
     },
     {
@@ -68,8 +68,8 @@
       "correct_answer": "Sources Of Energy Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
         "Sources Of Energy - applied without confirming assumptions.",
-        "Sources Of Energy Application - interpreted against contradictory data.",
-        "Efficiency - concluded before checking consistency."
+        "Non-Renewable Energy - interpreted against contradictory data.",
+        "Renewable Energy - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Sources of Energy inference in \"Sources of Energy\"?",
       "correct_answer": "The inference that links Sources of Energy inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Sources of Energy without checking relevance.",
-        "An inference that cites non-renewable energy but skips logical steps.",
-        "An inference that repeats renewable energy without interpretation."
+        "An inference that substitutes non-renewable energy without checking relevance.",
+        "An inference that cites Sources of Energy application but skips logical steps.",
+        "An inference that repeats Sources of Energy without interpretation."
       ]
     },
     {

@@ -8,8 +8,8 @@
       "correct_answer": "Electromagnetism is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
         "Right-Hand Thumb Rule can replace all chapter logic without assumptions.",
-        "Motor Principle is valid only if core conditions are ignored.",
-        "Magnetic Effects Of Electric Current is a memory cue, not a defensible explanation."
+        "Magnetic Effects Of Electric Current Framework is valid only if core conditions are ignored.",
+        "Electromagnetic Induction is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies motor principle in a new problem from \"Magnetic Effects of Electric Current\". What is the best first step?",
       "correct_answer": "Define conditions, apply motor principle stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from right-hand thumb rule and skip checking constraints.",
-        "Use Magnetic Effects of Electric Current as a shortcut and avoid interpretation.",
-        "Pick Magnetic Effects of Electric Current inference by intuition and finalise without verification."
+        "Start from electromagnetism and skip checking constraints.",
+        "Use Magnetic Effects of Electric Current framework as a shortcut and avoid interpretation.",
+        "Pick Magnetic Effects of Electric Current by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of right-hand thumb rule in \"Magnetic Effects of Electric Current\"?",
       "correct_answer": "An example where right-hand thumb rule is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Magnetic Effects of Electric Current framework is used without relevance to chapter context.",
-        "An example where motor principle is memorised but not applied logically.",
-        "An example where electromagnetic induction is stated without evidence."
+        "An example where electromagnetic induction is used without relevance to chapter context.",
+        "An example where electromagnetism is memorised but not applied logically.",
+        "An example where Magnetic Effects of Electric Current framework is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Magnetic Effects of Electric Current\": \"electromagnetic induction works without constraints.\"",
       "correct_answer": "Electromagnetic Induction works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Magnetic Effects Of Electric Current Application removes the need for all constraints in every case.",
-        "Right-Hand Thumb Rule is always equivalent to electromagnetic induction, regardless of context.",
-        "Magnetic Effects Of Electric Current is enough even when data contradict the claim."
+        "Electromagnetism removes the need for all constraints in every case.",
+        "Magnetic Effects Of Electric Current Framework is always equivalent to electromagnetic induction, regardless of context.",
+        "Motor Principle is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Magnetic Effects of Electric Current\", which mismatch is incorrect?",
       "correct_answer": "Magnetic Effects Of Electric Current Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Electromagnetism - applied without confirming assumptions.",
-        "Magnetic Effects Of Electric Current Application - interpreted against contradictory data.",
-        "Motor Principle - concluded before checking consistency."
+        "Magnetic Effects Of Electric Current Inference - applied without confirming assumptions.",
+        "Magnetic Effects Of Electric Current - interpreted against contradictory data.",
+        "Electromagnetic Induction - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Magnetic Effects of Electric Current inference in \"Magnetic Effects of Electric Current\"?",
       "correct_answer": "The inference that links Magnetic Effects of Electric Current inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes electromagnetic induction without checking relevance.",
-        "An inference that cites right-hand thumb rule but skips logical steps.",
-        "An inference that repeats Magnetic Effects of Electric Current application without interpretation."
+        "An inference that substitutes Magnetic Effects of Electric Current application without checking relevance.",
+        "An inference that cites electromagnetism but skips logical steps.",
+        "An inference that repeats electromagnetic induction without interpretation."
       ]
     },
     {

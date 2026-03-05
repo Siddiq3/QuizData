@@ -4,54 +4,6 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 10 cm is:",
-      "correct_answer": "1000π cm³",
-      "incorrect_answers": [
-        "200π cm³",
-        "100π cm³",
-        "110π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 10 cm is:",
-      "correct_answer": "160π cm³",
-      "incorrect_answers": [
-        "80π cm³",
-        "40π cm³",
-        "26π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 12 cm is:",
-      "correct_answer": "768π cm³",
-      "incorrect_answers": [
-        "192π cm³",
-        "96π cm³",
-        "76π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 13 cm is:",
-      "correct_answer": "325π cm³",
-      "incorrect_answers": [
-        "130π cm³",
-        "65π cm³",
-        "38π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
       "question": "Volume of a cylinder with radius 8 cm and height 13 cm is:",
       "correct_answer": "832π cm³",
       "incorrect_answers": [
@@ -64,156 +16,12 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 9 cm is:",
-      "correct_answer": "576π cm³",
+      "question": "Volume of a cylinder with radius 3 cm and height 13 cm is:",
+      "correct_answer": "117π cm³",
       "incorrect_answers": [
-        "144π cm³",
-        "72π cm³",
-        "73π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 7 cm is:",
-      "correct_answer": "63π cm³",
-      "incorrect_answers": [
-        "42π cm³",
-        "21π cm³",
-        "16π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 12 cm is:",
-      "correct_answer": "300π cm³",
-      "incorrect_answers": [
-        "120π cm³",
-        "60π cm³",
-        "37π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 10 cm is:",
-      "correct_answer": "360π cm³",
-      "incorrect_answers": [
-        "120π cm³",
-        "60π cm³",
-        "46π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 14 cm is:",
-      "correct_answer": "1400π cm³",
-      "incorrect_answers": [
-        "280π cm³",
-        "140π cm³",
-        "114π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 10 cm is:",
-      "correct_answer": "250π cm³",
-      "incorrect_answers": [
-        "100π cm³",
-        "50π cm³",
-        "35π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 14 cm is:",
-      "correct_answer": "896π cm³",
-      "incorrect_answers": [
-        "224π cm³",
-        "112π cm³",
-        "78π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 7 cm and height 13 cm is:",
-      "correct_answer": "637π cm³",
-      "incorrect_answers": [
-        "182π cm³",
-        "91π cm³",
-        "62π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 14 cm is:",
-      "correct_answer": "224π cm³",
-      "incorrect_answers": [
-        "112π cm³",
-        "56π cm³",
-        "30π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 12 cm is:",
-      "correct_answer": "1200π cm³",
-      "incorrect_answers": [
-        "240π cm³",
-        "120π cm³",
-        "112π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 5 cm is:",
-      "correct_answer": "80π cm³",
-      "incorrect_answers": [
-        "40π cm³",
-        "20π cm³",
-        "21π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 7 cm and height 8 cm is:",
-      "correct_answer": "392π cm³",
-      "incorrect_answers": [
-        "112π cm³",
-        "56π cm³",
-        "57π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 7 cm is:",
-      "correct_answer": "700π cm³",
-      "incorrect_answers": [
-        "140π cm³",
-        "70π cm³",
-        "107π cm³"
+        "78π cm³",
+        "39π cm³",
+        "22π cm³"
       ]
     },
     {
@@ -232,504 +40,24 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 13 cm is:",
-      "correct_answer": "1300π cm³",
-      "incorrect_answers": [
-        "260π cm³",
-        "130π cm³",
-        "113π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 16 cm is:",
-      "correct_answer": "144π cm³",
-      "incorrect_answers": [
-        "96π cm³",
-        "48π cm³",
-        "25π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 5 cm is:",
-      "correct_answer": "320π cm³",
-      "incorrect_answers": [
-        "80π cm³",
-        "40π cm³",
-        "69π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 10 cm is:",
-      "correct_answer": "90π cm³",
-      "incorrect_answers": [
-        "60π cm³",
-        "30π cm³",
-        "19π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 15 cm is:",
-      "correct_answer": "540π cm³",
-      "incorrect_answers": [
-        "180π cm³",
-        "90π cm³",
-        "51π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 5 cm is:",
-      "correct_answer": "125π cm³",
-      "incorrect_answers": [
-        "50π cm³",
-        "25π cm³",
-        "30π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 9 cm and height 11 cm is:",
-      "correct_answer": "891π cm³",
-      "incorrect_answers": [
-        "198π cm³",
-        "99π cm³",
-        "92π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 16 cm is:",
-      "correct_answer": "1600π cm³",
-      "incorrect_answers": [
-        "320π cm³",
-        "160π cm³",
-        "116π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 9 cm is:",
-      "correct_answer": "144π cm³",
-      "incorrect_answers": [
-        "72π cm³",
-        "36π cm³",
-        "25π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 6 cm is:",
-      "correct_answer": "600π cm³",
-      "incorrect_answers": [
-        "120π cm³",
-        "60π cm³",
-        "106π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 12 cm is:",
-      "correct_answer": "432π cm³",
-      "incorrect_answers": [
-        "144π cm³",
-        "72π cm³",
-        "48π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 8 cm is:",
-      "correct_answer": "200π cm³",
-      "incorrect_answers": [
-        "80π cm³",
-        "40π cm³",
-        "33π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 9 cm and height 14 cm is:",
-      "correct_answer": "1134π cm³",
-      "incorrect_answers": [
-        "252π cm³",
-        "126π cm³",
-        "95π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 15 cm is:",
-      "correct_answer": "960π cm³",
-      "incorrect_answers": [
-        "240π cm³",
-        "120π cm³",
-        "79π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 8 cm is:",
-      "correct_answer": "72π cm³",
-      "incorrect_answers": [
-        "48π cm³",
-        "24π cm³",
-        "17π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 11 cm is:",
-      "correct_answer": "275π cm³",
-      "incorrect_answers": [
-        "110π cm³",
-        "55π cm³",
-        "36π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 9 cm and height 10 cm is:",
-      "correct_answer": "810π cm³",
-      "incorrect_answers": [
-        "180π cm³",
-        "90π cm³",
-        "91π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 11 cm is:",
-      "correct_answer": "176π cm³",
-      "incorrect_answers": [
-        "88π cm³",
-        "44π cm³",
-        "27π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 12 cm is:",
-      "correct_answer": "108π cm³",
-      "incorrect_answers": [
-        "72π cm³",
-        "36π cm³",
-        "21π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 9 cm is:",
-      "correct_answer": "324π cm³",
-      "incorrect_answers": [
-        "108π cm³",
-        "54π cm³",
-        "45π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 5 cm is:",
-      "correct_answer": "500π cm³",
-      "incorrect_answers": [
-        "100π cm³",
-        "50π cm³",
-        "105π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 9 cm and height 15 cm is:",
-      "correct_answer": "1215π cm³",
-      "incorrect_answers": [
-        "270π cm³",
-        "135π cm³",
-        "96π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 8 cm is:",
-      "correct_answer": "128π cm³",
-      "incorrect_answers": [
-        "64π cm³",
-        "32π cm³",
-        "24π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 7 cm is:",
-      "correct_answer": "448π cm³",
-      "incorrect_answers": [
-        "112π cm³",
-        "56π cm³",
-        "71π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 11 cm is:",
-      "correct_answer": "99π cm³",
-      "incorrect_answers": [
-        "66π cm³",
-        "33π cm³",
-        "20π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 7 cm and height 10 cm is:",
-      "correct_answer": "490π cm³",
+      "question": "Volume of a cylinder with radius 10 cm and height 7 cm is:",
+      "correct_answer": "700π cm³",
       "incorrect_answers": [
         "140π cm³",
         "70π cm³",
-        "59π cm³"
+        "107π cm³"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 9 cm is:",
-      "correct_answer": "81π cm³",
+      "question": "Volume of a cylinder with radius 5 cm and height 14 cm is:",
+      "correct_answer": "350π cm³",
       "incorrect_answers": [
-        "54π cm³",
-        "27π cm³",
-        "18π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 6 cm is:",
-      "correct_answer": "384π cm³",
-      "incorrect_answers": [
-        "96π cm³",
-        "48π cm³",
-        "70π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 5 cm is:",
-      "correct_answer": "45π cm³",
-      "incorrect_answers": [
-        "30π cm³",
-        "15π cm³",
-        "14π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 5 cm is:",
-      "correct_answer": "180π cm³",
-      "incorrect_answers": [
-        "60π cm³",
-        "30π cm³",
-        "41π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 7 cm and height 14 cm is:",
-      "correct_answer": "686π cm³",
-      "incorrect_answers": [
-        "196π cm³",
-        "98π cm³",
-        "63π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 12 cm is:",
-      "correct_answer": "192π cm³",
-      "incorrect_answers": [
-        "96π cm³",
-        "48π cm³",
-        "28π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 16 cm is:",
-      "correct_answer": "400π cm³",
-      "incorrect_answers": [
-        "160π cm³",
-        "80π cm³",
-        "41π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 9 cm and height 9 cm is:",
-      "correct_answer": "729π cm³",
-      "incorrect_answers": [
-        "162π cm³",
-        "81π cm³",
-        "90π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 10 cm is:",
-      "correct_answer": "640π cm³",
-      "incorrect_answers": [
-        "160π cm³",
-        "80π cm³",
-        "74π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 14 cm is:",
-      "correct_answer": "504π cm³",
-      "incorrect_answers": [
-        "168π cm³",
-        "84π cm³",
-        "50π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 9 cm and height 5 cm is:",
-      "correct_answer": "405π cm³",
-      "incorrect_answers": [
-        "90π cm³",
-        "45π cm³",
-        "86π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 11 cm is:",
-      "correct_answer": "396π cm³",
-      "incorrect_answers": [
-        "132π cm³",
-        "66π cm³",
-        "47π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 9 cm and height 6 cm is:",
-      "correct_answer": "486π cm³",
-      "incorrect_answers": [
-        "108π cm³",
-        "54π cm³",
-        "87π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 7 cm is:",
-      "correct_answer": "112π cm³",
-      "incorrect_answers": [
-        "56π cm³",
-        "28π cm³",
-        "23π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 16 cm is:",
-      "correct_answer": "576π cm³",
-      "incorrect_answers": [
-        "192π cm³",
-        "96π cm³",
-        "52π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 13 cm is:",
-      "correct_answer": "208π cm³",
-      "incorrect_answers": [
-        "104π cm³",
-        "52π cm³",
-        "29π cm³"
+        "140π cm³",
+        "70π cm³",
+        "39π cm³"
       ]
     },
     {
@@ -748,35 +76,47 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 7 cm and height 12 cm is:",
-      "correct_answer": "588π cm³",
+      "question": "Volume of a cylinder with radius 6 cm and height 6 cm is:",
+      "correct_answer": "216π cm³",
       "incorrect_answers": [
-        "168π cm³",
-        "84π cm³",
-        "61π cm³"
+        "72π cm³",
+        "36π cm³",
+        "42π cm³"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 14 cm is:",
-      "correct_answer": "126π cm³",
+      "question": "Volume of a cylinder with radius 3 cm and height 6 cm is:",
+      "correct_answer": "54π cm³",
       "incorrect_answers": [
-        "84π cm³",
-        "42π cm³",
-        "23π cm³"
+        "36π cm³",
+        "18π cm³",
+        "15π cm³"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 16 cm is:",
-      "correct_answer": "256π cm³",
+      "question": "Volume of a cylinder with radius 7 cm and height 10 cm is:",
+      "correct_answer": "490π cm³",
       "incorrect_answers": [
-        "128π cm³",
-        "64π cm³",
+        "140π cm³",
+        "70π cm³",
+        "59π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 5 cm and height 7 cm is:",
+      "correct_answer": "175π cm³",
+      "incorrect_answers": [
+        "70π cm³",
+        "35π cm³",
         "32π cm³"
       ]
     },
@@ -784,12 +124,144 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 7 cm and height 16 cm is:",
-      "correct_answer": "784π cm³",
+      "question": "Volume of a cylinder with radius 8 cm and height 14 cm is:",
+      "correct_answer": "896π cm³",
       "incorrect_answers": [
         "224π cm³",
         "112π cm³",
-        "65π cm³"
+        "78π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 9 cm and height 15 cm is:",
+      "correct_answer": "1215π cm³",
+      "incorrect_answers": [
+        "270π cm³",
+        "135π cm³",
+        "96π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 14 cm is:",
+      "correct_answer": "1400π cm³",
+      "incorrect_answers": [
+        "280π cm³",
+        "140π cm³",
+        "114π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 13 cm is:",
+      "correct_answer": "1300π cm³",
+      "incorrect_answers": [
+        "260π cm³",
+        "130π cm³",
+        "113π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 12 cm is:",
+      "correct_answer": "1200π cm³",
+      "incorrect_answers": [
+        "240π cm³",
+        "120π cm³",
+        "112π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 5 cm is:",
+      "correct_answer": "500π cm³",
+      "incorrect_answers": [
+        "100π cm³",
+        "50π cm³",
+        "105π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 10 cm is:",
+      "correct_answer": "360π cm³",
+      "incorrect_answers": [
+        "120π cm³",
+        "60π cm³",
+        "46π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 5 cm is:",
+      "correct_answer": "180π cm³",
+      "incorrect_answers": [
+        "60π cm³",
+        "30π cm³",
+        "41π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 7 cm and height 5 cm is:",
+      "correct_answer": "245π cm³",
+      "incorrect_answers": [
+        "70π cm³",
+        "35π cm³",
+        "54π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 3 cm and height 5 cm is:",
+      "correct_answer": "45π cm³",
+      "incorrect_answers": [
+        "30π cm³",
+        "15π cm³",
+        "14π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 11 cm is:",
+      "correct_answer": "396π cm³",
+      "incorrect_answers": [
+        "132π cm³",
+        "66π cm³",
+        "47π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 7 cm and height 8 cm is:",
+      "correct_answer": "392π cm³",
+      "incorrect_answers": [
+        "112π cm³",
+        "56π cm³",
+        "57π cm³"
       ]
     },
     {
@@ -820,132 +292,12 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 7 cm and height 5 cm is:",
-      "correct_answer": "245π cm³",
+      "question": "Volume of a cylinder with radius 3 cm and height 15 cm is:",
+      "correct_answer": "135π cm³",
       "incorrect_answers": [
-        "70π cm³",
-        "35π cm³",
-        "54π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 9 cm and height 8 cm is:",
-      "correct_answer": "648π cm³",
-      "incorrect_answers": [
-        "144π cm³",
-        "72π cm³",
-        "89π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 8 cm is:",
-      "correct_answer": "800π cm³",
-      "incorrect_answers": [
-        "160π cm³",
-        "80π cm³",
-        "108π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 8 cm is:",
-      "correct_answer": "288π cm³",
-      "incorrect_answers": [
-        "96π cm³",
-        "48π cm³",
-        "44π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 7 cm and height 9 cm is:",
-      "correct_answer": "441π cm³",
-      "incorrect_answers": [
-        "126π cm³",
-        "63π cm³",
-        "58π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 15 cm is:",
-      "correct_answer": "375π cm³",
-      "incorrect_answers": [
-        "150π cm³",
-        "75π cm³",
-        "40π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 6 cm is:",
-      "correct_answer": "54π cm³",
-      "incorrect_answers": [
-        "36π cm³",
-        "18π cm³",
-        "15π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 6 cm is:",
-      "correct_answer": "216π cm³",
-      "incorrect_answers": [
-        "72π cm³",
-        "36π cm³",
-        "42π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 7 cm and height 11 cm is:",
-      "correct_answer": "539π cm³",
-      "incorrect_answers": [
-        "154π cm³",
-        "77π cm³",
-        "60π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 11 cm is:",
-      "correct_answer": "704π cm³",
-      "incorrect_answers": [
-        "176π cm³",
-        "88π cm³",
-        "75π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 6 cm is:",
-      "correct_answer": "96π cm³",
-      "incorrect_answers": [
-        "48π cm³",
-        "24π cm³",
-        "22π cm³"
+        "90π cm³",
+        "45π cm³",
+        "24π cm³"
       ]
     },
     {
@@ -964,12 +316,12 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 4 cm and height 15 cm is:",
-      "correct_answer": "240π cm³",
+      "question": "Volume of a cylinder with radius 8 cm and height 9 cm is:",
+      "correct_answer": "576π cm³",
       "incorrect_answers": [
-        "120π cm³",
-        "60π cm³",
-        "31π cm³"
+        "144π cm³",
+        "72π cm³",
+        "73π cm³"
       ]
     },
     {
@@ -988,132 +340,24 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 9 cm and height 16 cm is:",
-      "correct_answer": "1296π cm³",
+      "question": "Volume of a cylinder with radius 3 cm and height 12 cm is:",
+      "correct_answer": "108π cm³",
       "incorrect_answers": [
-        "288π cm³",
-        "144π cm³",
-        "97π cm³"
+        "72π cm³",
+        "36π cm³",
+        "21π cm³"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 7 cm is:",
-      "correct_answer": "175π cm³",
+      "question": "Volume of a cylinder with radius 5 cm and height 10 cm is:",
+      "correct_answer": "250π cm³",
       "incorrect_answers": [
-        "70π cm³",
-        "35π cm³",
-        "32π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 11 cm is:",
-      "correct_answer": "1100π cm³",
-      "incorrect_answers": [
-        "220π cm³",
-        "110π cm³",
-        "111π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 15 cm is:",
-      "correct_answer": "1500π cm³",
-      "incorrect_answers": [
-        "300π cm³",
-        "150π cm³",
-        "115π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 8 cm is:",
-      "correct_answer": "512π cm³",
-      "incorrect_answers": [
-        "128π cm³",
-        "64π cm³",
-        "72π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 15 cm is:",
-      "correct_answer": "135π cm³",
-      "incorrect_answers": [
-        "90π cm³",
-        "45π cm³",
-        "24π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 6 cm and height 7 cm is:",
-      "correct_answer": "252π cm³",
-      "incorrect_answers": [
-        "84π cm³",
-        "42π cm³",
-        "43π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 6 cm is:",
-      "correct_answer": "150π cm³",
-      "incorrect_answers": [
-        "60π cm³",
-        "30π cm³",
-        "31π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 3 cm and height 13 cm is:",
-      "correct_answer": "117π cm³",
-      "incorrect_answers": [
-        "78π cm³",
-        "39π cm³",
-        "22π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 8 cm and height 16 cm is:",
-      "correct_answer": "1024π cm³",
-      "incorrect_answers": [
-        "256π cm³",
-        "128π cm³",
-        "80π cm³"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 10 cm and height 9 cm is:",
-      "correct_answer": "900π cm³",
-      "incorrect_answers": [
-        "180π cm³",
-        "90π cm³",
-        "109π cm³"
+        "100π cm³",
+        "50π cm³",
+        "35π cm³"
       ]
     },
     {
@@ -1132,6 +376,330 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 9 cm is:",
+      "correct_answer": "324π cm³",
+      "incorrect_answers": [
+        "108π cm³",
+        "54π cm³",
+        "45π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 7 cm and height 16 cm is:",
+      "correct_answer": "784π cm³",
+      "incorrect_answers": [
+        "224π cm³",
+        "112π cm³",
+        "65π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 3 cm and height 16 cm is:",
+      "correct_answer": "144π cm³",
+      "incorrect_answers": [
+        "96π cm³",
+        "48π cm³",
+        "25π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 7 cm is:",
+      "correct_answer": "252π cm³",
+      "incorrect_answers": [
+        "84π cm³",
+        "42π cm³",
+        "43π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 14 cm is:",
+      "correct_answer": "504π cm³",
+      "incorrect_answers": [
+        "168π cm³",
+        "84π cm³",
+        "50π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 5 cm and height 13 cm is:",
+      "correct_answer": "325π cm³",
+      "incorrect_answers": [
+        "130π cm³",
+        "65π cm³",
+        "38π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 7 cm and height 11 cm is:",
+      "correct_answer": "539π cm³",
+      "incorrect_answers": [
+        "154π cm³",
+        "77π cm³",
+        "60π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 8 cm and height 5 cm is:",
+      "correct_answer": "320π cm³",
+      "incorrect_answers": [
+        "80π cm³",
+        "40π cm³",
+        "69π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 9 cm and height 9 cm is:",
+      "correct_answer": "729π cm³",
+      "incorrect_answers": [
+        "162π cm³",
+        "81π cm³",
+        "90π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 10 cm is:",
+      "correct_answer": "1000π cm³",
+      "incorrect_answers": [
+        "200π cm³",
+        "100π cm³",
+        "110π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 3 cm and height 7 cm is:",
+      "correct_answer": "63π cm³",
+      "incorrect_answers": [
+        "42π cm³",
+        "21π cm³",
+        "16π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 5 cm and height 5 cm is:",
+      "correct_answer": "125π cm³",
+      "incorrect_answers": [
+        "50π cm³",
+        "25π cm³",
+        "30π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 7 cm and height 14 cm is:",
+      "correct_answer": "686π cm³",
+      "incorrect_answers": [
+        "196π cm³",
+        "98π cm³",
+        "63π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 3 cm and height 10 cm is:",
+      "correct_answer": "90π cm³",
+      "incorrect_answers": [
+        "60π cm³",
+        "30π cm³",
+        "19π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 8 cm and height 10 cm is:",
+      "correct_answer": "640π cm³",
+      "incorrect_answers": [
+        "160π cm³",
+        "80π cm³",
+        "74π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 16 cm is:",
+      "correct_answer": "576π cm³",
+      "incorrect_answers": [
+        "192π cm³",
+        "96π cm³",
+        "52π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 16 cm is:",
+      "correct_answer": "1600π cm³",
+      "incorrect_answers": [
+        "320π cm³",
+        "160π cm³",
+        "116π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 3 cm and height 9 cm is:",
+      "correct_answer": "81π cm³",
+      "incorrect_answers": [
+        "54π cm³",
+        "27π cm³",
+        "18π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 7 cm and height 9 cm is:",
+      "correct_answer": "441π cm³",
+      "incorrect_answers": [
+        "126π cm³",
+        "63π cm³",
+        "58π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 8 cm is:",
+      "correct_answer": "800π cm³",
+      "incorrect_answers": [
+        "160π cm³",
+        "80π cm³",
+        "108π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 3 cm and height 11 cm is:",
+      "correct_answer": "99π cm³",
+      "incorrect_answers": [
+        "66π cm³",
+        "33π cm³",
+        "20π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 15 cm is:",
+      "correct_answer": "240π cm³",
+      "incorrect_answers": [
+        "120π cm³",
+        "60π cm³",
+        "31π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 5 cm and height 16 cm is:",
+      "correct_answer": "400π cm³",
+      "incorrect_answers": [
+        "160π cm³",
+        "80π cm³",
+        "41π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 7 cm is:",
+      "correct_answer": "112π cm³",
+      "incorrect_answers": [
+        "56π cm³",
+        "28π cm³",
+        "23π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 12 cm is:",
+      "correct_answer": "432π cm³",
+      "incorrect_answers": [
+        "144π cm³",
+        "72π cm³",
+        "48π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 16 cm is:",
+      "correct_answer": "256π cm³",
+      "incorrect_answers": [
+        "128π cm³",
+        "64π cm³",
+        "32π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 9 cm and height 16 cm is:",
+      "correct_answer": "1296π cm³",
+      "incorrect_answers": [
+        "288π cm³",
+        "144π cm³",
+        "97π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
       "question": "Volume of a cylinder with radius 9 cm and height 7 cm is:",
       "correct_answer": "567π cm³",
       "incorrect_answers": [
@@ -1144,12 +712,444 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Mensuration",
-      "question": "Volume of a cylinder with radius 5 cm and height 14 cm is:",
-      "correct_answer": "350π cm³",
+      "question": "Volume of a cylinder with radius 8 cm and height 11 cm is:",
+      "correct_answer": "704π cm³",
       "incorrect_answers": [
-        "140π cm³",
-        "70π cm³",
-        "39π cm³"
+        "176π cm³",
+        "88π cm³",
+        "75π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 9 cm and height 5 cm is:",
+      "correct_answer": "405π cm³",
+      "incorrect_answers": [
+        "90π cm³",
+        "45π cm³",
+        "86π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 9 cm and height 11 cm is:",
+      "correct_answer": "891π cm³",
+      "incorrect_answers": [
+        "198π cm³",
+        "99π cm³",
+        "92π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 8 cm is:",
+      "correct_answer": "128π cm³",
+      "incorrect_answers": [
+        "64π cm³",
+        "32π cm³",
+        "24π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 9 cm and height 10 cm is:",
+      "correct_answer": "810π cm³",
+      "incorrect_answers": [
+        "180π cm³",
+        "90π cm³",
+        "91π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 5 cm and height 6 cm is:",
+      "correct_answer": "150π cm³",
+      "incorrect_answers": [
+        "60π cm³",
+        "30π cm³",
+        "31π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 5 cm and height 15 cm is:",
+      "correct_answer": "375π cm³",
+      "incorrect_answers": [
+        "150π cm³",
+        "75π cm³",
+        "40π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 10 cm is:",
+      "correct_answer": "160π cm³",
+      "incorrect_answers": [
+        "80π cm³",
+        "40π cm³",
+        "26π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 15 cm is:",
+      "correct_answer": "1500π cm³",
+      "incorrect_answers": [
+        "300π cm³",
+        "150π cm³",
+        "115π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 15 cm is:",
+      "correct_answer": "540π cm³",
+      "incorrect_answers": [
+        "180π cm³",
+        "90π cm³",
+        "51π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 5 cm is:",
+      "correct_answer": "80π cm³",
+      "incorrect_answers": [
+        "40π cm³",
+        "20π cm³",
+        "21π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 9 cm is:",
+      "correct_answer": "144π cm³",
+      "incorrect_answers": [
+        "72π cm³",
+        "36π cm³",
+        "25π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 7 cm and height 12 cm is:",
+      "correct_answer": "588π cm³",
+      "incorrect_answers": [
+        "168π cm³",
+        "84π cm³",
+        "61π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 6 cm and height 8 cm is:",
+      "correct_answer": "288π cm³",
+      "incorrect_answers": [
+        "96π cm³",
+        "48π cm³",
+        "44π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 9 cm and height 6 cm is:",
+      "correct_answer": "486π cm³",
+      "incorrect_answers": [
+        "108π cm³",
+        "54π cm³",
+        "87π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 11 cm is:",
+      "correct_answer": "176π cm³",
+      "incorrect_answers": [
+        "88π cm³",
+        "44π cm³",
+        "27π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 8 cm and height 15 cm is:",
+      "correct_answer": "960π cm³",
+      "incorrect_answers": [
+        "240π cm³",
+        "120π cm³",
+        "79π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 6 cm is:",
+      "correct_answer": "600π cm³",
+      "incorrect_answers": [
+        "120π cm³",
+        "60π cm³",
+        "106π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 11 cm is:",
+      "correct_answer": "1100π cm³",
+      "incorrect_answers": [
+        "220π cm³",
+        "110π cm³",
+        "111π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 8 cm and height 7 cm is:",
+      "correct_answer": "448π cm³",
+      "incorrect_answers": [
+        "112π cm³",
+        "56π cm³",
+        "71π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 13 cm is:",
+      "correct_answer": "208π cm³",
+      "incorrect_answers": [
+        "104π cm³",
+        "52π cm³",
+        "29π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 9 cm and height 8 cm is:",
+      "correct_answer": "648π cm³",
+      "incorrect_answers": [
+        "144π cm³",
+        "72π cm³",
+        "89π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 7 cm and height 13 cm is:",
+      "correct_answer": "637π cm³",
+      "incorrect_answers": [
+        "182π cm³",
+        "91π cm³",
+        "62π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 5 cm and height 11 cm is:",
+      "correct_answer": "275π cm³",
+      "incorrect_answers": [
+        "110π cm³",
+        "55π cm³",
+        "36π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 10 cm and height 9 cm is:",
+      "correct_answer": "900π cm³",
+      "incorrect_answers": [
+        "180π cm³",
+        "90π cm³",
+        "109π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 3 cm and height 8 cm is:",
+      "correct_answer": "72π cm³",
+      "incorrect_answers": [
+        "48π cm³",
+        "24π cm³",
+        "17π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 3 cm and height 14 cm is:",
+      "correct_answer": "126π cm³",
+      "incorrect_answers": [
+        "84π cm³",
+        "42π cm³",
+        "23π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 9 cm and height 14 cm is:",
+      "correct_answer": "1134π cm³",
+      "incorrect_answers": [
+        "252π cm³",
+        "126π cm³",
+        "95π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 8 cm and height 8 cm is:",
+      "correct_answer": "512π cm³",
+      "incorrect_answers": [
+        "128π cm³",
+        "64π cm³",
+        "72π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 14 cm is:",
+      "correct_answer": "224π cm³",
+      "incorrect_answers": [
+        "112π cm³",
+        "56π cm³",
+        "30π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 5 cm and height 12 cm is:",
+      "correct_answer": "300π cm³",
+      "incorrect_answers": [
+        "120π cm³",
+        "60π cm³",
+        "37π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 6 cm is:",
+      "correct_answer": "96π cm³",
+      "incorrect_answers": [
+        "48π cm³",
+        "24π cm³",
+        "22π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 4 cm and height 12 cm is:",
+      "correct_answer": "192π cm³",
+      "incorrect_answers": [
+        "96π cm³",
+        "48π cm³",
+        "28π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 8 cm and height 12 cm is:",
+      "correct_answer": "768π cm³",
+      "incorrect_answers": [
+        "192π cm³",
+        "96π cm³",
+        "76π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 8 cm and height 6 cm is:",
+      "correct_answer": "384π cm³",
+      "incorrect_answers": [
+        "96π cm³",
+        "48π cm³",
+        "70π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 5 cm and height 8 cm is:",
+      "correct_answer": "200π cm³",
+      "incorrect_answers": [
+        "80π cm³",
+        "40π cm³",
+        "33π cm³"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Mensuration",
+      "question": "Volume of a cylinder with radius 8 cm and height 16 cm is:",
+      "correct_answer": "1024π cm³",
+      "incorrect_answers": [
+        "256π cm³",
+        "128π cm³",
+        "80π cm³"
       ]
     },
     {

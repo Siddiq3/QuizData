@@ -4,708 +4,12 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 16 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/16",
-      "incorrect_answers": [
-        "16/4",
-        "5/16",
-        "4/17"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 16 and favourable outcomes are 7, probability is:",
-      "correct_answer": "7/16",
-      "incorrect_answers": [
-        "16/7",
-        "8/16",
-        "7/17"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 14 and favourable outcomes are 6, probability is:",
-      "correct_answer": "6/14",
-      "incorrect_answers": [
-        "14/6",
-        "7/14",
-        "6/15"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 15 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/15",
-      "incorrect_answers": [
-        "15/3",
-        "4/15",
-        "3/16"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 8 and favourable outcomes are 6, probability is:",
-      "correct_answer": "6/8",
-      "incorrect_answers": [
-        "8/6",
-        "7/8",
-        "6/9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 18 and favourable outcomes are 13, probability is:",
-      "correct_answer": "13/18",
-      "incorrect_answers": [
-        "18/13",
-        "14/18",
-        "13/19"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 19 and favourable outcomes are 2, probability is:",
-      "correct_answer": "2/19",
-      "incorrect_answers": [
-        "19/2",
-        "3/19",
-        "2/20"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 19 and favourable outcomes are 8, probability is:",
-      "correct_answer": "8/19",
-      "incorrect_answers": [
-        "19/8",
-        "9/19",
-        "8/20"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 19 and favourable outcomes are 9, probability is:",
-      "correct_answer": "9/19",
-      "incorrect_answers": [
-        "19/9",
-        "10/19",
-        "9/20"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 13 and favourable outcomes are 10, probability is:",
-      "correct_answer": "10/13",
-      "incorrect_answers": [
-        "13/10",
-        "11/13",
-        "10/14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 11 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/11",
-      "incorrect_answers": [
-        "11/4",
-        "5/11",
-        "4/12"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 8 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/8",
-      "incorrect_answers": [
-        "8/3",
-        "4/8",
-        "3/9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 16 and favourable outcomes are 14, probability is:",
-      "correct_answer": "14/16",
-      "incorrect_answers": [
-        "16/14",
-        "15/16",
-        "14/17"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 6 and favourable outcomes are 2, probability is:",
-      "correct_answer": "2/6",
-      "incorrect_answers": [
-        "6/2",
-        "3/6",
-        "2/7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 17 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/17",
-      "incorrect_answers": [
-        "17/4",
-        "5/17",
-        "4/18"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 7 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/7",
-      "incorrect_answers": [
-        "7/5",
-        "6/7",
-        "5/8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 8 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/8",
-      "incorrect_answers": [
-        "8/4",
-        "5/8",
-        "4/9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 12 and favourable outcomes are 10, probability is:",
-      "correct_answer": "10/12",
-      "incorrect_answers": [
-        "12/10",
-        "11/12",
-        "10/13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 6 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/6",
-      "incorrect_answers": [
-        "6/5",
-        "6/6",
-        "5/7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 7 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/7",
-      "incorrect_answers": [
-        "7/4",
-        "5/7",
-        "4/8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 16 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/16",
-      "incorrect_answers": [
-        "16/5",
-        "6/16",
-        "5/17"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 10 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/10",
-      "incorrect_answers": [
-        "10/3",
-        "4/10",
-        "3/11"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 19 and favourable outcomes are 13, probability is:",
-      "correct_answer": "13/19",
-      "incorrect_answers": [
-        "19/13",
-        "14/19",
-        "13/20"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 11 and favourable outcomes are 2, probability is:",
-      "correct_answer": "2/11",
-      "incorrect_answers": [
-        "11/2",
-        "3/11",
-        "2/12"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 8 and favourable outcomes are 7, probability is:",
-      "correct_answer": "7/8",
-      "incorrect_answers": [
-        "8/7",
-        "8/8",
-        "7/9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 18, probability is:",
-      "correct_answer": "18/20",
-      "incorrect_answers": [
-        "20/18",
-        "19/20",
-        "18/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 15 and favourable outcomes are 9, probability is:",
-      "correct_answer": "9/15",
-      "incorrect_answers": [
-        "15/9",
-        "10/15",
-        "9/16"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 6 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/6",
-      "incorrect_answers": [
-        "6/3",
-        "4/6",
-        "3/7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 11 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/11",
-      "incorrect_answers": [
-        "11/5",
-        "6/11",
-        "5/12"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 12 and favourable outcomes are 1, probability is:",
-      "correct_answer": "1/12",
-      "incorrect_answers": [
-        "12/1",
-        "2/12",
-        "1/13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 7 and favourable outcomes are 2, probability is:",
-      "correct_answer": "2/7",
-      "incorrect_answers": [
-        "7/2",
-        "3/7",
-        "2/8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 9 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/9",
-      "incorrect_answers": [
-        "9/5",
-        "6/9",
-        "5/10"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 8, probability is:",
-      "correct_answer": "8/20",
-      "incorrect_answers": [
-        "20/8",
-        "9/20",
-        "8/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 10 and favourable outcomes are 7, probability is:",
-      "correct_answer": "7/10",
-      "incorrect_answers": [
-        "10/7",
-        "8/10",
-        "7/11"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/20",
-      "incorrect_answers": [
-        "20/5",
-        "6/20",
-        "5/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 15 and favourable outcomes are 12, probability is:",
-      "correct_answer": "12/15",
-      "incorrect_answers": [
-        "15/12",
-        "13/15",
-        "12/16"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 7 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/7",
-      "incorrect_answers": [
-        "7/3",
-        "4/7",
-        "3/8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 12 and favourable outcomes are 8, probability is:",
-      "correct_answer": "8/12",
-      "incorrect_answers": [
-        "12/8",
-        "9/12",
-        "8/13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 19 and favourable outcomes are 15, probability is:",
-      "correct_answer": "15/19",
-      "incorrect_answers": [
-        "19/15",
-        "16/19",
-        "15/20"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 16 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/16",
-      "incorrect_answers": [
-        "16/3",
-        "4/16",
-        "3/17"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 17 and favourable outcomes are 16, probability is:",
-      "correct_answer": "16/17",
-      "incorrect_answers": [
-        "17/16",
-        "17/17",
-        "16/18"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 12 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/12",
-      "incorrect_answers": [
-        "12/3",
-        "4/12",
-        "3/13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 8 and favourable outcomes are 2, probability is:",
-      "correct_answer": "2/8",
-      "incorrect_answers": [
-        "8/2",
-        "3/8",
-        "2/9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 18 and favourable outcomes are 8, probability is:",
-      "correct_answer": "8/18",
-      "incorrect_answers": [
-        "18/8",
-        "9/18",
-        "8/19"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 17 and favourable outcomes are 11, probability is:",
-      "correct_answer": "11/17",
-      "incorrect_answers": [
-        "17/11",
-        "12/17",
-        "11/18"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 15 and favourable outcomes are 2, probability is:",
-      "correct_answer": "2/15",
-      "incorrect_answers": [
-        "15/2",
-        "3/15",
-        "2/16"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 8 and favourable outcomes are 1, probability is:",
-      "correct_answer": "1/8",
-      "incorrect_answers": [
-        "8/1",
-        "2/8",
-        "1/9"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/20",
-      "incorrect_answers": [
-        "20/4",
-        "5/20",
-        "4/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 19 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/19",
-      "incorrect_answers": [
-        "19/4",
-        "5/19",
-        "4/20"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/20",
-      "incorrect_answers": [
-        "20/3",
-        "4/20",
-        "3/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 13 and favourable outcomes are 8, probability is:",
-      "correct_answer": "8/13",
-      "incorrect_answers": [
-        "13/8",
-        "9/13",
-        "8/14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 15 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/15",
-      "incorrect_answers": [
-        "15/4",
-        "5/15",
-        "4/16"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
       "question": "If total outcomes are 17 and favourable outcomes are 6, probability is:",
       "correct_answer": "6/17",
       "incorrect_answers": [
         "17/6",
         "7/17",
         "6/18"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 13 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/13",
-      "incorrect_answers": [
-        "13/3",
-        "4/13",
-        "3/14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 13 and favourable outcomes are 12, probability is:",
-      "correct_answer": "12/13",
-      "incorrect_answers": [
-        "13/12",
-        "13/13",
-        "12/14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 14 and favourable outcomes are 12, probability is:",
-      "correct_answer": "12/14",
-      "incorrect_answers": [
-        "14/12",
-        "13/14",
-        "12/15"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 12 and favourable outcomes are 6, probability is:",
-      "correct_answer": "6/12",
-      "incorrect_answers": [
-        "12/6",
-        "7/12",
-        "6/13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 12 and favourable outcomes are 7, probability is:",
-      "correct_answer": "7/12",
-      "incorrect_answers": [
-        "12/7",
-        "8/12",
-        "7/13"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 16 and favourable outcomes are 15, probability is:",
-      "correct_answer": "15/16",
-      "incorrect_answers": [
-        "16/15",
-        "16/16",
-        "15/17"
       ]
     },
     {
@@ -724,120 +28,24 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 12 and favourable outcomes are 11, probability is:",
-      "correct_answer": "11/12",
+      "question": "If total outcomes are 12 and favourable outcomes are 6, probability is:",
+      "correct_answer": "6/12",
       "incorrect_answers": [
-        "12/11",
-        "12/12",
-        "11/13"
+        "12/6",
+        "7/12",
+        "6/13"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 14, probability is:",
-      "correct_answer": "14/20",
+      "question": "If total outcomes are 20 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/20",
       "incorrect_answers": [
-        "20/14",
-        "15/20",
-        "14/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 18 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/18",
-      "incorrect_answers": [
-        "18/5",
-        "6/18",
-        "5/19"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 10 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/10",
-      "incorrect_answers": [
-        "10/4",
-        "5/10",
-        "4/11"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 6 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/6",
-      "incorrect_answers": [
-        "6/4",
-        "5/6",
-        "4/7"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 9 and favourable outcomes are 6, probability is:",
-      "correct_answer": "6/9",
-      "incorrect_answers": [
-        "9/6",
-        "7/9",
-        "6/10"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 15 and favourable outcomes are 10, probability is:",
-      "correct_answer": "10/15",
-      "incorrect_answers": [
-        "15/10",
-        "11/15",
-        "10/16"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 18 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/18",
-      "incorrect_answers": [
-        "18/4",
-        "5/18",
-        "4/19"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 15, probability is:",
-      "correct_answer": "15/20",
-      "incorrect_answers": [
-        "20/15",
-        "16/20",
-        "15/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 12 and favourable outcomes are 2, probability is:",
-      "correct_answer": "2/12",
-      "incorrect_answers": [
-        "12/2",
-        "3/12",
-        "2/13"
+        "20/1",
+        "2/20",
+        "1/21"
       ]
     },
     {
@@ -856,120 +64,36 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 14 and favourable outcomes are 7, probability is:",
-      "correct_answer": "7/14",
+      "question": "If total outcomes are 10 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/10",
       "incorrect_answers": [
-        "14/7",
-        "8/14",
-        "7/15"
+        "10/7",
+        "8/10",
+        "7/11"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 13 and favourable outcomes are 11, probability is:",
-      "correct_answer": "11/13",
+      "question": "If total outcomes are 12 and favourable outcomes are 9, probability is:",
+      "correct_answer": "9/12",
       "incorrect_answers": [
-        "13/11",
-        "12/13",
-        "11/14"
+        "12/9",
+        "10/12",
+        "9/13"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 17 and favourable outcomes are 12, probability is:",
-      "correct_answer": "12/17",
+      "question": "If total outcomes are 18 and favourable outcomes are 16, probability is:",
+      "correct_answer": "16/18",
       "incorrect_answers": [
-        "17/12",
-        "13/17",
-        "12/18"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 13 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/13",
-      "incorrect_answers": [
-        "13/5",
-        "6/13",
-        "5/14"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 6, probability is:",
-      "correct_answer": "6/20",
-      "incorrect_answers": [
-        "20/6",
-        "7/20",
-        "6/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 15 and favourable outcomes are 14, probability is:",
-      "correct_answer": "14/15",
-      "incorrect_answers": [
-        "15/14",
-        "15/15",
-        "14/16"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 10, probability is:",
-      "correct_answer": "10/20",
-      "incorrect_answers": [
-        "20/10",
-        "11/20",
-        "10/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 12, probability is:",
-      "correct_answer": "12/20",
-      "incorrect_answers": [
-        "20/12",
-        "13/20",
-        "12/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 18 and favourable outcomes are 7, probability is:",
-      "correct_answer": "7/18",
-      "incorrect_answers": [
-        "18/7",
-        "8/18",
-        "7/19"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 14 and favourable outcomes are 4, probability is:",
-      "correct_answer": "4/14",
-      "incorrect_answers": [
-        "14/4",
-        "5/14",
-        "4/15"
+        "18/16",
+        "17/18",
+        "16/19"
       ]
     },
     {
@@ -988,60 +112,204 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 16 and favourable outcomes are 11, probability is:",
-      "correct_answer": "11/16",
+      "question": "If total outcomes are 19 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/19",
       "incorrect_answers": [
-        "16/11",
-        "12/16",
-        "11/17"
+        "19/7",
+        "8/19",
+        "7/20"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 17 and favourable outcomes are 8, probability is:",
-      "correct_answer": "8/17",
+      "question": "If total outcomes are 14 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/14",
       "incorrect_answers": [
-        "17/8",
-        "9/17",
-        "8/18"
+        "14/5",
+        "6/14",
+        "5/15"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 19 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/19",
+      "question": "If total outcomes are 8 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/8",
       "incorrect_answers": [
-        "19/5",
-        "6/19",
-        "5/20"
+        "8/5",
+        "6/8",
+        "5/9"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 19 and favourable outcomes are 14, probability is:",
-      "correct_answer": "14/19",
+      "question": "If total outcomes are 15 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/15",
       "incorrect_answers": [
-        "19/14",
-        "15/19",
-        "14/20"
+        "15/5",
+        "6/15",
+        "5/16"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 16 and favourable outcomes are 6, probability is:",
-      "correct_answer": "6/16",
+      "question": "If total outcomes are 9 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/9",
       "incorrect_answers": [
-        "16/6",
-        "7/16",
-        "6/17"
+        "9/1",
+        "2/9",
+        "1/10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 8 and favourable outcomes are 4, probability is:",
+      "correct_answer": "4/8",
+      "incorrect_answers": [
+        "8/4",
+        "5/8",
+        "4/9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 20 and favourable outcomes are 11, probability is:",
+      "correct_answer": "11/20",
+      "incorrect_answers": [
+        "20/11",
+        "12/20",
+        "11/21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 6 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/6",
+      "incorrect_answers": [
+        "6/5",
+        "6/6",
+        "5/7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 18 and favourable outcomes are 9, probability is:",
+      "correct_answer": "9/18",
+      "incorrect_answers": [
+        "18/9",
+        "10/18",
+        "9/19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 20 and favourable outcomes are 18, probability is:",
+      "correct_answer": "18/20",
+      "incorrect_answers": [
+        "20/18",
+        "19/20",
+        "18/21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 14 and favourable outcomes are 2, probability is:",
+      "correct_answer": "2/14",
+      "incorrect_answers": [
+        "14/2",
+        "3/14",
+        "2/15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 7 and favourable outcomes are 4, probability is:",
+      "correct_answer": "4/7",
+      "incorrect_answers": [
+        "7/4",
+        "5/7",
+        "4/8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 11 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/11",
+      "incorrect_answers": [
+        "11/1",
+        "2/11",
+        "1/12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 20 and favourable outcomes are 10, probability is:",
+      "correct_answer": "10/20",
+      "incorrect_answers": [
+        "20/10",
+        "11/20",
+        "10/21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 17 and favourable outcomes are 2, probability is:",
+      "correct_answer": "2/17",
+      "incorrect_answers": [
+        "17/2",
+        "3/17",
+        "2/18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 6 and favourable outcomes are 3, probability is:",
+      "correct_answer": "3/6",
+      "incorrect_answers": [
+        "6/3",
+        "4/6",
+        "3/7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 9 and favourable outcomes are 3, probability is:",
+      "correct_answer": "3/9",
+      "incorrect_answers": [
+        "9/3",
+        "4/9",
+        "3/10"
       ]
     },
     {
@@ -1060,108 +328,60 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 17 and favourable outcomes are 5, probability is:",
-      "correct_answer": "5/17",
+      "question": "If total outcomes are 8 and favourable outcomes are 3, probability is:",
+      "correct_answer": "3/8",
       "incorrect_answers": [
-        "17/5",
-        "6/17",
-        "5/18"
+        "8/3",
+        "4/8",
+        "3/9"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 11 and favourable outcomes are 10, probability is:",
-      "correct_answer": "10/11",
+      "question": "If total outcomes are 11 and favourable outcomes are 6, probability is:",
+      "correct_answer": "6/11",
       "incorrect_answers": [
-        "11/10",
-        "11/11",
-        "10/12"
+        "11/6",
+        "7/11",
+        "6/12"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 13, probability is:",
-      "correct_answer": "13/20",
+      "question": "If total outcomes are 16 and favourable outcomes are 6, probability is:",
+      "correct_answer": "6/16",
       "incorrect_answers": [
-        "20/13",
-        "14/20",
-        "13/21"
+        "16/6",
+        "7/16",
+        "6/17"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 17 and favourable outcomes are 3, probability is:",
-      "correct_answer": "3/17",
+      "question": "If total outcomes are 19 and favourable outcomes are 13, probability is:",
+      "correct_answer": "13/19",
       "incorrect_answers": [
-        "17/3",
-        "4/17",
-        "3/18"
+        "19/13",
+        "14/19",
+        "13/20"
       ]
     },
     {
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
-      "question": "If total outcomes are 20 and favourable outcomes are 2, probability is:",
-      "correct_answer": "2/20",
+      "question": "If total outcomes are 17 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/17",
       "incorrect_answers": [
-        "20/2",
-        "3/20",
-        "2/21"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 7 and favourable outcomes are 1, probability is:",
-      "correct_answer": "1/7",
-      "incorrect_answers": [
-        "7/1",
-        "2/7",
-        "1/8"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 17 and favourable outcomes are 15, probability is:",
-      "correct_answer": "15/17",
-      "incorrect_answers": [
-        "17/15",
-        "16/17",
-        "15/18"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 15 and favourable outcomes are 11, probability is:",
-      "correct_answer": "11/15",
-      "incorrect_answers": [
-        "15/11",
-        "12/15",
-        "11/16"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Probability",
-      "question": "If total outcomes are 14 and favourable outcomes are 13, probability is:",
-      "correct_answer": "13/14",
-      "incorrect_answers": [
-        "14/13",
-        "14/14",
-        "13/15"
+        "17/7",
+        "8/17",
+        "7/18"
       ]
     },
     {
@@ -1180,6 +400,366 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
+      "question": "If total outcomes are 14 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/14",
+      "incorrect_answers": [
+        "14/7",
+        "8/14",
+        "7/15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 7 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/7",
+      "incorrect_answers": [
+        "7/5",
+        "6/7",
+        "5/8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 15 and favourable outcomes are 8, probability is:",
+      "correct_answer": "8/15",
+      "incorrect_answers": [
+        "15/8",
+        "9/15",
+        "8/16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 15 and favourable outcomes are 13, probability is:",
+      "correct_answer": "13/15",
+      "incorrect_answers": [
+        "15/13",
+        "14/15",
+        "13/16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 13 and favourable outcomes are 12, probability is:",
+      "correct_answer": "12/13",
+      "incorrect_answers": [
+        "13/12",
+        "13/13",
+        "12/14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 13 and favourable outcomes are 3, probability is:",
+      "correct_answer": "3/13",
+      "incorrect_answers": [
+        "13/3",
+        "4/13",
+        "3/14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 19 and favourable outcomes are 11, probability is:",
+      "correct_answer": "11/19",
+      "incorrect_answers": [
+        "19/11",
+        "12/19",
+        "11/20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 17 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/17",
+      "incorrect_answers": [
+        "17/5",
+        "6/17",
+        "5/18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 8 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/8",
+      "incorrect_answers": [
+        "8/7",
+        "8/8",
+        "7/9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 11 and favourable outcomes are 2, probability is:",
+      "correct_answer": "2/11",
+      "incorrect_answers": [
+        "11/2",
+        "3/11",
+        "2/12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 18 and favourable outcomes are 14, probability is:",
+      "correct_answer": "14/18",
+      "incorrect_answers": [
+        "18/14",
+        "15/18",
+        "14/19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 17 and favourable outcomes are 10, probability is:",
+      "correct_answer": "10/17",
+      "incorrect_answers": [
+        "17/10",
+        "11/17",
+        "10/18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 10 and favourable outcomes are 8, probability is:",
+      "correct_answer": "8/10",
+      "incorrect_answers": [
+        "10/8",
+        "9/10",
+        "8/11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 15 and favourable outcomes are 14, probability is:",
+      "correct_answer": "14/15",
+      "incorrect_answers": [
+        "15/14",
+        "15/15",
+        "14/16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 6 and favourable outcomes are 2, probability is:",
+      "correct_answer": "2/6",
+      "incorrect_answers": [
+        "6/2",
+        "3/6",
+        "2/7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 8 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/8",
+      "incorrect_answers": [
+        "8/1",
+        "2/8",
+        "1/9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 19 and favourable outcomes are 8, probability is:",
+      "correct_answer": "8/19",
+      "incorrect_answers": [
+        "19/8",
+        "9/19",
+        "8/20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 17 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/17",
+      "incorrect_answers": [
+        "17/1",
+        "2/17",
+        "1/18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 20 and favourable outcomes are 17, probability is:",
+      "correct_answer": "17/20",
+      "incorrect_answers": [
+        "20/17",
+        "18/20",
+        "17/21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 15 and favourable outcomes are 10, probability is:",
+      "correct_answer": "10/15",
+      "incorrect_answers": [
+        "15/10",
+        "11/15",
+        "10/16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 16 and favourable outcomes are 10, probability is:",
+      "correct_answer": "10/16",
+      "incorrect_answers": [
+        "16/10",
+        "11/16",
+        "10/17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 14 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/14",
+      "incorrect_answers": [
+        "14/1",
+        "2/14",
+        "1/15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 15 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/15",
+      "incorrect_answers": [
+        "15/1",
+        "2/15",
+        "1/16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 10 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/10",
+      "incorrect_answers": [
+        "10/1",
+        "2/10",
+        "1/11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 8 and favourable outcomes are 2, probability is:",
+      "correct_answer": "2/8",
+      "incorrect_answers": [
+        "8/2",
+        "3/8",
+        "2/9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 19 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/19",
+      "incorrect_answers": [
+        "19/5",
+        "6/19",
+        "5/20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 12 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/12",
+      "incorrect_answers": [
+        "12/5",
+        "6/12",
+        "5/13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 14 and favourable outcomes are 10, probability is:",
+      "correct_answer": "10/14",
+      "incorrect_answers": [
+        "14/10",
+        "11/14",
+        "10/15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 18 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/18",
+      "incorrect_answers": [
+        "18/1",
+        "2/18",
+        "1/19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 12 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/12",
+      "incorrect_answers": [
+        "12/7",
+        "8/12",
+        "7/13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
       "question": "If total outcomes are 13 and favourable outcomes are 2, probability is:",
       "correct_answer": "2/13",
       "incorrect_answers": [
@@ -1192,12 +772,432 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Probability",
+      "question": "If total outcomes are 18 and favourable outcomes are 15, probability is:",
+      "correct_answer": "15/18",
+      "incorrect_answers": [
+        "18/15",
+        "16/18",
+        "15/19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 11 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/11",
+      "incorrect_answers": [
+        "11/5",
+        "6/11",
+        "5/12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 11 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/11",
+      "incorrect_answers": [
+        "11/7",
+        "8/11",
+        "7/12"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 16 and favourable outcomes are 14, probability is:",
+      "correct_answer": "14/16",
+      "incorrect_answers": [
+        "16/14",
+        "15/16",
+        "14/17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 12 and favourable outcomes are 10, probability is:",
+      "correct_answer": "10/12",
+      "incorrect_answers": [
+        "12/10",
+        "11/12",
+        "10/13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 12 and favourable outcomes are 8, probability is:",
+      "correct_answer": "8/12",
+      "incorrect_answers": [
+        "12/8",
+        "9/12",
+        "8/13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 18 and favourable outcomes are 13, probability is:",
+      "correct_answer": "13/18",
+      "incorrect_answers": [
+        "18/13",
+        "14/18",
+        "13/19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 17 and favourable outcomes are 11, probability is:",
+      "correct_answer": "11/17",
+      "incorrect_answers": [
+        "17/11",
+        "12/17",
+        "11/18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 15 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/15",
+      "incorrect_answers": [
+        "15/7",
+        "8/15",
+        "7/16"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 20 and favourable outcomes are 9, probability is:",
+      "correct_answer": "9/20",
+      "incorrect_answers": [
+        "20/9",
+        "10/20",
+        "9/21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 13 and favourable outcomes are 9, probability is:",
+      "correct_answer": "9/13",
+      "incorrect_answers": [
+        "13/9",
+        "10/13",
+        "9/14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 19 and favourable outcomes are 16, probability is:",
+      "correct_answer": "16/19",
+      "incorrect_answers": [
+        "19/16",
+        "17/19",
+        "16/20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 18 and favourable outcomes are 4, probability is:",
+      "correct_answer": "4/18",
+      "incorrect_answers": [
+        "18/4",
+        "5/18",
+        "4/19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 7 and favourable outcomes are 3, probability is:",
+      "correct_answer": "3/7",
+      "incorrect_answers": [
+        "7/3",
+        "4/7",
+        "3/8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
       "question": "If total outcomes are 6 and favourable outcomes are 1, probability is:",
       "correct_answer": "1/6",
       "incorrect_answers": [
         "6/1",
         "2/6",
         "1/7"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 7 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/7",
+      "incorrect_answers": [
+        "7/1",
+        "2/7",
+        "1/8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 8 and favourable outcomes are 6, probability is:",
+      "correct_answer": "6/8",
+      "incorrect_answers": [
+        "8/6",
+        "7/8",
+        "6/9"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 18 and favourable outcomes are 12, probability is:",
+      "correct_answer": "12/18",
+      "incorrect_answers": [
+        "18/12",
+        "13/18",
+        "12/19"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 16 and favourable outcomes are 9, probability is:",
+      "correct_answer": "9/16",
+      "incorrect_answers": [
+        "16/9",
+        "10/16",
+        "9/17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 12 and favourable outcomes are 1, probability is:",
+      "correct_answer": "1/12",
+      "incorrect_answers": [
+        "12/1",
+        "2/12",
+        "1/13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 16 and favourable outcomes are 5, probability is:",
+      "correct_answer": "5/16",
+      "incorrect_answers": [
+        "16/5",
+        "6/16",
+        "5/17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 19 and favourable outcomes are 4, probability is:",
+      "correct_answer": "4/19",
+      "incorrect_answers": [
+        "19/4",
+        "5/19",
+        "4/20"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 16 and favourable outcomes are 15, probability is:",
+      "correct_answer": "15/16",
+      "incorrect_answers": [
+        "16/15",
+        "16/16",
+        "15/17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 9 and favourable outcomes are 4, probability is:",
+      "correct_answer": "4/9",
+      "incorrect_answers": [
+        "9/4",
+        "5/9",
+        "4/10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 9 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/9",
+      "incorrect_answers": [
+        "9/7",
+        "8/9",
+        "7/10"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 10 and favourable outcomes are 4, probability is:",
+      "correct_answer": "4/10",
+      "incorrect_answers": [
+        "10/4",
+        "5/10",
+        "4/11"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 20 and favourable outcomes are 19, probability is:",
+      "correct_answer": "19/20",
+      "incorrect_answers": [
+        "20/19",
+        "20/20",
+        "19/21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 20 and favourable outcomes are 14, probability is:",
+      "correct_answer": "14/20",
+      "incorrect_answers": [
+        "20/14",
+        "15/20",
+        "14/21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 13 and favourable outcomes are 6, probability is:",
+      "correct_answer": "6/13",
+      "incorrect_answers": [
+        "13/6",
+        "7/13",
+        "6/14"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 20 and favourable outcomes are 7, probability is:",
+      "correct_answer": "7/20",
+      "incorrect_answers": [
+        "20/7",
+        "8/20",
+        "7/21"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 12 and favourable outcomes are 11, probability is:",
+      "correct_answer": "11/12",
+      "incorrect_answers": [
+        "12/11",
+        "12/12",
+        "11/13"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 14 and favourable outcomes are 12, probability is:",
+      "correct_answer": "12/14",
+      "incorrect_answers": [
+        "14/12",
+        "13/14",
+        "12/15"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 7 and favourable outcomes are 6, probability is:",
+      "correct_answer": "6/7",
+      "incorrect_answers": [
+        "7/6",
+        "7/7",
+        "6/8"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 16 and favourable outcomes are 12, probability is:",
+      "correct_answer": "12/16",
+      "incorrect_answers": [
+        "16/12",
+        "13/16",
+        "12/17"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 17 and favourable outcomes are 13, probability is:",
+      "correct_answer": "13/17",
+      "incorrect_answers": [
+        "17/13",
+        "14/17",
+        "13/18"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Probability",
+      "question": "If total outcomes are 11 and favourable outcomes are 4, probability is:",
+      "correct_answer": "4/11",
+      "incorrect_answers": [
+        "11/4",
+        "5/11",
+        "4/12"
       ]
     }
   ]

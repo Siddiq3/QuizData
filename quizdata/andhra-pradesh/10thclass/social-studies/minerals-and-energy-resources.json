@@ -7,9 +7,9 @@
       "question": "In \"Minerals and Energy Resources\", which statement is most accurate about mining?",
       "correct_answer": "Mining is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Resource Distribution can replace all chapter logic without assumptions.",
-        "Minerals And Energy Resources Application is valid only if core conditions are ignored.",
-        "Sustainable Use is a memory cue, not a defensible explanation."
+        "Minerals And Energy Resources Framework can replace all chapter logic without assumptions.",
+        "Thermal Power is valid only if core conditions are ignored.",
+        "Resource Conservation is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies energy mix in a new problem from \"Minerals and Energy Resources\". What is the best first step?",
       "correct_answer": "Define conditions, apply energy mix stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Minerals and Energy Resources framework and skip checking constraints.",
-        "Use sustainable use as a shortcut and avoid interpretation.",
-        "Pick energy transition by intuition and finalise without verification."
+        "Start from land degradation and skip checking constraints.",
+        "Use renewables as a shortcut and avoid interpretation.",
+        "Pick Minerals and Energy Resources framework by intuition and finalise without verification."
       ]
     },
     {
@@ -31,8 +31,8 @@
       "question": "Which option shows a valid example of resource distribution in \"Minerals and Energy Resources\"?",
       "correct_answer": "An example where resource distribution is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where thermal power is used without relevance to chapter context.",
-        "An example where energy mix is memorised but not applied logically.",
+        "An example where Minerals and Energy Resources inference is used without relevance to chapter context.",
+        "An example where land degradation is memorised but not applied logically.",
         "An example where mining is stated without evidence."
       ]
     },
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Minerals and Energy Resources\": \"environment regulation works without constraints.\"",
       "correct_answer": "Environment Regulation works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Hydro Power removes the need for all constraints in every case.",
+        "Resource Planning removes the need for all constraints in every case.",
         "Mining is always equivalent to environment regulation, regardless of context.",
-        "Resource Distribution is enough even when data contradict the claim."
+        "Land Degradation is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Minerals and Energy Resources\", which mismatch is incorrect?",
       "correct_answer": "Hydro Power - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Energy Mix - applied without confirming assumptions.",
-        "Resource Planning - interpreted against contradictory data.",
-        "Minerals And Energy Resources Inference - concluded before checking consistency."
+        "Renewables - applied without confirming assumptions.",
+        "Energy Mix - interpreted against contradictory data.",
+        "Resource Planning - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for energy transition in \"Minerals and Energy Resources\"?",
       "correct_answer": "The inference that links energy transition to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes environment regulation without checking relevance.",
-        "An inference that cites sustainable use but skips logical steps.",
-        "An inference that repeats renewables without interpretation."
+        "An inference that substitutes energy mix without checking relevance.",
+        "An inference that cites environment regulation but skips logical steps.",
+        "An inference that repeats hydro power without interpretation."
       ]
     },
     {
@@ -103,9 +103,9 @@
       "question": "In \"Minerals and Energy Resources\", which statement is most accurate about resource planning?",
       "correct_answer": "Resource Planning is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Renewables can replace all chapter logic without assumptions.",
-        "Minerals And Energy Resources Application is valid only if core conditions are ignored.",
-        "Environment Regulation is a memory cue, not a defensible explanation."
+        "Thermal Power can replace all chapter logic without assumptions.",
+        "Resource Distribution is valid only if core conditions are ignored.",
+        "Hydro Power is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -115,8 +115,8 @@
       "question": "A learner applies sustainable use in a new problem from \"Minerals and Energy Resources\". What is the best first step?",
       "correct_answer": "Define conditions, apply sustainable use stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from resource conservation and skip checking constraints.",
-        "Use energy mix as a shortcut and avoid interpretation.",
+        "Start from Minerals and Energy Resources framework and skip checking constraints.",
+        "Use energy transition as a shortcut and avoid interpretation.",
         "Pick thermal power by intuition and finalise without verification."
       ]
     },
@@ -127,9 +127,9 @@
       "question": "Which option shows a valid example of land degradation in \"Minerals and Energy Resources\"?",
       "correct_answer": "An example where land degradation is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where sustainable use is used without relevance to chapter context.",
-        "An example where hydro power is memorised but not applied logically.",
-        "An example where resource distribution is stated without evidence."
+        "An example where Minerals and Energy Resources inference is used without relevance to chapter context.",
+        "An example where energy mix is memorised but not applied logically.",
+        "An example where thermal power is stated without evidence."
       ]
     },
     {
@@ -139,9 +139,9 @@
       "question": "Choose the most defensible correction for this claim in \"Minerals and Energy Resources\": \"resource conservation works without constraints.\"",
       "correct_answer": "Resource Conservation works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Minerals And Energy Resources Application removes the need for all constraints in every case.",
-        "Minerals And Energy Resources Inference is always equivalent to resource conservation, regardless of context.",
-        "Sustainable Use is enough even when data contradict the claim."
+        "Energy Transition removes the need for all constraints in every case.",
+        "Resource Distribution is always equivalent to resource conservation, regardless of context.",
+        "Environment Regulation is enough even when data contradict the claim."
       ]
     },
     {
@@ -175,9 +175,9 @@
       "question": "Which inference is most rigorous for Minerals and Energy Resources inference in \"Minerals and Energy Resources\"?",
       "correct_answer": "The inference that links Minerals and Energy Resources inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes resource planning without checking relevance.",
-        "An inference that cites hydro power but skips logical steps.",
-        "An inference that repeats land degradation without interpretation."
+        "An inference that substitutes resource distribution without checking relevance.",
+        "An inference that cites energy transition but skips logical steps.",
+        "An inference that repeats thermal power without interpretation."
       ]
     },
     {

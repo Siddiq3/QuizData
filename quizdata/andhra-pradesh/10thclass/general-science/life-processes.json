@@ -8,8 +8,8 @@
       "correct_answer": "Nutrition is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
         "Life Processes Application can replace all chapter logic without assumptions.",
-        "Transport In Plants is valid only if core conditions are ignored.",
-        "Respiration is a memory cue, not a defensible explanation."
+        "Respiration is valid only if core conditions are ignored.",
+        "Life Processes Framework is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies respiration in a new problem from \"Life Processes\". What is the best first step?",
       "correct_answer": "Define conditions, apply respiration stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Life Processes and skip checking constraints.",
+        "Start from nutrition and skip checking constraints.",
         "Use transport in plants as a shortcut and avoid interpretation.",
-        "Pick Life Processes framework by intuition and finalise without verification."
+        "Pick Life Processes by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of transport in plants in \"Life Processes\"?",
       "correct_answer": "An example where transport in plants is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where nutrition is used without relevance to chapter context.",
+        "An example where Life Processes framework is used without relevance to chapter context.",
         "An example where Life Processes is memorised but not applied logically.",
-        "An example where Life Processes framework is stated without evidence."
+        "An example where excretion is stated without evidence."
       ]
     },
     {
@@ -44,8 +44,8 @@
       "correct_answer": "Excretion works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
         "Respiration removes the need for all constraints in every case.",
-        "Life Processes Application is always equivalent to excretion, regardless of context.",
-        "Life Processes Framework is enough even when data contradict the claim."
+        "Nutrition is always equivalent to excretion, regardless of context.",
+        "Life Processes is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Life Processes\", which mismatch is incorrect?",
       "correct_answer": "Life Processes Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Life Processes Application - applied without confirming assumptions.",
-        "Nutrition - interpreted against contradictory data.",
-        "Respiration - concluded before checking consistency."
+        "Nutrition - applied without confirming assumptions.",
+        "Life Processes Application - interpreted against contradictory data.",
+        "Life Processes Inference - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Life Processes inference in \"Life Processes\"?",
       "correct_answer": "The inference that links Life Processes inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Life Processes application without checking relevance.",
-        "An inference that cites respiration but skips logical steps.",
-        "An inference that repeats transport in plants without interpretation."
+        "An inference that substitutes Life Processes without checking relevance.",
+        "An inference that cites Life Processes framework but skips logical steps.",
+        "An inference that repeats respiration without interpretation."
       ]
     },
     {

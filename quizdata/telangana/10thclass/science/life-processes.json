@@ -7,8 +7,8 @@
       "question": "In \"Life Processes\", which statement is most accurate about nutrition?",
       "correct_answer": "Nutrition is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Respiration can replace all chapter logic without assumptions.",
-        "Transport In Plants is valid only if core conditions are ignored.",
+        "Transport In Plants can replace all chapter logic without assumptions.",
+        "Life Processes Inference is valid only if core conditions are ignored.",
         "Life Processes is a memory cue, not a defensible explanation."
       ]
     },
@@ -20,8 +20,8 @@
       "correct_answer": "Define conditions, apply respiration stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
         "Start from Life Processes and skip checking constraints.",
-        "Use Life Processes application as a shortcut and avoid interpretation.",
-        "Pick nutrition by intuition and finalise without verification."
+        "Use nutrition as a shortcut and avoid interpretation.",
+        "Pick excretion by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of transport in plants in \"Life Processes\"?",
       "correct_answer": "An example where transport in plants is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Life Processes framework is used without relevance to chapter context.",
-        "An example where Life Processes inference is memorised but not applied logically.",
-        "An example where respiration is stated without evidence."
+        "An example where Life Processes inference is used without relevance to chapter context.",
+        "An example where nutrition is memorised but not applied logically.",
+        "An example where Life Processes is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Life Processes\": \"excretion works without constraints.\"",
       "correct_answer": "Excretion works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Life Processes Application removes the need for all constraints in every case.",
-        "Respiration is always equivalent to excretion, regardless of context.",
-        "Transport In Plants is enough even when data contradict the claim."
+        "Respiration removes the need for all constraints in every case.",
+        "Nutrition is always equivalent to excretion, regardless of context.",
+        "Life Processes Inference is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Life Processes\", which mismatch is incorrect?",
       "correct_answer": "Life Processes Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Excretion - applied without confirming assumptions.",
-        "Life Processes Application - interpreted against contradictory data.",
-        "Respiration - concluded before checking consistency."
+        "Nutrition - applied without confirming assumptions.",
+        "Life Processes - interpreted against contradictory data.",
+        "Life Processes Inference - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Life Processes inference in \"Life Processes\"?",
       "correct_answer": "The inference that links Life Processes inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Life Processes framework without checking relevance.",
-        "An inference that cites Life Processes but skips logical steps.",
-        "An inference that repeats Life Processes application without interpretation."
+        "An inference that substitutes excretion without checking relevance.",
+        "An inference that cites Life Processes application but skips logical steps.",
+        "An inference that repeats Life Processes without interpretation."
       ]
     },
     {

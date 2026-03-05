@@ -2,75 +2,51 @@
   "results": [
     {
       "subject": "BiPC",
-      "chapter": "Cell Structure and Biomolecules",
-      "slug": "cell-structure-and-biomolecules",
-      "file": "cell-structure-and-biomolecules.json"
+      "chapter": "Botany I (1st PUC)",
+      "slug": "botany-i-1st-puc",
+      "file": "botany-i-1st-puc.json"
     },
     {
       "subject": "BiPC",
-      "chapter": "Plant Physiology and Mineral Nutrition",
-      "slug": "plant-physiology-and-mineral-nutrition",
-      "file": "plant-physiology-and-mineral-nutrition.json"
+      "chapter": "Zoology I (1st PUC)",
+      "slug": "zoology-i-1st-puc",
+      "file": "zoology-i-1st-puc.json"
     },
     {
       "subject": "BiPC",
-      "chapter": "Reproduction in Flowering Plants",
-      "slug": "reproduction-in-flowering-plants",
-      "file": "reproduction-in-flowering-plants.json"
+      "chapter": "Physics I (1st PUC)",
+      "slug": "physics-i-1st-puc",
+      "file": "physics-i-1st-puc.json"
     },
     {
       "subject": "BiPC",
-      "chapter": "Genetics and Evolution",
-      "slug": "genetics-and-evolution",
-      "file": "genetics-and-evolution.json"
+      "chapter": "Chemistry I (1st PUC)",
+      "slug": "chemistry-i-1st-puc",
+      "file": "chemistry-i-1st-puc.json"
     },
     {
       "subject": "BiPC",
-      "chapter": "Diversity of Living Organisms",
-      "slug": "diversity-of-living-organisms",
-      "file": "diversity-of-living-organisms.json"
+      "chapter": "Botany II (2nd PUC)",
+      "slug": "botany-ii-2nd-puc",
+      "file": "botany-ii-2nd-puc.json"
     },
     {
       "subject": "BiPC",
-      "chapter": "Human Physiology: Digestion, Respiration and Circulation",
-      "slug": "human-physiology-digestion-respiration-and-circulation",
-      "file": "human-physiology-digestion-respiration-and-circulation.json"
+      "chapter": "Zoology II (2nd PUC)",
+      "slug": "zoology-ii-2nd-puc",
+      "file": "zoology-ii-2nd-puc.json"
     },
     {
       "subject": "BiPC",
-      "chapter": "Neural Control, Endocrine System and Human Reproduction",
-      "slug": "neural-control-endocrine-system-and-human-reproduction",
-      "file": "neural-control-endocrine-system-and-human-reproduction.json"
+      "chapter": "Physics II (2nd PUC)",
+      "slug": "physics-ii-2nd-puc",
+      "file": "physics-ii-2nd-puc.json"
     },
     {
       "subject": "BiPC",
-      "chapter": "Ecology, Environment and Biodiversity",
-      "slug": "ecology-environment-and-biodiversity",
-      "file": "ecology-environment-and-biodiversity.json"
-    },
-    {
-      "subject": "BiPC",
-      "chapter": "Atomic Structure and Chemical Bonding",
-      "slug": "atomic-structure-and-chemical-bonding",
-      "file": "atomic-structure-and-chemical-bonding.json"
-    },
-    {
-      "subject": "BiPC",
-      "chapter": "Thermodynamics, Equilibrium and Redox Reactions",
-      "slug": "thermodynamics-equilibrium-and-redox-reactions",
-      "file": "thermodynamics-equilibrium-and-redox-reactions.json"
-    },
-    {
-      "subject": "BiPC",
-      "chapter": "Organic Chemistry: Hydrocarbons and Biomolecules",
-      "slug": "organic-chemistry-hydrocarbons-and-biomolecules",
-      "file": "organic-chemistry-hydrocarbons-and-biomolecules.json"
-    },
-    {
-      "subject": "BiPC",
-      "chapter": "Coordination Compounds, Polymers and Everyday Chemistry",
-      "slug": "coordination-compounds-polymers-and-everyday-chemistry",
-      "file": "coordination-compounds-polymers-and-everyday-chemistry.json"
+      "chapter": "Chemistry II (2nd PUC)",
+      "slug": "chemistry-ii-2nd-puc",
+      "file": "chemistry-ii-2nd-puc.json"
     }
   ]
 }

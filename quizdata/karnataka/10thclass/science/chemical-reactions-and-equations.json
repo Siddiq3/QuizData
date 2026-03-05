@@ -7,8 +7,8 @@
       "question": "In \"Chemical Reactions and Equations\", which statement is most accurate about reaction types?",
       "correct_answer": "Reaction Types is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Oxidation can replace all chapter logic without assumptions.",
-        "Chemical Reactions And Equations Application is valid only if core conditions are ignored.",
+        "Chemical Reactions And Equations Framework can replace all chapter logic without assumptions.",
+        "Chemical Reactions And Equations Inference is valid only if core conditions are ignored.",
         "Balancing Equations is a memory cue, not a defensible explanation."
       ]
     },
@@ -19,8 +19,8 @@
       "question": "A learner applies balancing equations in a new problem from \"Chemical Reactions and Equations\". What is the best first step?",
       "correct_answer": "Define conditions, apply balancing equations stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from reduction and skip checking constraints.",
-        "Use Chemical Reactions and Equations inference as a shortcut and avoid interpretation.",
+        "Start from Chemical Reactions and Equations framework and skip checking constraints.",
+        "Use reduction as a shortcut and avoid interpretation.",
         "Pick reaction types by intuition and finalise without verification."
       ]
     },
@@ -32,8 +32,8 @@
       "correct_answer": "An example where oxidation is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
         "An example where reduction is used without relevance to chapter context.",
-        "An example where Chemical Reactions and Equations inference is memorised but not applied logically.",
-        "An example where Chemical Reactions and Equations is stated without evidence."
+        "An example where reaction types is memorised but not applied logically.",
+        "An example where Chemical Reactions and Equations framework is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Chemical Reactions and Equations\": \"reduction works without constraints.\"",
       "correct_answer": "Reduction works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Oxidation removes the need for all constraints in every case.",
+        "Chemical Reactions And Equations removes the need for all constraints in every case.",
         "Balancing Equations is always equivalent to reduction, regardless of context.",
-        "Chemical Reactions And Equations Application is enough even when data contradict the claim."
+        "Reaction Types is enough even when data contradict the claim."
       ]
     },
     {
@@ -68,8 +68,8 @@
       "correct_answer": "Chemical Reactions And Equations Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
         "Reaction Types - applied without confirming assumptions.",
-        "Reduction - interpreted against contradictory data.",
-        "Chemical Reactions And Equations Inference - concluded before checking consistency."
+        "Oxidation - interpreted against contradictory data.",
+        "Reduction - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Chemical Reactions and Equations inference in \"Chemical Reactions and Equations\"?",
       "correct_answer": "The inference that links Chemical Reactions and Equations inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes reaction types without checking relevance.",
-        "An inference that cites oxidation but skips logical steps.",
-        "An inference that repeats reduction without interpretation."
+        "An inference that substitutes oxidation without checking relevance.",
+        "An inference that cites Chemical Reactions and Equations framework but skips logical steps.",
+        "An inference that repeats Chemical Reactions and Equations without interpretation."
       ]
     },
     {

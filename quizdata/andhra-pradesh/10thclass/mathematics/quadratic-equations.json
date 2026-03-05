@@ -4,6 +4,174 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (10)x + (21) = 0 are α and β, find α+β.",
+      "correct_answer": "-10",
+      "incorrect_answers": [
+        "21",
+        "4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-2)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "0",
+        "-2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-10)x + (24) = 0 are α and β, find α+β.",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "24",
+        "2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-1)x + (-30) = 0 are α and β, find α+β.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "-30",
+        "11",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (10)x + (24) = 0 are α and β, find α+β.",
+      "correct_answer": "-10",
+      "incorrect_answers": [
+        "24",
+        "2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (5)x + (6) = 0 are α and β, find α+β.",
+      "correct_answer": "-5",
+      "incorrect_answers": [
+        "6",
+        "1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-4)x + (-12) = 0 are α and β, find α+β.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "-12",
+        "-8",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-8)x + (15) = 0 are α and β, find α+β.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "15",
+        "-2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (3)x + (2) = 0 are α and β, find α+β.",
+      "correct_answer": "-3",
+      "incorrect_answers": [
+        "2",
+        "-1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-3)x + (-10) = 0 are α and β, find α+β.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "-10",
+        "-7",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (1)x + (-12) = 0 are α and β, find α+β.",
+      "correct_answer": "-1",
+      "incorrect_answers": [
+        "-12",
+        "-7",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (9)x + (14) = 0 are α and β, find α+β.",
+      "correct_answer": "-9",
+      "incorrect_answers": [
+        "14",
+        "5",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (6)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "-6",
+      "incorrect_answers": [
+        "0",
+        "6",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-11)x + (28) = 0 are α and β, find α+β.",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "28",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
       "question": "If roots of x^2 + (-4)x + (4) = 0 are α and β, find α+β.",
       "correct_answer": "4",
       "incorrect_answers": [
@@ -16,11 +184,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-6)x + (-7) = 0 are α and β, find α+β.",
-      "correct_answer": "6",
+      "question": "If roots of x^2 + (-9)x + (20) = 0 are α and β, find α+β.",
+      "correct_answer": "9",
       "incorrect_answers": [
-        "-7",
-        "-8",
+        "20",
+        "-1",
         "Distractor 3"
       ]
     },
@@ -28,11 +196,35 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (8)x + (16) = 0 are α and β, find α+β.",
-      "correct_answer": "-8",
+      "question": "If roots of x^2 + (-5)x + (4) = 0 are α and β, find α+β.",
+      "correct_answer": "5",
       "incorrect_answers": [
-        "16",
+        "4",
+        "-3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (2)x + (-35) = 0 are α and β, find α+β.",
+      "correct_answer": "-2",
+      "incorrect_answers": [
+        "-35",
+        "12",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-3)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "3",
+      "incorrect_answers": [
         "0",
+        "-3",
         "Distractor 3"
       ]
     },
@@ -40,34 +232,10 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-8)x + (15) = 0 are α and β, find α+β.",
-      "correct_answer": "8",
+      "question": "If roots of x^2 + (3)x + (-18) = 0 are α and β, find α+β.",
+      "correct_answer": "-3",
       "incorrect_answers": [
-        "15",
-        "2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-4)x + (3) = 0 are α and β, find α+β.",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "3",
-        "2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (5)x + (-14) = 0 are α and β, find α+β.",
-      "correct_answer": "-5",
-      "incorrect_answers": [
-        "-14",
+        "-18",
         "-9",
         "Distractor 3"
       ]
@@ -76,10 +244,130 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-12)x + (35) = 0 are α and β, find α+β.",
-      "correct_answer": "12",
+      "question": "If roots of x^2 + (2)x + (-24) = 0 are α and β, find α+β.",
+      "correct_answer": "-2",
       "incorrect_answers": [
-        "35",
+        "-24",
+        "10",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (6)x + (8) = 0 are α and β, find α+β.",
+      "correct_answer": "-6",
+      "incorrect_answers": [
+        "8",
+        "2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (11)x + (28) = 0 are α and β, find α+β.",
+      "correct_answer": "-11",
+      "incorrect_answers": [
+        "28",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (7)x + (6) = 0 are α and β, find α+β.",
+      "correct_answer": "-7",
+      "incorrect_answers": [
+        "6",
+        "-5",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-2)x + (-3) = 0 are α and β, find α+β.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "-3",
+        "4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (4)x + (-12) = 0 are α and β, find α+β.",
+      "correct_answer": "-4",
+      "incorrect_answers": [
+        "-12",
+        "-8",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (0)x + (-49) = 0 are α and β, find α+β.",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "-49",
+        "14",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-1)x + (-20) = 0 are α and β, find α+β.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "-20",
+        "-9",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (4)x + (4) = 0 are α and β, find α+β.",
+      "correct_answer": "-4",
+      "incorrect_answers": [
+        "4",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (5)x + (4) = 0 are α and β, find α+β.",
+      "correct_answer": "-5",
+      "incorrect_answers": [
+        "4",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (4)x + (3) = 0 are α and β, find α+β.",
+      "correct_answer": "-4",
+      "incorrect_answers": [
+        "3",
         "-2",
         "Distractor 3"
       ]
@@ -88,34 +376,10 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (0)x + (-25) = 0 are α and β, find α+β.",
-      "correct_answer": "0",
+      "question": "If roots of x^2 + (7)x + (12) = 0 are α and β, find α+β.",
+      "correct_answer": "-7",
       "incorrect_answers": [
-        "-25",
-        "-10",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (3)x + (-10) = 0 are α and β, find α+β.",
-      "correct_answer": "-3",
-      "incorrect_answers": [
-        "-10",
-        "-7",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-11)x + (30) = 0 are α and β, find α+β.",
-      "correct_answer": "11",
-      "incorrect_answers": [
-        "30",
+        "12",
         "1",
         "Distractor 3"
       ]
@@ -136,498 +400,6 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-5)x + (-14) = 0 are α and β, find α+β.",
-      "correct_answer": "5",
-      "incorrect_answers": [
-        "-14",
-        "9",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-13)x + (42) = 0 are α and β, find α+β.",
-      "correct_answer": "13",
-      "incorrect_answers": [
-        "42",
-        "-1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-5)x + (6) = 0 are α and β, find α+β.",
-      "correct_answer": "5",
-      "incorrect_answers": [
-        "6",
-        "-1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (8)x + (7) = 0 are α and β, find α+β.",
-      "correct_answer": "-8",
-      "incorrect_answers": [
-        "7",
-        "6",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-1)x + (-30) = 0 are α and β, find α+β.",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "-30",
-        "11",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-4)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "0",
-        "-4",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-6)x + (8) = 0 are α and β, find α+β.",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "8",
-        "-2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (1)x + (-12) = 0 are α and β, find α+β.",
-      "correct_answer": "-1",
-      "incorrect_answers": [
-        "-12",
-        "7",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-1)x + (-20) = 0 are α and β, find α+β.",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "-20",
-        "-9",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (1)x + (-42) = 0 are α and β, find α+β.",
-      "correct_answer": "-1",
-      "incorrect_answers": [
-        "-42",
-        "-13",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (6)x + (-7) = 0 are α and β, find α+β.",
-      "correct_answer": "-6",
-      "incorrect_answers": [
-        "-7",
-        "-8",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-5)x + (4) = 0 are α and β, find α+β.",
-      "correct_answer": "5",
-      "incorrect_answers": [
-        "4",
-        "3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (1)x + (-2) = 0 are α and β, find α+β.",
-      "correct_answer": "-1",
-      "incorrect_answers": [
-        "-2",
-        "-3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (6)x + (8) = 0 are α and β, find α+β.",
-      "correct_answer": "-6",
-      "incorrect_answers": [
-        "8",
-        "-2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (5)x + (6) = 0 are α and β, find α+β.",
-      "correct_answer": "-5",
-      "incorrect_answers": [
-        "6",
-        "1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (3)x + (-18) = 0 are α and β, find α+β.",
-      "correct_answer": "-3",
-      "incorrect_answers": [
-        "-18",
-        "-9",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-1)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "0",
-        "-1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (2)x + (-3) = 0 are α and β, find α+β.",
-      "correct_answer": "-2",
-      "incorrect_answers": [
-        "-3",
-        "-4",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (9)x + (14) = 0 are α and β, find α+β.",
-      "correct_answer": "-9",
-      "incorrect_answers": [
-        "14",
-        "-5",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (3)x + (2) = 0 are α and β, find α+β.",
-      "correct_answer": "-3",
-      "incorrect_answers": [
-        "2",
-        "-1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-7)x + (12) = 0 are α and β, find α+β.",
-      "correct_answer": "7",
-      "incorrect_answers": [
-        "12",
-        "1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (3)x + (-4) = 0 are α and β, find α+β.",
-      "correct_answer": "-3",
-      "incorrect_answers": [
-        "-4",
-        "-5",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (12)x + (35) = 0 are α and β, find α+β.",
-      "correct_answer": "-12",
-      "incorrect_answers": [
-        "35",
-        "-2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-2)x + (-24) = 0 are α and β, find α+β.",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "-24",
-        "10",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (14)x + (49) = 0 are α and β, find α+β.",
-      "correct_answer": "-14",
-      "incorrect_answers": [
-        "49",
-        "0",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-8)x + (12) = 0 are α and β, find α+β.",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "12",
-        "4",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (9)x + (18) = 0 are α and β, find α+β.",
-      "correct_answer": "-9",
-      "incorrect_answers": [
-        "18",
-        "-3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (0)x + (-49) = 0 are α and β, find α+β.",
-      "correct_answer": "0",
-      "incorrect_answers": [
-        "-49",
-        "14",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (7)x + (10) = 0 are α and β, find α+β.",
-      "correct_answer": "-7",
-      "incorrect_answers": [
-        "10",
-        "-3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (7)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "-7",
-      "incorrect_answers": [
-        "0",
-        "Distractor 2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-10)x + (24) = 0 are α and β, find α+β.",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "24",
-        "-2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-6)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "0",
-        "-6",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (4)x + (4) = 0 are α and β, find α+β.",
-      "correct_answer": "-4",
-      "incorrect_answers": [
-        "4",
-        "0",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (2)x + (-8) = 0 are α and β, find α+β.",
-      "correct_answer": "-2",
-      "incorrect_answers": [
-        "-8",
-        "-6",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-9)x + (14) = 0 are α and β, find α+β.",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "14",
-        "5",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (11)x + (30) = 0 are α and β, find α+β.",
-      "correct_answer": "-11",
-      "incorrect_answers": [
-        "30",
-        "-1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-3)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "3",
-      "incorrect_answers": [
-        "0",
-        "-3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-2)x + (-35) = 0 are α and β, find α+β.",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "-35",
-        "12",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-7)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "7",
-      "incorrect_answers": [
-        "0",
-        "-7",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-4)x + (-5) = 0 are α and β, find α+β.",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "-5",
-        "-6",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (0)x + (-9) = 0 are α and β, find α+β.",
-      "correct_answer": "0",
-      "incorrect_answers": [
-        "-9",
-        "-6",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
       "question": "If roots of x^2 + (-6)x + (9) = 0 are α and β, find α+β.",
       "correct_answer": "6",
       "incorrect_answers": [
@@ -640,191 +412,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-4)x + (-21) = 0 are α and β, find α+β.",
-      "correct_answer": "4",
+      "question": "If roots of x^2 + (-8)x + (7) = 0 are α and β, find α+β.",
+      "correct_answer": "8",
       "incorrect_answers": [
-        "-21",
-        "10",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (10)x + (21) = 0 are α and β, find α+β.",
-      "correct_answer": "-10",
-      "incorrect_answers": [
-        "21",
-        "-4",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-1)x + (-12) = 0 are α and β, find α+β.",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "-12",
         "7",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-9)x + (18) = 0 are α and β, find α+β.",
-      "correct_answer": "9",
-      "incorrect_answers": [
-        "18",
-        "3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-6)x + (5) = 0 are α and β, find α+β.",
-      "correct_answer": "6",
-      "incorrect_answers": [
-        "5",
-        "-4",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (6)x + (9) = 0 are α and β, find α+β.",
-      "correct_answer": "-6",
-      "incorrect_answers": [
-        "9",
-        "0",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (4)x + (-21) = 0 are α and β, find α+β.",
-      "correct_answer": "-4",
-      "incorrect_answers": [
-        "-21",
-        "-10",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-5)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "5",
-      "incorrect_answers": [
-        "0",
-        "Distractor 2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-10)x + (21) = 0 are α and β, find α+β.",
-      "correct_answer": "10",
-      "incorrect_answers": [
-        "21",
-        "-4",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (0)x + (-4) = 0 are α and β, find α+β.",
-      "correct_answer": "0",
-      "incorrect_answers": [
-        "-4",
-        "Distractor 2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (0)x + (-16) = 0 are α and β, find α+β.",
-      "correct_answer": "0",
-      "incorrect_answers": [
-        "-16",
-        "8",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (12)x + (36) = 0 are α and β, find α+β.",
-      "correct_answer": "-12",
-      "incorrect_answers": [
-        "36",
-        "0",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-2)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "0",
-        "Distractor 2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (8)x + (12) = 0 are α and β, find α+β.",
-      "correct_answer": "-8",
-      "incorrect_answers": [
-        "12",
-        "-4",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (6)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "-6",
-      "incorrect_answers": [
-        "0",
-        "Distractor 2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (0)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "0",
-      "incorrect_answers": [
-        "Distractor 1",
-        "Distractor 2",
+        "6",
         "Distractor 3"
       ]
     },
@@ -844,34 +436,10 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (4)x + (3) = 0 are α and β, find α+β.",
-      "correct_answer": "-4",
+      "question": "If roots of x^2 + (-6)x + (5) = 0 are α and β, find α+β.",
+      "correct_answer": "6",
       "incorrect_answers": [
-        "3",
-        "-2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-11)x + (28) = 0 are α and β, find α+β.",
-      "correct_answer": "11",
-      "incorrect_answers": [
-        "28",
-        "-3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-2)x + (-3) = 0 are α and β, find α+β.",
-      "correct_answer": "2",
-      "incorrect_answers": [
-        "-3",
+        "5",
         "-4",
         "Distractor 3"
       ]
@@ -880,11 +448,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (9)x + (20) = 0 are α and β, find α+β.",
-      "correct_answer": "-9",
+      "question": "If roots of x^2 + (-5)x + (-6) = 0 are α and β, find α+β.",
+      "correct_answer": "5",
       "incorrect_answers": [
-        "20",
-        "1",
+        "-6",
+        "7",
         "Distractor 3"
       ]
     },
@@ -892,11 +460,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-2)x + (-15) = 0 are α and β, find α+β.",
-      "correct_answer": "2",
+      "question": "If roots of x^2 + (13)x + (42) = 0 are α and β, find α+β.",
+      "correct_answer": "-13",
       "incorrect_answers": [
-        "-15",
-        "8",
+        "42",
+        "-1",
         "Distractor 3"
       ]
     },
@@ -904,58 +472,10 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-2)x + (-8) = 0 are α and β, find α+β.",
-      "correct_answer": "2",
+      "question": "If roots of x^2 + (3)x + (-4) = 0 are α and β, find α+β.",
+      "correct_answer": "-3",
       "incorrect_answers": [
-        "-8",
-        "6",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (1)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "-1",
-      "incorrect_answers": [
-        "0",
-        "Distractor 2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-1)x + (-42) = 0 are α and β, find α+β.",
-      "correct_answer": "1",
-      "incorrect_answers": [
-        "-42",
-        "13",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-4)x + (-12) = 0 are α and β, find α+β.",
-      "correct_answer": "4",
-      "incorrect_answers": [
-        "-12",
-        "-8",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-7)x + (6) = 0 are α and β, find α+β.",
-      "correct_answer": "7",
-      "incorrect_answers": [
-        "6",
+        "-4",
         "-5",
         "Distractor 3"
       ]
@@ -976,11 +496,107 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (5)x + (-6) = 0 are α and β, find α+β.",
+      "correct_answer": "-5",
+      "incorrect_answers": [
+        "-6",
+        "7",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-1)x + (-6) = 0 are α and β, find α+β.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "-6",
+        "-5",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (3)x + (-10) = 0 are α and β, find α+β.",
+      "correct_answer": "-3",
+      "incorrect_answers": [
+        "-10",
+        "7",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (8)x + (7) = 0 are α and β, find α+β.",
+      "correct_answer": "-8",
+      "incorrect_answers": [
+        "7",
+        "-6",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (3)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "-3",
+      "incorrect_answers": [
+        "0",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-9)x + (18) = 0 are α and β, find α+β.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "18",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (12)x + (35) = 0 are α and β, find α+β.",
+      "correct_answer": "-12",
+      "incorrect_answers": [
+        "35",
+        "2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
       "question": "If roots of x^2 + (6)x + (5) = 0 are α and β, find α+β.",
       "correct_answer": "-6",
       "incorrect_answers": [
         "5",
-        "-4",
+        "4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-4)x + (-5) = 0 are α and β, find α+β.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "-5",
+        "6",
         "Distractor 3"
       ]
     },
@@ -992,6 +608,90 @@
       "correct_answer": "1",
       "incorrect_answers": [
         "-2",
+        "3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-2)x + (-35) = 0 are α and β, find α+β.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "-35",
+        "12",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-10)x + (25) = 0 are α and β, find α+β.",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "25",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (6)x + (-7) = 0 are α and β, find α+β.",
+      "correct_answer": "-6",
+      "incorrect_answers": [
+        "-7",
+        "8",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (0)x + (-1) = 0 are α and β, find α+β.",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "-1",
+        "-2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (9)x + (20) = 0 are α and β, find α+β.",
+      "correct_answer": "-9",
+      "incorrect_answers": [
+        "20",
+        "1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-4)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "0",
+        "-4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (7)x + (10) = 0 are α and β, find α+β.",
+      "correct_answer": "-7",
+      "incorrect_answers": [
+        "10",
         "-3",
         "Distractor 3"
       ]
@@ -1000,11 +700,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (4)x + (0) = 0 are α and β, find α+β.",
-      "correct_answer": "-4",
+      "question": "If roots of x^2 + (9)x + (18) = 0 are α and β, find α+β.",
+      "correct_answer": "-9",
       "incorrect_answers": [
-        "0",
-        "4",
+        "18",
+        "3",
         "Distractor 3"
       ]
     },
@@ -1012,11 +712,35 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (1)x + (-20) = 0 are α and β, find α+β.",
-      "correct_answer": "-1",
+      "question": "If roots of x^2 + (14)x + (49) = 0 are α and β, find α+β.",
+      "correct_answer": "-14",
       "incorrect_answers": [
-        "-20",
-        "-9",
+        "49",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-6)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "0",
+        "Distractor 2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-11)x + (30) = 0 are α and β, find α+β.",
+      "correct_answer": "11",
+      "incorrect_answers": [
+        "30",
+        "1",
         "Distractor 3"
       ]
     },
@@ -1036,8 +760,152 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-3)x + (-28) = 0 are α and β, find α+β.",
+      "question": "If roots of x^2 + (1)x + (-42) = 0 are α and β, find α+β.",
+      "correct_answer": "-1",
+      "incorrect_answers": [
+        "-42",
+        "13",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-7)x + (10) = 0 are α and β, find α+β.",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "10",
+        "-3",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (0)x + (-16) = 0 are α and β, find α+β.",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "-16",
+        "8",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-8)x + (12) = 0 are α and β, find α+β.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "12",
+        "4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-1)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "0",
+        "-1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (2)x + (-8) = 0 are α and β, find α+β.",
+      "correct_answer": "-2",
+      "incorrect_answers": [
+        "-8",
+        "-6",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (11)x + (30) = 0 are α and β, find α+β.",
+      "correct_answer": "-11",
+      "incorrect_answers": [
+        "30",
+        "-1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-3)x + (2) = 0 are α and β, find α+β.",
       "correct_answer": "3",
+      "incorrect_answers": [
+        "2",
+        "-1",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (1)x + (-30) = 0 are α and β, find α+β.",
+      "correct_answer": "-1",
+      "incorrect_answers": [
+        "-30",
+        "-11",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-6)x + (-7) = 0 are α and β, find α+β.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "-7",
+        "-8",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (7)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "-7",
+      "incorrect_answers": [
+        "0",
+        "Distractor 2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-9)x + (14) = 0 are α and β, find α+β.",
+      "correct_answer": "9",
+      "incorrect_answers": [
+        "14",
+        "-5",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (3)x + (-28) = 0 are α and β, find α+β.",
+      "correct_answer": "-3",
       "incorrect_answers": [
         "-28",
         "-11",
@@ -1048,95 +916,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-9)x + (20) = 0 are α and β, find α+β.",
-      "correct_answer": "9",
+      "question": "If roots of x^2 + (6)x + (9) = 0 are α and β, find α+β.",
+      "correct_answer": "-6",
       "incorrect_answers": [
-        "20",
-        "-1",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (7)x + (6) = 0 are α and β, find α+β.",
-      "correct_answer": "-7",
-      "incorrect_answers": [
-        "6",
-        "5",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (10)x + (24) = 0 are α and β, find α+β.",
-      "correct_answer": "-10",
-      "incorrect_answers": [
-        "24",
-        "-2",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (2)x + (-35) = 0 are α and β, find α+β.",
-      "correct_answer": "-2",
-      "incorrect_answers": [
-        "-35",
-        "-12",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (4)x + (-12) = 0 are α and β, find α+β.",
-      "correct_answer": "-4",
-      "incorrect_answers": [
-        "-12",
-        "-8",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (11)x + (28) = 0 are α and β, find α+β.",
-      "correct_answer": "-11",
-      "incorrect_answers": [
-        "28",
-        "3",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-8)x + (7) = 0 are α and β, find α+β.",
-      "correct_answer": "8",
-      "incorrect_answers": [
-        "7",
-        "6",
-        "Distractor 3"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (2)x + (-15) = 0 are α and β, find α+β.",
-      "correct_answer": "-2",
-      "incorrect_answers": [
-        "-15",
-        "8",
+        "9",
+        "0",
         "Distractor 3"
       ]
     },
@@ -1156,10 +940,214 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-3)x + (-10) = 0 are α and β, find α+β.",
+      "question": "If roots of x^2 + (-6)x + (8) = 0 are α and β, find α+β.",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "8",
+        "2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (1)x + (-20) = 0 are α and β, find α+β.",
+      "correct_answer": "-1",
+      "incorrect_answers": [
+        "-20",
+        "-9",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (10)x + (25) = 0 are α and β, find α+β.",
+      "correct_answer": "-10",
+      "incorrect_answers": [
+        "25",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (2)x + (-3) = 0 are α and β, find α+β.",
+      "correct_answer": "-2",
+      "incorrect_answers": [
+        "-3",
+        "-4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-2)x + (-8) = 0 are α and β, find α+β.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "-8",
+        "6",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-8)x + (16) = 0 are α and β, find α+β.",
+      "correct_answer": "8",
+      "incorrect_answers": [
+        "16",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-3)x + (-28) = 0 are α and β, find α+β.",
       "correct_answer": "3",
       "incorrect_answers": [
-        "-10",
+        "-28",
+        "-11",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-3)x + (-18) = 0 are α and β, find α+β.",
+      "correct_answer": "3",
+      "incorrect_answers": [
+        "-18",
+        "-9",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-10)x + (21) = 0 are α and β, find α+β.",
+      "correct_answer": "10",
+      "incorrect_answers": [
+        "21",
+        "-4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (5)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "-5",
+      "incorrect_answers": [
+        "0",
+        "Distractor 2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (0)x + (-9) = 0 are α and β, find α+β.",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "-9",
+        "6",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (0)x + (0) = 0 are α and β, find α+β.",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "Distractor 1",
+        "Distractor 2",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-14)x + (49) = 0 are α and β, find α+β.",
+      "correct_answer": "14",
+      "incorrect_answers": [
+        "49",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-2)x + (1) = 0 are α and β, find α+β.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "1",
+        "0",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (5)x + (-14) = 0 are α and β, find α+β.",
+      "correct_answer": "-5",
+      "incorrect_answers": [
+        "-14",
+        "-9",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (0)x + (-4) = 0 are α and β, find α+β.",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "-4",
+        "4",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-2)x + (-15) = 0 are α and β, find α+β.",
+      "correct_answer": "2",
+      "incorrect_answers": [
+        "-15",
+        "8",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-1)x + (-12) = 0 are α and β, find α+β.",
+      "correct_answer": "1",
+      "incorrect_answers": [
+        "-12",
         "7",
         "Distractor 3"
       ]
@@ -1168,11 +1156,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (2)x + (-24) = 0 are α and β, find α+β.",
+      "question": "If roots of x^2 + (2)x + (-15) = 0 are α and β, find α+β.",
       "correct_answer": "-2",
       "incorrect_answers": [
-        "-24",
-        "10",
+        "-15",
+        "8",
         "Distractor 3"
       ]
     },
@@ -1180,11 +1168,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (1)x + (-30) = 0 are α and β, find α+β.",
-      "correct_answer": "-1",
+      "question": "If roots of x^2 + (-5)x + (6) = 0 are α and β, find α+β.",
+      "correct_answer": "5",
       "incorrect_answers": [
-        "-30",
-        "11",
+        "6",
+        "-1",
         "Distractor 3"
       ]
     },
@@ -1192,11 +1180,23 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Quadratic Equations",
-      "question": "If roots of x^2 + (-12)x + (36) = 0 are α and β, find α+β.",
-      "correct_answer": "12",
+      "question": "If roots of x^2 + (0)x + (-25) = 0 are α and β, find α+β.",
+      "correct_answer": "0",
       "incorrect_answers": [
-        "36",
-        "0",
+        "-25",
+        "-10",
+        "Distractor 3"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Quadratic Equations",
+      "question": "If roots of x^2 + (-13)x + (42) = 0 are α and β, find α+β.",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "42",
+        "1",
         "Distractor 3"
       ]
     }

@@ -4,91 +4,7 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 12 cm at point P. Angle between radius and tangent at P is:",
-      "correct_answer": "90°",
-      "incorrect_answers": [
-        "45°",
-        "60°",
-        "120°"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 10 cm at point P. Angle between radius and tangent at P is:",
-      "correct_answer": "90°",
-      "incorrect_answers": [
-        "45°",
-        "60°",
-        "120°"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 7 cm at point P. Angle between radius and tangent at P is:",
-      "correct_answer": "90°",
-      "incorrect_answers": [
-        "45°",
-        "60°",
-        "120°"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 9 cm at point P. Angle between radius and tangent at P is:",
-      "correct_answer": "90°",
-      "incorrect_answers": [
-        "45°",
-        "60°",
-        "120°"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 6 cm at point P. Angle between radius and tangent at P is:",
-      "correct_answer": "90°",
-      "incorrect_answers": [
-        "45°",
-        "60°",
-        "120°"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 14 cm at point P. Angle between radius and tangent at P is:",
-      "correct_answer": "90°",
-      "incorrect_answers": [
-        "45°",
-        "60°",
-        "120°"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 5 cm at point P. Angle between radius and tangent at P is:",
-      "correct_answer": "90°",
-      "incorrect_answers": [
-        "45°",
-        "60°",
-        "120°"
-      ]
-    },
-    {
-      "name": "Mathematics",
-      "subject": "Mathematics",
-      "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 4 cm at point P. Angle between radius and tangent at P is:",
+      "question": "A tangent is drawn to a circle of radius 11 cm at point P. Angle between radius and tangent at P is:",
       "correct_answer": "90°",
       "incorrect_answers": [
         "45°",
@@ -112,7 +28,31 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 11 cm at point P. Angle between radius and tangent at P is:",
+      "question": "A tangent is drawn to a circle of radius 12 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
+      "incorrect_answers": [
+        "45°",
+        "60°",
+        "120°"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "A tangent is drawn to a circle of radius 7 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
+      "incorrect_answers": [
+        "45°",
+        "60°",
+        "120°"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "A tangent is drawn to a circle of radius 13 cm at point P. Angle between radius and tangent at P is:",
       "correct_answer": "90°",
       "incorrect_answers": [
         "45°",
@@ -136,7 +76,67 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Tangents and Secants to a Circle",
-      "question": "A tangent is drawn to a circle of radius 13 cm at point P. Angle between radius and tangent at P is:",
+      "question": "A tangent is drawn to a circle of radius 10 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
+      "incorrect_answers": [
+        "45°",
+        "60°",
+        "120°"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "A tangent is drawn to a circle of radius 4 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
+      "incorrect_answers": [
+        "45°",
+        "60°",
+        "120°"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "A tangent is drawn to a circle of radius 9 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
+      "incorrect_answers": [
+        "45°",
+        "60°",
+        "120°"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "A tangent is drawn to a circle of radius 14 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
+      "incorrect_answers": [
+        "45°",
+        "60°",
+        "120°"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "A tangent is drawn to a circle of radius 6 cm at point P. Angle between radius and tangent at P is:",
+      "correct_answer": "90°",
+      "incorrect_answers": [
+        "45°",
+        "60°",
+        "120°"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "subject": "Mathematics",
+      "chapter": "Tangents and Secants to a Circle",
+      "question": "A tangent is drawn to a circle of radius 5 cm at point P. Angle between radius and tangent at P is:",
       "correct_answer": "90°",
       "incorrect_answers": [
         "45°",

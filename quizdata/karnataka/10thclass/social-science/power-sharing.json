@@ -7,9 +7,9 @@
       "question": "In \"Power Sharing\", which statement is most accurate about scientific principle?",
       "correct_answer": "Scientific Principle is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Experimental Logic can replace all chapter logic without assumptions.",
-        "Power Sharing Application is valid only if core conditions are ignored.",
-        "Power Sharing is a memory cue, not a defensible explanation."
+        "Power Sharing can replace all chapter logic without assumptions.",
+        "Data Interpretation is valid only if core conditions are ignored.",
+        "Power Sharing Application is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -19,9 +19,9 @@
       "question": "A learner applies cause-effect relation in a new problem from \"Power Sharing\". What is the best first step?",
       "correct_answer": "Define conditions, apply cause-effect relation stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
-        "Start from Power Sharing inference and skip checking constraints.",
-        "Use Power Sharing as a shortcut and avoid interpretation.",
-        "Pick data interpretation by intuition and finalise without verification."
+        "Start from scientific principle and skip checking constraints.",
+        "Use Power Sharing framework as a shortcut and avoid interpretation.",
+        "Pick experimental logic by intuition and finalise without verification."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Power Sharing\": \"data interpretation works without constraints.\"",
       "correct_answer": "Data Interpretation works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Power Sharing removes the need for all constraints in every case.",
-        "Cause-Effect Relation is always equivalent to data interpretation, regardless of context.",
-        "Scientific Principle is enough even when data contradict the claim."
+        "Experimental Logic removes the need for all constraints in every case.",
+        "Scientific Principle is always equivalent to data interpretation, regardless of context.",
+        "Power Sharing Inference is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Power Sharing\", which mismatch is incorrect?",
       "correct_answer": "Power Sharing Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Cause-Effect Relation - applied without confirming assumptions.",
-        "Power Sharing - interpreted against contradictory data.",
-        "Power Sharing Application - concluded before checking consistency."
+        "Power Sharing Inference - applied without confirming assumptions.",
+        "Power Sharing Application - interpreted against contradictory data.",
+        "Data Interpretation - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Power Sharing inference in \"Power Sharing\"?",
       "correct_answer": "The inference that links Power Sharing inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes cause-effect relation without checking relevance.",
+        "An inference that substitutes Power Sharing without checking relevance.",
         "An inference that cites Power Sharing application but skips logical steps.",
-        "An inference that repeats Power Sharing without interpretation."
+        "An inference that repeats scientific principle without interpretation."
       ]
     },
     {

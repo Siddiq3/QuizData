@@ -4,11 +4,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "Find sin 30°.",
-      "correct_answer": "1/2",
+      "question": "Find sin 45°.",
+      "correct_answer": "1/√2",
       "incorrect_answers": [
         "√3/2",
-        "1/√2",
+        "1/2",
         "0"
       ]
     },
@@ -28,11 +28,11 @@
       "name": "Mathematics",
       "subject": "Mathematics",
       "chapter": "Trigonometry",
-      "question": "Find sin 45°.",
-      "correct_answer": "1/√2",
+      "question": "Find sin 30°.",
+      "correct_answer": "1/2",
       "incorrect_answers": [
         "√3/2",
-        "1/2",
+        "1/√2",
         "0"
       ]
     },

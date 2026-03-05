@@ -7,9 +7,9 @@
       "question": "In \"Manufacturing Industries\", which statement is most accurate about industrial location?",
       "correct_answer": "Industrial Location is central when assumptions are stated clearly and checked against context.",
       "incorrect_answers": [
-        "Manufacturing Industries can replace all chapter logic without assumptions.",
-        "Value Addition is valid only if core conditions are ignored.",
-        "Manufacturing Industries Framework is a memory cue, not a defensible explanation."
+        "Labour can replace all chapter logic without assumptions.",
+        "Manufacturing Industries Inference is valid only if core conditions are ignored.",
+        "Value Addition is a memory cue, not a defensible explanation."
       ]
     },
     {
@@ -20,8 +20,8 @@
       "correct_answer": "Define conditions, apply labour stepwise, and verify the conclusion with evidence.",
       "incorrect_answers": [
         "Start from Manufacturing Industries inference and skip checking constraints.",
-        "Use Manufacturing Industries application as a shortcut and avoid interpretation.",
-        "Pick Manufacturing Industries framework by intuition and finalise without verification."
+        "Use supply chain as a shortcut and avoid interpretation.",
+        "Pick Manufacturing Industries by intuition and finalise without verification."
       ]
     },
     {
@@ -31,9 +31,9 @@
       "question": "Which option shows a valid example of value addition in \"Manufacturing Industries\"?",
       "correct_answer": "An example where value addition is used with correct assumptions and justified reasoning.",
       "incorrect_answers": [
-        "An example where Manufacturing Industries framework is used without relevance to chapter context.",
+        "An example where industrial location is used without relevance to chapter context.",
         "An example where Manufacturing Industries is memorised but not applied logically.",
-        "An example where industrial location is stated without evidence."
+        "An example where supply chain is stated without evidence."
       ]
     },
     {
@@ -43,9 +43,9 @@
       "question": "Choose the most defensible correction for this claim in \"Manufacturing Industries\": \"supply chain works without constraints.\"",
       "correct_answer": "Supply Chain works only when chapter-specific constraints and definitions are satisfied.",
       "incorrect_answers": [
-        "Manufacturing Industries removes the need for all constraints in every case.",
-        "Value Addition is always equivalent to supply chain, regardless of context.",
-        "Manufacturing Industries Framework is enough even when data contradict the claim."
+        "Manufacturing Industries Framework removes the need for all constraints in every case.",
+        "Labour is always equivalent to supply chain, regardless of context.",
+        "Industrial Location is enough even when data contradict the claim."
       ]
     },
     {
@@ -67,9 +67,9 @@
       "question": "In \"Manufacturing Industries\", which mismatch is incorrect?",
       "correct_answer": "Manufacturing Industries Framework - applied with definitions, constraints, and evidence.",
       "incorrect_answers": [
-        "Manufacturing Industries Inference - applied without confirming assumptions.",
-        "Supply Chain - interpreted against contradictory data.",
-        "Manufacturing Industries - concluded before checking consistency."
+        "Manufacturing Industries - applied without confirming assumptions.",
+        "Manufacturing Industries Inference - interpreted against contradictory data.",
+        "Supply Chain - concluded before checking consistency."
       ]
     },
     {
@@ -91,9 +91,9 @@
       "question": "Which inference is most rigorous for Manufacturing Industries inference in \"Manufacturing Industries\"?",
       "correct_answer": "The inference that links Manufacturing Industries inference to evidence, limits, and justified conclusion.",
       "incorrect_answers": [
-        "An inference that substitutes Manufacturing Industries without checking relevance.",
-        "An inference that cites supply chain but skips logical steps.",
-        "An inference that repeats labour without interpretation."
+        "An inference that substitutes supply chain without checking relevance.",
+        "An inference that cites value addition but skips logical steps.",
+        "An inference that repeats industrial location without interpretation."
       ]
     },
     {
